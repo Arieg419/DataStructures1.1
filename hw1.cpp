@@ -7,6 +7,8 @@ using namespace std;
 
 class treeNode {
 	public:
+		int rowID;
+		int colID;
 		int ripeVal;
 		int fruitID;
 		class treeNode *left;
@@ -33,6 +35,65 @@ class tree {
         void preorder(treeNode *);
         void postorder(treeNode *);
 
+};
+
+int main() {
+	cout << "Good morning Sir. Would you like to start planting?" << endl;
+	cout << "Please plant your first seed." << endl;
+	 int choice, item;
+	    tree avl;
+	    while (1)
+	    {
+	        cout<<"\n---------------------"<<endl;
+	        cout<<"AVL Tree Implementation"<<endl;
+	        cout<<"\n---------------------"<<endl;
+	        cout<<"1.Insert Element into the tree"<<endl;
+	        cout<<"2.Display Balanced AVL Tree"<<endl;
+	        cout<<"3.InOrder traversal"<<endl;
+	        cout<<"4.PreOrder traversal"<<endl;
+	        cout<<"5.PostOrder traversal"<<endl;
+	        cout<<"6.Exit"<<endl;
+	        cout<<"Enter your Choice: ";
+	        cin>>choice;
+	        switch(choice)
+	        {
+	        case 1:
+	            cout<<"Enter value to be inserted: ";
+	            cin>>item;
+	            node = avl.insert(node, item);
+	            break;
+	        case 2:
+	            if (node == NULL)
+	            {
+	                cout<<"Tree is Empty"<<endl;
+	                continue;
+	            }
+	            cout<<"Balanced AVL Tree:"<<endl;
+	            avl.print(node, 1);
+	            break;
+	        case 3:
+	            cout<<"Inorder Traversal:"<<endl;
+	            avl.inorder(node);
+	            cout<<endl;
+	            break;
+	        case 4:
+	            cout<<"Preorder Traversal:"<<endl;
+	            avl.preorder(node);
+	            cout<<endl;
+	            break;
+	        case 5:
+	            cout<<"Postorder Traversal:"<<endl;
+	            avl.postorder(node);
+	            cout<<endl;
+	            break;
+	        case 6:
+	            return 0;
+	            break;
+	        default:
+	            cout<<"Wrong Choice"<<endl;
+	        }
+	    }
+	    return 0;
 }
 
 /*
@@ -129,12 +190,12 @@ treeNode* tree::insert(treeNode* newNode, int ripeness) {
 	}
 	
 	if (ripeness < newNode->ripeVal) {
-		newNode->left = insert(treeNode* newNode->left, ripeness);
+		newNode->left = insert(newNode->left, ripeness);
 		newNode = balance(newNode);
 	}
 
-	if (ripeness >= newNode.ripeVal) {
-		newNode->right = insert(treeNode* newNode->right, ripeness);
+	if (ripeness >= newNode->ripeVal) {
+		newNode->right = insert(newNode->right, ripeness);
 		newNode = balance(newNode); //after inserting newNode, must check bFactor.
 	}
 
@@ -146,7 +207,7 @@ Height difference function will calculate the height of the left and right subtr
 */
 
 treeNode* tree::balance(treeNode* nodeToCheck) {
-	int balanceFactor = heightDifference(nodeToCheck)
+	int balanceFactor = heightDifference(nodeToCheck);
 	if (balanceFactor >= 2) {
 		if(heightDifference(nodeToCheck->left) > 0) {
 			nodeToCheck = leftRotation(nodeToCheck);
@@ -178,13 +239,15 @@ void tree::print(treeNode* nodeToPrint, int level) {
 		cout << "\n";
 		if(nodeToPrint == node) {
 			cout<<"Root ->";
-			for (i = 0 ; i < level && ptr != root; i++) {
+		}
+
+		for (i = 0 ; i < level && nodeToPrint != node; i++) {
 				cout << "        ";
-			}
-			cout << nodeToCheck->ripeVal;
+		}
+			cout << nodeToPrint->ripeVal;
 			print(nodeToPrint->left, level + 1);
 		}
-	}
+
 }
 
 /*
@@ -195,7 +258,7 @@ void tree::inorder(treeNode* nodeToPrint)
     if (nodeToPrint == NULL)
         return;
     inorder (nodeToPrint->left);
-    cout<<nodeToPrint->ripeVal<<"  ";
+    cout<< nodeToPrint->ripeVal <<"  ";
     inorder (nodeToPrint->right);
 }
 /*
@@ -205,7 +268,7 @@ void tree::preorder(treeNode* nodeToPrint)
 {
     if (nodeToPrint == NULL)
         return;
-    cout<<nodeToPrint->ripeVal<<"  ";
+    cout<< nodeToPrint->ripeVal <<"  ";
     preorder (nodeToPrint->left);
     preorder (nodeToPrint->right);
  
@@ -220,7 +283,7 @@ void tree::postorder(treeNode* nodeToPrint)
         return;
     postorder ( nodeToPrint ->left );
     postorder ( nodeToPrint ->right );
-    cout<<nodeToPrint->ripeVal<<"  ";
+    cout<< nodeToPrint->ripeVal <<"  ";
 }
 
 
