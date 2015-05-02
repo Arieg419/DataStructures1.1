@@ -5,10 +5,17 @@ using namespace std;
 
 /* Declaring Node Class */
 
+typedef enum {
+	SUCCESS,
+	FAILURE,
+	INVALID_INPUT,
+	ALLOCATION_ERROR,
+} StatusType;
+
 class treeNode {
 	public:
-		int rowID;
-		int colID;
+		int row;
+		int col;
 		int ripeVal;
 		int fruitID;
 		class treeNode *left;
@@ -28,26 +35,44 @@ class tree {
 		treeNode* leftRotation(treeNode* );
 		treeNode* leftRight_Rotation(treeNode* );
 		treeNode* rightLeft_Rotation(treeNode* );
-		treeNode* insert(treeNode* treeRoot, int val);
+		treeNode* addNewFruit(treeNode* treeRoot, int ripeNess, int row, int col, int ID);
 		treeNode* balance(treeNode* );
-		void print(treeNode* firstNode, int level);
 		void inorder(treeNode *);
         void preorder(treeNode *);
         void postorder(treeNode *);
+        void print(treeNode* firstNode, int level);
+} *rootTree;
 
+/* Declaring Orchard */
+class orchard {
+	public:
+		orchard() {
+			rootTree = NULL;
+		}
+		void* Init(int N);
+		StatusType PlantTree(void *DS, int i, int j);
+		StatusType AddFruit(void* DS, int i, int j, int fruitID, int ripeRate);
+		StatusType PickFruit(void* DS, int fruitID);
+		StatusType RateFruit(void *DS, int fruitID, int ripeRate);
+		StatusType GetBestFruit(void *DS, int i, int j, int *fruitID);
+		StatusType GetAllFruitsByRate(void *DS, int i, int j, int **fruits, int *numOfFruits);
+		StatusType UpdateRottenFruits(void *DS, int rottenBase, int rottenFactor);
+		void Quit(void **DS);
 };
+
+/* Main for Testing purposes */
 
 int main() {
 	cout << "Good morning Sir. Would you like to start planting?" << endl;
 	cout << "Please plant your first seed." << endl;
-	 int choice, item;
+	 int choice, item,row,col,ID;
 	    tree avl;
 	    while (1)
 	    {
 	        cout<<"\n---------------------"<<endl;
 	        cout<<"AVL Tree Implementation"<<endl;
 	        cout<<"\n---------------------"<<endl;
-	        cout<<"1.Insert Element into the tree"<<endl;
+	        cout<<"1.Add new fruit into the tree"<<endl;
 	        cout<<"2.Display Balanced AVL Tree"<<endl;
 	        cout<<"3.InOrder traversal"<<endl;
 	        cout<<"4.PreOrder traversal"<<endl;
@@ -58,9 +83,15 @@ int main() {
 	        switch(choice)
 	        {
 	        case 1:
-	            cout<<"Enter value to be inserted: ";
+	            cout<<"Enter Ripeness Value of new fruit: " << endl ;
 	            cin>>item;
-	            node = avl.insert(node, item);
+	            cout<< "What row would you like to plant this in?" << endl;
+	            cin>>row;
+	            cout<< "Please selceting column to plant in." << endl;
+	            cin>>col;
+	            cout << "Lastly, what is the new fruit ID?" << endl;
+	            cin>>ID;
+	            node = avl.addNewFruit(node, item,row,col,ID);
 	            break;
 	        case 2:
 	            if (node == NULL)
@@ -180,22 +211,25 @@ After every Insert it is crucial to check the current balance of the tree and fi
 if need be.
 */
 
-treeNode* tree::insert(treeNode* newNode, int ripeness) {
+treeNode* tree::addNewFruit(treeNode* newNode, int ripeness, int row, int col, int ID) {
 	if(newNode == NULL) {
 		newNode = new treeNode;  //making it into a new nodePointer.
-		newNode->ripeVal = ripeness; //inserting data. will fix later.
+		newNode->ripeVal = ripeness; //inserting newFruit. will fix later.
+		newNode->row = row;
+		newNode->col = col;
+		newNode->fruitID = ID;
 		newNode->left = NULL; //initializing left child
 		newNode->right = NULL; //initializing right child
 		return newNode;
 	}
 	
-	if (ripeness < newNode->ripeVal) {
-		newNode->left = insert(newNode->left, ripeness);
+	if (row < newNode->row) {
+		newNode->left = addNewFruit(newNode->left, ripeness, row, col, ID);
 		newNode = balance(newNode);
 	}
 
-	if (ripeness >= newNode->ripeVal) {
-		newNode->right = insert(newNode->right, ripeness);
+	if (row >= newNode->row) {
+		newNode->right = addNewFruit(newNode->right, ripeness, row, col, ID);
 		newNode = balance(newNode); //after inserting newNode, must check bFactor.
 	}
 
