@@ -42,14 +42,18 @@ private:
 	int size;
 
 	// functions
+	void RemoveNode(Node* node);
 	void updateHeights(Node* node);
 	void balance(Node* node);
 	void llRotation(Node* node);
 	void rrRotation(Node* node);
 	void rlRotation(Node* node);
 	void lrRotation(Node* node);
+	Node* getNode(int key);
+	void ParentPointTo(Node* child, Node* newChild);
 	void print2(Node* nodeToPrint, int level);
-	T* getSortedArray2(T* array, Node* node);
+	T* getSortedArray2(T* array, Node* node);\
+	void destroy2(Node* node);
 
 public:
 	AVLTree();
@@ -72,7 +76,9 @@ AVLTree<T>::AVLTree() {
 
 template<class T>
 AVLTree<T>::~AVLTree() {
-	// TODO Auto-generated destructor stub
+	destroy2(root); // release allocated memory
+	root=NULL;
+	return;
 }
 
 // Time complexity: O(1)
@@ -134,22 +140,19 @@ void AVLTree<T>::Insert(int key, T data) {
 // Time complexity: O(log(n))
 template<class T>
 void AVLTree<T>::Remove(int key) {
-	this->size--;
+	Node* node = getNode(key);
+	if (node)
+		RemoveNode(getNode(key));
 	return;
 }
 
 // Time complexity: log(n)
 template<class T>
 T AVLTree<T>::getByKey(int key) {
-	Node* current = root;
-	while ((current != NULL) && (current->key != key)) { // while wasn't placed yet
-		if (key < current->key) { // left subtree
-			current = current->left;
-		} else { // right subtree
-			current = current->right;
-		}
-	}
-	return current;
+	Node* node = getNode(key);
+	if (!node)
+		return NULL;
+	return node->data;
 }
 
 // allocating an array using malloc, which hold the entire tree sorted.
@@ -168,8 +171,64 @@ void AVLTree<T>::print() {
 }
 
 /********************************* Private Functions *******************************/
+template<class T>
+void AVLTree<T>::RemoveNode(Node* node) {
+	// if leaf
+	if (!(node->left) && !(node->right)) {
+		ParentPointTo(node, NULL);
+		if (node->parent) {
+			updateHeights(node->parent);
+			this->balance(node->parent);
+		}
+		delete node;
+		this->size--;
+		return;
+	}
+	// if only right child
+	else if (!(node->left) && (node->right)) {
+		ParentPointTo(node,node->right);
+		node->right->parent = node->parent;
 
-// Updating the height property of all the parents nodes.
+		updateHeights(node->parent);
+		this->balance(node->parent);
+		delete node;
+		this->size--;
+		return;
+	}
+
+	// if only left child
+	else if ((node->left) && !(node->right)) {
+		ParentPointTo(node,node->left);
+		node->left->parent = node->parent;
+
+		updateHeights(node->parent);
+		this->balance(node->parent);
+		delete node;
+		this->size--;
+		return;
+	}
+
+	// if node has 2 childrens
+	else {
+		// find new root for subtree
+		Node* current = node->right;
+		while (current->left)
+			current = current->left;
+
+		// switch current and node.
+		int backupInt = current->key;
+		current->key = node->key;
+		node->key = backupInt;
+
+		T backupT = current->data;
+		current->data = node->data;
+		node->data = backupT;
+
+		RemoveNode(current); // recursive call. will happen only once, because now node doesn't have 2 children.
+	}
+}
+
+// Updating the height property of the node and his ancestors.
 template<class T>
 void AVLTree<T>::updateHeights(Node* node) {
 	Node* current = node;
@@ -219,15 +278,7 @@ void AVLTree<T>::llRotation(Node* node) {
 	Node* lChild = node->left;
 
 	// parent-node relation
-	if (node == root) {
-		root = node->left;
-	} else {
-		if (parent->left == node) {
-			parent->left = lChild;
-		} else {
-			parent->right = lChild;
-		}
-	}
+	ParentPointTo(node,lChild);
 	lChild->parent = parent;
 
 	Node* lrChild = node->left->right; //backup
@@ -247,17 +298,8 @@ void AVLTree<T>::rrRotation(Node* node) {
 	Node* rChild = node->right;
 
 	// parent-node relation
-	if (node == root) {
-		root = node->right;
-	} else {
-		if (parent->left == node) {
-			parent->left = rChild;
-		} else {
-			parent->right = rChild;
-		}
-	}
+	ParentPointTo(node,rChild);
 	rChild->parent = parent;
-
 
 	Node* rlChild = node->right->left; //backup
 	// node-child relation
@@ -281,6 +323,33 @@ template<class T>
 void AVLTree<T>::rlRotation(Node* node) {
 	llRotation(node->right);
 	rrRotation(node);
+}
+
+template<class T>
+typename AVLTree<T>::Node* AVLTree<T>::getNode(int key) {
+	Node* current = root;
+	while ((current != NULL) && (current->key != key)) { // while wasn't placed yet
+		if (key < current->key) { // left subtree
+			current = current->left;
+		} else { // right subtree
+			current = current->right;
+		}
+	}
+	return current;
+}
+
+template<class T>
+void AVLTree<T>::ParentPointTo(Node* child, Node* newChild) {
+	if (child->parent == NULL)
+		root = newChild;
+	else {
+		if (child->parent->left == child) {
+			child->parent->left = newChild;
+		} else {
+			child->parent->right = newChild;
+		}
+
+	}
 }
 
 /************************************* Recursions ***********************************/
@@ -316,7 +385,17 @@ T* AVLTree<T>::getSortedArray2(T* array, Node* node) {
 	*array = node->data;
 	array++;
 	return getSortedArray2(array, node->right);
-
 }
+
+// destroying the array, post order
+template<class T>
+void AVLTree<T>::destroy2(Node* node) {
+	if (node == NULL)
+		return;
+	destroy2(node->left);
+	destroy2(node->right);
+	delete node;
+}
+
 
 #endif /* AVLTREE_H_ */
