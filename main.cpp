@@ -1,13 +1,13 @@
 #include <iostream>
 
-#include "Objects/Fruit.h"
-#include "DataStructures/AVLTree.h"
+//#include "Objects/Fruit.h"
+//#include "DataStructures/AVLTree.h"
 using namespace std;
 
 int main(int argc, const char**argv) {
-	PairID num1(7,2);
-	PairID num2(7,1);
+	cout << "hello world";
 	return 0;
+	/*
 	cout << "Good morning Sir. Would you like to start planting?" << endl;
 	cout << "Please plant your first seed." << endl;
 	int choice, item, ID, *arr;
@@ -63,13 +63,13 @@ int main(int argc, const char**argv) {
 			 cout << "Postorder Traversal:" << endl;
 			 avl.postorder(node);
 			 cout << endl;
-			 break;*/
+			 break;*//*
 		case 9:
 			return 0;
 			break;
 		default:
 			cout << "Wrong Choice" << endl;
 		}
-	}
+	}*/
 	return 0;
 }

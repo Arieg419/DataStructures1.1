@@ -6,7 +6,7 @@
  */
 
 #include "../Objects/Orchard.h"
-
+/*
 Orchard::Orchard() {
 	// TODO Auto-generated constructor stub
 
@@ -15,3 +15,4 @@ Orchard::Orchard() {
 Orchard::~Orchard() {
 	// TODO Auto-generated destructor stub
 }
+*/

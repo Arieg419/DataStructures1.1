@@ -1,5 +1,5 @@
-#include<iostream>
-#include<sstream>
+#include <iostream>
+#include <sstream>
 
 using namespace std;
 
@@ -61,7 +61,7 @@ class orchard {
 };
 
 /* Main for Testing purposes */
-
+/*
 int main() {
 	cout << "Good morning Sir. Would you like to start planting?" << endl;
 	cout << "Please plant your first seed." << endl;

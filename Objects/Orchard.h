@@ -10,10 +10,10 @@
 
 #include "../DataStructures/AVLTree.h"
 #include "Plant.h"
-
+/*
 class Orchard {
 private:
-	AVLTree<PairID, Plant*> Plants;
+	//AVLTree<PairID, Plant*> Plants;
 public:
 	Orchard();
 	virtual ~Orchard();
@@ -21,5 +21,5 @@ public:
 	Plant* GetPlant(int i, int j);
 	Plant* RemovePlant(int i, int j);
 };
-
+*/
 #endif /* ORCHARD_H_ */

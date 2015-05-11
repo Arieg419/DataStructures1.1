@@ -4,7 +4,7 @@
  *  Created on: May 4, 2015
  *      Author: dor
  */
-
+/*
 #include "../Objects/Plant.h"
 #include "../DataStructures/Exceptions.h"
 
@@ -43,3 +43,5 @@ Fruit* Plant::GetBestFruit() {
 Fruit** Plant::GetAllFruitsByRate() {
 	return NULL;
 }
+
+*/

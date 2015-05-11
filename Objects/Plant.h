@@ -11,7 +11,7 @@
 #include "../DataStructures/AVLTree.h"
 #include "../DataStructures/PairID.h"
 #include "Fruit.h"
-
+/*
 class Plant {
 private:
 	AVLTree<int, Fruit*> idSortedTree;
@@ -26,5 +26,5 @@ public:
 	Fruit* GetBestFruit();
 	Fruit** GetAllFruitsByRate(); // Array of Pointers to Fruits
 };
-
+*/
 #endif /* PLANT_H_ */
