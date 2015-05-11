@@ -10,16 +10,25 @@
 
 #include "../DataStructures/AVLTree.h"
 #include "Plant.h"
-/*
+
 class Orchard {
 private:
-	//AVLTree<PairID, Plant*> Plants;
+	int maxSize;
+	AVLTree<PairID, Plant*> Plants;
+	AVLTree<int, Fruit*> Fruits;
 public:
 	Orchard();
 	virtual ~Orchard();
-	void AddPlant(Plant* plant);
+	void setMaxSize(int N);
+
+	void AddPlant(int i, int j, Plant* plant);
+	void AddFruit(int i, int j, Fruit* fruit);
+
 	Plant* GetPlant(int i, int j);
-	Plant* RemovePlant(int i, int j);
+	Plant* GetFruit(int fruitID);
+
+	void RemovePlant(int i, int j);
+	void RemoveFruit(int fruitID);
 };
-*/
+
 #endif /* ORCHARD_H_ */

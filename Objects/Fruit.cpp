@@ -6,13 +6,10 @@
  */
 
 #include "../Objects/Fruit.h"
-
-Fruit::Fruit(int fruidID) {
-	this->id = fruidID;
-	this->ripeRate = 0;
-}
+#include "../Exception.h"
 
 Fruit::Fruit(int fruidID, int ripeRate) {
+	if (fruidID<=0 || ripeRate<=0) throw InvalidInput;
 	this->id = fruidID;
 	this->ripeRate = ripeRate;
 }

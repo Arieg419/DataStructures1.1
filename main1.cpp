@@ -13,7 +13,7 @@
 /* Holds the "int main()" function and the parser of the shell's           */
 /* command line.                                                           */
 /***************************************************************************/
-
+/*
 #include <assert.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -26,7 +26,7 @@ using namespace std;
 extern "C" {
 #endif
 
-/* The command's strings */
+/* The command's strings *//*
 typedef enum {
 	NONE_CMD = -2,
 	COMMENT_CMD = -1,
@@ -61,7 +61,7 @@ static const char* ReturnValToStr(int val) {
 	}
 }
 
-/* we assume maximum string size is not longer than 256  */
+/* we assume maximum string size is not longer than 256  *//*
 #define MAX_STRING_INPUT_SIZE (255)
 #define MAX_BUFFER_SIZE       (255)
 
@@ -97,7 +97,7 @@ int main(int argc, const char**argv) {
 
 /***************************************************************************/
 /* Command Checker                                                         */
-/***************************************************************************/
+/***************************************************************************//*
 
 static commandType CheckCommand(const char* const command,
 		const char** const command_arg) {
@@ -119,7 +119,7 @@ static commandType CheckCommand(const char* const command,
 
 /***************************************************************************/
 /* Commands Functions                                                      */
-/***************************************************************************/
+/***************************************************************************//*
 
 static errorType OnInit(void** DS, const char* const command);
 static errorType OnPlantTree(void* DS, const char* const command);
@@ -133,10 +133,10 @@ static errorType OnQuit(void** DS, const char* const command);
 
 /***************************************************************************/
 /* Parser                                                                  */
-/***************************************************************************/
+/***************************************************************************//*
 
 static errorType parser(const char* const command) {
-	static void *DS = NULL; /* The general data structure */
+	static void *DS = NULL; /* The general data structure *//*
 	const char* command_args = NULL;
 	errorType rtn_val = error;
 
@@ -187,7 +187,7 @@ static errorType parser(const char* const command) {
 
 /***************************************************************************/
 /* OnInit                                                                  */
-/***************************************************************************/
+/***************************************************************************//*
 static errorType OnInit(void** DS, const char* const command) {
 	if (isInit) {
 		printf("Init was already called.\n");
@@ -209,7 +209,7 @@ static errorType OnInit(void** DS, const char* const command) {
 
 /***************************************************************************/
 /* OnAddVersion                                                             */
-/***************************************************************************/
+/***************************************************************************//*
 static errorType OnPlantTree(void* DS, const char* const command) {
 	int i,j;
 	ValidateRead(sscanf(command, "%d %d", &i, &j), 2, "PlantTree failed.\n");
@@ -227,7 +227,7 @@ static errorType OnPlantTree(void* DS, const char* const command) {
 
 /***************************************************************************/
 /* OnAddApplication                                                          */
-/***************************************************************************/
+/***************************************************************************//*
 static errorType OnAddFruit(void* DS, const char* const command) {
 	int fruitID;
 	int i,j;
@@ -248,7 +248,7 @@ static errorType OnAddFruit(void* DS, const char* const command) {
 
 /***************************************************************************/
 /* OnRemoveApplication                                                            */
-/***************************************************************************/
+/***************************************************************************//*
 static errorType OnPickFruit(void* DS, const char* const command) {
 	int fruitID;
 	ValidateRead(sscanf(command, "%d", &fruitID), 1,
@@ -266,7 +266,7 @@ static errorType OnPickFruit(void* DS, const char* const command) {
 
 /***************************************************************************/
 /* OnIncreaseDownloads                                                         */
-/***************************************************************************/
+/***************************************************************************//*
 static errorType OnRateFruit(void* DS, const char* const command) {
 	int fruitID;
 	int ripeRate;
@@ -285,7 +285,7 @@ static errorType OnRateFruit(void* DS, const char* const command) {
 
 /***************************************************************************/
 /* OnGetBestFruit                                                         */
-/***************************************************************************/
+/***************************************************************************//*
 static errorType OnGetBestFruit(void* DS, const char* const command) {
 	int i, j;
 	ValidateRead(sscanf(command, "%d %d", &i, &j), 2, "GetBestFruit failed.\n");
@@ -303,7 +303,7 @@ static errorType OnGetBestFruit(void* DS, const char* const command) {
 
 /***************************************************************************/
 /* OnGetAllFruits                                                        */
-/***************************************************************************/
+/***************************************************************************//*
 
 void PrintAll(int *fruits, int numOfFruits) {
 	if (numOfFruits > 0) {
@@ -337,7 +337,7 @@ static errorType OnGetAllFruitsByRate(void* DS, const char* const command) {
 
 /***************************************************************************/
 /* OnUpdateDownloads                                                           */
-/***************************************************************************/
+/***************************************************************************//*
 static errorType OnUpdateRottenFruits(void* DS, const char* const command) {
 	int rottenBase;
 	int rottenFactor;
@@ -356,7 +356,7 @@ static errorType OnUpdateRottenFruits(void* DS, const char* const command) {
 
 /***************************************************************************/
 /* OnQuit                                                                  */
-/***************************************************************************/
+/***************************************************************************//*
 static errorType OnQuit(void** DS, const char* const command) {
 	Quit(DS);
 	if (*DS != NULL) {
@@ -374,3 +374,4 @@ static errorType OnQuit(void** DS, const char* const command) {
 }
 #endif
 
+*/

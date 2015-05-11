@@ -4,9 +4,9 @@
  *  Created on: May 4, 2015
  *      Author: dor
  */
-/*
+
 #include "../Objects/Plant.h"
-#include "../DataStructures/Exceptions.h"
+#include "../Exception.h"
 
 Plant::Plant() {
 	// TODO Auto-generated constructor stub
@@ -18,9 +18,10 @@ Plant::~Plant() {
 }
 
 void Plant::AddFruit(Fruit* fruit) {
-	//if (!fruit) throw NullInputException;
+	if (!GetFruit(fruit->id)) throw Failure;
 	idSortedTree.Insert(fruit->getID(), fruit);
-	rateSortedTree.Insert(PairID(fruit->getRipeRate(),fruit->getID()), fruit);
+	PairID pid(fruit->getRipeRate(),fruit->getID());
+	rateSortedTree.Insert(pid, fruit);
 }
 
 Fruit* Plant::GetFruit(int id) {
@@ -44,4 +45,3 @@ Fruit** Plant::GetAllFruitsByRate() {
 	return NULL;
 }
 
-*/

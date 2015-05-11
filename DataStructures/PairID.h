@@ -12,7 +12,7 @@ class PairID {
 private:
 	int msi,lsi; // Most/Least Significant Int
 public:
-	PairID(int msi, int lsi);
+	PairID(int msi = 0 , int lsi = 0);
 	virtual ~PairID();
 
 	bool operator==(const PairID& other);

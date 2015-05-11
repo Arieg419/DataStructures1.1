@@ -14,8 +14,7 @@ private:
 	int ripeRate;
 	// more optional fields
 public:
-	Fruit(int fruitID);
-	Fruit(int fruitID,int ripeRate);
+	Fruit(int fruitID,int ripeRate=1);
 	int getID();
 	int getRipeRate();
 	void setRipeRate(int ripeRate);
