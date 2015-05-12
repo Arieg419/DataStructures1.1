@@ -6,6 +6,7 @@
  */
 
 #include "Insect.h"
+#include "../Exceptions/OrchardExceptions.h"
 
 Insect::Insect(int rottenBase, int rottenFactor) {
 	this->rottenBase = rottenBase;
@@ -14,8 +15,15 @@ Insect::Insect(int rottenBase, int rottenFactor) {
 
 Insect::~Insect() { }
 
-void Insect::attack(Fruit* fruit){
-	if (!fruit) return;
+bool Insect::ShouldAttack(Fruit* fruit){
 	if (fruit->getID() % rottenBase == 0)
+		return true;
+	return false;
+}
+
+void Insect::Attack(Fruit* fruit){
+	if (!fruit) throw InvalidInput();
+	if (ShouldAttack(fruit))
 		fruit->setRipeRate(fruit->getRipeRate()*rottenFactor);
+
 }

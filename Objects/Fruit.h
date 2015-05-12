@@ -8,16 +8,21 @@
 #ifndef FRUIT_H_
 #define FRUIT_H_
 
+#include "../DataStructures/PairID.h"
+
 class Fruit {
 private:
 	int id;
 	int ripeRate;
+	int i,j;
 	// more optional fields
 public:
 	Fruit(int fruitID,int ripeRate=1);
 	int getID();
 	int getRipeRate();
 	void setRipeRate(int ripeRate);
+	PairID getPairID();
+
 	virtual ~Fruit();
 };
 

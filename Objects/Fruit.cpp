@@ -6,6 +6,7 @@
  */
 
 #include "../Objects/Fruit.h"
+#include "../DataStructures/PairID.h"
 #include "../Exceptions/OrchardExceptions.h"
 
 
@@ -29,4 +30,8 @@ int Fruit::getRipeRate() {
 
 void Fruit::setRipeRate(int ripeRate) {
 	this->ripeRate = ripeRate;
+}
+
+PairID Fruit::getPairID(){
+	return PairID(this->ripeRate,this->id);
 }

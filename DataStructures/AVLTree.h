@@ -169,11 +169,11 @@ T AVLTree<K, T>::getByKey(K key) {
 	return node->data;
 }
 
-// allocating an array using malloc, which hold the entire tree sorted.
+// allocating an array that will hold the entire tree sorted.
 // Time complexity: O(n)
 template<class K, class T>
 T* AVLTree<K, T>::getSortedArray() {
-	T* result = (T*) malloc(sizeof(T) * this->size);
+	T* result = new T[this->size];
 	//if (!result) throw OutOfMemory(); // TODO: where shoul OutOfMomory be?
 	getSortedArray2(result, root); // placing the tree in "result"
 	return result;

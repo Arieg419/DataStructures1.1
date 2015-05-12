@@ -27,7 +27,8 @@ public:
 	void RemoveFruit(int id);
 	Fruit* GetBestFruit();
 	Fruit** GetAllFruitsByRate(); // Array of Pointers to Fruits
-	void attackedBy(const Insect& insect);
+	int GetSize();
+	void attackedBy(Insect& insect);
 };
 
 #endif /* PLANT_H_ */
