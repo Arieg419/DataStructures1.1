@@ -9,9 +9,7 @@
 #define DATASTRUCTURES_PAIRID_H_
 
 class PairID {
-private:
 	//int msi,lsi; // Most/Least Significant Int
-	//todo changed this to public;
 public:
 	int msi, lsi;
 	PairID(int msi = 0 , int lsi = 0);

@@ -35,3 +35,12 @@ void Fruit::setRipeRate(int ripeRate) {
 PairID Fruit::getPairID(){
 	return PairID(this->ripeRate,this->id);
 }
+
+void Fruit::setLocation(PairID location){
+	this->i = location.msi;
+	this->j = location.lsi;
+}
+
+PairID Fruit::getLocation(){
+	return PairID(i,j);
+}

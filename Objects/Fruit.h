@@ -21,6 +21,8 @@ public:
 	int getID();
 	int getRipeRate();
 	void setRipeRate(int ripeRate);
+	void setLocation(PairID location);
+	PairID getLocation();
 	PairID getPairID();
 
 	virtual ~Fruit();
