@@ -73,10 +73,13 @@ void Plant::attackedBy(Insect& insect) {
 	int length = this->rateSortedTree.GetSize();
 	if (length==0) return;
 	Fruit** fruits = this->rateSortedTree.getSortedArray();
-	Fruit** updatedFruits = new Fruit*[length]; // temporary array
+
+	// results arrays
+	Fruit** updatedFruits = new Fruit*[length];
+	PairID* updatedKeys = new PairID[length];
+
 	// fill updated fruits using 2 pointers of fruits, and update fruits.
 	int p1 = 0, p2 = 0, p3 = 0; // p1: fruit attack, p2: dont attack, p3: new array
-
 	while (!insect.ShouldAttack(fruits[p1]))
 		p1++; // set to first attack
 	while (insect.ShouldAttack(fruits[p2]))
@@ -114,5 +117,10 @@ void Plant::attackedBy(Insect& insect) {
 
 	delete (fruits);
 	this->rateSortedTree.Reset();
-// TODO: create rateSortedTree, implement in AVLTREE
+
+	// converting array to a tree
+	for (int i=0; i<length; i++)
+		updatedKeys[i] = updatedFruits[i]->getPairID();
+
+	this->rateSortedTree.LoadSortedArray(updatedKeys,updatedFruits,length);
 }

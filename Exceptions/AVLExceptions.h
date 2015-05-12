@@ -32,4 +32,11 @@ public:
 	}
 };
 
+class IllegalInput:public exception {
+public:
+	const char* what() {
+		return "The input was wrong. Please try harder.\n";
+	}
+};
+
 #endif /* AVLEXCEPTIONS_H_ */

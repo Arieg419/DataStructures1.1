@@ -57,13 +57,15 @@ private:
 	void ParentPointTo(Node* child, Node* newChild);
 	// recursions
 	void print2(Node* nodeToPrint, int level);
-	T* getSortedArray2(T* array, Node* node);\
+	T* getSortedArray2(T* array, Node* node);
 	void destroy2(Node* node);
+	Node* LoadSortedArray2(K* sortedKeysArray, T* sortedArray, int length);
 
 public:
 	AVLTree();
 	virtual ~AVLTree();
 	void Reset();
+	void LoadSortedArray(K* sortedKeysArray, T* sortedDataArray, int length);
 	int GetSize();
 	void Insert(K key, T data);
 	void Remove(K key);
@@ -93,6 +95,19 @@ template<class K, class T>
 void AVLTree<K, T>::Reset() {
 	destroy2(root); // release allocated memory
 	root = NULL;
+	return;
+}
+
+template<class K, class T>
+void AVLTree<K, T>::LoadSortedArray(K* sortedKeysArray, T* sortedDataArray,
+		int length) {
+	// verify sorted keys array
+	for (int i = 1; i < length; i++)
+		if (sortedKeysArray[i - 1] > sortedKeysArray[i])
+			throw IllegalInput();
+	Reset();
+	root = LoadSortedArray2(sortedKeysArray, sortedDataArray, length);
+	updateSmallest();
 	return;
 }
 
@@ -432,6 +447,36 @@ void AVLTree<K, T>::destroy2(Node* node) {
 	destroy2(node->left);
 	destroy2(node->right);
 	delete node;
+}
+
+template<class K, class T>
+typename AVLTree<K, T>::Node* AVLTree<K, T>::LoadSortedArray2(
+		K* sortedKeysArray, T* sortedDataArray, int length) {
+	if (length == 0)
+		return NULL;
+	Node* node = new Node();
+
+	int pos = length / 2;
+	node->key = sortedKeysArray[pos];
+	node->data = sortedDataArray[pos];
+	node->left = LoadSortedArray2(sortedKeysArray, sortedDataArray, pos);
+	node->right = LoadSortedArray2(sortedKeysArray + pos + 1,
+			sortedDataArray + pos + 1, length - pos - 1);
+
+	// find the height
+	if (!node->left && !node->right) // no childs
+		node->height = 1;
+	else if (!node->left) // right child only
+		node->height = node->right->height + 1;
+	else if (!node->right) // left child only
+		node->height = node->left->height + 1;
+	else
+		node->height =
+				(node->left->height > node->right->height) ?
+						node->left->height : node->right->height; // both children exist
+
+	return node;
+// TODO: write
 }
 
 #endif /* AVLTREE_H_ */
