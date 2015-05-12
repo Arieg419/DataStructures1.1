@@ -6,7 +6,7 @@
  */
 
 #include "Statistics.h"
-#include "Exception.h"
+#include "Exceptions/OrchardExceptions.h"
 #include "Objects/Fruit.h"
 #include "Objects/Plant.h"
 #include "Objects/Orchard.h"
@@ -70,7 +70,7 @@ StatusType Statistics::PickFruit(int fruitID) {
 
 StatusType Statistics::RateFruit(int fruitID, int ripeRate) {
 	try {
-		orchard(fruitID);
+		// orchard(fruitID); TODO
 	} catch (InvalidInput& e) {
 		return INVALID_INPUT;
 	} catch (OutOfMemory& e) {

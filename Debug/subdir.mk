@@ -5,21 +5,18 @@
 # Add inputs and outputs from these tool invocations to the build variables 
 CPP_SRCS += \
 ../Statistics.cpp \
-../hw1.cpp \
 ../library1.cpp \
 ../main.cpp \
 ../main1.cpp 
 
 OBJS += \
 ./Statistics.o \
-./hw1.o \
 ./library1.o \
 ./main.o \
 ./main1.o 
 
 CPP_DEPS += \
 ./Statistics.d \
-./hw1.d \
 ./library1.d \
 ./main.d \
 ./main1.d 
