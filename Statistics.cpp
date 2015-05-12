@@ -82,12 +82,41 @@ StatusType Statistics::RateFruit(int fruitID, int ripeRate) {
 }
 
 StatusType Statistics::GetBestFruit(int i, int j, int *fruitID) {
+	try {
+			*fruitID = orchard.GetPlant(i, j)->GetBestFruit()->getID();
+		} catch (InvalidInput& e) {
+			return INVALID_INPUT;
+		} catch (OutOfMemory& e) {
+			return ALLOCATION_ERROR;
+		} catch (Failure& e) {
+			return FAILURE;
+		}
 	return SUCCESS;
 }
 
 StatusType Statistics::GetAllFruitsByRate(int i, int j, int **fruits,
 		int *numOfFruits) {
-	return SUCCESS;
+		try {
+			*numOfFruits = orchard.GetPlant(i,j)->GetSize();
+			int size = *numOfFruits;
+			int** data = (int**)malloc(sizeof(int)*(size)); //TODO nasty casting. this should be done automatically
+			Fruit** temp = orchard.GetPlant(i, j)->GetAllFruitsByRate();
+			for(int i = 0 ; i < *numOfFruits ; i++) {
+				//(*fruits)[i] = temp[i]->getID();
+				(*data)[i] = temp[i]->getID();
+			}
+			fruits = data;
+			delete temp;
+			free(data);
+
+		} catch (InvalidInput& e) {
+			return INVALID_INPUT;
+		} catch (OutOfMemory& e) {
+			return ALLOCATION_ERROR;
+		} catch (Failure& e) {
+			return FAILURE;
+		}
+		return SUCCESS;
 }
 
 StatusType Statistics::UpdateRottenFruits(int rottenBase, int rottenFactor) {
@@ -95,4 +124,3 @@ StatusType Statistics::UpdateRottenFruits(int rottenBase, int rottenFactor) {
 }
 
 /////////// Private Function //////////////
-
