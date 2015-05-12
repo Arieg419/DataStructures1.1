@@ -51,3 +51,7 @@ StatusType UpdateRottenFruits(void *DS, int rottenBase, int rottenFactor){
 	return ((Statistics*)DS)->UpdateRottenFruits(rottenBase,rottenFactor);
 	return SUCCESS;
 }
+
+void Quit(void** DS){
+	delete ((Statistics*)*DS);
+}

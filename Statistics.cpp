@@ -51,6 +51,9 @@ StatusType Statistics::AddFruit(int i, int j, int fruitID, int ripeRate) {
 	} catch (Failure& e) {
 		delete fruit;
 		return FAILURE;
+	} catch (FruitAlreadyExist& e) {
+		delete fruit;
+		return FAILURE;
 	}
 	return SUCCESS;
 }
@@ -70,7 +73,7 @@ StatusType Statistics::PickFruit(int fruitID) {
 
 StatusType Statistics::RateFruit(int fruitID, int ripeRate) {
 	try {
-		// orchard(fruitID); TODO
+		orchard.RateFruit(fruitID,ripeRate);
 	} catch (InvalidInput& e) {
 		return INVALID_INPUT;
 	} catch (OutOfMemory& e) {
@@ -83,43 +86,53 @@ StatusType Statistics::RateFruit(int fruitID, int ripeRate) {
 
 StatusType Statistics::GetBestFruit(int i, int j, int *fruitID) {
 	try {
-			*fruitID = orchard.GetPlant(i, j)->GetBestFruit()->getID();
-		} catch (InvalidInput& e) {
-			return INVALID_INPUT;
-		} catch (OutOfMemory& e) {
-			return ALLOCATION_ERROR;
-		} catch (Failure& e) {
-			return FAILURE;
-		}
+		Fruit* fruit = orchard.GetBestFruit(i,j,fruitID);
+		if (fruit)
+			*fruitID = fruit->getID();
+		else
+			*fruitID = -1;
+	} catch (InvalidInput& e) {
+		return INVALID_INPUT;
+	} catch (OutOfMemory& e) {
+		return ALLOCATION_ERROR;
+	} catch (Failure& e) {
+		return FAILURE;
+	}
 	return SUCCESS;
 }
 
 StatusType Statistics::GetAllFruitsByRate(int i, int j, int **fruits,
 		int *numOfFruits) {
-		try {
-			*numOfFruits = orchard.GetPlant(i,j)->GetSize();
-			int size = *numOfFruits;
-			int** data = (int**)malloc(sizeof(int)*(size)); //TODO nasty casting. this should be done automatically
-			Fruit** temp = orchard.GetPlant(i, j)->GetAllFruitsByRate();
-			for(int i = 0 ; i < *numOfFruits ; i++) {
-				//(*fruits)[i] = temp[i]->getID();
-				(*data)[i] = temp[i]->getID();
-			}
-			fruits = data;
-			delete temp;
-			free(data);
-
-		} catch (InvalidInput& e) {
-			return INVALID_INPUT;
-		} catch (OutOfMemory& e) {
-			return ALLOCATION_ERROR;
-		} catch (Failure& e) {
-			return FAILURE;
+	try {
+		*numOfFruits = orchard.GetPlant(i, j)->GetSize();
+		int size = *numOfFruits;
+		*fruits = (int*) malloc(sizeof(int) * (size)); //TODO nasty casting. this should be done automatically
+		Fruit** temp = orchard.GetPlant(i, j)->GetAllFruitsByRate();
+		for (int i = 0; i < size; i++) {
+			//(*fruits)[i] = temp[i]->getID();
+			(*fruits)[i] = temp[i]->getID();
 		}
-		return SUCCESS;
+		delete temp;
+	} catch (InvalidInput& e) {
+		return INVALID_INPUT;
+	} catch (OutOfMemory& e) {
+		return ALLOCATION_ERROR;
+	} catch (Failure& e) {
+		return FAILURE;
+	}
+	return SUCCESS;
 }
 
 StatusType Statistics::UpdateRottenFruits(int rottenBase, int rottenFactor) {
+	try {
+		orchard.AttackedBy(Insect(rottenBase, rottenFactor));
+	} catch (InvalidInput& e) {
+		return INVALID_INPUT;
+	} catch (OutOfMemory& e) {
+		return ALLOCATION_ERROR;
+	} catch (Failure& e) {
+		return FAILURE;
+	}
 	return SUCCESS;
 }
 

@@ -28,6 +28,7 @@ public:
 	Fruit* GetBestFruit();
 	Fruit** GetAllFruitsByRate(); // Array of Pointers to Fruits
 	int GetSize();
+	bool DoesExist(int fruitID);
 	void attackedBy(Insect& insect);
 };
 

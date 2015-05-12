@@ -26,4 +26,31 @@ public:
 	}
 };
 
+class PlantDoesNotExist:public exception {
+public:
+	const char* what() {
+		return "Consider planting the plant first\n";
+	}
+};
+
+class PlantAlreadyExist:public exception {
+public:
+	const char* what() {
+		return "You can not take back what's already been done\n";
+	}
+};
+
+class FruitDoesNotExist:public exception {
+public:
+	const char* what() {
+		return "Only hard work reaps fruits.\n";
+	}
+};
+
+class FruitAlreadyExist:public exception {
+public:
+	const char* what() {
+		return "You can may now reap the fruits of your labor.\n";
+	}
+};
 #endif //ORCHARDEXCEPTIONS_H_

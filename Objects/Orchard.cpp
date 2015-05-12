@@ -30,14 +30,14 @@ void Orchard::AddPlant(int i, int j, Plant* plant) {
 	if (!legalInput(i, j)) {
 		throw InvalidInput();
 	}
-	if (GetPlant(i, j)) {  //checking to see if we have already planted in i, j
-		throw InvalidInput();
+	if (DoesExist(i, j)) {
+		throw PlantAlreadyExist();
+	} else {
+		PairID key;
+		key.msi = i;
+		key.lsi = j;
+		Plants.Insert(key, plant);
 	}
-	PairID key;
-	key.msi = i;
-	key.lsi = j;
-	Plants.Insert(key, plant);
-	// changed msi lsi to public.
 }
 
 void Orchard::AddFruit(int i, int j, Fruit* fruit) {
@@ -48,13 +48,13 @@ void Orchard::AddFruit(int i, int j, Fruit* fruit) {
 		throw InvalidInput();
 	}
 	//we need to add to both DS's
-	try {
-		Fruits.getByKey(fruit->getID());
+	if (DoesExist(fruit->getID())) {
+		throw FruitAlreadyExist();
+	} else {
+		fruit->setLocation(PairID(i, j));
 		Plant* temp = GetPlant(i, j);
 		temp->AddFruit(fruit);
 		Fruits.Insert(fruit->getID(), fruit);
-	} catch (KeyAlreadyExist& e) {
-		throw Failure();
 	}
 }
 
@@ -75,53 +75,76 @@ Fruit* Orchard::GetFruit(int fruitID) {
 
 Fruit* Orchard::GetBestFruit(int i, int j, int *fruitID) {
 	//goes to DS and gets Fruit with lowest ripe rating, min is 1.
-	if (!legalFruitID(*fruitID)) {
+	if (!legalInput(i, j)) {
 		throw InvalidInput();
 	}
+	return GetPlant(i, j)->GetBestFruit();
 //TODO
 }
 
 void* Orchard::GetAllFruitsByRate(int i, int j, int **fruits,
 		int *numOfFruits) {
-	return NULL;
+	return GetPlant(i, j)->GetAllFruitsByRate();
 }
 
-void UpdateRottenFruits(int rottenBase, int rottenFactor) {
+void Orchard::AttackedBy(Insect insect) {
 	//take care of this last
+	Plant** plantsArray = Plants.getSortedArray();
+	for (int i = 0; i < Plants.GetSize(); i++)
+		plantsArray[i]->attackedBy(insect);
+
+	delete plantsArray;
 	return;
 }
 
 //TODO this function should return an int(flag), otherwise how will we know if there was a FAILURE
 void Orchard::RateFruit(int id, int ripeness) {
-	if (!legalFruitID(id)) {
-		//throw InvalidInput;
-		return;
+	if (id < 0 || ripeness < 0) {
+		throw InvalidInput();
 	}
-
+	//we need to add to both DS's
+	try {
+		Fruit* fruit = GetFruit(id);
+		Plant* plant = GetPlant(fruit->getLocation().msi,
+				fruit->getLocation().lsi);
+		Fruit* tmp = new Fruit(*fruit);
+		tmp->setRipeRate(ripeness);
+		plant->RemoveFruit(id);
+		plant->AddFruit(tmp);
+	} catch (KeyAlreadyExist& e) {
+		throw Failure();
+	}
 }
+/*
+ void Orchard::RemovePlant(int i, int j) {
+ if (!legalInput(i, j)) {
+ return;
+ }
+ Plant* temp = GetPlant(i, j);
+ if (!temp) {
+ return;
+ }
+ //Plants.RemoveNode(temp);
+ //TODO need to decide how to delete and add. Two seperte calls to two diff DS's? Or on call that calls the other.
+ delete temp;
+ }*/
 
-void Orchard::RemovePlant(int i, int j) {
-	if (!legalInput(i, j)) {
-		return;
-	}
-	Plant* temp = GetPlant(i, j);
-	if (!temp) {
-		return;
-	}
-	//Plants.RemoveNode(temp);
-	//TODO need to decide how to delete and add. Two seperte calls to two diff DS's? Or on call that calls the other.
-	delete temp;
-}
 void Orchard::RemoveFruit(int fruitID) {
 	if (!legalFruitID(fruitID)) {
 		return;
 	}
-	Fruit* temp = GetFruit(fruitID);
-	if (!temp) {
-		return;
+	//we need to remove from both DS's
+	try {
+		Fruit* fruit = GetFruit(fruitID);
+		Plant* plant = GetPlant(fruit->getLocation().msi,
+				fruit->getLocation().lsi);
+
+		plant->RemoveFruit(fruitID);
+		Fruits.Remove(fruitID);
+		delete fruit;
+	} catch (KeyAlreadyExist& e) {
+		throw Failure();
 	}
-	//Fruits.RemoveNode(temp);
-	delete temp;
 }
 
 bool Orchard::legalInput(int i, int j) {
@@ -133,11 +156,17 @@ bool Orchard::legalInput(int i, int j) {
 }
 
 bool Orchard::legalFruitID(int fruitID) {
-	int fieldSize = getMaxSize();
-	if (fruitID < 0 || fruitID >= fieldSize) {
+	if (fruitID < 0) {
 		return false;
 		//we should throw some type of error or flag here.
 	}
 	return true;
 }
 
+bool Orchard::DoesExist(int i, int j) {
+	return Plants.DoesExist(PairID(i, j));
+}
+
+bool Orchard::DoesExist(int fruitID) {
+	return Fruits.DoesExist(fruitID);
+}

@@ -26,7 +26,7 @@ Plant::~Plant() {
 }
 
 void Plant::AddFruit(Fruit* fruit) {
-	if (!GetFruit(fruit->getID()))
+	if (DoesExist(fruit->getID()))
 		throw Failure();
 	idSortedTree.Insert(fruit->getID(), fruit);
 	PairID pid(fruit->getRipeRate(), fruit->getID());
@@ -45,7 +45,8 @@ void Plant::RemoveFruit(int id) {
 	try {
 		Fruit* fruit = idSortedTree.getByKey(id);
 		idSortedTree.Remove(id);
-		rateSortedTree.Remove(PairID(fruit->getRipeRate(), id));
+		PairID pid = PairID(fruit->getRipeRate(), id);
+		rateSortedTree.Remove(pid);
 		delete (fruit);
 	} catch (KeyDoesNotExist& err) {
 		// ignore, cause nothing to remove
@@ -67,6 +68,10 @@ Fruit** Plant::GetAllFruitsByRate() {
 
 int Plant::GetSize() {
 	return rateSortedTree.GetSize();
+}
+
+bool Plant::DoesExist(int fruitID){
+	return idSortedTree.DoesExist(fruitID);
 }
 
 void Plant::attackedBy(Insect& insect) {

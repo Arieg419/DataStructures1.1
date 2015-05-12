@@ -9,8 +9,10 @@
 #include "../DataStructures/PairID.h"
 #include "../Exceptions/OrchardExceptions.h"
 
-
 Fruit::Fruit(int fruidID, int ripeRate) {
+	if (fruidID<=0 || ripeRate<=0) throw InvalidInput();
+	i=-1;
+	j=-1;
 	//if (fruidID<=0 || ripeRate<=0) throw InvalidInput;
 	this->id = fruidID;
 	this->ripeRate = ripeRate;

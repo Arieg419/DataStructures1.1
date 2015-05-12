@@ -32,7 +32,9 @@ public:
 	void* GetAllFruitsByRate(int i, int j, int **fruits, int *numOfFruits);
 	void RemovePlant(int i, int j);
 	void RemoveFruit(int fruitID);
-	void UpdateRottenFruits(int rottenBase, int rottenFactor);
+	void AttackedBy(Insect insect);
+	bool DoesExist(int i, int j);
+	bool DoesExist(int fruitID);
 };
 
 #endif /* ORCHARD_H_ */

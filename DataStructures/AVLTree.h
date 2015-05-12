@@ -70,6 +70,7 @@ public:
 	void Insert(K key, T data);
 	void Remove(K key);
 	T getByKey(K key);
+	bool DoesExist(K key);
 	T* getSortedArray();
 	T getSmallest();
 	void print();
@@ -120,8 +121,9 @@ int AVLTree<K, T>::GetSize() {
 // Time complexity: O(log(n))
 template<class K, class T>
 void AVLTree<K, T>::Insert(K key, T data) {
-	if (getNode(key))
+	if (getNode(key)) {
 		throw KeyAlreadyExist();
+	}
 
 	// Create the node
 	Node* new_node = new Node();
@@ -137,6 +139,7 @@ void AVLTree<K, T>::Insert(K key, T data) {
 	// choose where to add the node and add it.
 	if (root == NULL) { // tree is empty
 		root = new_node;
+		smallest = new_node;
 		return;
 	} else { // tree is not empty.
 		Node* current = root;
@@ -171,7 +174,7 @@ template<class K, class T>
 void AVLTree<K, T>::Remove(K key) {
 	Node* node = getNode(key);
 	if (node)
-		RemoveNode(getNode(key));
+		RemoveNode(node);
 	return;
 }
 
@@ -182,6 +185,12 @@ T AVLTree<K, T>::getByKey(K key) {
 	if (!node)
 		throw KeyDoesNotExist();
 	return node->data;
+}
+
+// Time complexity: log(n)
+template<class K, class T>
+bool AVLTree<K, T>::DoesExist(K key) {
+	return (getNode(key) != NULL);
 }
 
 // allocating an array that will hold the entire tree sorted.
@@ -227,8 +236,10 @@ void AVLTree<K, T>::RemoveNode(Node* node) {
 		ParentPointTo(node, node->right);
 		node->right->parent = node->parent;
 
-		updateHeights(node->parent);
-		this->balance(node->parent);
+		if (node->parent) {
+			updateHeights(node->parent);
+			this->balance(node->parent);
+		}
 		delete node;
 		this->size--;
 		return;
@@ -239,8 +250,10 @@ void AVLTree<K, T>::RemoveNode(Node* node) {
 		ParentPointTo(node, node->left);
 		node->left->parent = node->parent;
 
-		updateHeights(node->parent);
-		this->balance(node->parent);
+		if (node->parent) {
+			updateHeights(node->parent);
+			this->balance(node->parent);
+		}
 		delete node;
 		this->size--;
 		return;
