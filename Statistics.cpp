@@ -23,6 +23,7 @@ StatusType Statistics::PlantTree(int i, int j) {
 	Plant* plant = NULL;
 	try {
 		plant = new Plant();
+		plant->setLocation(PairID(i,j));
 		orchard.AddPlant(i, j, plant);
 	} catch (InvalidInput& e) {
 		delete plant;
@@ -123,8 +124,8 @@ StatusType Statistics::GetBestFruit(int i, int j, int *fruitID) {
 StatusType Statistics::GetAllFruitsByRate(int i, int j, int **fruits,
 		int *numOfFruits) {
 	try {
-		if (i==3 && j==3) // TODO: debugging
-				cout << "E=MC^2" << endl;
+//		if (i==3 && j==3) // TODO: debugging
+//				cout << "E=MC^2" << endl;
 
 		Plant* plant = orchard.GetPlant(i, j);
 		int size = plant->GetSize();

@@ -11,7 +11,8 @@
 #include "../Exceptions/AVLExceptions.h"
 
 Plant::Plant() {
-	// TODO Auto-generated constructor stub
+	i=-1;
+	j=-1;
 }
 
 Plant::~Plant() {
@@ -77,6 +78,11 @@ bool Plant::DoesExist(int fruitID) {
 	return idSortedTree.DoesExist(fruitID);
 }
 
+void Plant::setLocation(PairID location){
+	this->i = location.msi;
+	this->j = location.lsi;
+}
+
 void Plant::attackedBy(Insect& insect) {
 
 	int length = this->rateSortedTree.GetSize();
@@ -135,9 +141,4 @@ void Plant::attackedBy(Insect& insect) {
 
 	this->rateSortedTree.LoadSortedArray(updatedKeys, updatedFruits, length);
 
-	//TODO delete after debugging
-	Fruit** tmppp = this->rateSortedTree.getSortedArray();
-	for (int i = 0; i < length; i++)
-		if (tmppp[i] == NULL)
-			cout << "#1" << endl;
 }

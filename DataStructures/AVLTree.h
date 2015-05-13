@@ -59,7 +59,7 @@ private:
 	void print2(Node* nodeToPrint, int level);
 	T* getSortedArray2(T* array, Node* node);
 	void destroy2(Node* node);
-	Node* LoadSortedArray2(K* sortedKeysArray, T* sortedArray, int length);
+	Node* LoadSortedArray2(K* sortedKeysArray, T* sortedArray, int length, Node* parent);
 
 public:
 	AVLTree();
@@ -108,7 +108,7 @@ void AVLTree<K, T>::LoadSortedArray(K* sortedKeysArray, T* sortedDataArray,
 		if (sortedKeysArray[i - 1] > sortedKeysArray[i])
 			throw IllegalInput();
 	Reset();
-	root = LoadSortedArray2(sortedKeysArray, sortedDataArray, length);
+	root = LoadSortedArray2(sortedKeysArray, sortedDataArray, length, NULL);
 	updateSmallest();
 	this->size = length;
 	return;
@@ -473,7 +473,7 @@ void AVLTree<K, T>::destroy2(Node* node) {
 
 template<class K, class T>
 typename AVLTree<K, T>::Node* AVLTree<K, T>::LoadSortedArray2(
-		K* sortedKeysArray, T* sortedDataArray, int length) {
+		K* sortedKeysArray, T* sortedDataArray, int length, Node* parent) {
 	if (length == 0)
 		return NULL;
 	Node* node = new Node();
@@ -481,9 +481,10 @@ typename AVLTree<K, T>::Node* AVLTree<K, T>::LoadSortedArray2(
 	int pos = length / 2;
 	node->key = sortedKeysArray[pos];
 	node->data = sortedDataArray[pos];
-	node->left = LoadSortedArray2(sortedKeysArray, sortedDataArray, pos);
+	node->parent = parent;
+	node->left = LoadSortedArray2(sortedKeysArray, sortedDataArray, pos, node);
 	node->right = LoadSortedArray2(sortedKeysArray + pos + 1,
-			sortedDataArray + pos + 1, length - pos - 1);
+			sortedDataArray + pos + 1, length - pos - 1, node);
 
 	// find the height
 	if (!node->left && !node->right) // no childs

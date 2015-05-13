@@ -17,7 +17,7 @@ class Plant {
 private:
 	AVLTree<int, Fruit*> idSortedTree;
 	AVLTree<PairID, Fruit*> rateSortedTree; // Paird: msb=rate, lsb=id
-
+	int i,j;
 
 public:
 	Plant();
@@ -29,6 +29,7 @@ public:
 	Fruit** GetAllFruitsByRate(); // Array of Pointers to Fruits
 	int GetSize();
 	bool DoesExist(int fruitID);
+	void setLocation(PairID location);
 	void attackedBy(Insect& insect);
 };
 
