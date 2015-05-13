@@ -34,6 +34,10 @@ StatusType Statistics::PlantTree(int i, int j) {
 		delete plant;
 		return FAILURE;
 	}
+		catch (PlantAlreadyExist& e) {
+				delete plant;
+				return FAILURE;
+	}
 	return SUCCESS;
 }
 
@@ -55,6 +59,11 @@ StatusType Statistics::AddFruit(int i, int j, int fruitID, int ripeRate) {
 		delete fruit;
 		return FAILURE;
 	}
+	catch (PlantDoesNotExist& e) {
+			delete fruit;
+			return FAILURE;
+		}
+
 	return SUCCESS;
 }
 
@@ -80,6 +89,8 @@ StatusType Statistics::RateFruit(int fruitID, int ripeRate) {
 		return ALLOCATION_ERROR;
 	} catch (Failure& e) {
 		return FAILURE;
+	} catch (FruitDoesNotExist& e) {
+		return FAILURE;
 	}
 	return SUCCESS;
 }
@@ -98,6 +109,9 @@ StatusType Statistics::GetBestFruit(int i, int j, int *fruitID) {
 	} catch (Failure& e) {
 		return FAILURE;
 	}
+	catch (PlantDoesNotExist& e) {
+				return FAILURE;
+			}
 	return SUCCESS;
 }
 
@@ -120,6 +134,9 @@ StatusType Statistics::GetAllFruitsByRate(int i, int j, int **fruits,
 	} catch (Failure& e) {
 		return FAILURE;
 	}
+	catch (PlantDoesNotExist& e) {
+			return FAILURE;
+		}
 	return SUCCESS;
 }
 

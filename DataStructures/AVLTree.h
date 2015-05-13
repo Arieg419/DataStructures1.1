@@ -121,7 +121,7 @@ int AVLTree<K, T>::GetSize() {
 // Time complexity: O(log(n))
 template<class K, class T>
 void AVLTree<K, T>::Insert(K key, T data) {
-	if (getNode(key)) {
+	if (DoesExist(key)) {
 		throw KeyAlreadyExist();
 	}
 
@@ -143,8 +143,26 @@ void AVLTree<K, T>::Insert(K key, T data) {
 		return;
 	} else { // tree is not empty.
 		Node* current = root;
+		Node* parent = NULL;
 		// TODO: rewrite loop to be similar to getByKey ?
-		while (new_node->parent == NULL) { // while wasn't placed yet
+		//////////////////////////////////////////////////////
+			while ((current != NULL) && (current->key != key)) {
+				parent=current;
+				if (key < current->key) { // left subtree
+					current = current->left;
+				} else { // right subtree
+					current = current->right;
+				}
+			}
+
+			// add to tree
+			if (key < parent->key)
+				parent->left = new_node;
+			else
+				parent->right = new_node;
+			new_node->parent = parent;
+		/////////////////////////////////////////////////////
+		/*while (new_node->parent == NULL) { // while wasn't placed yet
 			if (key == current->key) {
 				throw KeyAlreadyExist();
 			} else if (key < current->key) { // left subtree
@@ -162,7 +180,7 @@ void AVLTree<K, T>::Insert(K key, T data) {
 					current = current->right;
 				}
 			}
-		}
+		}*/
 		updateHeights(new_node);
 		this->balance(new_node);
 		return;
@@ -267,9 +285,9 @@ void AVLTree<K, T>::RemoveNode(Node* node) {
 			current = current->left;
 
 		// switch current and node.
-		K backupInt = current->key;
+		K backupK = current->key;
 		current->key = node->key;
-		node->key = backupInt;
+		node->key = backupK;
 
 		T backupT = current->data;
 		current->data = node->data;
@@ -352,6 +370,8 @@ void AVLTree<K, T>::llRotation(Node* node) {
 	node->parent = lChild;
 	// restore lost chain
 	node->left = lrChild;
+	if (lrChild)
+		lrChild->parent=node;
 
 	updateHeights(node);
 }
@@ -372,6 +392,8 @@ void AVLTree<K, T>::rrRotation(Node* node) {
 	node->parent = rChild;
 	// restore lost chain
 	node->right = rlChild;
+	if (rlChild)
+	rlChild->parent=node;
 
 	updateHeights(node);
 }
@@ -432,9 +454,9 @@ void AVLTree<K, T>::print2(Node* nodeToPrint, int level) {
 		for (i = 0; i < level && nodeToPrint != root; i++) {
 			cout << "       ";
 		}
-		cout << nodeToPrint->key;
+		//cout << nodeToPrint->key;
 		//cout << nodeToPrint->data;
-		//cout << nodeToPrint->height;
+		cout << nodeToPrint->height;
 		//cout << nodeToPrint->getBalance();
 
 		print2(nodeToPrint->left, level + 1);

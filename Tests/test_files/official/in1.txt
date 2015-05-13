@@ -1,0 +1,24 @@
+Init 5
+PlantTree 1 1
+AddFruit 1 1 42 8
+PlantTree 4 1
+AddFruit 4 1 18 8
+AddFruit 1 1 42 6
+GetBestFruit 1 1
+AddFruit 1 1 30 7
+GetBestFruit 1 1
+RateFruit 42 3
+GetBestFruit 1 1
+GetAllFruitsByRate 1 1
+GetAllFruitsByRate 4 1
+PickFruit 18
+GetAllFruitsByRate 4 1
+AddFruit 4 1 21 3
+AddFruit 1 1 25 5
+GetAllFruitsByRate 1 1
+GetAllFruitsByRate 4 1
+UpdateRottenFruits 7 2
+GetAllFruitsByRate 1 1
+GetAllFruitsByRate 4 1
+Quit
+

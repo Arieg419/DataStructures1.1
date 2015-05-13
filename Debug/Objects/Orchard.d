@@ -5,7 +5,7 @@ Objects/Orchard.d: ../Objects/Orchard.cpp ../Objects/../Objects/Orchard.h \
  ../Objects/../Objects/../DataStructures/PairID.h \
  ../Objects/../Objects/Fruit.h ../Objects/../Objects/Insect.h \
  ../Objects/../Exceptions/OrchardExceptions.h \
- ../Objects/../Exceptions/AVLExceptions.h
+ ../Objects/../Exceptions/AVLExceptions.h ../Objects/../Objects/Plant.h
 
 ../Objects/../Objects/Orchard.h:
 
@@ -24,3 +24,5 @@ Objects/Orchard.d: ../Objects/Orchard.cpp ../Objects/../Objects/Orchard.h \
 ../Objects/../Exceptions/OrchardExceptions.h:
 
 ../Objects/../Exceptions/AVLExceptions.h:
+
+../Objects/../Objects/Plant.h:

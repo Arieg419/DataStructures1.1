@@ -1,0 +1,267 @@
+Init 8826
+UpdateRottenFruits 6 4
+GetBestFruit 56 32
+GetBestFruit 57 33
+UpdateRottenFruits 2 4
+GetAllFruitsByRate 2 6
+RateFruit 93 4
+GetBestFruit 97 35
+UpdateRottenFruits 8 2
+RateFruit 33 3
+GetBestFruit 0 10
+PlantTree 19 105
+GetAllFruitsByRate 7 8
+PlantTree 23 5
+PickFruit 14
+AddFruit 65 31 2 7
+AddFruit 64 47 2 6
+RateFruit 92 1
+PickFruit 7
+PickFruit 29
+RateFruit 28 3
+GetAllFruitsByRate 4 4
+AddFruit 51 10 4 4
+PlantTree 52 50
+RateFruit 23 2
+PickFruit 12
+AddFruit 92 24 2 7
+GetAllFruitsByRate 5 5
+GetAllFruitsByRate 7 -1
+GetBestFruit 63 23
+UpdateRottenFruits 3 3
+UpdateRottenFruits 10 1
+GetBestFruit 1 57
+PickFruit 78
+GetBestFruit 52 63
+PlantTree 61 103
+RateFruit 92 0
+RateFruit 5 1
+PickFruit 1
+PlantTree 4 68
+UpdateRottenFruits 3 2
+PlantTree 9 68
+AddFruit 33 46 2 0
+GetBestFruit 23 66
+UpdateRottenFruits 6 4
+AddFruit 71 45 4 2
+UpdateRottenFruits 8 2
+PickFruit 42
+GetAllFruitsByRate 3 8
+RateFruit 32 3
+GetBestFruit 0 77
+GetAllFruitsByRate 2 9
+UpdateRottenFruits 10 1
+RateFruit 80 4
+GetBestFruit 31 53
+UpdateRottenFruits 7 4
+PickFruit 34
+GetAllFruitsByRate 4 4
+AddFruit 9 82 4 0
+PickFruit 23
+RateFruit 76 4
+AddFruit 53 91 1 0
+AddFruit 43 40 1 2
+UpdateRottenFruits 6 1
+AddFruit 102 58 2 7
+RateFruit 50 4
+PickFruit 8
+PickFruit 70
+RateFruit 81 1
+UpdateRottenFruits 7 1
+GetAllFruitsByRate 4 0
+GetBestFruit 62 3
+PlantTree 71 81
+GetBestFruit 30 0
+UpdateRottenFruits 3 2
+PickFruit 21
+PickFruit 39
+PlantTree 69 89
+PickFruit 17
+GetAllFruitsByRate 7 8
+PlantTree 90 30
+UpdateRottenFruits 7 3
+PickFruit 47
+UpdateRottenFruits 4 4
+PickFruit 69
+UpdateRottenFruits 9 1
+GetBestFruit 91 73
+AddFruit 80 25 2 3
+AddFruit 41 67 1 2
+GetBestFruit 91 41
+GetBestFruit 85 31
+AddFruit 38 39 0 5
+PickFruit 89
+GetBestFruit 0 62
+GetBestFruit 70 45
+AddFruit 47 81 3 1
+AddFruit 63 90 3 1
+AddFruit 88 68 2 4
+PickFruit 53
+RateFruit 46 1
+GetBestFruit 4 59
+UpdateRottenFruits 5 3
+AddFruit 64 44 1 7
+PickFruit 35
+RateFruit 50 0
+GetBestFruit 85 75
+PlantTree 47 96
+AddFruit 60 70 1 5
+RateFruit 81 4
+PickFruit 70
+PlantTree 88 87
+PickFruit 4
+UpdateRottenFruits 2 2
+UpdateRottenFruits 9 3
+PlantTree 8 32
+GetAllFruitsByRate 3 2
+PickFruit 52
+PlantTree 26 75
+GetBestFruit 38 61
+PickFruit 39
+PickFruit 66
+PlantTree 44 109
+GetBestFruit 97 77
+PickFruit 10
+GetBestFruit 27 29
+RateFruit 97 2
+PlantTree 40 56
+RateFruit 30 0
+GetBestFruit 28 1
+UpdateRottenFruits 7 1
+GetAllFruitsByRate 7 3
+GetAllFruitsByRate 6 5
+GetBestFruit 41 30
+PickFruit 71
+AddFruit 85 33 0 3
+PickFruit 78
+UpdateRottenFruits 6 2
+PickFruit 63
+GetBestFruit 71 56
+UpdateRottenFruits 10 4
+UpdateRottenFruits 3 1
+GetAllFruitsByRate 6 6
+PlantTree 77 101
+UpdateRottenFruits 9 1
+GetBestFruit 4 62
+GetBestFruit 48 10
+PlantTree 46 23
+UpdateRottenFruits 7 4
+AddFruit 20 87 4 7
+PickFruit 67
+RateFruit 21 2
+PickFruit 52
+UpdateRottenFruits 4 1
+GetAllFruitsByRate 5 9
+GetBestFruit 95 77
+RateFruit 76 0
+PickFruit 71
+RateFruit 58 2
+RateFruit 52 2
+AddFruit 94 34 4 1
+GetAllFruitsByRate 3 0
+GetBestFruit 6 0
+PlantTree 6 40
+RateFruit 28 4
+RateFruit 47 1
+GetBestFruit 12 31
+RateFruit 88 0
+PickFruit 72
+GetAllFruitsByRate 5 0
+AddFruit 1 99 1 1
+PlantTree 21 18
+RateFruit 30 2
+AddFruit 2 37 3 2
+RateFruit 31 0
+PickFruit 67
+AddFruit 71 16 3 3
+RateFruit 83 0
+GetAllFruitsByRate 2 3
+AddFruit 9 37 2 0
+PickFruit 64
+AddFruit 102 71 1 4
+UpdateRottenFruits 9 2
+PlantTree 99 8
+PickFruit 46
+GetAllFruitsByRate 5 8
+PlantTree 62 11
+RateFruit 19 4
+RateFruit 9 0
+UpdateRottenFruits 8 3
+PickFruit 68
+PlantTree 46 53
+PickFruit 20
+RateFruit 14 1
+UpdateRottenFruits 10 3
+GetBestFruit 95 25
+GetAllFruitsByRate 3 1
+PlantTree 34 42
+GetAllFruitsByRate 5 6
+PickFruit 17
+AddFruit 34 51 4 1
+GetBestFruit 69 17
+PlantTree 83 102
+PlantTree 28 100
+PlantTree 4 13
+PickFruit 93
+PlantTree 88 101
+UpdateRottenFruits 4 2
+PickFruit 98
+PlantTree 51 45
+GetAllFruitsByRate 6 1
+PlantTree 69 77
+GetAllFruitsByRate 4 8
+GetBestFruit 57 42
+GetAllFruitsByRate 8 5
+UpdateRottenFruits 6 3
+AddFruit 44 54 2 6
+UpdateRottenFruits 7 4
+AddFruit 87 43 3 0
+GetAllFruitsByRate 4 5
+GetAllFruitsByRate 7 3
+PickFruit 81
+GetAllFruitsByRate 7 1
+UpdateRottenFruits 5 1
+RateFruit 6 1
+RateFruit 60 2
+PickFruit 43
+GetBestFruit 88 7
+RateFruit 32 4
+AddFruit 105 99 1 7
+AddFruit 0 63 2 6
+UpdateRottenFruits 5 4
+GetBestFruit 92 24
+PickFruit 38
+GetAllFruitsByRate 1 5
+PickFruit 76
+PlantTree 0 30
+AddFruit 58 18 3 7
+GetBestFruit 21 12
+PlantTree 49 84
+RateFruit 81 2
+GetAllFruitsByRate 8 3
+AddFruit 2 7 3 3
+GetBestFruit 82 21
+GetBestFruit 2 37
+RateFruit 3 3
+RateFruit 76 2
+AddFruit 49 20 4 0
+PickFruit 17
+GetAllFruitsByRate 2 2
+UpdateRottenFruits 6 4
+UpdateRottenFruits 1 1
+GetAllFruitsByRate 7 9
+PlantTree 2 39
+PlantTree 38 84
+PlantTree 78 1
+GetBestFruit 24 1
+RateFruit 31 2
+GetAllFruitsByRate 1 8
+AddFruit 49 18 2 7
+PlantTree 60 40
+AddFruit 4 97 0 7
+GetAllFruitsByRate 2 5
+GetAllFruitsByRate 4 3
+GetBestFruit 90 32
+RateFruit 30 4
+PlantTree 15 32
+Quit

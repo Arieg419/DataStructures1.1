@@ -9,6 +9,8 @@
 #include "../Exceptions/OrchardExceptions.h"
 
 Insect::Insect(int rottenBase, int rottenFactor) {
+	if (rottenBase<1 || rottenFactor<1)
+		throw InvalidInput();
 	this->rottenBase = rottenBase;
 	this->rottenFactor = rottenFactor;
 }

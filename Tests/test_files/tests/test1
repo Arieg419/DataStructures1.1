@@ -1,0 +1,10002 @@
+Init 4
+PickFruit 96
+RateFruit 25 12
+RateFruit 89 94
+AddFruit 1 1 72 27
+RateFruit 8 67
+GetAllFruitsByRate 1 0
+PickFruit 56
+GetBestFruit 2 0
+AddFruit 4 2 79 76
+GetBestFruit 0 1
+AddFruit 2 4 95 2
+PlantTree 1 3
+RateFruit 65 75
+AddFruit 1 3 62 18
+AddFruit 2 0 96 18
+PickFruit 72
+RateFruit 68 58
+AddFruit 3 1 49 68
+AddFruit 1 2 19 84
+PickFruit 81
+GetAllFruitsByRate 0 3
+RateFruit 15 6
+GetAllFruitsByRate 4 4
+GetBestFruit 4 1
+RateFruit 71 3
+AddFruit 0 2 53 2
+PickFruit 45
+PlantTree 1 1
+GetAllFruitsByRate 1 0
+RateFruit 1 62
+AddFruit 3 3 11 27
+PickFruit 42
+GetBestFruit 3 4
+GetAllFruitsByRate 4 3
+RateFruit 36 22
+PickFruit 25
+AddFruit 0 1 46 23
+AddFruit 2 2 61 64
+PickFruit 49
+AddFruit 0 0 72 -3
+GetAllFruitsByRate 2 0
+RateFruit 67 57
+GetBestFruit 2 3
+AddFruit 0 2 60 50
+RateFruit 57 92
+AddFruit 3 1 27 79
+PlantTree 0 3
+GetBestFruit 4 1
+GetAllFruitsByRate 4 0
+PlantTree 3 0
+AddFruit 3 3 2 80
+GetAllFruitsByRate 2 4
+RateFruit 34 95
+RateFruit 35 75
+AddFruit 4 0 59 45
+PlantTree 0 4
+PlantTree 3 3
+AddFruit 2 4 74 52
+AddFruit 1 0 25 82
+GetAllFruitsByRate 3 0
+RateFruit 94 91
+AddFruit 0 1 55 69
+GetBestFruit 2 0
+AddFruit 0 3 15 78
+AddFruit 0 0 40 27
+RateFruit 81 27
+AddFruit 3 3 86 36
+AddFruit 4 0 73 23
+RateFruit 6 35
+AddFruit 4 0 68 82
+AddFruit 1 2 22 93
+AddFruit 1 0 74 69
+PickFruit 82
+GetAllFruitsByRate 1 1
+GetAllFruitsByRate 4 4
+PickFruit 96
+AddFruit 1 1 30 89
+PickFruit 34
+GetBestFruit 0 3
+GetBestFruit 0 2
+PickFruit 91
+GetBestFruit 3 1
+PickFruit 22
+GetBestFruit 2 1
+AddFruit 2 1 84 19
+GetBestFruit 1 0
+PlantTree 1 0
+PickFruit 25
+RateFruit 73 76
+RateFruit 65 85
+PickFruit 31
+RateFruit -2 23
+RateFruit 32 -2
+PickFruit 12
+PickFruit 78
+RateFruit 79 49
+AddFruit 1 0 32 37
+GetAllFruitsByRate 1 3
+GetAllFruitsByRate 1 0
+GetBestFruit 2 3
+AddFruit 1 3 46 42
+GetAllFruitsByRate 3 1
+AddFruit 4 4 16 21
+RateFruit 31 14
+AddFruit 2 0 45 38
+AddFruit 0 4 78 70
+AddFruit 3 1 59 24
+RateFruit 31 60
+PickFruit -1
+GetBestFruit 1 0
+AddFruit 0 2 64 57
+GetBestFruit 3 0
+AddFruit 3 1 21 2
+GetAllFruitsByRate 2 0
+RateFruit 78 26
+AddFruit 1 2 76 80
+AddFruit 0 4 72 96
+PlantTree 1 0
+GetAllFruitsByRate 3 2
+RateFruit 54 94
+GetBestFruit 4 1
+GetBestFruit 0 4
+AddFruit 1 2 25 29
+RateFruit 84 44
+GetAllFruitsByRate 4 1
+PlantTree 4 0
+AddFruit 3 4 23 29
+RateFruit 96 85
+GetAllFruitsByRate 1 4
+PlantTree 0 0
+GetAllFruitsByRate 3 2
+RateFruit 77 11
+PickFruit 78
+RateFruit 32 35
+GetBestFruit 3 1
+AddFruit 2 4 33 71
+PickFruit 28
+PickFruit 48
+PlantTree 3 0
+AddFruit 1 0 43 3
+GetBestFruit 1 0
+AddFruit 1 1 39 91
+PlantTree 0 1
+PickFruit 63
+AddFruit 0 1 93 10
+PickFruit 40
+PlantTree 2 2
+RateFruit 92 54
+PlantTree 4 4
+GetAllFruitsByRate 4 4
+GetBestFruit 0 0
+GetAllFruitsByRate 4 4
+PickFruit 74
+PickFruit 80
+PlantTree 1 1
+GetBestFruit 3 1
+PlantTree 4 0
+PlantTree 1 3
+AddFruit 2 0 4 0
+AddFruit 0 1 61 28
+RateFruit 49 29
+GetBestFruit 4 2
+PickFruit 67
+PickFruit 34
+AddFruit 4 3 17 59
+PlantTree 2 2
+AddFruit 0 3 11 32
+AddFruit 3 3 18 48
+PlantTree 1 0
+AddFruit 3 4 32 20
+AddFruit 0 4 23 38
+PlantTree 1 3
+GetBestFruit 0 1
+RateFruit 91 94
+GetAllFruitsByRate 1 1
+RateFruit 5 44
+GetBestFruit 2 4
+PickFruit 8
+GetBestFruit 4 3
+PickFruit 86
+AddFruit 0 1 79 46
+RateFruit 65 32
+GetAllFruitsByRate 0 2
+PickFruit 68
+AddFruit 2 4 36 80
+AddFruit 1 4 78 63
+AddFruit 2 0 38 82
+AddFruit 3 1 19 7
+PlantTree 4 4
+AddFruit 1 1 74 92
+PlantTree 2 3
+AddFruit 1 4 82 78
+PickFruit 10
+GetAllFruitsByRate 1 3
+AddFruit 3 0 46 90
+RateFruit 58 40
+PickFruit 85
+GetAllFruitsByRate 1 0
+GetAllFruitsByRate 3 0
+PlantTree 0 2
+RateFruit 54 52
+PlantTree 2 2
+GetBestFruit 2 1
+RateFruit 37 53
+PlantTree 4 4
+GetBestFruit 4 2
+PlantTree 2 2
+GetAllFruitsByRate 4 2
+PlantTree 4 4
+AddFruit 2 2 89 23
+AddFruit 1 4 13 53
+AddFruit 2 4 34 47
+PickFruit 70
+RateFruit 83 89
+PickFruit 51
+RateFruit 48 15
+PickFruit 35
+AddFruit 3 2 29 42
+GetBestFruit 1 3
+PlantTree 4 4
+PlantTree 3 3
+PickFruit 84
+PlantTree 1 0
+RateFruit 28 56
+AddFruit 3 1 64 86
+RateFruit 51 95
+GetBestFruit 2 1
+GetAllFruitsByRate 2 3
+PickFruit 73
+AddFruit 0 0 10 13
+PlantTree 0 3
+PlantTree 4 1
+PlantTree 4 3
+PickFruit 15
+PickFruit 45
+AddFruit 4 3 39 31
+AddFruit 2 0 68 40
+AddFruit 0 0 61 15
+RateFruit 2 60
+AddFruit 4 3 57 49
+AddFruit 1 0 72 85
+GetBestFruit 4 1
+RateFruit 43 96
+GetBestFruit 2 2
+PlantTree 4 3
+AddFruit 1 4 80 63
+AddFruit 3 0 66 72
+RateFruit 56 26
+AddFruit 1 3 28 76
+AddFruit 1 0 29 15
+GetAllFruitsByRate 4 3
+GetBestFruit 1 3
+PlantTree 3 4
+RateFruit 83 56
+GetAllFruitsByRate 4 1
+RateFruit 17 95
+RateFruit 48 93
+PlantTree 3 2
+GetBestFruit 0 2
+RateFruit 25 27
+GetAllFruitsByRate 0 2
+GetBestFruit 3 0
+PickFruit 40
+AddFruit 0 2 2 53
+AddFruit 2 1 88 79
+PlantTree 2 3
+GetAllFruitsByRate 2 2
+GetAllFruitsByRate 0 0
+AddFruit 2 3 11 49
+PickFruit 21
+GetBestFruit 4 4
+AddFruit 2 3 33 32
+PickFruit 79
+PlantTree 0 2
+AddFruit 3 3 23 25
+GetAllFruitsByRate 1 0
+AddFruit 3 3 21 64
+GetBestFruit 1 1
+GetAllFruitsByRate 2 3
+RateFruit 92 39
+AddFruit 3 0 23 27
+AddFruit 4 4 75 59
+AddFruit 4 2 72 71
+GetAllFruitsByRate 2 1
+AddFruit 3 0 68 67
+PlantTree 3 1
+PickFruit 54
+PlantTree 3 4
+RateFruit 0 40
+PickFruit 64
+PlantTree 3 1
+AddFruit 1 3 57 48
+GetBestFruit 0 3
+RateFruit 14 79
+AddFruit 3 0 27 0
+GetBestFruit 0 1
+RateFruit 41 74
+PlantTree 4 4
+PlantTree 1 3
+AddFruit 1 0 22 32
+PickFruit 39
+AddFruit 3 3 58 21
+GetBestFruit 2 0
+PlantTree 2 3
+PickFruit 46
+GetBestFruit 2 0
+RateFruit 4 81
+GetBestFruit 4 0
+RateFruit 24 67
+AddFruit 0 4 31 63
+PickFruit 55
+GetBestFruit 3 3
+RateFruit 67 61
+GetAllFruitsByRate 0 4
+AddFruit 2 3 35 27
+PlantTree 3 1
+PickFruit 6
+GetBestFruit 0 0
+PlantTree 2 1
+RateFruit 94 59
+AddFruit 2 4 19 56
+PlantTree 4 2
+RateFruit 67 37
+RateFruit 66 55
+AddFruit 3 1 70 62
+RateFruit 55 24
+AddFruit 2 1 18 88
+PickFruit 84
+RateFruit 4 66
+PlantTree 4 4
+RateFruit 29 88
+PlantTree 2 0
+GetAllFruitsByRate 0 3
+AddFruit 4 3 87 18
+AddFruit 4 0 78 88
+GetBestFruit 2 3
+RateFruit 0 27
+PlantTree 1 1
+GetAllFruitsByRate 2 2
+PickFruit 43
+AddFruit 3 4 83 48
+GetAllFruitsByRate 4 2
+GetAllFruitsByRate 4 0
+GetAllFruitsByRate 4 0
+GetAllFruitsByRate 3 3
+AddFruit 4 0 35 66
+RateFruit 42 17
+GetAllFruitsByRate 0 1
+PlantTree 0 0
+AddFruit 2 2 61 96
+PlantTree 2 4
+GetAllFruitsByRate 4 1
+PickFruit 24
+AddFruit 2 0 17 38
+PlantTree 3 0
+GetBestFruit 4 2
+AddFruit 4 0 62 5
+AddFruit 1 3 50 79
+AddFruit 2 1 25 58
+PickFruit 83
+AddFruit 4 4 58 18
+PlantTree 3 2
+PlantTree 2 1
+PickFruit 88
+AddFruit 4 1 45 6
+PickFruit 10
+AddFruit 1 3 29 13
+UpdateRottenFruits -2 13
+PlantTree 1 3
+RateFruit 77 22
+RateFruit 14 82
+PickFruit 89
+AddFruit 3 3 67 23
+AddFruit 3 0 49 23
+GetAllFruitsByRate 4 1
+GetAllFruitsByRate 3 4
+AddFruit 4 2 20 2
+GetAllFruitsByRate 1 0
+GetAllFruitsByRate 2 0
+PickFruit 40
+GetAllFruitsByRate 1 1
+RateFruit 17 3
+AddFruit 4 3 92 17
+GetBestFruit 1 2
+GetAllFruitsByRate 0 2
+AddFruit 2 2 2 -3
+RateFruit 35 83
+PlantTree 0 1
+RateFruit 72 64
+GetBestFruit 1 0
+RateFruit 70 68
+PickFruit 63
+GetBestFruit 1 0
+PlantTree 2 1
+PlantTree 4 2
+AddFruit 0 1 12 3
+PlantTree 0 0
+GetBestFruit 1 1
+PlantTree 2 1
+PlantTree 2 1
+PickFruit 95
+GetAllFruitsByRate 4 3
+GetBestFruit 3 3
+RateFruit 9 88
+AddFruit 0 1 96 91
+GetAllFruitsByRate 1 2
+PickFruit 30
+AddFruit 0 1 63 34
+AddFruit 4 4 58 15
+AddFruit 1 4 -2 45
+PickFruit 69
+GetAllFruitsByRate 2 1
+RateFruit 90 5
+GetAllFruitsByRate 2 4
+AddFruit 1 4 83 80
+GetBestFruit 1 3
+GetBestFruit 1 3
+GetBestFruit 0 3
+GetBestFruit 3 2
+PlantTree 4 2
+AddFruit 1 0 63 34
+GetBestFruit 2 3
+PickFruit 39
+AddFruit 3 2 70 26
+AddFruit 2 1 72 44
+PlantTree 4 3
+PickFruit 81
+RateFruit -3 94
+PickFruit 66
+AddFruit 4 0 26 93
+PickFruit 8
+GetBestFruit 1 1
+RateFruit 76 75
+GetAllFruitsByRate 4 2
+PickFruit 48
+PlantTree 3 3
+AddFruit 1 0 4 25
+GetBestFruit 3 2
+AddFruit 4 1 40 34
+AddFruit 2 1 37 70
+AddFruit 3 3 60 75
+PickFruit 96
+GetAllFruitsByRate 1 1
+AddFruit 1 0 70 95
+GetAllFruitsByRate 4 3
+AddFruit 1 3 32 92
+RateFruit 14 46
+PickFruit 70
+RateFruit 43 20
+AddFruit 0 1 20 2
+PlantTree 0 3
+PickFruit 14
+GetBestFruit 1 1
+GetAllFruitsByRate 1 1
+PickFruit 34
+AddFruit 0 3 7 57
+GetAllFruitsByRate 2 3
+RateFruit 66 46
+GetAllFruitsByRate 4 1
+PlantTree 4 4
+AddFruit 2 2 19 82
+PlantTree 3 1
+GetAllFruitsByRate 4 4
+AddFruit 2 0 43 6
+AddFruit 3 2 70 87
+PlantTree 2 0
+AddFruit 3 4 46 5
+AddFruit 0 0 50 8
+PlantTree 4 0
+PickFruit 74
+GetAllFruitsByRate 2 2
+AddFruit 0 3 50 -3
+PlantTree 0 2
+GetBestFruit 1 2
+PlantTree 0 4
+AddFruit 3 2 65 36
+AddFruit 2 4 58 47
+PlantTree 4 0
+AddFruit 3 3 90 4
+PlantTree 0 3
+AddFruit 4 0 88 39
+AddFruit 3 0 40 88
+GetAllFruitsByRate 1 1
+PlantTree 3 0
+GetAllFruitsByRate 0 3
+AddFruit 2 3 -3 60
+PickFruit -2
+AddFruit 0 4 52 27
+RateFruit 50 76
+GetAllFruitsByRate 1 2
+PlantTree 3 1
+GetBestFruit 3 0
+GetAllFruitsByRate 3 0
+PlantTree 1 4
+RateFruit 35 10
+PlantTree 3 4
+PickFruit 54
+PickFruit 42
+AddFruit 3 3 89 49
+GetBestFruit 3 3
+AddFruit 0 2 31 76
+AddFruit 4 2 5 29
+PickFruit 34
+AddFruit 0 3 54 84
+AddFruit 4 0 70 38
+RateFruit 43 61
+RateFruit 76 66
+PlantTree 0 1
+AddFruit 2 2 31 64
+GetAllFruitsByRate 1 4
+GetAllFruitsByRate 4 3
+PickFruit 0
+AddFruit 2 1 74 50
+GetBestFruit 1 4
+GetAllFruitsByRate 1 4
+GetAllFruitsByRate 0 2
+AddFruit 2 4 44 61
+AddFruit 3 2 56 50
+RateFruit 8 32
+AddFruit 0 2 32 55
+GetBestFruit 1 4
+AddFruit 3 4 31 55
+GetBestFruit 3 0
+GetBestFruit 4 3
+GetAllFruitsByRate 1 1
+AddFruit 0 4 47 44
+GetAllFruitsByRate 4 1
+AddFruit 0 0 81 49
+RateFruit 57 33
+AddFruit 4 0 5 66
+AddFruit 3 0 54 89
+AddFruit 0 0 56 13
+GetAllFruitsByRate 1 2
+AddFruit 0 4 86 56
+RateFruit 32 26
+PlantTree 0 4
+GetBestFruit 1 2
+PickFruit 72
+RateFruit 81 92
+RateFruit 80 56
+GetAllFruitsByRate 4 4
+PickFruit 41
+RateFruit 28 49
+PickFruit 84
+PickFruit 78
+PickFruit 21
+PickFruit 80
+AddFruit 1 4 61 52
+RateFruit 9 27
+AddFruit 3 3 25 70
+GetAllFruitsByRate 4 4
+GetBestFruit 4 4
+GetAllFruitsByRate 3 4
+RateFruit 68 69
+RateFruit 64 75
+RateFruit 38 77
+GetBestFruit 3 0
+AddFruit 1 4 64 42
+AddFruit 1 3 80 95
+PlantTree 1 2
+PlantTree 3 3
+GetAllFruitsByRate 1 0
+AddFruit 0 0 43 2
+GetAllFruitsByRate 0 4
+PlantTree 1 0
+PickFruit 16
+PickFruit -3
+AddFruit 1 0 61 90
+GetAllFruitsByRate 1 0
+PickFruit 58
+AddFruit 3 0 86 79
+GetBestFruit 0 1
+PlantTree 3 3
+GetAllFruitsByRate 0 2
+AddFruit 0 3 20 64
+PlantTree 0 4
+GetBestFruit 4 1
+RateFruit 88 73
+GetBestFruit 2 2
+AddFruit 3 2 51 50
+RateFruit 36 46
+RateFruit 11 57
+GetAllFruitsByRate 0 4
+GetAllFruitsByRate 3 4
+GetBestFruit 0 4
+PickFruit 80
+RateFruit 67 -2
+GetAllFruitsByRate 0 0
+GetAllFruitsByRate 4 4
+PlantTree 1 4
+RateFruit 80 80
+AddFruit 2 4 13 92
+AddFruit 0 3 55 40
+PickFruit 95
+RateFruit 83 81
+GetBestFruit 3 1
+RateFruit 65 76
+GetAllFruitsByRate 3 4
+AddFruit 2 4 62 71
+PickFruit 60
+AddFruit 0 1 22 96
+PickFruit 55
+PickFruit 45
+GetAllFruitsByRate 1 3
+AddFruit 0 1 17 2
+PlantTree 1 1
+AddFruit 0 2 91 11
+AddFruit 2 0 41 63
+GetAllFruitsByRate 3 2
+GetBestFruit 3 3
+RateFruit 62 12
+PlantTree 1 1
+GetAllFruitsByRate 3 2
+RateFruit 17 79
+PlantTree 3 1
+AddFruit 4 4 94 21
+GetAllFruitsByRate 4 2
+GetAllFruitsByRate 0 4
+AddFruit 1 2 51 14
+PickFruit 0
+AddFruit 3 0 96 77
+PickFruit 65
+GetBestFruit 3 3
+AddFruit 0 2 31 19
+RateFruit 27 47
+PlantTree 0 3
+PickFruit 21
+AddFruit 0 0 56 6
+AddFruit 3 3 5 -2
+GetBestFruit 3 1
+AddFruit 1 0 67 60
+PickFruit 22
+PickFruit 83
+AddFruit 1 4 24 88
+AddFruit 0 4 -2 55
+AddFruit 1 0 64 1
+AddFruit 4 3 5 56
+PickFruit 82
+RateFruit 60 34
+GetBestFruit 1 4
+GetAllFruitsByRate 0 0
+GetBestFruit 3 3
+AddFruit 3 1 50 38
+RateFruit 84 -3
+RateFruit 22 32
+PlantTree 3 3
+AddFruit 1 2 -3 27
+AddFruit 3 2 41 6
+AddFruit 3 0 24 29
+PlantTree 0 1
+GetAllFruitsByRate 2 1
+PickFruit 54
+GetBestFruit 4 2
+GetAllFruitsByRate 3 2
+AddFruit 2 3 79 30
+GetAllFruitsByRate 4 4
+PickFruit 69
+AddFruit 1 0 -3 3
+AddFruit 0 4 96 83
+AddFruit 3 0 81 26
+GetBestFruit 3 0
+PickFruit 63
+GetBestFruit 0 1
+GetBestFruit 2 1
+AddFruit 1 3 44 85
+PlantTree 2 1
+AddFruit 3 1 49 32
+AddFruit 2 4 58 84
+GetBestFruit 0 3
+GetAllFruitsByRate 4 3
+GetAllFruitsByRate 0 0
+AddFruit 3 1 29 77
+AddFruit 0 0 85 49
+PlantTree 2 1
+PickFruit 24
+GetBestFruit 4 3
+AddFruit 3 4 96 93
+AddFruit 1 4 23 27
+GetBestFruit 4 3
+RateFruit 84 24
+RateFruit 96 89
+PlantTree 4 4
+AddFruit 4 2 81 52
+AddFruit 0 1 63 0
+AddFruit 4 4 57 25
+AddFruit 4 1 75 59
+GetBestFruit 4 2
+PlantTree 4 1
+GetAllFruitsByRate 4 4
+GetAllFruitsByRate 1 2
+AddFruit 4 3 68 72
+AddFruit 3 0 87 55
+RateFruit 88 81
+GetAllFruitsByRate 1 3
+RateFruit 25 64
+AddFruit 3 0 75 80
+GetAllFruitsByRate 0 0
+AddFruit 4 0 34 63
+GetAllFruitsByRate 2 4
+PickFruit 68
+PickFruit 6
+AddFruit 1 4 7 94
+PlantTree 1 1
+GetAllFruitsByRate 0 0
+RateFruit 18 11
+AddFruit 1 2 50 48
+GetBestFruit 0 3
+PickFruit 42
+GetAllFruitsByRate 3 1
+AddFruit 3 3 26 38
+PlantTree 2 2
+AddFruit 2 2 1 25
+PlantTree 2 3
+AddFruit 1 3 53 9
+AddFruit 1 3 33 33
+GetBestFruit 2 1
+PickFruit 81
+AddFruit 0 2 83 49
+RateFruit 65 -1
+GetAllFruitsByRate 1 4
+AddFruit 3 3 38 29
+RateFruit 6 41
+RateFruit 86 69
+GetAllFruitsByRate 3 4
+AddFruit 4 0 34 49
+AddFruit 4 1 4 68
+PlantTree 4 3
+AddFruit 2 0 84 78
+GetAllFruitsByRate 4 2
+GetAllFruitsByRate 3 3
+AddFruit 0 2 12 61
+GetAllFruitsByRate 2 1
+PlantTree 4 2
+AddFruit 1 2 21 8
+AddFruit 4 1 46 91
+GetBestFruit 3 3
+AddFruit 0 4 7 27
+PickFruit 74
+GetAllFruitsByRate 3 2
+PlantTree 2 1
+AddFruit 1 0 91 75
+GetAllFruitsByRate 1 3
+AddFruit 1 2 11 24
+RateFruit 93 53
+RateFruit -1 86
+AddFruit 0 0 32 -2
+AddFruit 0 1 43 37
+GetBestFruit 3 4
+RateFruit 87 37
+PlantTree 0 3
+RateFruit 31 81
+GetBestFruit 2 3
+PlantTree 2 0
+RateFruit 88 30
+GetBestFruit 2 4
+AddFruit 0 4 28 1
+PlantTree 1 0
+GetAllFruitsByRate 4 3
+GetBestFruit 4 0
+AddFruit 4 2 59 37
+AddFruit 2 3 54 6
+PickFruit 24
+GetAllFruitsByRate 3 2
+PickFruit 29
+GetBestFruit 2 3
+AddFruit 2 4 38 17
+PickFruit 1
+AddFruit 1 2 96 6
+AddFruit 1 2 29 6
+GetBestFruit 3 3
+RateFruit 58 53
+PickFruit 75
+GetAllFruitsByRate 2 0
+AddFruit 0 0 80 59
+GetBestFruit 2 0
+PlantTree 2 3
+AddFruit 1 0 34 7
+GetBestFruit 1 2
+PlantTree 3 3
+RateFruit 29 6
+GetAllFruitsByRate 3 3
+AddFruit 1 2 -1 69
+PlantTree 1 0
+GetAllFruitsByRate 4 1
+GetBestFruit 2 3
+GetAllFruitsByRate 0 4
+GetBestFruit 3 2
+PlantTree 2 4
+GetAllFruitsByRate 1 3
+RateFruit 36 27
+GetBestFruit 4 3
+PlantTree 3 2
+PickFruit 67
+AddFruit 3 3 15 95
+AddFruit 4 3 21 47
+AddFruit 0 1 84 59
+PickFruit 13
+GetAllFruitsByRate 0 0
+AddFruit 4 4 24 31
+AddFruit 0 1 76 31
+GetAllFruitsByRate 3 1
+AddFruit 2 2 37 43
+AddFruit 3 2 75 84
+AddFruit 0 0 67 58
+PlantTree 4 2
+GetBestFruit 0 0
+AddFruit 2 4 30 3
+AddFruit 0 1 26 27
+GetBestFruit 1 1
+AddFruit 3 1 38 71
+AddFruit 1 1 56 30
+GetAllFruitsByRate 2 4
+PlantTree 3 3
+AddFruit 0 4 82 20
+PickFruit 25
+PlantTree 2 0
+AddFruit 4 4 68 35
+PlantTree 3 3
+AddFruit 0 2 51 51
+GetAllFruitsByRate 4 0
+PlantTree 0 3
+AddFruit 4 1 27 20
+RateFruit 29 29
+GetAllFruitsByRate 4 2
+RateFruit 6 17
+PlantTree 4 3
+PlantTree 2 3
+PickFruit 73
+PlantTree 2 0
+PickFruit 88
+AddFruit 4 4 57 78
+PlantTree 1 3
+PlantTree 4 0
+GetBestFruit 2 3
+PickFruit 48
+PickFruit 72
+AddFruit 0 1 79 1
+AddFruit 3 1 39 17
+RateFruit 9 3
+PickFruit 62
+PlantTree 1 0
+GetBestFruit 0 0
+AddFruit 3 1 62 17
+RateFruit 49 19
+GetBestFruit 0 3
+RateFruit 41 72
+PlantTree 4 1
+PlantTree 1 3
+RateFruit 18 82
+PickFruit 80
+GetBestFruit 1 1
+PickFruit 53
+PickFruit 80
+GetBestFruit 0 3
+PlantTree 2 3
+PickFruit 27
+PickFruit 53
+PlantTree 2 3
+PlantTree 3 3
+PickFruit 85
+GetBestFruit 4 1
+RateFruit 50 5
+AddFruit 4 0 71 54
+AddFruit 3 4 83 74
+GetAllFruitsByRate 3 4
+AddFruit 1 1 50 76
+AddFruit 1 0 29 31
+PickFruit 68
+GetBestFruit 1 0
+PickFruit 3
+PlantTree 2 4
+PlantTree 2 3
+PickFruit 0
+AddFruit 0 1 2 65
+AddFruit 0 0 36 25
+GetBestFruit 2 4
+AddFruit 4 4 38 74
+GetAllFruitsByRate 2 4
+PickFruit 25
+PickFruit 0
+PickFruit 68
+GetAllFruitsByRate 4 1
+RateFruit 36 93
+RateFruit 66 74
+PlantTree 2 2
+AddFruit 4 4 17 53
+GetAllFruitsByRate 0 0
+AddFruit 0 0 93 70
+GetAllFruitsByRate 4 1
+AddFruit 3 1 80 11
+RateFruit 24 34
+RateFruit 24 9
+AddFruit 1 2 11 78
+GetBestFruit 4 4
+PickFruit 29
+PickFruit 59
+AddFruit 2 1 87 89
+RateFruit 44 29
+PlantTree 4 2
+AddFruit 0 1 57 50
+AddFruit 4 4 16 32
+PlantTree 0 3
+RateFruit 57 72
+PlantTree 2 3
+AddFruit 3 4 39 0
+PickFruit 55
+AddFruit 4 0 54 17
+PlantTree 1 2
+AddFruit 0 1 47 93
+PlantTree 2 4
+GetBestFruit 4 1
+AddFruit 0 1 82 64
+PlantTree 3 3
+PickFruit 1
+GetBestFruit 0 1
+PickFruit 92
+PickFruit -1
+AddFruit 1 3 47 31
+RateFruit 53 80
+RateFruit 63 44
+PlantTree 2 4
+AddFruit 3 0 88 20
+AddFruit 4 1 11 21
+AddFruit 3 3 63 40
+AddFruit 4 3 28 78
+GetBestFruit 0 3
+AddFruit 4 4 60 94
+PlantTree 4 0
+PlantTree 0 4
+AddFruit 1 2 11 12
+AddFruit 2 1 84 62
+AddFruit 0 1 86 65
+PickFruit 53
+PlantTree 4 4
+GetBestFruit 2 2
+PlantTree 4 3
+PlantTree 4 3
+AddFruit 4 3 94 55
+RateFruit 67 1
+AddFruit 1 3 86 86
+RateFruit 78 59
+AddFruit 0 0 94 51
+AddFruit 3 3 43 50
+GetAllFruitsByRate 2 4
+AddFruit 1 3 55 67
+GetAllFruitsByRate 3 0
+AddFruit 2 4 73 65
+PickFruit 87
+PickFruit 42
+GetBestFruit 3 4
+GetAllFruitsByRate 2 1
+AddFruit 2 3 41 1
+GetBestFruit 2 2
+GetAllFruitsByRate 2 1
+GetBestFruit 0 1
+PickFruit 20
+PickFruit 40
+AddFruit 4 2 17 71
+RateFruit 2 76
+PickFruit 80
+RateFruit 19 93
+GetAllFruitsByRate 3 0
+GetBestFruit 2 4
+GetAllFruitsByRate 0 2
+RateFruit 88 1
+PlantTree 0 0
+PlantTree 2 2
+RateFruit 67 45
+GetBestFruit 1 3
+AddFruit 0 1 92 37
+PlantTree 4 4
+GetBestFruit 4 4
+GetBestFruit 2 0
+AddFruit 4 3 55 67
+RateFruit 10 67
+AddFruit 1 3 77 3
+AddFruit 4 3 89 51
+GetBestFruit 0 3
+PickFruit 16
+AddFruit 1 3 39 84
+AddFruit 0 2 82 81
+AddFruit 1 4 6 28
+AddFruit 4 4 58 -1
+AddFruit 4 4 56 56
+PlantTree 2 0
+GetBestFruit 4 3
+PickFruit 60
+GetAllFruitsByRate 3 2
+RateFruit 1 81
+RateFruit 30 94
+RateFruit 60 30
+AddFruit 4 4 52 74
+RateFruit 4 68
+AddFruit 2 2 83 43
+GetAllFruitsByRate 1 2
+PickFruit 96
+PickFruit 4
+AddFruit 1 3 64 78
+RateFruit 92 54
+PickFruit 28
+PickFruit -1
+RateFruit 56 49
+GetBestFruit 1 0
+PlantTree 3 3
+PlantTree 0 3
+GetBestFruit 2 4
+PickFruit 70
+PickFruit 6
+PickFruit 8
+PickFruit 42
+GetBestFruit 0 2
+RateFruit 11 67
+AddFruit 1 3 33 11
+AddFruit 4 3 76 90
+PickFruit 81
+AddFruit 2 4 46 82
+GetBestFruit 2 2
+AddFruit 4 2 84 84
+PickFruit 52
+RateFruit 49 55
+GetBestFruit 4 4
+GetBestFruit 3 2
+PlantTree 2 2
+PickFruit 95
+GetAllFruitsByRate 1 0
+GetAllFruitsByRate 4 4
+GetAllFruitsByRate 2 2
+AddFruit 4 3 86 33
+GetAllFruitsByRate 4 4
+PlantTree 4 3
+AddFruit 2 3 15 81
+PickFruit 76
+RateFruit 9 82
+RateFruit 16 94
+RateFruit 9 18
+GetAllFruitsByRate 2 3
+AddFruit 4 2 15 95
+GetAllFruitsByRate 4 1
+PickFruit 42
+PickFruit 54
+GetAllFruitsByRate 1 2
+PickFruit 13
+GetAllFruitsByRate 4 4
+GetAllFruitsByRate 1 3
+AddFruit 3 4 53 19
+GetBestFruit 0 1
+RateFruit 61 87
+PickFruit 58
+RateFruit 22 70
+PickFruit 58
+GetAllFruitsByRate 0 2
+PickFruit 54
+AddFruit 4 4 34 44
+PlantTree 4 1
+RateFruit 82 43
+GetBestFruit 4 3
+GetBestFruit 4 3
+AddFruit 0 1 76 75
+GetAllFruitsByRate 3 4
+GetBestFruit 4 3
+AddFruit 4 3 61 24
+AddFruit 2 0 30 23
+GetAllFruitsByRate 3 2
+GetBestFruit 4 0
+AddFruit 4 0 23 14
+AddFruit 4 2 76 84
+GetAllFruitsByRate 4 1
+GetAllFruitsByRate 3 0
+RateFruit 42 21
+GetAllFruitsByRate 4 0
+GetAllFruitsByRate 0 2
+GetAllFruitsByRate 0 2
+AddFruit 0 0 33 80
+AddFruit 2 1 92 22
+PlantTree 3 3
+PlantTree 1 2
+AddFruit 4 1 29 66
+PlantTree 1 0
+AddFruit 3 1 47 74
+GetAllFruitsByRate 1 2
+PlantTree 0 0
+AddFruit 2 1 16 83
+GetAllFruitsByRate 3 0
+PlantTree 1 1
+GetAllFruitsByRate 2 1
+GetAllFruitsByRate 1 4
+PickFruit 3
+RateFruit 6 5
+PlantTree 2 2
+AddFruit 0 1 44 45
+PickFruit 71
+AddFruit 4 0 60 67
+GetBestFruit 0 4
+PlantTree 0 4
+RateFruit 30 2
+AddFruit 1 3 58 76
+GetBestFruit 0 1
+RateFruit 57 29
+GetAllFruitsByRate 3 0
+RateFruit 7 -1
+GetBestFruit 2 0
+GetBestFruit 3 1
+AddFruit 0 2 96 20
+AddFruit 3 1 77 29
+RateFruit 3 93
+AddFruit 1 2 68 85
+PlantTree 1 0
+GetBestFruit 0 1
+PickFruit 33
+AddFruit 3 4 23 60
+GetBestFruit 4 1
+GetBestFruit 2 4
+AddFruit 1 2 2 53
+GetBestFruit 1 3
+PickFruit 12
+AddFruit 0 2 91 83
+GetBestFruit 2 0
+GetAllFruitsByRate 4 3
+PlantTree 0 4
+AddFruit 0 2 32 36
+GetAllFruitsByRate 3 4
+AddFruit 0 1 20 92
+AddFruit 4 1 39 90
+RateFruit 59 76
+GetAllFruitsByRate 1 2
+AddFruit 2 4 6 48
+PickFruit 65
+GetAllFruitsByRate 3 1
+GetAllFruitsByRate 3 4
+GetBestFruit 3 0
+GetBestFruit 4 3
+PickFruit 42
+PlantTree 3 4
+PlantTree 4 3
+AddFruit 2 2 29 79
+PlantTree 4 1
+PlantTree 0 4
+AddFruit 4 0 6 10
+RateFruit 49 57
+GetBestFruit 4 2
+AddFruit 3 4 51 40
+PickFruit 57
+AddFruit 3 3 20 21
+AddFruit 0 1 71 3
+AddFruit 4 0 44 21
+RateFruit 15 80
+PickFruit 14
+RateFruit 75 40
+AddFruit 3 3 95 74
+GetBestFruit 0 4
+GetAllFruitsByRate 2 3
+PickFruit 71
+AddFruit 1 3 24 21
+PickFruit 54
+AddFruit 0 4 1 31
+AddFruit 2 1 81 63
+GetAllFruitsByRate 1 1
+AddFruit 1 1 55 91
+GetBestFruit 2 3
+GetBestFruit 3 1
+GetBestFruit 0 2
+RateFruit 95 61
+GetAllFruitsByRate 1 0
+AddFruit 2 4 5 44
+PlantTree 0 3
+GetBestFruit 1 1
+AddFruit 4 4 15 31
+GetAllFruitsByRate 1 2
+GetBestFruit 2 1
+GetAllFruitsByRate 2 1
+GetAllFruitsByRate 3 1
+RateFruit 56 35
+RateFruit 65 44
+RateFruit 37 93
+AddFruit 0 4 12 -3
+PickFruit 35
+PickFruit 96
+GetBestFruit 3 1
+GetBestFruit 3 1
+AddFruit 1 4 36 66
+GetAllFruitsByRate 4 3
+GetBestFruit 4 1
+AddFruit 2 3 32 23
+GetBestFruit 4 4
+PlantTree 0 1
+RateFruit 89 23
+RateFruit 12 5
+GetAllFruitsByRate 2 2
+GetBestFruit 1 2
+GetBestFruit 1 3
+GetBestFruit 1 3
+AddFruit 2 4 49 79
+AddFruit 0 4 69 49
+GetAllFruitsByRate 3 2
+PlantTree 2 4
+GetBestFruit 0 2
+GetAllFruitsByRate 2 2
+GetBestFruit 2 4
+RateFruit 3 28
+PickFruit 31
+AddFruit 0 1 87 87
+AddFruit 4 1 4 6
+AddFruit 4 3 77 91
+GetBestFruit 1 4
+AddFruit 2 0 75 15
+PickFruit 55
+PlantTree 3 2
+GetAllFruitsByRate 4 0
+GetAllFruitsByRate 2 2
+AddFruit 4 1 74 41
+RateFruit 20 35
+AddFruit 3 3 46 74
+AddFruit 3 4 6 1
+AddFruit 3 3 57 49
+PlantTree 1 3
+AddFruit 2 4 1 89
+GetAllFruitsByRate 1 2
+GetBestFruit 3 1
+PlantTree 3 1
+PlantTree 0 3
+RateFruit 22 38
+PickFruit 20
+AddFruit 0 1 9 20
+GetBestFruit 4 3
+AddFruit 0 2 29 7
+PlantTree 1 1
+PlantTree 0 3
+AddFruit 1 4 18 14
+GetBestFruit 0 1
+RateFruit 68 36
+RateFruit 4 62
+PlantTree 2 0
+GetAllFruitsByRate 0 2
+PlantTree 0 0
+PlantTree 4 4
+AddFruit 2 2 8 6
+GetAllFruitsByRate 4 4
+AddFruit 4 4 21 53
+PlantTree 3 3
+AddFruit 2 1 21 85
+GetAllFruitsByRate 0 2
+AddFruit 3 2 4 85
+PlantTree 0 4
+PickFruit 40
+AddFruit 1 2 46 6
+GetAllFruitsByRate 2 0
+RateFruit 96 4
+GetAllFruitsByRate 4 1
+PickFruit 33
+AddFruit 1 0 6 11
+AddFruit 4 0 7 39
+AddFruit 2 3 64 42
+AddFruit 3 0 57 79
+GetAllFruitsByRate 4 1
+GetAllFruitsByRate 2 0
+PickFruit -2
+AddFruit 2 0 67 30
+RateFruit 32 63
+GetBestFruit 3 3
+AddFruit 3 4 4 27
+PlantTree 4 4
+GetAllFruitsByRate 4 4
+AddFruit 2 3 72 21
+UpdateRottenFruits 8 -2
+AddFruit 1 3 39 20
+PickFruit 8
+GetAllFruitsByRate 3 4
+GetBestFruit 0 2
+GetBestFruit 1 4
+GetAllFruitsByRate 3 4
+GetBestFruit 0 0
+AddFruit 0 4 17 96
+AddFruit 2 1 53 0
+GetAllFruitsByRate 1 0
+GetAllFruitsByRate 2 4
+GetBestFruit 4 0
+GetBestFruit 2 3
+AddFruit 4 4 32 79
+GetAllFruitsByRate 4 2
+RateFruit 39 23
+GetAllFruitsByRate 4 1
+PickFruit 86
+AddFruit 4 2 43 17
+GetAllFruitsByRate 0 1
+AddFruit 4 1 75 95
+AddFruit 2 3 96 88
+GetAllFruitsByRate 1 1
+AddFruit 3 0 12 4
+PlantTree 3 4
+RateFruit 45 21
+PickFruit -2
+PickFruit 1
+AddFruit 2 0 75 65
+GetAllFruitsByRate 4 1
+PickFruit 3
+GetAllFruitsByRate 4 4
+RateFruit 80 9
+PickFruit 15
+GetBestFruit 2 3
+GetBestFruit 3 1
+GetBestFruit 0 4
+AddFruit 3 4 3 44
+AddFruit 2 2 0 79
+AddFruit 4 3 33 9
+GetBestFruit 4 1
+PlantTree 4 4
+AddFruit 2 3 56 20
+AddFruit 2 4 4 92
+GetBestFruit 4 4
+PickFruit 74
+PlantTree 3 0
+AddFruit 2 4 66 81
+RateFruit 62 34
+AddFruit 1 2 77 11
+GetBestFruit 2 3
+GetBestFruit 4 4
+AddFruit 3 1 8 36
+AddFruit 3 2 14 45
+RateFruit 6 39
+PlantTree 3 0
+GetAllFruitsByRate 1 1
+GetAllFruitsByRate 4 4
+AddFruit 0 2 59 27
+GetBestFruit 4 2
+PlantTree 1 2
+GetBestFruit 0 4
+RateFruit 82 64
+PlantTree 0 0
+PlantTree 1 4
+AddFruit 1 1 53 40
+PickFruit 52
+PickFruit 65
+PickFruit 24
+PlantTree 3 0
+RateFruit 74 3
+AddFruit 4 1 17 68
+AddFruit 3 4 82 41
+RateFruit 39 56
+GetBestFruit 4 3
+UpdateRottenFruits 15 11
+AddFruit 3 3 56 66
+RateFruit 28 31
+GetBestFruit 0 3
+RateFruit 49 54
+PickFruit 95
+RateFruit 76 33
+GetAllFruitsByRate 3 3
+PickFruit 30
+GetAllFruitsByRate 0 3
+GetAllFruitsByRate 1 4
+AddFruit 1 2 38 70
+PlantTree 3 0
+GetAllFruitsByRate 1 2
+AddFruit 2 3 22 92
+AddFruit 0 4 90 26
+PlantTree 3 1
+AddFruit 1 0 79 72
+RateFruit 62 -1
+PlantTree 3 4
+AddFruit 3 2 86 44
+GetAllFruitsByRate 1 4
+PickFruit 57
+AddFruit 4 3 17 91
+GetBestFruit 2 2
+PlantTree 1 0
+GetAllFruitsByRate 0 2
+AddFruit 0 3 57 7
+PickFruit 49
+GetBestFruit 3 0
+AddFruit 3 0 27 36
+PlantTree 2 4
+AddFruit 2 2 72 6
+PickFruit 72
+RateFruit 24 63
+PickFruit -2
+GetAllFruitsByRate 3 1
+PlantTree 4 3
+AddFruit 4 1 49 21
+RateFruit 45 93
+GetBestFruit 2 3
+GetBestFruit 3 0
+GetBestFruit 3 2
+GetAllFruitsByRate 0 1
+GetAllFruitsByRate 1 3
+GetBestFruit 4 1
+RateFruit 61 34
+GetAllFruitsByRate 4 4
+AddFruit 1 0 91 12
+PlantTree 1 1
+RateFruit -1 93
+AddFruit 1 1 96 64
+GetAllFruitsByRate 0 0
+GetAllFruitsByRate 2 2
+PickFruit 55
+AddFruit 1 2 9 44
+GetAllFruitsByRate 1 1
+PickFruit 68
+AddFruit 0 3 95 45
+AddFruit 1 2 57 73
+AddFruit 1 1 24 18
+AddFruit 4 0 35 73
+PickFruit 74
+GetAllFruitsByRate 2 4
+PickFruit 11
+PlantTree 4 0
+GetAllFruitsByRate 3 4
+PickFruit 38
+AddFruit 2 4 86 56
+PickFruit 30
+AddFruit 1 3 -1 44
+AddFruit 1 0 79 -1
+PickFruit 72
+PickFruit 96
+RateFruit 93 95
+AddFruit 3 3 65 94
+RateFruit 74 59
+PlantTree 0 2
+PickFruit 56
+GetBestFruit 2 1
+GetAllFruitsByRate 2 3
+RateFruit 74 19
+PlantTree 3 4
+GetBestFruit 3 4
+PickFruit 38
+AddFruit 1 1 4 66
+AddFruit 0 2 86 43
+GetAllFruitsByRate 1 4
+GetBestFruit 4 3
+PickFruit 32
+PlantTree 4 4
+GetAllFruitsByRate 2 0
+PickFruit 44
+GetAllFruitsByRate 2 4
+PlantTree 1 3
+PlantTree 2 3
+PickFruit 68
+AddFruit 0 4 80 6
+GetBestFruit 0 0
+AddFruit 1 0 -1 24
+PlantTree 0 1
+PickFruit 90
+AddFruit 2 1 34 40
+AddFruit 1 2 21 89
+GetBestFruit 4 1
+AddFruit 3 0 65 71
+GetAllFruitsByRate 2 3
+GetBestFruit 1 3
+AddFruit 3 1 -3 67
+AddFruit 2 2 33 31
+PlantTree 0 3
+AddFruit 3 1 40 55
+AddFruit 2 0 57 94
+AddFruit 1 2 76 43
+AddFruit 2 0 88 63
+PickFruit 11
+RateFruit 20 77
+PlantTree 4 3
+GetBestFruit 3 2
+PlantTree 1 3
+AddFruit 2 4 76 60
+GetBestFruit 3 1
+GetAllFruitsByRate 2 1
+GetBestFruit 1 4
+GetBestFruit 3 4
+GetBestFruit 3 0
+AddFruit 0 0 86 32
+AddFruit 2 4 43 62
+GetAllFruitsByRate 4 2
+GetAllFruitsByRate 1 3
+PlantTree 4 4
+AddFruit 1 4 95 84
+GetAllFruitsByRate 4 4
+GetAllFruitsByRate 0 3
+AddFruit 0 3 88 15
+GetAllFruitsByRate 4 1
+PickFruit 30
+AddFruit 0 2 87 73
+GetBestFruit 2 1
+AddFruit 0 2 32 53
+GetAllFruitsByRate 1 1
+RateFruit 35 76
+RateFruit 95 21
+RateFruit 5 58
+GetBestFruit 0 2
+AddFruit 2 4 60 21
+AddFruit 2 1 38 2
+PickFruit 59
+AddFruit 1 1 54 1
+PickFruit 38
+PickFruit 62
+GetBestFruit 0 1
+AddFruit 1 2 22 50
+RateFruit 4 10
+RateFruit 2 83
+GetBestFruit 4 0
+AddFruit 1 0 49 47
+RateFruit 8 -2
+AddFruit 4 0 21 60
+PickFruit 58
+GetBestFruit 4 0
+RateFruit 0 22
+AddFruit 3 1 38 82
+PickFruit 27
+GetBestFruit 2 4
+GetAllFruitsByRate 4 0
+AddFruit 1 3 41 56
+GetAllFruitsByRate 0 3
+GetBestFruit 1 0
+AddFruit 3 3 3 53
+GetAllFruitsByRate 2 2
+PlantTree 3 4
+AddFruit 0 3 16 69
+AddFruit 2 2 1 77
+GetAllFruitsByRate 4 4
+GetAllFruitsByRate 1 0
+GetAllFruitsByRate 3 3
+GetAllFruitsByRate 2 0
+PlantTree 4 3
+PlantTree 4 4
+AddFruit 2 4 84 84
+GetAllFruitsByRate 3 3
+PlantTree 3 2
+PickFruit 29
+AddFruit 0 2 1 71
+PlantTree 1 0
+PickFruit 70
+PlantTree 1 3
+PickFruit 28
+AddFruit 1 1 20 18
+AddFruit 2 4 34 9
+PickFruit 89
+GetBestFruit 0 2
+RateFruit 10 65
+GetBestFruit 1 2
+AddFruit 1 2 13 60
+RateFruit 64 25
+AddFruit 0 3 1 47
+PickFruit 81
+PlantTree 0 2
+GetAllFruitsByRate 4 3
+RateFruit 91 49
+PlantTree 1 2
+PlantTree 0 3
+GetBestFruit 4 0
+RateFruit 56 2
+AddFruit 4 3 38 19
+GetBestFruit 4 0
+PlantTree 1 4
+PickFruit 18
+AddFruit 3 2 60 70
+AddFruit 1 1 31 74
+PickFruit 41
+GetBestFruit 4 0
+AddFruit 2 3 31 26
+RateFruit 88 20
+PlantTree 4 4
+GetBestFruit 2 4
+PickFruit 86
+AddFruit 4 1 41 17
+RateFruit 88 25
+AddFruit 0 4 38 54
+PickFruit -3
+RateFruit 39 34
+AddFruit 3 3 41 30
+PickFruit 47
+PickFruit 94
+GetAllFruitsByRate 3 0
+PlantTree 2 2
+AddFruit 2 2 44 68
+PickFruit 82
+AddFruit 3 0 87 70
+AddFruit 1 1 26 3
+AddFruit 0 1 5 74
+GetBestFruit 2 4
+GetBestFruit 0 1
+GetBestFruit 4 4
+AddFruit 3 4 41 56
+PlantTree 2 2
+PlantTree 1 2
+RateFruit 63 59
+RateFruit 2 53
+GetAllFruitsByRate 4 1
+GetAllFruitsByRate 3 4
+AddFruit 0 3 53 27
+AddFruit 1 3 11 59
+GetAllFruitsByRate 2 3
+GetAllFruitsByRate 2 3
+GetAllFruitsByRate 2 3
+GetAllFruitsByRate 4 4
+PlantTree 3 2
+GetAllFruitsByRate 4 3
+GetAllFruitsByRate 2 1
+RateFruit 30 76
+PlantTree 0 0
+PlantTree 4 3
+GetAllFruitsByRate 3 4
+AddFruit 4 4 6 79
+RateFruit 96 62
+AddFruit 4 1 49 64
+PlantTree 4 3
+GetBestFruit 2 0
+PickFruit 23
+AddFruit 4 3 52 58
+PlantTree 4 3
+GetBestFruit 0 1
+GetBestFruit 0 0
+PlantTree 3 1
+PlantTree 1 2
+GetAllFruitsByRate 3 2
+PickFruit 48
+AddFruit 3 0 15 63
+PlantTree 3 3
+GetBestFruit 1 1
+PlantTree 3 0
+PlantTree 4 4
+PickFruit 54
+PickFruit 19
+PickFruit 64
+GetBestFruit 3 2
+AddFruit 1 3 90 90
+GetAllFruitsByRate 2 3
+GetBestFruit 3 4
+AddFruit 1 1 41 52
+GetAllFruitsByRate 2 3
+GetBestFruit 0 1
+RateFruit 51 51
+AddFruit 1 0 47 64
+RateFruit 87 9
+RateFruit 50 72
+RateFruit 81 42
+GetBestFruit 0 4
+GetAllFruitsByRate 1 2
+RateFruit 81 53
+RateFruit 86 11
+PlantTree 2 1
+AddFruit 2 0 91 87
+PickFruit 42
+RateFruit -3 53
+GetBestFruit 0 0
+RateFruit 3 54
+PickFruit 27
+AddFruit 1 2 94 82
+AddFruit 2 0 3 73
+PickFruit 86
+GetAllFruitsByRate 3 4
+GetAllFruitsByRate 3 1
+AddFruit 2 0 1 49
+GetAllFruitsByRate 3 4
+RateFruit 65 50
+PickFruit 31
+GetAllFruitsByRate 4 1
+GetAllFruitsByRate 3 3
+AddFruit 2 3 10 68
+AddFruit 0 4 88 54
+GetAllFruitsByRate 4 1
+PlantTree 3 4
+RateFruit 78 82
+PlantTree 3 0
+GetAllFruitsByRate 2 3
+RateFruit 79 80
+PlantTree 0 2
+PlantTree 3 0
+PlantTree 4 0
+AddFruit 1 3 21 47
+GetBestFruit 0 3
+AddFruit 4 4 17 26
+AddFruit 2 2 42 81
+GetBestFruit 4 2
+PlantTree 1 0
+AddFruit 3 0 51 24
+GetBestFruit 4 1
+GetAllFruitsByRate 2 3
+PlantTree 1 1
+GetBestFruit 4 0
+GetAllFruitsByRate 1 0
+AddFruit 3 1 16 22
+GetBestFruit 2 4
+RateFruit 15 76
+GetBestFruit 1 3
+GetBestFruit 0 4
+AddFruit 1 3 91 53
+RateFruit 35 16
+AddFruit 0 0 18 12
+AddFruit 0 0 74 93
+PlantTree 1 2
+PickFruit 3
+AddFruit 0 2 54 7
+RateFruit 29 50
+PlantTree 0 4
+AddFruit 4 1 31 72
+GetAllFruitsByRate 0 2
+PickFruit 87
+GetAllFruitsByRate 2 1
+RateFruit 66 9
+AddFruit 3 2 48 7
+GetAllFruitsByRate 0 2
+GetAllFruitsByRate 3 1
+GetBestFruit 3 4
+PickFruit 57
+AddFruit 0 2 9 65
+RateFruit 95 27
+AddFruit 1 0 59 93
+GetAllFruitsByRate 4 1
+AddFruit 1 0 9 21
+GetBestFruit 0 3
+GetAllFruitsByRate 2 0
+PlantTree 1 1
+GetBestFruit 3 0
+GetAllFruitsByRate 1 2
+GetBestFruit 1 3
+GetAllFruitsByRate 0 2
+AddFruit 4 3 56 11
+GetAllFruitsByRate 1 1
+PickFruit 49
+GetAllFruitsByRate 4 4
+PickFruit 33
+GetAllFruitsByRate 0 0
+AddFruit 2 2 7 87
+RateFruit 10 24
+AddFruit 0 2 66 94
+AddFruit 0 1 88 40
+RateFruit 76 30
+GetBestFruit 3 2
+GetBestFruit 4 3
+RateFruit 25 57
+AddFruit 4 2 46 92
+GetAllFruitsByRate 0 2
+AddFruit 4 3 54 90
+AddFruit 4 3 83 50
+PickFruit 49
+PlantTree 4 3
+AddFruit 4 0 43 42
+AddFruit 2 0 4 69
+GetAllFruitsByRate 0 1
+GetAllFruitsByRate 0 3
+GetAllFruitsByRate 0 3
+PickFruit 65
+GetBestFruit 1 1
+GetAllFruitsByRate 0 3
+AddFruit 3 4 69 33
+RateFruit 67 89
+GetBestFruit 3 3
+RateFruit 34 94
+AddFruit 0 1 36 69
+PickFruit 73
+GetAllFruitsByRate 3 4
+GetBestFruit 3 4
+AddFruit 0 0 15 27
+AddFruit 3 3 69 6
+AddFruit 0 1 14 62
+PlantTree 3 2
+PlantTree 0 0
+PlantTree 4 4
+PlantTree 1 3
+AddFruit 1 2 73 5
+GetBestFruit 2 3
+PlantTree 3 3
+GetAllFruitsByRate 2 0
+GetBestFruit 4 2
+GetBestFruit 2 3
+AddFruit 2 0 52 51
+AddFruit 3 4 17 59
+PickFruit 48
+AddFruit 1 0 16 -1
+PickFruit 64
+AddFruit 0 2 45 59
+GetAllFruitsByRate 0 1
+PickFruit 79
+AddFruit 3 3 -2 28
+AddFruit 0 3 81 61
+AddFruit 1 0 74 -3
+RateFruit 54 7
+AddFruit 3 1 65 18
+PlantTree 1 2
+GetBestFruit 2 3
+GetBestFruit 3 2
+PickFruit 7
+AddFruit 3 1 78 7
+GetBestFruit 4 4
+GetAllFruitsByRate 2 0
+PickFruit 65
+UpdateRottenFruits 0 4
+PickFruit 28
+GetAllFruitsByRate 3 4
+AddFruit 1 2 3 63
+PickFruit 56
+GetBestFruit 1 2
+PickFruit 82
+GetBestFruit 4 3
+GetAllFruitsByRate 3 2
+AddFruit 3 3 56 70
+PickFruit 27
+PickFruit 85
+AddFruit 0 1 86 20
+PickFruit 7
+PlantTree 4 1
+PlantTree 0 2
+AddFruit 1 2 31 78
+PickFruit 15
+AddFruit 3 3 15 15
+PickFruit 17
+RateFruit 74 4
+GetAllFruitsByRate 2 1
+GetBestFruit 4 1
+GetBestFruit 3 3
+RateFruit 83 66
+GetBestFruit 0 2
+RateFruit 61 23
+PickFruit 27
+AddFruit 2 2 24 8
+AddFruit 3 3 10 94
+AddFruit 3 1 75 74
+AddFruit 3 2 57 37
+AddFruit 4 0 59 39
+PickFruit 39
+AddFruit 3 1 15 95
+PickFruit 94
+GetBestFruit 4 2
+PickFruit 7
+PickFruit 32
+GetBestFruit 0 4
+PlantTree 2 0
+AddFruit 1 1 68 84
+GetAllFruitsByRate 1 2
+GetBestFruit 1 4
+PlantTree 1 0
+AddFruit 2 0 40 95
+PlantTree 3 1
+PickFruit 48
+GetAllFruitsByRate 3 0
+GetAllFruitsByRate 2 2
+AddFruit 1 3 22 17
+PickFruit 87
+AddFruit 4 4 0 54
+AddFruit 0 0 4 70
+PickFruit 16
+RateFruit 4 16
+PlantTree 1 1
+GetAllFruitsByRate 2 3
+RateFruit 65 74
+PickFruit 14
+AddFruit 2 4 41 93
+AddFruit 1 1 11 2
+AddFruit 2 0 18 23
+GetBestFruit 1 1
+RateFruit 63 12
+AddFruit 2 0 -3 21
+PlantTree 1 2
+RateFruit 12 39
+PlantTree 0 0
+GetBestFruit 2 2
+GetBestFruit 1 2
+GetBestFruit 4 3
+GetBestFruit 0 4
+GetBestFruit 3 2
+GetAllFruitsByRate 3 3
+AddFruit 1 4 2 58
+AddFruit 4 4 14 35
+RateFruit 45 74
+RateFruit 63 5
+AddFruit 2 1 7 60
+RateFruit 85 93
+PickFruit 47
+PickFruit 45
+RateFruit 94 82
+PlantTree 2 3
+GetAllFruitsByRate 2 2
+GetAllFruitsByRate 2 2
+GetAllFruitsByRate 3 0
+PickFruit 29
+RateFruit 10 16
+AddFruit 4 2 14 75
+PlantTree 0 3
+AddFruit 0 2 39 30
+AddFruit 1 2 85 -2
+AddFruit 1 0 6 58
+PickFruit 76
+AddFruit 4 3 18 84
+GetAllFruitsByRate 4 2
+RateFruit 95 77
+AddFruit 1 0 12 27
+PickFruit 5
+GetAllFruitsByRate 2 3
+AddFruit 3 4 84 4
+PickFruit 71
+AddFruit 4 4 41 19
+PickFruit 49
+AddFruit 4 2 22 25
+PickFruit 0
+PickFruit 6
+PlantTree 3 1
+PlantTree 0 4
+PickFruit 89
+AddFruit 2 1 14 45
+AddFruit 2 1 87 59
+AddFruit 4 3 25 24
+RateFruit 70 52
+GetBestFruit 3 1
+PickFruit 11
+GetBestFruit 1 0
+AddFruit 3 1 36 86
+AddFruit 2 0 40 34
+RateFruit 22 96
+GetBestFruit 3 2
+GetBestFruit 1 4
+PickFruit 76
+RateFruit 33 82
+GetAllFruitsByRate 3 0
+AddFruit 3 0 54 53
+AddFruit 1 4 72 0
+PlantTree 3 3
+AddFruit 3 3 33 24
+GetBestFruit 0 2
+AddFruit 1 0 67 19
+PickFruit -3
+PickFruit 96
+PickFruit 54
+PickFruit 45
+RateFruit 45 42
+PickFruit 81
+AddFruit 1 2 53 7
+AddFruit 1 0 45 1
+AddFruit 4 2 44 55
+PickFruit 66
+PlantTree 4 2
+AddFruit 1 4 87 93
+RateFruit 34 23
+PlantTree 4 1
+PickFruit 9
+RateFruit 30 18
+GetAllFruitsByRate 1 4
+AddFruit 0 1 65 29
+GetAllFruitsByRate 1 1
+PickFruit 32
+RateFruit 68 76
+PlantTree 0 0
+AddFruit 3 3 91 60
+PlantTree 0 4
+AddFruit 4 4 65 32
+AddFruit 2 2 -2 49
+PickFruit 1
+PlantTree 2 3
+AddFruit 3 4 33 3
+AddFruit 0 1 0 8
+GetBestFruit 2 4
+GetBestFruit 0 3
+PickFruit 79
+GetBestFruit 3 2
+GetAllFruitsByRate 4 0
+GetBestFruit 2 2
+PlantTree 3 0
+GetAllFruitsByRate 2 4
+PickFruit 41
+RateFruit 59 9
+PlantTree 1 0
+AddFruit 4 3 50 4
+PlantTree 0 1
+PickFruit 68
+PlantTree 4 0
+AddFruit 3 1 34 -3
+GetAllFruitsByRate 1 4
+PickFruit 2
+AddFruit 1 4 63 21
+GetBestFruit 0 4
+PlantTree 2 4
+RateFruit -3 14
+PickFruit 87
+AddFruit 4 4 33 85
+AddFruit 3 3 32 38
+AddFruit 3 4 36 20
+GetAllFruitsByRate 4 1
+AddFruit 2 4 31 4
+AddFruit 0 4 57 59
+PickFruit 72
+AddFruit 0 3 -2 86
+AddFruit 3 4 12 92
+PlantTree 4 0
+PlantTree 4 3
+AddFruit 1 3 5 41
+GetAllFruitsByRate 2 0
+PickFruit 85
+PickFruit 96
+GetBestFruit 0 1
+PickFruit 72
+PickFruit 36
+PickFruit 7
+AddFruit 4 1 90 9
+PickFruit 44
+AddFruit 2 1 5 85
+PickFruit 80
+GetAllFruitsByRate 1 3
+GetBestFruit 2 0
+GetAllFruitsByRate 0 0
+RateFruit 46 56
+PlantTree 4 3
+RateFruit 6 77
+RateFruit 43 74
+PlantTree 1 1
+RateFruit 40 24
+PlantTree 4 4
+AddFruit 0 3 58 79
+GetAllFruitsByRate 2 0
+GetBestFruit 4 4
+GetAllFruitsByRate 3 2
+RateFruit 18 29
+PlantTree 0 1
+PlantTree 2 4
+AddFruit 4 1 80 38
+PickFruit 4
+PickFruit 13
+PlantTree 0 3
+PickFruit 62
+PlantTree 1 2
+AddFruit 3 0 12 29
+GetBestFruit 1 2
+AddFruit 2 0 41 64
+AddFruit 1 1 4 20
+RateFruit 26 35
+AddFruit 2 4 43 79
+AddFruit 4 0 29 0
+RateFruit 2 87
+AddFruit 1 3 88 65
+AddFruit 3 2 16 13
+RateFruit 96 65
+PlantTree 3 4
+AddFruit 2 4 78 57
+RateFruit 46 76
+GetBestFruit 3 4
+GetAllFruitsByRate 3 4
+AddFruit 1 0 72 43
+AddFruit 3 1 14 19
+GetAllFruitsByRate 3 0
+AddFruit 3 2 85 55
+AddFruit 4 0 86 6
+GetAllFruitsByRate 1 2
+RateFruit 31 6
+GetAllFruitsByRate 2 1
+PickFruit 33
+GetAllFruitsByRate 3 1
+GetBestFruit 4 2
+PlantTree 4 0
+GetAllFruitsByRate 3 3
+PlantTree 1 4
+AddFruit 0 2 83 18
+GetBestFruit 2 1
+AddFruit 0 4 5 93
+RateFruit 49 39
+PlantTree 1 3
+PlantTree 0 3
+RateFruit 34 67
+RateFruit 77 49
+PickFruit 33
+GetBestFruit 0 2
+PlantTree 1 0
+GetBestFruit 2 2
+AddFruit 2 0 38 45
+AddFruit 4 4 59 25
+RateFruit 33 4
+AddFruit 2 1 77 65
+GetAllFruitsByRate 0 4
+PickFruit 20
+GetBestFruit 3 0
+AddFruit 4 0 32 67
+GetBestFruit 4 4
+PlantTree 1 2
+PickFruit 16
+PlantTree 0 0
+PickFruit 1
+AddFruit 3 1 7 66
+PlantTree 2 3
+GetAllFruitsByRate 3 4
+PlantTree 2 1
+RateFruit 75 91
+GetAllFruitsByRate 4 4
+GetAllFruitsByRate 4 1
+GetBestFruit 0 3
+PlantTree 2 4
+PlantTree 1 2
+RateFruit 32 63
+RateFruit 36 67
+RateFruit 86 54
+AddFruit 0 2 41 21
+RateFruit -1 93
+AddFruit 3 1 72 90
+AddFruit 1 3 55 25
+PickFruit 15
+AddFruit 0 4 72 63
+RateFruit 87 58
+AddFruit 2 0 7 4
+PlantTree 1 3
+PickFruit 77
+RateFruit 72 34
+AddFruit 4 3 46 52
+AddFruit 1 3 90 57
+PickFruit 76
+PlantTree 3 4
+PlantTree 3 4
+RateFruit 42 38
+RateFruit 79 2
+RateFruit 28 12
+PickFruit 2
+AddFruit 4 1 4 17
+GetBestFruit 1 0
+RateFruit 26 93
+GetBestFruit 2 1
+GetBestFruit 3 2
+PickFruit 64
+PickFruit 63
+RateFruit -2 96
+RateFruit 38 42
+AddFruit 2 3 86 42
+GetBestFruit 3 1
+GetAllFruitsByRate 1 0
+PickFruit 92
+AddFruit 3 0 8 19
+PickFruit 25
+AddFruit 2 2 61 18
+GetAllFruitsByRate 3 3
+AddFruit 1 2 20 4
+GetBestFruit 2 3
+RateFruit 68 83
+PickFruit 25
+AddFruit 2 3 91 95
+AddFruit 4 1 49 0
+AddFruit 0 0 74 86
+GetAllFruitsByRate 2 2
+PickFruit 10
+AddFruit 1 2 35 5
+PlantTree 3 1
+RateFruit 13 18
+AddFruit 3 2 52 80
+PickFruit 24
+AddFruit 0 3 43 50
+PickFruit 36
+PickFruit 60
+AddFruit 4 1 -1 76
+AddFruit 0 1 73 29
+AddFruit 3 1 63 79
+GetBestFruit 4 4
+PickFruit 10
+PickFruit 75
+AddFruit 4 3 59 64
+GetAllFruitsByRate 4 1
+GetAllFruitsByRate 0 1
+GetAllFruitsByRate 4 3
+AddFruit 0 1 76 61
+RateFruit 6 23
+PlantTree 3 0
+PickFruit 54
+GetAllFruitsByRate 0 0
+GetAllFruitsByRate 0 4
+AddFruit 3 3 59 79
+AddFruit 2 1 9 11
+PickFruit 46
+AddFruit 1 1 79 85
+PickFruit 23
+PlantTree 1 1
+GetAllFruitsByRate 0 0
+RateFruit 23 68
+AddFruit 1 0 14 10
+GetBestFruit 2 1
+PlantTree 2 2
+GetAllFruitsByRate 2 3
+AddFruit 4 0 10 91
+GetAllFruitsByRate 1 4
+GetBestFruit 2 0
+GetAllFruitsByRate 3 3
+AddFruit 4 0 73 20
+GetBestFruit 4 3
+GetBestFruit 2 3
+PlantTree 1 4
+RateFruit 89 48
+PickFruit 40
+RateFruit 1 59
+PlantTree 1 1
+RateFruit 58 58
+GetBestFruit 0 0
+RateFruit 29 54
+PickFruit 9
+PlantTree 2 0
+AddFruit 1 3 72 40
+GetBestFruit 0 4
+PlantTree 1 3
+AddFruit 2 2 9 16
+PickFruit 45
+PickFruit 3
+RateFruit 96 55
+PlantTree 1 4
+GetAllFruitsByRate 0 1
+PlantTree 0 0
+GetAllFruitsByRate 3 0
+RateFruit 3 86
+PlantTree 0 4
+RateFruit 32 77
+RateFruit 39 7
+GetBestFruit 1 1
+PlantTree 4 2
+PickFruit 12
+GetAllFruitsByRate 3 0
+GetAllFruitsByRate 2 1
+GetAllFruitsByRate 1 3
+GetAllFruitsByRate 1 0
+PlantTree 1 3
+PlantTree 0 3
+AddFruit 4 1 83 83
+AddFruit 2 4 40 69
+PlantTree 1 0
+AddFruit 4 1 3 10
+PlantTree 1 4
+AddFruit 4 2 1 27
+AddFruit 1 1 51 91
+AddFruit 2 4 56 14
+GetBestFruit 4 3
+GetBestFruit 0 2
+AddFruit 3 0 17 87
+AddFruit 1 2 81 -3
+GetAllFruitsByRate 3 3
+GetAllFruitsByRate 4 0
+RateFruit 77 93
+GetAllFruitsByRate 1 3
+AddFruit 4 2 2 -1
+GetBestFruit 3 4
+AddFruit 2 3 41 89
+AddFruit 3 1 22 70
+RateFruit 16 58
+PickFruit 11
+PlantTree 4 3
+GetBestFruit 3 0
+PickFruit 89
+PickFruit 9
+GetBestFruit 3 3
+AddFruit 4 0 55 33
+PlantTree 4 2
+GetAllFruitsByRate 0 2
+PickFruit 34
+AddFruit 1 3 52 19
+AddFruit 1 0 11 29
+AddFruit 0 4 28 63
+GetAllFruitsByRate 1 0
+GetAllFruitsByRate 1 1
+PickFruit 52
+GetAllFruitsByRate 3 0
+PlantTree 2 1
+AddFruit 4 0 53 78
+PickFruit 42
+PickFruit 13
+RateFruit 47 21
+GetBestFruit 2 0
+AddFruit 1 3 89 65
+PlantTree 4 4
+PickFruit -3
+GetBestFruit 3 3
+RateFruit 62 18
+PickFruit 44
+AddFruit 1 1 8 1
+AddFruit 2 0 54 92
+RateFruit 83 69
+AddFruit 1 2 9 18
+AddFruit 1 1 42 66
+GetBestFruit 3 4
+GetAllFruitsByRate 0 3
+GetBestFruit 2 4
+AddFruit 3 1 54 70
+RateFruit 34 -1
+PlantTree 3 3
+PickFruit 58
+RateFruit 3 15
+AddFruit 1 1 14 73
+AddFruit 2 4 82 28
+GetBestFruit 1 2
+PickFruit 38
+AddFruit 0 3 4 52
+AddFruit 0 1 92 35
+PlantTree 2 2
+GetAllFruitsByRate 1 4
+PickFruit 70
+AddFruit 0 0 13 3
+AddFruit 2 3 16 67
+PlantTree 3 1
+AddFruit 0 2 58 53
+PlantTree 4 0
+GetAllFruitsByRate 1 0
+AddFruit 2 4 12 54
+PickFruit 24
+AddFruit 1 1 89 61
+RateFruit 42 48
+AddFruit 2 2 41 42
+GetBestFruit 4 1
+PickFruit 18
+AddFruit 1 0 25 41
+GetAllFruitsByRate 0 3
+GetAllFruitsByRate 0 1
+GetAllFruitsByRate 2 0
+GetBestFruit 0 2
+PlantTree 3 1
+GetAllFruitsByRate 1 2
+GetBestFruit 0 2
+PickFruit 47
+PickFruit 33
+GetAllFruitsByRate 3 3
+GetAllFruitsByRate 2 2
+AddFruit 3 3 59 88
+RateFruit 42 23
+RateFruit 77 92
+AddFruit 1 2 63 38
+PlantTree 3 0
+GetAllFruitsByRate 1 0
+GetBestFruit 2 2
+RateFruit 51 15
+PickFruit 63
+GetBestFruit 0 4
+RateFruit 8 39
+PlantTree 0 1
+GetAllFruitsByRate 0 4
+AddFruit 4 0 38 62
+PlantTree 4 1
+PickFruit 92
+AddFruit 1 1 96 43
+PickFruit 32
+PlantTree 4 2
+RateFruit 21 73
+PickFruit 65
+GetAllFruitsByRate 0 3
+PlantTree 0 0
+PickFruit 64
+GetBestFruit 1 0
+AddFruit 1 0 53 65
+AddFruit 0 2 35 58
+RateFruit 7 31
+GetAllFruitsByRate 0 4
+PlantTree 4 3
+GetBestFruit 4 1
+PickFruit 94
+GetBestFruit 0 4
+GetAllFruitsByRate 3 1
+PlantTree 2 0
+AddFruit 3 2 1 41
+PickFruit 21
+PlantTree 2 2
+RateFruit 90 78
+PickFruit 54
+AddFruit 0 0 77 4
+AddFruit 3 4 65 85
+GetBestFruit 4 0
+GetBestFruit 3 2
+AddFruit 2 2 70 12
+RateFruit 79 53
+PickFruit 91
+AddFruit 4 3 47 86
+RateFruit 28 21
+PickFruit 64
+AddFruit 0 3 19 54
+AddFruit 1 1 22 96
+PlantTree 1 1
+AddFruit 3 2 50 9
+PickFruit 43
+PickFruit 19
+PlantTree 3 4
+PlantTree 3 0
+PickFruit 40
+GetAllFruitsByRate 3 2
+GetBestFruit 1 4
+PickFruit 33
+GetAllFruitsByRate 3 1
+AddFruit 4 2 81 16
+GetBestFruit 1 4
+AddFruit 1 1 16 36
+PickFruit 81
+GetAllFruitsByRate 1 1
+RateFruit 83 8
+GetBestFruit 2 0
+AddFruit 2 1 46 45
+PickFruit 34
+AddFruit 4 3 15 65
+RateFruit 10 41
+PickFruit 45
+AddFruit 4 0 29 61
+AddFruit 3 1 59 -1
+GetBestFruit 2 1
+GetBestFruit 3 4
+GetAllFruitsByRate 0 1
+PickFruit 50
+GetAllFruitsByRate 2 0
+GetBestFruit 1 4
+PickFruit 53
+GetBestFruit 1 2
+PickFruit 87
+GetBestFruit 3 2
+AddFruit 2 3 89 18
+GetAllFruitsByRate 3 4
+AddFruit 2 4 -2 77
+PlantTree 3 0
+PickFruit -3
+PlantTree 1 2
+GetBestFruit 4 3
+GetBestFruit 0 3
+GetBestFruit 0 2
+GetAllFruitsByRate 0 0
+GetAllFruitsByRate 0 2
+RateFruit 65 75
+GetAllFruitsByRate 1 3
+PickFruit 17
+RateFruit 33 62
+PlantTree 4 0
+PlantTree 2 1
+GetBestFruit 1 1
+AddFruit 0 1 67 81
+GetAllFruitsByRate 3 0
+AddFruit 3 4 92 59
+PickFruit 63
+PlantTree 3 0
+RateFruit 52 88
+PlantTree 4 3
+PickFruit 23
+PickFruit 20
+GetBestFruit 3 0
+GetAllFruitsByRate 0 1
+GetAllFruitsByRate 2 1
+RateFruit 29 11
+GetAllFruitsByRate 0 4
+AddFruit 4 1 27 86
+GetBestFruit 3 0
+PlantTree 2 1
+GetAllFruitsByRate 4 1
+PickFruit 3
+GetAllFruitsByRate 4 0
+GetBestFruit 3 2
+GetAllFruitsByRate 4 1
+RateFruit 52 11
+GetAllFruitsByRate 2 0
+AddFruit 2 1 23 56
+PickFruit 19
+PickFruit 71
+RateFruit 77 66
+GetAllFruitsByRate 3 0
+GetBestFruit 1 2
+GetBestFruit 1 0
+AddFruit 0 1 67 43
+PlantTree 2 0
+GetBestFruit 3 0
+AddFruit 4 0 78 28
+RateFruit 21 72
+PickFruit 65
+PickFruit 51
+AddFruit 3 1 7 14
+GetBestFruit 1 0
+AddFruit 2 4 66 13
+PickFruit 91
+AddFruit 4 2 51 62
+AddFruit 1 3 62 51
+GetBestFruit 3 4
+GetAllFruitsByRate 4 0
+GetBestFruit 0 0
+PickFruit 88
+GetAllFruitsByRate 3 3
+RateFruit 25 38
+PlantTree 4 3
+PickFruit 44
+AddFruit 4 0 44 49
+GetBestFruit 2 0
+GetBestFruit 3 3
+PlantTree 0 3
+PlantTree 1 0
+GetAllFruitsByRate 1 3
+AddFruit 3 1 92 88
+AddFruit 0 2 68 10
+RateFruit 9 48
+PickFruit 24
+PlantTree 1 1
+RateFruit 48 36
+PlantTree 3 1
+PickFruit 35
+GetAllFruitsByRate 3 4
+AddFruit 0 1 87 65
+GetAllFruitsByRate 0 0
+PlantTree 3 2
+PickFruit 41
+AddFruit 3 1 45 29
+AddFruit 3 4 5 30
+PickFruit 62
+PickFruit 61
+PickFruit 14
+RateFruit 10 49
+AddFruit 4 0 3 21
+PickFruit 60
+PlantTree 1 0
+PlantTree 1 1
+PlantTree 2 1
+AddFruit 0 1 67 44
+GetAllFruitsByRate 1 4
+PlantTree 3 1
+PickFruit 44
+AddFruit 1 1 21 96
+RateFruit 38 24
+AddFruit 4 2 91 54
+AddFruit 3 1 25 63
+PickFruit 25
+AddFruit 0 3 37 1
+PickFruit 20
+GetAllFruitsByRate 2 1
+RateFruit 17 1
+PickFruit 50
+PickFruit 12
+GetBestFruit 4 2
+PickFruit 88
+AddFruit 1 0 24 87
+AddFruit 3 2 55 24
+RateFruit -3 49
+GetAllFruitsByRate 4 0
+PickFruit 45
+GetBestFruit 1 3
+GetBestFruit 3 1
+GetBestFruit 3 3
+PlantTree 4 0
+PickFruit 8
+GetAllFruitsByRate 2 3
+AddFruit 4 0 -3 44
+PickFruit 32
+GetBestFruit 1 2
+PlantTree 1 1
+GetBestFruit 1 4
+PlantTree 2 0
+GetAllFruitsByRate 3 4
+GetAllFruitsByRate 1 4
+PlantTree 0 1
+PlantTree 0 2
+PickFruit 78
+PickFruit 44
+AddFruit 1 0 42 76
+GetBestFruit 1 4
+GetBestFruit 0 3
+AddFruit 3 3 17 3
+PickFruit 34
+GetAllFruitsByRate 0 3
+GetAllFruitsByRate 4 0
+PlantTree 4 4
+GetBestFruit 3 3
+AddFruit 1 4 46 56
+GetBestFruit 1 1
+AddFruit 4 4 85 23
+GetBestFruit 2 4
+PlantTree 1 1
+AddFruit 1 3 -3 88
+RateFruit 51 3
+RateFruit 54 70
+AddFruit 4 1 -1 89
+AddFruit 2 0 92 31
+GetBestFruit 1 2
+AddFruit 0 0 43 32
+RateFruit 76 4
+PickFruit 51
+GetBestFruit 1 4
+AddFruit 4 0 41 28
+AddFruit 4 2 89 86
+AddFruit 3 2 48 83
+AddFruit 1 2 62 18
+AddFruit 4 0 70 75
+AddFruit 0 2 27 88
+GetBestFruit 4 2
+RateFruit 86 71
+PlantTree 3 2
+GetAllFruitsByRate 4 3
+GetAllFruitsByRate 0 1
+PickFruit 39
+GetAllFruitsByRate 3 3
+AddFruit 4 2 6 90
+GetAllFruitsByRate 4 3
+GetAllFruitsByRate 4 4
+PickFruit 16
+GetBestFruit 2 0
+PickFruit 51
+AddFruit 2 4 90 32
+PickFruit 84
+RateFruit 93 11
+RateFruit 41 3
+RateFruit 3 58
+AddFruit 2 3 13 11
+AddFruit 2 0 3 65
+AddFruit 3 4 90 75
+PickFruit 93
+RateFruit 33 62
+PickFruit 13
+AddFruit 2 1 96 36
+AddFruit 4 1 0 70
+AddFruit 1 0 60 57
+PlantTree 2 2
+RateFruit 93 45
+PlantTree 0 4
+RateFruit 57 87
+PickFruit 55
+AddFruit 0 3 94 66
+AddFruit 3 1 65 2
+GetAllFruitsByRate 0 0
+PlantTree 0 1
+AddFruit 1 4 2 63
+GetBestFruit 2 0
+AddFruit 4 4 19 42
+RateFruit 30 45
+AddFruit 2 0 39 0
+RateFruit 19 11
+AddFruit 0 4 86 85
+AddFruit 0 1 23 28
+AddFruit 1 3 29 34
+AddFruit 1 0 96 14
+PlantTree 3 0
+GetAllFruitsByRate 4 3
+PickFruit 23
+PlantTree 0 2
+AddFruit 0 0 41 12
+GetAllFruitsByRate 1 1
+RateFruit 3 70
+AddFruit 3 4 93 78
+AddFruit 0 0 17 13
+PlantTree 0 0
+GetBestFruit 0 0
+PickFruit 37
+GetBestFruit 4 0
+GetBestFruit 4 0
+AddFruit 4 1 73 31
+RateFruit 62 67
+RateFruit 47 73
+PlantTree 0 3
+PlantTree 3 1
+AddFruit 1 3 4 86
+AddFruit 3 2 40 16
+RateFruit 39 12
+PickFruit 22
+AddFruit 1 4 2 57
+GetAllFruitsByRate 2 4
+AddFruit 2 4 38 76
+PickFruit 76
+PlantTree 4 0
+PickFruit 40
+AddFruit 4 1 55 14
+GetBestFruit 0 1
+AddFruit 0 1 69 30
+AddFruit 4 4 50 60
+GetBestFruit 3 4
+GetBestFruit 1 3
+PlantTree 0 1
+PlantTree 1 0
+PlantTree 3 0
+GetBestFruit 1 4
+GetAllFruitsByRate 1 3
+AddFruit 4 3 11 55
+PickFruit 16
+AddFruit 4 4 20 74
+AddFruit 4 2 3 44
+AddFruit 2 4 34 49
+RateFruit 92 14
+RateFruit 83 12
+AddFruit 1 4 71 10
+GetAllFruitsByRate 2 0
+GetBestFruit 1 2
+AddFruit 3 4 52 66
+AddFruit 1 1 68 36
+RateFruit 48 0
+GetAllFruitsByRate 2 2
+PlantTree 0 4
+PlantTree 3 1
+GetBestFruit 4 4
+RateFruit 27 88
+AddFruit 3 2 57 -2
+PickFruit 28
+GetAllFruitsByRate 3 1
+PickFruit 91
+AddFruit 4 0 59 5
+GetAllFruitsByRate 2 0
+GetBestFruit 1 2
+GetBestFruit 3 0
+PlantTree 0 2
+AddFruit 2 2 30 29
+AddFruit 0 1 20 64
+AddFruit 2 2 69 38
+AddFruit 4 3 55 41
+RateFruit 60 78
+PlantTree 0 3
+AddFruit 4 0 69 88
+AddFruit 3 3 11 51
+AddFruit 2 2 43 28
+AddFruit 0 1 86 74
+GetAllFruitsByRate 3 4
+GetAllFruitsByRate 4 1
+AddFruit 4 4 68 56
+AddFruit 1 3 16 26
+RateFruit 61 48
+PickFruit 27
+PickFruit 83
+AddFruit 1 1 10 32
+PickFruit 10
+PlantTree 1 3
+PickFruit 47
+PickFruit 22
+AddFruit 4 2 64 87
+PickFruit 91
+PickFruit 57
+PickFruit 85
+PickFruit 18
+AddFruit 3 0 21 28
+PlantTree 2 3
+PickFruit 22
+PlantTree 0 2
+GetBestFruit 1 2
+AddFruit 0 3 67 87
+GetBestFruit 2 4
+GetBestFruit 0 4
+PlantTree 0 1
+GetAllFruitsByRate 1 4
+PickFruit 35
+PickFruit 62
+GetAllFruitsByRate 2 0
+PlantTree 2 2
+AddFruit 4 0 16 41
+GetAllFruitsByRate 2 0
+PickFruit -2
+GetAllFruitsByRate 4 3
+GetBestFruit 1 4
+RateFruit 2 85
+GetBestFruit 0 0
+AddFruit 3 1 88 73
+RateFruit 18 20
+PlantTree 0 2
+AddFruit 3 0 18 6
+RateFruit 57 47
+PickFruit 24
+GetBestFruit 1 0
+GetAllFruitsByRate 0 0
+PlantTree 0 0
+GetAllFruitsByRate 0 2
+AddFruit 0 3 48 57
+RateFruit 91 87
+PickFruit 85
+GetBestFruit 0 1
+AddFruit 1 2 19 52
+PickFruit 59
+AddFruit 0 1 90 17
+AddFruit 2 4 69 89
+PlantTree 3 1
+AddFruit 4 3 73 95
+AddFruit 4 3 36 36
+UpdateRottenFruits 14 -1
+PickFruit 85
+PlantTree 0 1
+AddFruit 3 1 23 -2
+PlantTree 2 3
+RateFruit 3 81
+PickFruit 40
+GetBestFruit 3 0
+PlantTree 4 2
+RateFruit 48 83
+GetBestFruit 3 0
+PlantTree 1 1
+GetAllFruitsByRate 2 0
+AddFruit 1 3 15 54
+PlantTree 2 2
+AddFruit 1 0 93 89
+PlantTree 2 3
+GetAllFruitsByRate 1 1
+PlantTree 3 4
+PickFruit 71
+GetAllFruitsByRate 4 2
+AddFruit 3 4 14 52
+GetAllFruitsByRate 2 0
+PickFruit 74
+PickFruit 96
+RateFruit 47 57
+AddFruit 4 4 7 85
+AddFruit 3 0 44 -2
+PlantTree 2 1
+RateFruit 60 83
+GetAllFruitsByRate 2 1
+GetAllFruitsByRate 0 1
+RateFruit 96 11
+AddFruit 4 4 -3 -2
+GetAllFruitsByRate 0 3
+GetAllFruitsByRate 0 0
+PlantTree 3 1
+AddFruit 2 2 70 9
+AddFruit 3 4 92 64
+PickFruit 48
+AddFruit 3 1 25 14
+PickFruit 39
+RateFruit 88 -3
+AddFruit 4 0 21 56
+AddFruit 1 3 64 43
+RateFruit 87 30
+GetBestFruit 0 3
+GetBestFruit 4 3
+PlantTree 1 1
+GetBestFruit 1 0
+RateFruit 54 8
+PickFruit 43
+AddFruit 0 1 42 5
+PlantTree 3 1
+GetAllFruitsByRate 3 3
+GetAllFruitsByRate 1 0
+PickFruit 17
+RateFruit 44 63
+AddFruit 1 0 77 96
+PickFruit 57
+PlantTree 2 3
+GetBestFruit 2 0
+RateFruit 72 23
+GetBestFruit 1 3
+PickFruit 71
+GetAllFruitsByRate 1 0
+AddFruit 2 2 19 37
+PickFruit 25
+AddFruit 1 1 78 38
+RateFruit 46 70
+PlantTree 4 1
+PlantTree 2 2
+GetBestFruit 4 4
+RateFruit 22 81
+GetBestFruit 3 1
+GetAllFruitsByRate 2 4
+AddFruit 1 1 -1 8
+RateFruit 63 59
+RateFruit 83 17
+RateFruit 37 78
+GetBestFruit 1 3
+GetBestFruit 1 3
+RateFruit 59 76
+GetAllFruitsByRate 1 2
+PickFruit 20
+GetBestFruit 1 3
+PickFruit 86
+AddFruit 3 1 -3 57
+PlantTree 0 3
+AddFruit 4 0 75 51
+AddFruit 2 0 -2 5
+GetAllFruitsByRate 0 2
+PlantTree 2 1
+GetBestFruit 0 1
+AddFruit 0 4 42 25
+RateFruit 18 13
+PlantTree 3 1
+RateFruit 14 49
+PlantTree 0 2
+AddFruit 2 4 0 55
+GetBestFruit 0 1
+RateFruit 45 92
+GetAllFruitsByRate 1 0
+GetBestFruit 1 2
+AddFruit 1 2 50 17
+AddFruit 4 2 56 22
+AddFruit 2 4 35 76
+GetBestFruit 2 2
+RateFruit 37 22
+PickFruit 68
+RateFruit 8 78
+GetBestFruit 3 2
+PlantTree 2 2
+GetBestFruit 2 0
+GetBestFruit 3 3
+RateFruit 87 5
+PickFruit 53
+AddFruit 4 3 63 35
+PlantTree 3 1
+AddFruit 1 2 54 8
+PickFruit 5
+PickFruit -1
+AddFruit 1 0 15 94
+PlantTree 3 2
+PlantTree 3 1
+GetAllFruitsByRate 0 2
+GetAllFruitsByRate 4 0
+AddFruit 1 2 -2 7
+GetBestFruit 2 3
+GetBestFruit 4 0
+PlantTree 3 3
+GetBestFruit 0 3
+AddFruit 4 0 7 40
+AddFruit 2 1 8 63
+AddFruit 0 1 31 19
+AddFruit 4 3 83 47
+PickFruit 5
+AddFruit 0 4 8 95
+RateFruit 81 64
+PlantTree 3 4
+AddFruit 3 0 84 12
+AddFruit 2 1 76 7
+PickFruit 52
+AddFruit 0 3 66 94
+AddFruit 2 0 19 49
+GetBestFruit 4 1
+PlantTree 1 3
+PickFruit 73
+GetAllFruitsByRate 4 0
+GetBestFruit 4 0
+RateFruit 79 84
+AddFruit 4 2 -2 58
+GetBestFruit 4 3
+AddFruit 1 2 64 -3
+GetAllFruitsByRate 0 3
+PlantTree 4 3
+AddFruit 2 2 24 5
+GetBestFruit 1 4
+GetAllFruitsByRate 2 1
+PickFruit 54
+RateFruit 87 69
+PlantTree 2 0
+GetBestFruit 1 2
+GetBestFruit 1 4
+RateFruit -1 40
+PickFruit 28
+AddFruit 0 2 23 4
+PickFruit 71
+AddFruit 3 3 41 66
+PlantTree 4 0
+PlantTree 2 1
+RateFruit 63 56
+RateFruit 66 76
+RateFruit 3 85
+GetBestFruit 3 3
+AddFruit 1 4 51 40
+GetBestFruit 4 3
+GetAllFruitsByRate 2 3
+AddFruit 0 1 96 79
+GetBestFruit 4 2
+PlantTree 4 0
+GetAllFruitsByRate 4 3
+GetBestFruit 4 4
+RateFruit 29 58
+AddFruit 4 2 42 24
+PickFruit -3
+GetBestFruit 1 0
+AddFruit 1 0 14 25
+PlantTree 1 2
+AddFruit 1 3 32 0
+UpdateRottenFruits 1 4
+AddFruit 2 0 10 60
+PlantTree 4 4
+GetBestFruit 4 1
+AddFruit 0 4 46 63
+RateFruit 46 11
+PickFruit 83
+AddFruit 2 1 41 43
+AddFruit 4 4 85 83
+AddFruit 2 0 48 67
+AddFruit 4 2 14 75
+PickFruit 51
+PlantTree 4 3
+GetBestFruit 4 2
+AddFruit 3 1 41 37
+RateFruit 22 6
+GetAllFruitsByRate 0 0
+PickFruit 18
+PickFruit 58
+RateFruit -2 53
+AddFruit 2 3 36 14
+GetAllFruitsByRate 4 3
+AddFruit 0 0 56 9
+AddFruit 0 3 58 24
+PlantTree 2 4
+GetBestFruit 0 0
+GetAllFruitsByRate 1 2
+PlantTree 3 4
+PickFruit 16
+AddFruit 2 1 33 20
+PlantTree 2 0
+PickFruit 80
+PlantTree 3 1
+GetAllFruitsByRate 3 2
+GetBestFruit 4 4
+PickFruit 41
+RateFruit 76 86
+GetAllFruitsByRate 4 0
+AddFruit 2 1 8 51
+AddFruit 3 3 84 10
+RateFruit 94 9
+RateFruit 85 96
+PlantTree 0 1
+GetBestFruit 4 0
+PlantTree 2 4
+AddFruit 3 2 84 20
+RateFruit 50 1
+GetBestFruit 1 0
+PickFruit -1
+PickFruit 95
+AddFruit 1 2 88 61
+RateFruit 61 72
+RateFruit 29 79
+GetBestFruit 4 4
+PlantTree 0 2
+RateFruit 25 28
+AddFruit 2 1 9 24
+PlantTree 3 2
+RateFruit 69 29
+PlantTree 3 1
+AddFruit 2 3 56 84
+AddFruit 2 4 35 51
+AddFruit 1 4 74 37
+AddFruit 0 3 30 -3
+GetBestFruit 3 0
+GetAllFruitsByRate 1 2
+GetBestFruit 1 3
+AddFruit 4 3 81 46
+PlantTree 2 0
+AddFruit 3 2 29 58
+AddFruit 1 4 65 72
+PlantTree 1 4
+AddFruit 3 0 62 21
+PickFruit 50
+PickFruit 71
+PickFruit 47
+PlantTree 2 0
+AddFruit 2 0 59 33
+PlantTree 2 3
+AddFruit 2 4 57 70
+PickFruit 0
+AddFruit 1 2 80 -1
+RateFruit 52 39
+GetAllFruitsByRate 0 4
+GetBestFruit 0 1
+AddFruit 3 3 63 85
+RateFruit 33 76
+RateFruit 73 18
+AddFruit 2 1 77 17
+PickFruit 77
+GetAllFruitsByRate 0 0
+GetBestFruit 2 3
+AddFruit 2 3 86 29
+PickFruit 60
+GetBestFruit 0 1
+GetBestFruit 1 0
+GetBestFruit 1 0
+PickFruit 4
+PlantTree 0 3
+AddFruit 4 1 42 96
+PlantTree 1 3
+AddFruit 0 4 22 43
+AddFruit 2 2 33 86
+PlantTree 4 1
+GetAllFruitsByRate 4 4
+PickFruit 4
+PickFruit 46
+GetBestFruit 2 1
+PickFruit 55
+AddFruit 1 4 68 14
+AddFruit 1 4 6 84
+GetAllFruitsByRate 1 3
+PlantTree 1 1
+PlantTree 2 4
+AddFruit 0 3 11 33
+RateFruit 59 11
+GetAllFruitsByRate 4 1
+GetBestFruit 3 1
+AddFruit 4 4 29 49
+AddFruit 4 4 66 -2
+AddFruit 4 0 16 8
+GetBestFruit 3 2
+AddFruit 4 0 59 52
+GetAllFruitsByRate 0 1
+AddFruit 2 3 2 75
+GetBestFruit 0 0
+AddFruit 4 0 10 45
+AddFruit 2 4 83 42
+RateFruit 51 -3
+PlantTree 2 2
+RateFruit 1 57
+AddFruit 0 1 54 32
+AddFruit 0 4 62 18
+AddFruit 3 4 -2 82
+GetAllFruitsByRate 4 4
+RateFruit 70 39
+GetBestFruit 0 4
+AddFruit 4 3 1 87
+PickFruit -2
+PlantTree 3 1
+AddFruit 1 4 21 16
+PlantTree 3 2
+GetAllFruitsByRate 3 1
+PickFruit 53
+AddFruit 2 2 72 11
+PickFruit 84
+PlantTree 0 4
+PlantTree 0 1
+AddFruit 4 1 76 91
+RateFruit 88 87
+PlantTree 3 4
+RateFruit 76 50
+PlantTree 2 3
+RateFruit 45 86
+RateFruit 66 27
+GetBestFruit 1 2
+AddFruit 0 3 69 81
+PlantTree 4 3
+AddFruit 1 0 31 70
+AddFruit 2 3 22 7
+GetAllFruitsByRate 1 0
+AddFruit 4 2 81 64
+AddFruit 2 3 80 37
+PlantTree 4 1
+PlantTree 1 0
+GetBestFruit 3 3
+AddFruit 3 4 69 39
+RateFruit 16 34
+RateFruit 32 61
+GetAllFruitsByRate 1 3
+PickFruit -1
+AddFruit 4 3 75 6
+PickFruit 73
+PlantTree 2 3
+GetBestFruit 4 2
+AddFruit 1 3 75 96
+AddFruit 1 1 60 60
+PlantTree 4 0
+PickFruit -2
+GetBestFruit 1 1
+RateFruit 68 31
+AddFruit 2 0 87 48
+GetAllFruitsByRate 0 4
+PickFruit 8
+AddFruit 2 1 36 40
+AddFruit 0 4 37 30
+AddFruit 1 3 20 33
+GetAllFruitsByRate 0 1
+GetBestFruit 0 1
+AddFruit 2 0 18 68
+PickFruit -3
+GetAllFruitsByRate 1 0
+PickFruit 42
+RateFruit 26 45
+AddFruit 0 4 37 86
+GetAllFruitsByRate 2 4
+PickFruit 82
+AddFruit 4 3 32 78
+PlantTree 2 3
+RateFruit 49 4
+AddFruit 1 4 17 83
+PickFruit 19
+GetAllFruitsByRate 1 2
+AddFruit 0 0 81 73
+PickFruit 39
+PickFruit 69
+AddFruit 3 1 16 79
+PlantTree 4 4
+AddFruit 1 3 8 30
+RateFruit 42 76
+GetBestFruit 4 1
+PlantTree 2 4
+PickFruit 32
+GetAllFruitsByRate 3 1
+AddFruit 0 2 71 4
+AddFruit 1 3 45 78
+PlantTree 3 1
+PickFruit 49
+GetAllFruitsByRate 0 3
+GetAllFruitsByRate 0 1
+PickFruit 10
+PickFruit 48
+PlantTree 2 1
+AddFruit 4 0 17 32
+GetBestFruit 2 3
+GetAllFruitsByRate 1 3
+AddFruit 4 3 47 83
+PlantTree 0 0
+PlantTree 4 0
+RateFruit 74 63
+RateFruit 86 87
+RateFruit 18 74
+GetBestFruit 1 4
+PlantTree 1 2
+GetBestFruit 4 0
+AddFruit 0 0 89 83
+PlantTree 2 0
+AddFruit 2 3 2 64
+RateFruit 17 40
+AddFruit 3 4 37 28
+GetAllFruitsByRate 3 0
+AddFruit 0 2 40 6
+PickFruit 62
+PlantTree 3 2
+AddFruit 1 3 28 15
+GetAllFruitsByRate 2 3
+GetAllFruitsByRate 4 0
+RateFruit 27 7
+AddFruit 3 1 27 24
+GetBestFruit 0 3
+PlantTree 2 2
+AddFruit 3 4 4 51
+RateFruit 17 71
+PickFruit 59
+RateFruit 62 15
+GetAllFruitsByRate 1 3
+GetAllFruitsByRate 1 4
+GetBestFruit 0 3
+PickFruit 37
+GetAllFruitsByRate 0 4
+AddFruit 1 4 73 26
+PlantTree 2 0
+PlantTree 3 1
+GetBestFruit 1 3
+PickFruit -3
+AddFruit 1 2 41 7
+GetAllFruitsByRate 2 1
+PlantTree 3 1
+AddFruit 3 4 21 7
+AddFruit 1 4 6 76
+RateFruit 32 91
+GetAllFruitsByRate 2 0
+AddFruit 2 3 91 11
+AddFruit 1 3 59 69
+GetBestFruit 4 0
+GetAllFruitsByRate 0 3
+GetAllFruitsByRate 4 4
+AddFruit 3 1 36 93
+PlantTree 2 3
+GetAllFruitsByRate 3 3
+GetBestFruit 4 4
+GetAllFruitsByRate 0 0
+PlantTree 0 2
+AddFruit 0 2 50 59
+AddFruit 3 3 6 3
+RateFruit 6 -2
+GetAllFruitsByRate 0 2
+AddFruit 2 0 44 1
+RateFruit 23 96
+PickFruit 41
+AddFruit 4 2 38 11
+AddFruit 1 3 22 42
+GetAllFruitsByRate 4 3
+PickFruit 60
+PickFruit 65
+PickFruit 1
+RateFruit 73 -1
+GetAllFruitsByRate 1 2
+PickFruit 40
+GetAllFruitsByRate 1 1
+GetAllFruitsByRate 1 0
+AddFruit 2 1 79 93
+AddFruit 2 1 72 76
+GetAllFruitsByRate 0 2
+PlantTree 3 2
+PlantTree 2 2
+PickFruit 50
+PickFruit 77
+GetBestFruit 2 2
+GetAllFruitsByRate 4 1
+PickFruit 1
+PlantTree 0 1
+AddFruit 4 4 7 49
+AddFruit 1 1 92 37
+GetBestFruit 1 1
+PlantTree 1 4
+RateFruit 31 90
+RateFruit 89 25
+PickFruit 38
+AddFruit 4 2 37 0
+GetBestFruit 0 1
+GetAllFruitsByRate 1 1
+AddFruit 1 2 53 21
+AddFruit 2 1 90 77
+GetAllFruitsByRate 0 4
+AddFruit 2 3 73 86
+GetAllFruitsByRate 4 3
+AddFruit 1 2 1 -3
+AddFruit 3 2 -1 68
+PickFruit 0
+RateFruit 50 56
+AddFruit 1 3 79 74
+GetBestFruit 2 0
+GetAllFruitsByRate 2 3
+PickFruit 30
+RateFruit 83 68
+PickFruit 42
+PickFruit 10
+RateFruit 60 21
+PlantTree 3 4
+GetAllFruitsByRate 3 3
+RateFruit 58 17
+RateFruit 29 49
+GetAllFruitsByRate 4 2
+AddFruit 1 1 -2 46
+GetAllFruitsByRate 2 1
+RateFruit 11 -3
+AddFruit 1 3 75 66
+RateFruit 50 13
+AddFruit 0 3 17 15
+PlantTree 0 0
+AddFruit 0 3 37 3
+GetAllFruitsByRate 2 4
+AddFruit 4 2 83 35
+GetAllFruitsByRate 0 0
+RateFruit 38 27
+GetAllFruitsByRate 1 2
+GetAllFruitsByRate 0 4
+GetAllFruitsByRate 4 4
+AddFruit 0 4 27 41
+PlantTree 1 2
+RateFruit 24 26
+PlantTree 1 0
+AddFruit 0 1 41 16
+GetBestFruit 0 2
+PickFruit 37
+AddFruit 4 1 79 25
+GetBestFruit 0 3
+PlantTree 1 3
+PlantTree 1 4
+AddFruit 2 2 53 49
+PlantTree 2 4
+GetAllFruitsByRate 0 4
+AddFruit 0 1 63 21
+PlantTree 0 0
+GetBestFruit 3 4
+AddFruit 2 3 22 16
+PlantTree 2 2
+PlantTree 3 2
+PlantTree 0 0
+PlantTree 4 4
+AddFruit 0 1 18 50
+GetAllFruitsByRate 2 3
+PlantTree 2 1
+GetBestFruit 4 1
+PlantTree 3 2
+GetBestFruit 2 0
+RateFruit 86 49
+GetBestFruit 3 3
+AddFruit 0 1 81 40
+GetAllFruitsByRate 1 1
+PickFruit 54
+GetBestFruit 0 0
+RateFruit 12 44
+GetBestFruit 1 0
+PlantTree 1 0
+GetBestFruit 4 0
+AddFruit 2 2 50 19
+RateFruit 86 32
+AddFruit 4 1 91 54
+GetAllFruitsByRate 0 2
+AddFruit 3 2 96 20
+AddFruit 3 1 27 70
+GetAllFruitsByRate 0 1
+GetAllFruitsByRate 1 2
+PlantTree 1 1
+RateFruit 32 71
+PickFruit 7
+GetBestFruit 0 4
+AddFruit 1 1 7 33
+AddFruit 4 4 16 34
+RateFruit 63 86
+AddFruit 4 3 10 17
+RateFruit 46 19
+PlantTree 0 0
+RateFruit 37 28
+PlantTree 3 3
+GetAllFruitsByRate 0 4
+PickFruit 66
+AddFruit 0 1 2 15
+PlantTree 2 3
+AddFruit 2 0 52 54
+AddFruit 4 4 18 62
+RateFruit 33 9
+PickFruit 95
+GetAllFruitsByRate 2 4
+PlantTree 1 1
+GetBestFruit 2 3
+GetAllFruitsByRate 0 1
+PickFruit 77
+RateFruit 63 62
+RateFruit 14 25
+GetAllFruitsByRate 3 1
+AddFruit 0 2 84 3
+AddFruit 1 2 48 35
+PlantTree 0 0
+RateFruit 2 47
+GetAllFruitsByRate 2 2
+AddFruit 2 2 56 87
+AddFruit 2 3 85 81
+AddFruit 1 1 30 34
+PlantTree 0 4
+RateFruit 74 68
+AddFruit 3 1 39 4
+RateFruit 50 75
+AddFruit 4 0 -2 5
+PickFruit 21
+PlantTree 3 4
+PlantTree 2 0
+GetBestFruit 2 4
+PlantTree 2 2
+RateFruit 88 40
+PickFruit 27
+GetBestFruit 0 1
+PlantTree 1 4
+GetBestFruit 1 1
+PickFruit 22
+PlantTree 1 2
+GetAllFruitsByRate 1 3
+GetBestFruit 4 3
+AddFruit 3 2 4 22
+PickFruit 55
+RateFruit 86 93
+RateFruit 43 82
+GetAllFruitsByRate 1 3
+AddFruit 1 2 77 46
+AddFruit 0 2 84 70
+GetAllFruitsByRate 4 3
+RateFruit 5 32
+AddFruit 3 1 15 19
+GetBestFruit 1 0
+PlantTree 2 4
+GetAllFruitsByRate 4 0
+PickFruit 25
+PickFruit 71
+AddFruit 2 2 44 65
+PlantTree 4 1
+AddFruit 2 3 86 24
+RateFruit 67 15
+GetBestFruit 0 1
+AddFruit 4 2 61 89
+PlantTree 2 0
+GetAllFruitsByRate 1 4
+PlantTree 1 3
+GetAllFruitsByRate 3 3
+RateFruit 15 52
+RateFruit 49 61
+GetBestFruit 0 3
+RateFruit 21 89
+PickFruit 43
+PlantTree 4 2
+AddFruit 0 4 72 65
+RateFruit 81 73
+GetAllFruitsByRate 4 3
+GetAllFruitsByRate 3 3
+AddFruit 3 2 69 18
+PlantTree 0 3
+GetAllFruitsByRate 3 2
+PlantTree 1 4
+PickFruit 78
+RateFruit 27 18
+RateFruit 63 33
+GetBestFruit 1 4
+PickFruit 96
+AddFruit 3 3 65 93
+AddFruit 4 3 44 59
+AddFruit 3 2 78 0
+AddFruit 4 2 42 32
+AddFruit 4 3 43 91
+AddFruit 0 2 55 78
+PlantTree 4 0
+PickFruit 22
+PlantTree 0 2
+PickFruit 42
+RateFruit 65 65
+GetBestFruit 4 2
+PickFruit 3
+RateFruit 95 22
+PlantTree 3 1
+GetBestFruit 0 2
+AddFruit 2 2 42 32
+GetAllFruitsByRate 4 3
+PickFruit 92
+GetAllFruitsByRate 3 3
+PlantTree 0 3
+GetAllFruitsByRate 0 2
+PickFruit 50
+GetAllFruitsByRate 0 0
+GetAllFruitsByRate 4 2
+AddFruit 4 1 54 69
+GetAllFruitsByRate 2 1
+GetBestFruit 3 4
+AddFruit 3 4 67 16
+RateFruit 48 -1
+PlantTree 0 3
+PickFruit 16
+AddFruit 0 4 88 5
+RateFruit 69 52
+GetBestFruit 0 0
+PlantTree 1 2
+PlantTree 0 0
+AddFruit 1 3 64 14
+GetBestFruit 0 1
+GetBestFruit 0 4
+AddFruit 3 3 47 20
+AddFruit 2 0 25 69
+PickFruit 53
+PickFruit 74
+GetAllFruitsByRate 0 0
+AddFruit 3 0 23 43
+AddFruit 2 2 4 18
+PickFruit 63
+AddFruit 3 1 27 10
+RateFruit 58 67
+AddFruit 2 2 0 78
+GetAllFruitsByRate 0 2
+AddFruit 0 0 22 19
+PlantTree 4 2
+PickFruit 16
+RateFruit 13 20
+GetBestFruit 0 3
+GetBestFruit 1 0
+PickFruit 73
+PlantTree 1 3
+PlantTree 4 0
+AddFruit 3 2 11 9
+PlantTree 2 1
+PlantTree 2 4
+RateFruit 25 8
+GetBestFruit 2 1
+PlantTree 3 1
+GetBestFruit 1 2
+AddFruit 1 3 28 47
+AddFruit 1 4 32 72
+GetAllFruitsByRate 3 3
+GetAllFruitsByRate 3 0
+AddFruit 0 3 60 58
+AddFruit 2 3 16 53
+RateFruit 22 35
+GetBestFruit 2 4
+AddFruit 1 3 8 -3
+AddFruit 0 3 24 11
+RateFruit 82 67
+PlantTree 0 0
+RateFruit 76 34
+RateFruit 16 35
+AddFruit 3 4 91 71
+GetBestFruit 3 4
+PickFruit 27
+PickFruit 68
+GetBestFruit 0 4
+GetBestFruit 2 3
+PickFruit 51
+AddFruit 2 3 39 12
+PickFruit 63
+GetBestFruit 3 4
+RateFruit 96 95
+GetBestFruit 3 0
+AddFruit 3 1 14 74
+AddFruit 4 2 19 61
+AddFruit 2 0 1 45
+AddFruit 2 1 45 66
+AddFruit 4 2 76 39
+GetAllFruitsByRate 4 1
+AddFruit 3 2 67 55
+RateFruit 40 79
+PickFruit 17
+RateFruit 72 29
+AddFruit 1 3 46 49
+PlantTree 2 1
+AddFruit 1 0 62 77
+GetBestFruit 3 2
+AddFruit 2 3 51 74
+GetAllFruitsByRate 1 2
+RateFruit 61 18
+RateFruit 23 23
+PlantTree 0 1
+GetBestFruit 4 2
+AddFruit 3 3 30 30
+GetAllFruitsByRate 0 0
+PlantTree 4 0
+AddFruit 4 3 10 35
+PickFruit 35
+GetAllFruitsByRate 0 4
+AddFruit 3 3 74 84
+GetBestFruit 1 4
+AddFruit 2 3 47 36
+PlantTree 3 3
+RateFruit 25 72
+PickFruit 82
+GetAllFruitsByRate 2 0
+AddFruit 0 2 35 10
+AddFruit 2 1 72 56
+AddFruit 3 4 67 29
+PickFruit 2
+AddFruit 1 4 44 6
+GetAllFruitsByRate 1 2
+PickFruit 88
+AddFruit 3 0 29 10
+RateFruit 58 43
+RateFruit 55 46
+AddFruit 1 0 20 43
+GetAllFruitsByRate 2 1
+AddFruit 3 4 17 86
+AddFruit 2 2 33 12
+PlantTree 1 1
+PlantTree 3 2
+PlantTree 1 4
+GetAllFruitsByRate 3 1
+GetBestFruit 3 2
+PlantTree 2 2
+PlantTree 0 3
+RateFruit 44 47
+GetBestFruit 0 4
+PickFruit 52
+AddFruit 1 2 8 86
+AddFruit 0 4 85 47
+PlantTree 0 2
+GetBestFruit 0 1
+GetAllFruitsByRate 1 3
+AddFruit 3 1 12 94
+GetBestFruit 2 3
+PlantTree 1 0
+AddFruit 0 4 94 10
+RateFruit 62 77
+AddFruit 2 4 63 69
+AddFruit 3 0 92 47
+AddFruit 3 4 26 32
+PickFruit 67
+PlantTree 0 0
+GetBestFruit 4 0
+AddFruit 4 3 46 93
+RateFruit 96 89
+AddFruit 1 3 -3 31
+GetBestFruit 2 0
+GetAllFruitsByRate 1 4
+RateFruit 52 65
+PlantTree 4 3
+AddFruit 2 1 90 20
+PickFruit -1
+GetAllFruitsByRate 4 2
+AddFruit 4 3 88 87
+PickFruit 3
+GetAllFruitsByRate 3 4
+GetBestFruit 0 2
+GetAllFruitsByRate 1 3
+GetAllFruitsByRate 2 1
+GetAllFruitsByRate 3 4
+AddFruit 4 1 15 26
+AddFruit 1 4 59 43
+RateFruit 39 65
+AddFruit 2 0 59 45
+AddFruit 3 2 1 6
+AddFruit 4 2 76 31
+PlantTree 3 3
+PlantTree 4 0
+GetAllFruitsByRate 2 0
+AddFruit 3 1 -2 84
+AddFruit 3 3 38 57
+PlantTree 0 3
+RateFruit 32 42
+RateFruit 72 10
+GetAllFruitsByRate 3 2
+PlantTree 0 0
+GetAllFruitsByRate 1 3
+AddFruit 3 0 17 33
+AddFruit 0 1 1 21
+RateFruit 53 84
+RateFruit 32 90
+PickFruit 14
+GetAllFruitsByRate 2 3
+RateFruit 13 37
+GetAllFruitsByRate 4 1
+RateFruit 1 33
+AddFruit 4 2 66 28
+PlantTree 1 4
+GetBestFruit 2 0
+AddFruit 4 2 86 49
+AddFruit 2 2 13 23
+AddFruit 3 0 58 53
+RateFruit 65 -3
+AddFruit 2 2 85 90
+PickFruit 9
+AddFruit 0 1 1 -2
+GetAllFruitsByRate 2 2
+GetBestFruit 2 3
+GetBestFruit 0 0
+GetAllFruitsByRate 2 4
+PlantTree 3 0
+GetAllFruitsByRate 3 4
+PlantTree 2 1
+GetBestFruit 0 0
+PlantTree 4 4
+PlantTree 3 1
+AddFruit 0 0 65 51
+GetAllFruitsByRate 3 1
+GetAllFruitsByRate 3 3
+AddFruit 0 1 5 53
+AddFruit 2 2 18 87
+AddFruit 4 3 87 14
+GetBestFruit 1 1
+RateFruit 40 91
+RateFruit 27 68
+GetAllFruitsByRate 1 3
+AddFruit 1 1 12 93
+GetBestFruit 4 4
+GetAllFruitsByRate 0 1
+AddFruit 2 2 1 89
+GetAllFruitsByRate 4 1
+GetAllFruitsByRate 3 1
+RateFruit 24 48
+AddFruit 3 0 79 91
+GetBestFruit 1 3
+PickFruit 35
+PickFruit 82
+RateFruit 45 47
+PlantTree 2 2
+AddFruit 4 4 94 56
+AddFruit 4 1 -2 46
+GetBestFruit 3 3
+RateFruit 34 16
+PlantTree 2 3
+PickFruit 8
+PlantTree 1 1
+GetAllFruitsByRate 2 4
+AddFruit 1 4 93 39
+RateFruit -3 88
+RateFruit 51 71
+AddFruit 3 4 75 22
+GetAllFruitsByRate 0 1
+PickFruit 54
+RateFruit 7 42
+AddFruit 3 4 86 1
+AddFruit 2 0 6 92
+AddFruit 4 2 85 29
+GetBestFruit 0 3
+AddFruit 1 1 66 88
+GetAllFruitsByRate 0 4
+AddFruit 0 3 65 76
+PlantTree 1 2
+GetAllFruitsByRate 4 2
+RateFruit 5 72
+AddFruit 4 2 75 66
+AddFruit 3 1 62 45
+AddFruit 1 1 4 5
+PickFruit 32
+GetAllFruitsByRate 2 4
+GetBestFruit 3 0
+GetAllFruitsByRate 2 2
+GetAllFruitsByRate 1 2
+AddFruit 4 4 31 36
+PlantTree 4 3
+AddFruit 0 0 87 20
+RateFruit 95 34
+PickFruit 22
+GetAllFruitsByRate 3 2
+GetAllFruitsByRate 3 2
+GetBestFruit 3 0
+PlantTree 3 3
+GetBestFruit 4 4
+AddFruit 0 4 82 91
+GetAllFruitsByRate 1 3
+PickFruit 88
+AddFruit 3 1 60 73
+AddFruit 2 1 61 27
+PlantTree 1 2
+GetBestFruit 1 0
+PlantTree 3 3
+RateFruit 61 47
+PickFruit 13
+GetBestFruit 2 2
+GetAllFruitsByRate 2 4
+AddFruit 0 3 93 68
+GetAllFruitsByRate 2 2
+RateFruit 42 78
+RateFruit 72 15
+PickFruit 95
+GetBestFruit 2 2
+GetAllFruitsByRate 3 0
+PickFruit 46
+AddFruit 0 1 53 85
+AddFruit 3 1 41 20
+RateFruit 30 21
+AddFruit 3 2 17 0
+PickFruit -1
+GetBestFruit 2 1
+AddFruit 0 0 14 89
+PlantTree 2 1
+AddFruit 2 3 67 42
+GetAllFruitsByRate 3 4
+GetAllFruitsByRate 1 3
+PickFruit 84
+RateFruit 62 12
+PlantTree 0 3
+PlantTree 4 2
+AddFruit 1 4 88 71
+AddFruit 4 3 26 7
+PlantTree 0 2
+AddFruit 0 0 23 58
+PickFruit 1
+RateFruit 43 79
+PlantTree 0 1
+PickFruit 18
+RateFruit 81 20
+RateFruit 60 48
+AddFruit 4 4 50 57
+PlantTree 2 2
+AddFruit 3 1 83 -1
+AddFruit 1 2 74 56
+GetBestFruit 4 2
+GetAllFruitsByRate 0 1
+PlantTree 0 4
+PlantTree 1 1
+AddFruit 1 4 56 74
+PickFruit 47
+RateFruit 89 60
+RateFruit 28 29
+AddFruit 1 4 47 20
+PickFruit 13
+GetBestFruit 4 2
+AddFruit 1 1 32 18
+AddFruit 4 4 28 -2
+GetAllFruitsByRate 4 0
+RateFruit 48 7
+AddFruit 4 4 20 63
+RateFruit 66 95
+AddFruit 2 0 92 55
+PlantTree 4 4
+AddFruit 1 4 75 27
+GetBestFruit 4 1
+RateFruit 40 60
+AddFruit 4 0 12 43
+RateFruit 63 93
+GetBestFruit 3 4
+AddFruit 1 1 51 89
+RateFruit 55 94
+AddFruit 0 3 8 38
+PickFruit 91
+PickFruit 15
+GetAllFruitsByRate 2 0
+GetAllFruitsByRate 4 0
+GetBestFruit 0 1
+AddFruit 2 0 54 53
+AddFruit 0 0 84 69
+GetAllFruitsByRate 4 1
+RateFruit 26 43
+GetBestFruit 3 2
+GetAllFruitsByRate 3 3
+AddFruit 1 0 2 5
+GetAllFruitsByRate 0 0
+GetAllFruitsByRate 1 0
+RateFruit 20 39
+AddFruit 0 3 94 18
+PlantTree 4 0
+RateFruit 22 12
+PlantTree 0 0
+GetAllFruitsByRate 1 3
+AddFruit 0 0 47 89
+PlantTree 0 4
+AddFruit 4 0 5 22
+PickFruit 40
+PickFruit 96
+PickFruit 39
+GetBestFruit 4 4
+RateFruit 26 56
+GetAllFruitsByRate 3 0
+AddFruit 2 0 19 2
+PlantTree 1 2
+AddFruit 3 4 44 90
+AddFruit 4 4 39 93
+AddFruit 3 3 45 8
+PickFruit 17
+PlantTree 4 2
+PickFruit 12
+PickFruit 22
+GetAllFruitsByRate 2 1
+GetAllFruitsByRate 3 4
+RateFruit 52 4
+AddFruit 4 2 80 69
+AddFruit 3 3 74 19
+PickFruit 85
+RateFruit 89 -2
+GetBestFruit 0 4
+GetBestFruit 0 1
+RateFruit 34 45
+GetAllFruitsByRate 4 3
+GetAllFruitsByRate 3 0
+AddFruit 3 4 27 62
+PlantTree 0 3
+RateFruit 89 20
+AddFruit 4 4 86 13
+PickFruit 73
+UpdateRottenFruits 2 14
+RateFruit 53 22
+GetAllFruitsByRate 3 1
+AddFruit 1 2 46 33
+PlantTree 3 2
+AddFruit 2 2 94 35
+PlantTree 1 4
+PickFruit 8
+PlantTree 3 2
+GetBestFruit 0 2
+GetBestFruit 1 1
+RateFruit 45 87
+RateFruit 82 78
+AddFruit 0 1 69 31
+PickFruit 42
+AddFruit 4 1 50 59
+GetBestFruit 3 4
+GetAllFruitsByRate 1 3
+GetBestFruit 2 3
+PickFruit 78
+GetBestFruit 4 3
+PickFruit 81
+GetBestFruit 4 0
+RateFruit 58 26
+AddFruit 3 0 67 64
+PlantTree 1 3
+GetAllFruitsByRate 0 1
+PlantTree 1 4
+PickFruit 38
+AddFruit 0 1 80 16
+GetAllFruitsByRate 0 1
+AddFruit 0 3 58 45
+GetBestFruit 2 2
+PickFruit 15
+AddFruit 1 2 44 48
+RateFruit 70 69
+AddFruit 4 1 57 71
+AddFruit 1 0 5 82
+PlantTree 0 4
+GetAllFruitsByRate 3 0
+AddFruit 2 2 5 57
+GetBestFruit 1 1
+AddFruit 2 4 44 86
+AddFruit 2 2 27 55
+GetBestFruit 3 1
+GetAllFruitsByRate 2 4
+GetAllFruitsByRate 3 1
+PlantTree 1 0
+RateFruit 81 48
+RateFruit 48 40
+AddFruit 2 0 41 40
+PickFruit 68
+PickFruit 85
+PickFruit 57
+AddFruit 4 1 91 75
+AddFruit 4 3 15 47
+AddFruit 1 0 61 48
+GetBestFruit 4 1
+PlantTree 4 2
+PlantTree 1 0
+RateFruit 70 57
+RateFruit 38 40
+AddFruit 4 3 13 62
+PickFruit -3
+PlantTree 4 3
+AddFruit 4 3 28 0
+GetBestFruit 1 4
+GetBestFruit 0 2
+PickFruit 84
+GetBestFruit 3 1
+AddFruit 4 1 15 12
+PlantTree 3 2
+GetAllFruitsByRate 4 3
+PickFruit 78
+PickFruit 9
+GetBestFruit 4 3
+PlantTree 4 4
+PickFruit 82
+PickFruit 30
+AddFruit 1 1 92 51
+PickFruit 85
+GetBestFruit 2 1
+RateFruit 21 54
+RateFruit 8 90
+GetAllFruitsByRate 1 3
+PickFruit 3
+GetBestFruit 4 3
+GetBestFruit 3 4
+GetAllFruitsByRate 1 4
+PickFruit 92
+AddFruit 4 2 17 48
+AddFruit 2 0 58 25
+AddFruit 1 4 49 27
+AddFruit 1 0 27 93
+GetAllFruitsByRate 2 3
+GetAllFruitsByRate 1 0
+GetBestFruit 3 0
+AddFruit 2 2 57 12
+AddFruit 3 1 52 75
+PickFruit 35
+GetAllFruitsByRate 0 1
+AddFruit 0 1 84 70
+AddFruit 4 2 33 17
+RateFruit 47 70
+GetAllFruitsByRate 2 2
+GetBestFruit 1 2
+AddFruit 4 4 -1 67
+PickFruit 65
+PlantTree 2 4
+RateFruit 58 68
+GetAllFruitsByRate 3 4
+AddFruit 4 0 24 38
+GetBestFruit 1 1
+AddFruit 2 1 48 75
+RateFruit 28 58
+GetBestFruit 1 2
+AddFruit 1 3 51 8
+GetBestFruit 2 3
+GetBestFruit 3 2
+PickFruit 94
+AddFruit 2 4 22 11
+GetAllFruitsByRate 1 2
+AddFruit 0 0 24 6
+GetAllFruitsByRate 4 4
+AddFruit 3 4 8 5
+GetAllFruitsByRate 4 1
+GetBestFruit 2 3
+PlantTree 0 1
+GetAllFruitsByRate 0 4
+PickFruit 54
+RateFruit 63 58
+PlantTree 4 1
+GetBestFruit 4 3
+AddFruit 0 4 45 46
+PlantTree 3 1
+RateFruit 12 4
+GetBestFruit 3 1
+AddFruit 3 4 1 38
+PickFruit 30
+RateFruit 75 52
+GetBestFruit 1 1
+AddFruit 1 0 71 44
+GetBestFruit 2 0
+GetAllFruitsByRate 0 3
+AddFruit 4 1 26 91
+PlantTree 1 4
+AddFruit 2 3 85 11
+RateFruit 0 86
+PickFruit 31
+GetBestFruit 2 1
+GetAllFruitsByRate 2 2
+AddFruit 2 1 31 64
+AddFruit 3 4 43 81
+RateFruit 64 18
+PickFruit 83
+AddFruit 2 1 26 59
+PlantTree 3 4
+PickFruit 55
+RateFruit -1 23
+AddFruit 1 3 57 49
+AddFruit 2 1 88 58
+GetAllFruitsByRate 2 4
+PickFruit 33
+AddFruit 1 4 51 42
+PlantTree 0 2
+GetAllFruitsByRate 1 3
+GetAllFruitsByRate 3 3
+RateFruit 33 95
+GetAllFruitsByRate 2 0
+RateFruit 67 38
+RateFruit 24 89
+GetAllFruitsByRate 2 3
+PickFruit 96
+AddFruit 0 3 5 68
+AddFruit 2 1 27 87
+AddFruit 0 4 6 85
+RateFruit 28 -3
+PlantTree 2 2
+GetBestFruit 4 4
+PickFruit 91
+AddFruit 1 1 79 9
+GetAllFruitsByRate 3 2
+PickFruit 50
+AddFruit 4 0 36 90
+GetAllFruitsByRate 1 0
+AddFruit 3 3 10 79
+GetBestFruit 0 0
+AddFruit 4 0 23 33
+PickFruit 55
+PlantTree 0 4
+GetAllFruitsByRate 0 3
+PlantTree 4 0
+AddFruit 2 3 95 81
+PlantTree 3 4
+PickFruit 39
+PlantTree 4 4
+AddFruit 2 3 59 36
+GetAllFruitsByRate 3 2
+AddFruit 2 4 17 3
+AddFruit 0 1 67 92
+RateFruit 37 68
+RateFruit 92 67
+AddFruit 3 4 93 25
+AddFruit 3 4 73 23
+AddFruit 1 0 67 57
+AddFruit 2 4 26 15
+GetAllFruitsByRate 1 2
+AddFruit 2 3 32 64
+PlantTree 0 3
+PickFruit 15
+GetAllFruitsByRate 2 2
+RateFruit 80 -3
+GetBestFruit 2 3
+AddFruit 0 2 61 75
+PlantTree 3 1
+AddFruit 1 0 85 80
+RateFruit 36 32
+AddFruit 2 1 25 96
+GetAllFruitsByRate 4 2
+GetAllFruitsByRate 0 2
+PickFruit -2
+PickFruit 34
+GetBestFruit 3 2
+GetBestFruit 2 1
+PickFruit 3
+PickFruit 63
+RateFruit 12 85
+GetAllFruitsByRate 3 2
+RateFruit 46 -1
+GetBestFruit 2 3
+GetAllFruitsByRate 0 1
+PlantTree 2 1
+GetAllFruitsByRate 3 3
+GetAllFruitsByRate 2 3
+PlantTree 3 2
+GetAllFruitsByRate 1 1
+AddFruit 2 0 48 67
+PickFruit 14
+GetAllFruitsByRate 2 4
+AddFruit 0 3 87 32
+GetAllFruitsByRate 1 1
+PickFruit 78
+GetBestFruit 4 3
+PlantTree 1 2
+GetBestFruit 1 1
+PlantTree 4 3
+GetAllFruitsByRate 2 1
+GetBestFruit 2 3
+GetBestFruit 2 2
+GetAllFruitsByRate 4 0
+RateFruit 15 18
+GetBestFruit 2 3
+AddFruit 0 0 17 18
+AddFruit 3 1 89 1
+RateFruit 76 75
+GetBestFruit 0 3
+GetAllFruitsByRate 4 0
+GetAllFruitsByRate 1 1
+PickFruit 79
+PickFruit 84
+PickFruit 11
+GetBestFruit 4 4
+PlantTree 2 0
+AddFruit 0 4 1 58
+PlantTree 3 1
+RateFruit 71 83
+PickFruit 55
+RateFruit 17 35
+PickFruit 31
+GetBestFruit 0 1
+GetBestFruit 1 0
+AddFruit 2 4 52 74
+PlantTree 0 2
+PlantTree 4 0
+GetBestFruit 3 1
+RateFruit 8 36
+AddFruit 3 3 73 43
+PlantTree 0 3
+GetBestFruit 4 1
+GetAllFruitsByRate 0 0
+GetAllFruitsByRate 4 1
+PickFruit 60
+GetBestFruit 3 4
+GetBestFruit 3 0
+AddFruit 2 3 56 25
+PlantTree 2 2
+PickFruit 74
+AddFruit 4 3 13 96
+GetBestFruit 2 0
+GetBestFruit 3 2
+GetAllFruitsByRate 2 2
+AddFruit 4 2 41 3
+PickFruit 45
+PlantTree 0 4
+PlantTree 4 0
+PickFruit 31
+AddFruit 4 3 35 23
+AddFruit 2 4 84 85
+AddFruit 0 2 43 95
+PlantTree 0 4
+GetAllFruitsByRate 1 4
+PickFruit 63
+GetBestFruit 1 2
+GetBestFruit 0 4
+PlantTree 1 2
+GetAllFruitsByRate 2 2
+AddFruit 1 4 9 65
+AddFruit 2 3 0 -2
+AddFruit 1 3 29 -2
+PlantTree 0 0
+GetBestFruit 1 4
+PlantTree 4 1
+GetBestFruit 1 1
+PlantTree 4 0
+AddFruit 2 0 63 48
+AddFruit 0 0 55 37
+RateFruit 24 23
+GetAllFruitsByRate 3 0
+GetBestFruit 4 4
+AddFruit 3 3 34 3
+RateFruit -2 37
+PickFruit 33
+AddFruit 4 4 56 26
+GetAllFruitsByRate 4 2
+AddFruit 3 1 35 -1
+AddFruit 4 0 92 12
+GetAllFruitsByRate 1 3
+RateFruit 66 56
+AddFruit 1 3 87 54
+AddFruit 0 0 74 13
+PickFruit 57
+AddFruit 4 1 29 41
+RateFruit 42 50
+PickFruit 18
+GetBestFruit 2 0
+AddFruit 2 0 18 96
+GetBestFruit 3 2
+AddFruit 4 2 49 24
+GetAllFruitsByRate 4 4
+RateFruit 66 6
+RateFruit 51 23
+GetBestFruit 1 3
+AddFruit 2 1 11 60
+PlantTree 4 0
+AddFruit 3 4 10 34
+RateFruit 2 15
+PickFruit 21
+GetAllFruitsByRate 3 2
+GetAllFruitsByRate 4 4
+GetBestFruit 2 2
+GetBestFruit 3 0
+GetAllFruitsByRate 1 4
+AddFruit 0 0 48 50
+AddFruit 1 4 93 63
+RateFruit 6 75
+GetAllFruitsByRate 1 4
+PickFruit 17
+AddFruit 3 3 56 73
+GetBestFruit 1 3
+GetBestFruit 0 4
+GetAllFruitsByRate 2 2
+GetAllFruitsByRate 2 2
+PlantTree 0 1
+GetBestFruit 0 0
+RateFruit 2 63
+AddFruit 0 2 54 51
+AddFruit 4 2 41 75
+RateFruit 73 90
+AddFruit 4 1 13 66
+PlantTree 3 0
+PlantTree 0 4
+AddFruit 0 1 81 96
+PlantTree 4 2
+AddFruit 3 4 57 85
+RateFruit 89 38
+GetBestFruit 0 2
+GetAllFruitsByRate 1 1
+PickFruit 57
+GetBestFruit 1 3
+GetBestFruit 1 2
+AddFruit 4 2 44 9
+AddFruit 0 0 53 9
+PickFruit 85
+GetBestFruit 3 0
+GetBestFruit 3 2
+GetBestFruit 4 3
+AddFruit 2 4 27 49
+AddFruit 0 1 85 21
+PickFruit 86
+GetAllFruitsByRate 3 2
+GetBestFruit 2 4
+RateFruit 51 35
+PlantTree 4 0
+GetAllFruitsByRate 0 1
+PlantTree 1 3
+GetAllFruitsByRate 2 0
+RateFruit 77 32
+AddFruit 1 0 83 11
+RateFruit 12 94
+RateFruit 58 18
+PlantTree 0 2
+PlantTree 1 0
+GetBestFruit 1 3
+AddFruit 2 1 66 60
+PlantTree 1 4
+GetAllFruitsByRate 0 1
+RateFruit 61 44
+GetAllFruitsByRate 3 4
+PlantTree 0 1
+GetAllFruitsByRate 4 0
+GetBestFruit 2 4
+RateFruit 11 40
+PickFruit 32
+PickFruit 68
+PickFruit 54
+AddFruit 4 0 83 52
+AddFruit 4 1 22 38
+PlantTree 3 0
+GetBestFruit 3 4
+AddFruit 4 1 65 31
+RateFruit 11 77
+RateFruit 77 10
+AddFruit 0 1 65 23
+PlantTree 1 2
+GetAllFruitsByRate 0 0
+GetBestFruit 1 2
+RateFruit 0 92
+GetBestFruit 2 3
+RateFruit 57 47
+PlantTree 4 0
+GetAllFruitsByRate 2 0
+GetBestFruit 2 3
+AddFruit 2 4 35 -3
+PlantTree 2 3
+AddFruit 3 1 19 53
+GetBestFruit 3 2
+PickFruit 40
+PickFruit 96
+GetBestFruit 1 4
+PickFruit 63
+RateFruit 4 15
+PickFruit 64
+AddFruit 3 1 6 63
+GetBestFruit 4 3
+GetBestFruit 3 4
+GetBestFruit 4 1
+AddFruit 4 4 27 22
+GetBestFruit 1 4
+GetAllFruitsByRate 3 0
+GetBestFruit 2 3
+GetAllFruitsByRate 4 3
+AddFruit 3 0 77 24
+GetBestFruit 0 0
+PlantTree 0 0
+PickFruit 93
+PickFruit 64
+PickFruit 53
+PickFruit 62
+GetAllFruitsByRate 2 0
+GetBestFruit 4 3
+RateFruit 77 94
+AddFruit 3 0 71 88
+GetAllFruitsByRate 1 0
+AddFruit 3 2 41 52
+RateFruit 11 39
+GetBestFruit 4 4
+AddFruit 2 1 42 63
+RateFruit 89 35
+AddFruit 4 1 42 31
+AddFruit 4 4 87 11
+RateFruit 0 76
+GetAllFruitsByRate 1 0
+GetAllFruitsByRate 2 1
+RateFruit 81 52
+GetAllFruitsByRate 3 3
+AddFruit 0 2 88 34
+PickFruit -2
+AddFruit 3 0 58 66
+GetAllFruitsByRate 0 3
+AddFruit 3 1 86 68
+AddFruit 0 0 81 45
+PickFruit 33
+PickFruit 92
+GetAllFruitsByRate 0 4
+RateFruit 46 25
+PlantTree 4 4
+AddFruit 0 0 62 62
+PlantTree 2 4
+AddFruit 3 4 56 48
+PlantTree 4 3
+PlantTree 1 3
+PickFruit 10
+AddFruit 2 3 41 5
+PlantTree 2 2
+AddFruit 3 3 48 40
+AddFruit 2 0 55 25
+AddFruit 3 1 54 62
+GetAllFruitsByRate 0 2
+PlantTree 1 2
+AddFruit 0 2 6 27
+PlantTree 2 3
+GetBestFruit 2 1
+PlantTree 4 3
+PlantTree 2 1
+GetAllFruitsByRate 0 3
+RateFruit 16 41
+PlantTree 2 0
+GetAllFruitsByRate 3 2
+GetAllFruitsByRate 4 2
+AddFruit 3 4 41 48
+PickFruit 9
+GetBestFruit 1 3
+PickFruit 80
+RateFruit 54 23
+RateFruit 8 88
+GetAllFruitsByRate 2 3
+PickFruit 42
+GetBestFruit 0 1
+GetAllFruitsByRate 0 1
+AddFruit 1 0 -2 11
+GetAllFruitsByRate 2 4
+GetAllFruitsByRate 3 0
+PickFruit 0
+PlantTree 1 1
+AddFruit 2 4 6 49
+GetAllFruitsByRate 0 4
+RateFruit 33 47
+RateFruit 50 5
+AddFruit 1 3 12 75
+GetAllFruitsByRate 0 2
+RateFruit 73 86
+AddFruit 0 4 64 90
+PlantTree 1 2
+AddFruit 1 3 30 59
+PlantTree 0 2
+GetBestFruit 0 2
+RateFruit 74 19
+GetBestFruit 0 3
+PickFruit 39
+AddFruit 1 3 56 65
+RateFruit 84 69
+PickFruit 32
+PlantTree 3 4
+AddFruit 3 2 78 11
+PlantTree 1 0
+AddFruit 3 1 48 26
+AddFruit 2 4 83 0
+GetAllFruitsByRate 0 4
+AddFruit 4 0 56 46
+PlantTree 1 0
+GetAllFruitsByRate 4 2
+RateFruit 54 58
+AddFruit 0 2 14 87
+AddFruit 0 0 67 91
+RateFruit 4 53
+PlantTree 1 2
+AddFruit 4 1 -2 46
+PickFruit 8
+PickFruit 48
+AddFruit 0 2 1 37
+RateFruit 57 51
+AddFruit 3 0 81 66
+GetAllFruitsByRate 4 2
+PickFruit 68
+RateFruit 77 93
+RateFruit 14 90
+PlantTree 2 2
+GetBestFruit 3 4
+AddFruit 4 3 52 91
+AddFruit 3 3 88 64
+AddFruit 4 1 53 11
+GetBestFruit 4 2
+PickFruit 28
+GetAllFruitsByRate 2 3
+AddFruit 3 1 91 27
+PickFruit 53
+GetBestFruit 3 3
+AddFruit 3 2 6 16
+GetAllFruitsByRate 0 1
+GetBestFruit 1 1
+GetBestFruit 3 3
+AddFruit 3 3 0 92
+AddFruit 0 3 6 72
+PickFruit 54
+PickFruit 28
+AddFruit 4 2 21 83
+PickFruit 28
+GetBestFruit 4 2
+RateFruit 32 -3
+AddFruit 2 2 62 12
+RateFruit 24 11
+GetBestFruit 0 3
+RateFruit 87 59
+PlantTree 0 0
+PlantTree 0 1
+GetAllFruitsByRate 4 0
+AddFruit 2 2 83 57
+RateFruit 71 33
+PickFruit 38
+PickFruit 71
+PlantTree 1 0
+GetAllFruitsByRate 4 1
+RateFruit -1 84
+GetAllFruitsByRate 4 0
+RateFruit 46 69
+AddFruit 0 0 47 77
+GetBestFruit 3 0
+RateFruit 75 80
+GetBestFruit 0 0
+GetBestFruit 2 0
+GetAllFruitsByRate 3 3
+GetBestFruit 0 4
+PlantTree 3 1
+AddFruit 0 2 4 37
+PlantTree 4 1
+PickFruit 49
+PickFruit 86
+PlantTree 0 2
+GetAllFruitsByRate 2 4
+GetAllFruitsByRate 4 1
+AddFruit 2 2 21 9
+AddFruit 2 2 92 56
+PlantTree 3 4
+AddFruit 3 2 90 8
+PickFruit 33
+AddFruit 3 2 30 45
+RateFruit 47 17
+RateFruit 39 37
+PickFruit 39
+AddFruit 4 1 50 87
+AddFruit 3 3 67 46
+AddFruit 1 0 52 18
+PickFruit 59
+PickFruit 81
+AddFruit 1 1 43 89
+AddFruit 1 0 71 95
+GetAllFruitsByRate 1 3
+GetAllFruitsByRate 2 3
+AddFruit 0 2 24 24
+AddFruit 4 3 47 21
+RateFruit 54 95
+RateFruit -2 7
+AddFruit 4 0 40 81
+PlantTree 4 0
+PickFruit 56
+AddFruit 4 1 1 86
+AddFruit 2 4 42 4
+GetAllFruitsByRate 2 2
+GetAllFruitsByRate 0 4
+GetAllFruitsByRate 4 3
+AddFruit 2 1 82 76
+PlantTree 0 1
+AddFruit 4 2 81 39
+PlantTree 4 3
+GetAllFruitsByRate 0 0
+GetBestFruit 3 0
+AddFruit 1 1 57 -3
+GetBestFruit 3 2
+PlantTree 3 2
+AddFruit 4 1 11 43
+GetBestFruit 1 2
+PlantTree 1 0
+GetAllFruitsByRate 3 0
+AddFruit 4 2 16 22
+GetAllFruitsByRate 1 0
+GetBestFruit 3 2
+RateFruit 36 82
+GetAllFruitsByRate 0 2
+AddFruit 3 0 4 62
+AddFruit 2 1 73 7
+GetBestFruit 0 0
+PlantTree 2 3
+AddFruit 1 4 83 89
+GetBestFruit 1 4
+PickFruit 74
+PlantTree 0 1
+RateFruit 81 36
+PlantTree 1 4
+PickFruit 2
+AddFruit 4 4 37 32
+GetBestFruit 1 2
+AddFruit 1 2 1 13
+AddFruit 4 4 96 40
+GetBestFruit 2 2
+PlantTree 3 1
+PlantTree 2 3
+GetAllFruitsByRate 4 1
+RateFruit 41 44
+PickFruit 51
+AddFruit 3 0 4 32
+PickFruit 9
+RateFruit 52 66
+AddFruit 2 0 82 50
+GetAllFruitsByRate 4 0
+AddFruit 0 0 68 80
+RateFruit 58 34
+AddFruit 1 3 40 17
+AddFruit 1 1 32 32
+AddFruit 0 3 76 63
+AddFruit 1 0 92 24
+AddFruit 3 3 74 65
+PickFruit 10
+AddFruit 1 1 66 7
+PlantTree 1 3
+GetAllFruitsByRate 2 3
+AddFruit 2 2 70 18
+AddFruit 4 0 89 13
+GetBestFruit 4 1
+AddFruit 0 4 25 23
+AddFruit 2 1 32 26
+PlantTree 4 2
+RateFruit 16 39
+GetBestFruit 1 4
+AddFruit 1 3 68 87
+GetAllFruitsByRate 1 2
+RateFruit 89 3
+GetBestFruit 4 4
+AddFruit 3 1 2 73
+GetAllFruitsByRate 3 3
+AddFruit 4 4 55 70
+PickFruit 43
+AddFruit 0 4 69 11
+GetAllFruitsByRate 3 1
+PickFruit 62
+AddFruit 3 3 55 50
+GetAllFruitsByRate 1 0
+PickFruit 62
+PlantTree 0 2
+AddFruit 2 0 32 10
+PlantTree 4 4
+GetBestFruit 2 3
+AddFruit 0 1 34 32
+PickFruit 87
+PlantTree 3 1
+PlantTree 3 3
+AddFruit 2 0 49 86
+GetAllFruitsByRate 2 3
+PickFruit 61
+AddFruit 4 3 1 42
+GetAllFruitsByRate 4 4
+GetBestFruit 2 3
+GetAllFruitsByRate 4 0
+PlantTree 0 4
+PickFruit 0
+PickFruit 6
+RateFruit 86 49
+AddFruit 3 2 21 33
+AddFruit 2 4 20 19
+GetBestFruit 0 4
+RateFruit 54 -2
+AddFruit 1 1 36 4
+AddFruit 3 4 30 50
+AddFruit 3 0 21 56
+GetAllFruitsByRate 1 2
+GetBestFruit 3 0
+GetBestFruit 1 4
+AddFruit 4 4 7 66
+GetBestFruit 1 0
+GetBestFruit 0 2
+AddFruit 4 2 51 83
+PlantTree 1 4
+AddFruit 4 2 12 89
+GetAllFruitsByRate 2 0
+PickFruit 12
+GetAllFruitsByRate 0 1
+GetBestFruit 3 4
+PlantTree 4 4
+GetAllFruitsByRate 4 1
+AddFruit 2 3 40 43
+AddFruit 0 1 92 59
+RateFruit 22 23
+AddFruit 1 4 46 5
+AddFruit 2 1 26 49
+GetAllFruitsByRate 0 3
+GetBestFruit 3 3
+PlantTree 2 4
+GetAllFruitsByRate 0 3
+PlantTree 3 3
+GetAllFruitsByRate 3 2
+PickFruit 55
+AddFruit 2 2 77 3
+GetBestFruit 4 1
+PlantTree 2 2
+AddFruit 3 1 49 27
+PickFruit 20
+AddFruit 0 4 84 60
+PickFruit 75
+PickFruit 91
+PickFruit 31
+PickFruit 7
+AddFruit 1 4 84 16
+AddFruit 0 1 49 80
+AddFruit 4 3 31 79
+GetBestFruit 1 1
+AddFruit 2 4 44 23
+GetBestFruit 4 2
+AddFruit 2 1 29 34
+AddFruit 4 1 59 30
+GetAllFruitsByRate 2 3
+GetAllFruitsByRate 1 2
+AddFruit 4 3 8 43
+PlantTree 2 2
+AddFruit 1 3 37 70
+GetBestFruit 2 0
+GetAllFruitsByRate 2 0
+PickFruit 26
+RateFruit 68 91
+GetBestFruit 2 4
+PickFruit 25
+RateFruit 94 61
+GetBestFruit 3 2
+GetAllFruitsByRate 1 4
+GetAllFruitsByRate 1 2
+GetAllFruitsByRate 3 1
+GetAllFruitsByRate 0 3
+AddFruit 2 2 39 90
+PickFruit -3
+AddFruit 2 1 43 28
+PickFruit 26
+PickFruit 88
+AddFruit 0 0 30 39
+PickFruit 41
+GetAllFruitsByRate 0 1
+PlantTree 4 3
+GetAllFruitsByRate 1 0
+PlantTree 0 0
+PickFruit 15
+AddFruit 1 4 83 15
+AddFruit 4 1 56 73
+PlantTree 2 3
+PickFruit 61
+GetAllFruitsByRate 2 3
+GetBestFruit 0 0
+RateFruit 95 12
+PlantTree 2 0
+AddFruit 3 3 17 56
+AddFruit 3 4 77 46
+AddFruit 1 3 88 -3
+GetAllFruitsByRate 4 4
+PlantTree 3 3
+RateFruit 35 9
+AddFruit 2 0 85 56
+GetBestFruit 3 2
+AddFruit 3 1 3 54
+PlantTree 3 0
+PickFruit 83
+GetBestFruit 2 3
+AddFruit 2 0 26 90
+GetBestFruit 2 4
+PickFruit 23
+GetBestFruit 2 0
+GetAllFruitsByRate 1 1
+AddFruit 1 1 96 96
+AddFruit 1 4 70 15
+PickFruit 25
+GetBestFruit 4 4
+GetAllFruitsByRate 1 4
+GetBestFruit 0 3
+RateFruit 63 29
+PickFruit 11
+GetBestFruit 1 4
+RateFruit 31 36
+GetAllFruitsByRate 0 2
+RateFruit 73 10
+PickFruit 62
+RateFruit 95 44
+AddFruit 4 3 58 67
+GetAllFruitsByRate 2 3
+AddFruit 3 4 5 19
+GetAllFruitsByRate 2 3
+AddFruit 1 3 41 79
+GetAllFruitsByRate 4 4
+PickFruit 64
+AddFruit 1 1 92 85
+GetBestFruit 4 1
+AddFruit 4 2 80 0
+AddFruit 1 1 14 24
+AddFruit 2 0 30 53
+PlantTree 2 2
+GetAllFruitsByRate 1 4
+AddFruit 3 2 -2 89
+RateFruit 22 86
+GetBestFruit 2 1
+PlantTree 3 3
+PlantTree 3 2
+GetAllFruitsByRate 1 4
+PlantTree 3 4
+GetBestFruit 3 3
+GetAllFruitsByRate 2 3
+GetBestFruit 4 3
+GetBestFruit 3 1
+AddFruit 2 0 19 13
+AddFruit 1 2 18 3
+PlantTree 0 2
+AddFruit 4 3 50 56
+PickFruit 80
+AddFruit 1 3 26 10
+AddFruit 1 4 57 17
+AddFruit 3 0 87 42
+GetAllFruitsByRate 0 0
+RateFruit 55 91
+GetAllFruitsByRate 0 3
+GetBestFruit 2 3
+GetBestFruit 3 1
+AddFruit 0 2 88 13
+RateFruit 21 96
+AddFruit 2 1 36 68
+PlantTree 0 3
+GetBestFruit 2 1
+RateFruit 79 91
+AddFruit 0 1 2 82
+RateFruit 13 41
+GetBestFruit 3 1
+PlantTree 4 1
+AddFruit 2 1 62 78
+PlantTree 1 2
+GetAllFruitsByRate 1 1
+RateFruit 34 62
+PlantTree 3 2
+RateFruit 28 51
+PlantTree 3 2
+PlantTree 1 4
+PickFruit 85
+AddFruit 0 2 83 25
+GetAllFruitsByRate 3 0
+RateFruit 13 50
+PickFruit 17
+AddFruit 2 3 74 43
+PlantTree 0 3
+PickFruit 87
+PlantTree 0 0
+PlantTree 1 0
+GetAllFruitsByRate 4 4
+PlantTree 1 4
+RateFruit 75 42
+PlantTree 3 4
+AddFruit 1 1 81 61
+GetBestFruit 2 3
+GetAllFruitsByRate 4 0
+PlantTree 0 0
+GetBestFruit 0 0
+AddFruit 2 3 61 86
+PlantTree 0 1
+GetBestFruit 3 4
+AddFruit 3 3 46 37
+PlantTree 3 2
+GetAllFruitsByRate 4 2
+PlantTree 2 0
+AddFruit 1 3 43 35
+RateFruit 28 17
+GetBestFruit 1 4
+AddFruit 1 3 57 62
+GetBestFruit 4 2
+AddFruit 0 3 61 62
+PickFruit 67
+GetBestFruit 1 1
+AddFruit 4 3 22 -3
+GetAllFruitsByRate 2 0
+PickFruit 11
+GetBestFruit 4 0
+AddFruit 1 3 51 5
+GetAllFruitsByRate 0 1
+AddFruit 4 4 45 55
+AddFruit 3 0 1 88
+GetBestFruit 0 0
+RateFruit 32 1
+PlantTree 3 4
+PickFruit 50
+PlantTree 1 3
+RateFruit 72 79
+GetAllFruitsByRate 0 2
+AddFruit 1 0 44 6
+RateFruit 93 94
+PlantTree 1 1
+RateFruit 79 28
+GetBestFruit 4 1
+AddFruit 3 3 56 33
+PickFruit 94
+RateFruit 67 19
+PickFruit 30
+PickFruit 9
+GetBestFruit 3 0
+GetAllFruitsByRate 3 3
+AddFruit 1 2 5 62
+AddFruit 0 4 76 11
+AddFruit 4 0 17 49
+GetAllFruitsByRate 2 1
+PickFruit 68
+RateFruit 21 12
+GetBestFruit 2 0
+AddFruit 2 2 62 -3
+AddFruit 2 3 58 93
+GetAllFruitsByRate 1 3
+GetAllFruitsByRate 4 3
+PlantTree 1 0
+AddFruit 4 3 27 94
+PlantTree 0 3
+GetBestFruit 3 4
+PickFruit -2
+PickFruit 5
+GetAllFruitsByRate 0 1
+GetBestFruit 0 4
+AddFruit 4 4 18 44
+PlantTree 0 2
+RateFruit 52 29
+PlantTree 0 3
+GetBestFruit 1 3
+AddFruit 3 3 84 89
+AddFruit 3 4 42 75
+PickFruit 29
+PickFruit 0
+GetBestFruit 4 1
+PickFruit 56
+GetAllFruitsByRate 1 2
+GetBestFruit 1 2
+GetAllFruitsByRate 0 1
+PlantTree 3 3
+PickFruit 46
+PickFruit 67
+PlantTree 0 3
+PlantTree 0 4
+AddFruit 4 4 27 54
+PlantTree 1 0
+GetBestFruit 2 2
+GetBestFruit 0 3
+PlantTree 0 4
+AddFruit 0 3 59 46
+AddFruit 2 1 76 94
+RateFruit 81 65
+RateFruit 21 62
+AddFruit 0 4 86 78
+AddFruit 4 0 81 16
+PlantTree 2 3
+AddFruit 0 2 76 9
+AddFruit 0 2 40 50
+GetAllFruitsByRate 4 4
+PlantTree 2 3
+AddFruit 4 4 27 20
+GetAllFruitsByRate 0 3
+AddFruit 3 3 18 35
+AddFruit 1 0 86 -3
+GetBestFruit 0 2
+GetAllFruitsByRate 1 4
+RateFruit 55 70
+AddFruit 3 1 47 16
+PlantTree 0 1
+GetBestFruit 3 2
+GetAllFruitsByRate 4 2
+RateFruit 15 41
+RateFruit 1 75
+GetBestFruit 4 4
+PlantTree 4 1
+PlantTree 4 3
+PickFruit 41
+GetBestFruit 1 1
+GetBestFruit 0 4
+AddFruit 1 3 37 47
+PickFruit 7
+GetAllFruitsByRate 4 3
+RateFruit 6 10
+AddFruit 4 4 16 66
+GetBestFruit 2 1
+GetAllFruitsByRate 3 3
+PlantTree 2 1
+PlantTree 3 2
+PickFruit 55
+AddFruit 0 1 10 80
+GetAllFruitsByRate 2 1
+GetBestFruit 2 0
+GetAllFruitsByRate 4 3
+PickFruit 27
+PickFruit 86
+GetBestFruit 0 4
+GetAllFruitsByRate 0 4
+PickFruit 94
+PlantTree 2 0
+PickFruit 59
+GetAllFruitsByRate 4 3
+GetBestFruit 0 0
+GetAllFruitsByRate 3 3
+GetBestFruit 3 4
+GetAllFruitsByRate 3 0
+GetBestFruit 2 0
+AddFruit 0 3 53 14
+RateFruit 40 30
+AddFruit 3 4 44 89
+AddFruit 3 4 55 53
+PickFruit 33
+PlantTree 0 4
+RateFruit 33 19
+AddFruit 3 1 66 3
+PlantTree 0 0
+GetBestFruit 1 1
+PickFruit 31
+RateFruit 29 67
+AddFruit 4 0 57 8
+GetAllFruitsByRate 1 2
+RateFruit 35 84
+AddFruit 2 4 26 11
+RateFruit 18 89
+AddFruit 4 2 76 18
+GetBestFruit 0 1
+AddFruit 3 2 67 54
+PlantTree 3 4
+AddFruit 0 1 5 52
+AddFruit 1 3 32 43
+PlantTree 4 3
+PlantTree 1 2
+PickFruit 10
+PickFruit 56
+PlantTree 2 1
+AddFruit 3 2 6 81
+GetBestFruit 4 1
+RateFruit 50 30
+PickFruit 51
+PlantTree 3 1
+GetBestFruit 2 4
+PickFruit 8
+GetAllFruitsByRate 0 4
+GetAllFruitsByRate 1 0
+AddFruit 0 0 18 50
+GetBestFruit 0 3
+AddFruit 2 2 70 35
+GetAllFruitsByRate 0 3
+RateFruit 80 96
+PickFruit 54
+PickFruit 79
+AddFruit 2 3 29 33
+PickFruit 25
+GetBestFruit 3 0
+GetAllFruitsByRate 0 3
+AddFruit 2 4 12 54
+RateFruit 72 59
+GetAllFruitsByRate 1 1
+GetAllFruitsByRate 0 1
+PlantTree 3 1
+AddFruit 1 0 33 72
+AddFruit 1 4 90 92
+AddFruit 3 4 84 41
+GetBestFruit 4 2
+PickFruit -3
+AddFruit 2 4 23 46
+PickFruit 30
+AddFruit 3 0 12 55
+RateFruit 85 34
+RateFruit 17 91
+RateFruit 76 11
+GetAllFruitsByRate 1 3
+RateFruit 74 44
+AddFruit 1 3 0 59
+GetAllFruitsByRate 1 4
+GetAllFruitsByRate 3 1
+RateFruit 93 36
+PickFruit 47
+AddFruit 0 1 29 9
+PickFruit 45
+PickFruit 74
+PlantTree 1 3
+GetAllFruitsByRate 0 2
+AddFruit 2 0 28 18
+GetAllFruitsByRate 4 2
+PlantTree 3 3
+GetBestFruit 2 0
+AddFruit 3 1 16 15
+GetBestFruit 3 2
+GetAllFruitsByRate 4 4
+GetBestFruit 3 2
+RateFruit 18 -3
+GetBestFruit 0 4
+AddFruit 4 1 59 6
+RateFruit 85 47
+GetBestFruit 2 1
+AddFruit 3 3 55 54
+AddFruit 1 0 93 47
+AddFruit 2 4 58 41
+AddFruit 2 0 25 39
+AddFruit 4 3 48 71
+RateFruit 56 56
+PickFruit 2
+GetAllFruitsByRate 4 0
+PlantTree 2 2
+RateFruit 10 28
+PickFruit 50
+PlantTree 2 3
+RateFruit 5 79
+RateFruit 11 79
+AddFruit 1 3 58 35
+RateFruit 33 25
+PlantTree 2 0
+AddFruit 4 0 73 32
+PlantTree 4 4
+AddFruit 2 0 55 55
+PlantTree 3 3
+PlantTree 4 0
+GetBestFruit 0 2
+PickFruit 29
+GetAllFruitsByRate 3 3
+AddFruit 3 4 92 0
+GetBestFruit 2 3
+PlantTree 1 3
+PickFruit 28
+GetBestFruit 0 4
+RateFruit 21 9
+PickFruit 42
+AddFruit 1 4 31 71
+AddFruit 3 2 34 73
+AddFruit 3 4 31 60
+GetBestFruit 4 1
+RateFruit 71 10
+AddFruit 3 0 87 31
+RateFruit 83 6
+AddFruit 2 0 36 78
+RateFruit 67 42
+GetBestFruit 3 0
+AddFruit 2 2 31 24
+PlantTree 4 1
+GetBestFruit 1 3
+AddFruit 4 4 87 62
+PickFruit 71
+AddFruit 2 0 17 65
+GetBestFruit 4 2
+AddFruit 3 4 71 46
+AddFruit 0 0 25 71
+PickFruit 31
+RateFruit 57 92
+AddFruit 2 0 0 65
+RateFruit 1 25
+RateFruit 78 50
+GetBestFruit 1 3
+AddFruit 0 1 70 27
+PickFruit 54
+AddFruit 4 3 26 17
+RateFruit 32 20
+PickFruit 1
+PlantTree 0 2
+GetBestFruit 4 1
+AddFruit 4 4 25 80
+PickFruit 68
+GetAllFruitsByRate 0 0
+AddFruit 4 0 55 11
+RateFruit 0 69
+GetAllFruitsByRate 1 4
+RateFruit 34 57
+AddFruit 3 1 47 53
+GetAllFruitsByRate 4 2
+RateFruit 54 38
+GetAllFruitsByRate 4 4
+PlantTree 4 0
+PlantTree 1 2
+PickFruit 57
+AddFruit 0 3 34 19
+GetAllFruitsByRate 0 4
+AddFruit 1 2 6 11
+AddFruit 3 3 69 37
+AddFruit 4 0 84 20
+AddFruit 0 1 26 17
+PlantTree 2 4
+AddFruit 1 2 -1 44
+GetBestFruit 0 0
+PlantTree 3 0
+GetAllFruitsByRate 4 1
+RateFruit 43 5
+GetAllFruitsByRate 0 1
+PlantTree 0 2
+AddFruit 4 3 38 1
+AddFruit 3 2 73 56
+PickFruit 7
+GetBestFruit 3 2
+GetBestFruit 4 1
+GetBestFruit 1 4
+AddFruit 4 3 57 51
+RateFruit 31 85
+AddFruit 3 2 93 74
+GetAllFruitsByRate 2 2
+GetAllFruitsByRate 4 2
+AddFruit 4 2 37 81
+AddFruit 0 4 49 27
+AddFruit 0 1 91 96
+GetAllFruitsByRate 4 0
+AddFruit 1 4 65 20
+GetAllFruitsByRate 4 2
+PlantTree 2 3
+GetAllFruitsByRate 2 2
+RateFruit 76 79
+RateFruit 43 78
+AddFruit 4 0 72 20
+PickFruit 70
+RateFruit 75 81
+RateFruit 86 94
+AddFruit 0 1 79 2
+GetBestFruit 3 2
+PlantTree 1 0
+GetAllFruitsByRate 1 4
+AddFruit 1 1 -1 77
+GetAllFruitsByRate 2 0
+PlantTree 4 0
+AddFruit 3 0 17 80
+GetBestFruit 2 0
+GetBestFruit 2 1
+PickFruit 89
+AddFruit 4 3 83 54
+AddFruit 4 4 21 78
+PickFruit 59
+GetBestFruit 0 0
+GetAllFruitsByRate 0 1
+RateFruit 28 59
+PickFruit 71
+GetAllFruitsByRate 0 4
+PlantTree 2 4
+GetBestFruit 1 4
+RateFruit 84 68
+GetBestFruit 3 4
+AddFruit 4 4 14 63
+RateFruit 75 28
+RateFruit -2 1
+AddFruit 0 0 94 92
+RateFruit 34 31
+RateFruit 49 48
+GetAllFruitsByRate 0 4
+GetBestFruit 1 2
+AddFruit 2 0 64 86
+GetBestFruit 1 0
+GetBestFruit 3 0
+RateFruit 0 82
+AddFruit 3 0 46 6
+RateFruit 28 22
+PickFruit 9
+RateFruit 93 14
+GetBestFruit 3 1
+PlantTree 2 2
+RateFruit 30 33
+GetAllFruitsByRate 0 1
+PlantTree 2 3
+PlantTree 0 4
+PickFruit 36
+RateFruit 20 17
+PlantTree 1 0
+GetAllFruitsByRate 3 3
+AddFruit 1 0 9 38
+AddFruit 2 1 87 19
+AddFruit 1 4 -2 20
+PlantTree 3 0
+RateFruit 54 80
+PlantTree 2 1
+RateFruit 4 77
+RateFruit 37 49
+AddFruit 1 4 11 2
+AddFruit 4 1 95 79
+PickFruit 48
+PickFruit 32
+GetAllFruitsByRate 1 2
+RateFruit 77 24
+PlantTree 3 3
+PickFruit 60
+PickFruit 5
+PlantTree 4 2
+GetBestFruit 3 3
+AddFruit 3 4 95 77
+AddFruit 0 3 46 90
+AddFruit 4 0 14 73
+GetBestFruit 1 4
+GetAllFruitsByRate 3 4
+GetBestFruit 1 3
+PlantTree 0 2
+GetAllFruitsByRate 4 2
+PickFruit 96
+AddFruit 1 3 85 96
+GetBestFruit 4 1
+PlantTree 0 1
+GetBestFruit 3 1
+AddFruit 2 2 27 3
+AddFruit 1 3 20 28
+PlantTree 0 1
+PlantTree 0 4
+AddFruit 0 0 35 10
+AddFruit 4 2 13 65
+PickFruit 26
+AddFruit 4 0 -3 47
+RateFruit 65 69
+GetBestFruit 4 2
+PickFruit 33
+PickFruit 2
+PickFruit 11
+RateFruit 38 65
+RateFruit 32 76
+GetAllFruitsByRate 1 0
+PlantTree 0 4
+PlantTree 1 4
+PlantTree 3 0
+AddFruit 4 2 32 95
+GetBestFruit 2 0
+RateFruit 73 44
+PickFruit 67
+GetAllFruitsByRate 3 0
+PickFruit -2
+GetAllFruitsByRate 4 0
+GetAllFruitsByRate 3 3
+RateFruit 43 83
+AddFruit 2 0 64 42
+PickFruit 90
+PickFruit 27
+PickFruit 35
+AddFruit 3 2 15 91
+PickFruit 17
+AddFruit 0 2 25 80
+RateFruit 29 80
+GetBestFruit 4 4
+RateFruit 15 83
+AddFruit 4 4 63 63
+AddFruit 0 4 74 78
+AddFruit 3 1 48 64
+RateFruit 30 47
+GetBestFruit 1 3
+RateFruit 54 28
+AddFruit 1 4 24 70
+PlantTree 3 2
+PlantTree 4 3
+AddFruit 2 2 85 40
+PickFruit 2
+AddFruit 2 3 74 -3
+AddFruit 4 2 86 93
+RateFruit 78 35
+AddFruit 0 4 28 77
+AddFruit 0 2 27 85
+PlantTree 1 1
+PlantTree 2 4
+AddFruit 3 3 58 54
+PlantTree 2 4
+GetAllFruitsByRate 0 3
+AddFruit 1 4 66 29
+AddFruit 0 4 89 40
+GetAllFruitsByRate 3 1
+AddFruit 2 4 10 78
+RateFruit 55 68
+GetAllFruitsByRate 4 3
+GetAllFruitsByRate 0 0
+PlantTree 3 4
+PlantTree 1 3
+PlantTree 1 1
+PlantTree 4 1
+GetBestFruit 4 0
+GetBestFruit 4 2
+RateFruit 36 19
+PlantTree 2 1
+PlantTree 1 3
+RateFruit 28 13
+GetBestFruit 0 4
+PickFruit 34
+GetBestFruit 1 3
+GetBestFruit 2 2
+PickFruit 63
+AddFruit 4 2 18 82
+PlantTree 0 4
+GetAllFruitsByRate 4 0
+RateFruit -2 30
+RateFruit 88 77
+AddFruit 3 4 78 69
+PickFruit 62
+GetAllFruitsByRate 4 3
+GetBestFruit 1 0
+PlantTree 4 4
+RateFruit 47 69
+RateFruit -3 85
+PlantTree 1 0
+PickFruit 88
+RateFruit 5 49
+AddFruit 4 2 1 54
+RateFruit 60 91
+GetBestFruit 2 3
+GetBestFruit 1 3
+GetBestFruit 3 4
+PlantTree 4 2
+AddFruit 4 3 56 31
+GetBestFruit 2 1
+AddFruit 3 2 70 22
+PickFruit 42
+PickFruit 58
+AddFruit 0 3 71 15
+AddFruit 3 2 72 27
+RateFruit 87 24
+PlantTree 4 0
+AddFruit 4 1 45 74
+PlantTree 3 4
+RateFruit 94 58
+AddFruit 3 1 17 4
+AddFruit 2 0 85 86
+GetAllFruitsByRate 0 4
+RateFruit 48 17
+AddFruit 3 4 26 95
+AddFruit 2 2 71 90
+PickFruit 89
+RateFruit 48 19
+GetBestFruit 2 1
+GetBestFruit 0 0
+AddFruit 4 0 96 55
+PickFruit 54
+PlantTree 4 2
+GetBestFruit 2 3
+GetBestFruit 3 3
+GetAllFruitsByRate 3 4
+RateFruit -1 60
+GetAllFruitsByRate 2 4
+AddFruit 1 4 79 38
+GetAllFruitsByRate 1 4
+PlantTree 0 4
+AddFruit 1 1 77 6
+GetAllFruitsByRate 0 1
+AddFruit 2 3 17 9
+GetBestFruit 0 2
+GetBestFruit 3 4
+RateFruit 77 73
+GetBestFruit 1 0
+RateFruit 19 49
+PlantTree 1 4
+PlantTree 1 0
+GetAllFruitsByRate 2 0
+PickFruit 77
+AddFruit 3 3 83 68
+AddFruit 1 1 11 55
+GetAllFruitsByRate 4 0
+AddFruit 3 3 76 45
+AddFruit 3 1 37 41
+PickFruit 58
+GetBestFruit 1 0
+PlantTree 2 2
+GetAllFruitsByRate 4 1
+AddFruit 3 1 1 33
+PickFruit 82
+RateFruit 59 63
+GetAllFruitsByRate 1 3
+AddFruit 0 1 14 59
+PlantTree 1 1
+GetBestFruit 4 4
+UpdateRottenFruits 12 16
+AddFruit 1 0 51 86
+GetBestFruit 2 1
+RateFruit 9 54
+PlantTree 1 1
+GetBestFruit 2 2
+RateFruit 10 -2
+RateFruit 19 68
+RateFruit 96 26
+GetAllFruitsByRate 3 4
+PickFruit 19
+GetAllFruitsByRate 0 0
+PlantTree 4 0
+PickFruit 76
+GetBestFruit 4 0
+PickFruit 5
+GetBestFruit 1 3
+AddFruit 2 2 48 85
+GetAllFruitsByRate 1 3
+GetBestFruit 1 3
+AddFruit 4 3 58 83
+GetAllFruitsByRate 1 1
+PlantTree 3 3
+PickFruit 40
+GetAllFruitsByRate 4 4
+RateFruit 6 65
+GetAllFruitsByRate 4 2
+RateFruit 10 44
+AddFruit 4 0 17 31
+PickFruit 92
+GetBestFruit 2 4
+PickFruit 52
+AddFruit 1 2 34 77
+AddFruit 0 2 75 81
+AddFruit 0 1 48 80
+PlantTree 3 2
+AddFruit 0 0 59 83
+RateFruit 23 81
+PickFruit 35
+AddFruit 0 1 15 34
+AddFruit 1 4 74 23
+GetAllFruitsByRate 2 1
+PlantTree 0 1
+AddFruit 0 0 69 70
+PickFruit 77
+AddFruit 2 2 32 12
+AddFruit 4 0 38 16
+UpdateRottenFruits 0 -3
+RateFruit 44 56
+AddFruit 0 0 18 14
+PickFruit 82
+AddFruit 0 3 26 84
+GetAllFruitsByRate 0 4
+GetAllFruitsByRate 0 2
+AddFruit 1 0 55 21
+AddFruit 4 3 94 55
+AddFruit 0 1 77 90
+AddFruit 3 0 63 42
+GetAllFruitsByRate 0 4
+AddFruit 4 4 24 74
+GetAllFruitsByRate 1 4
+PickFruit 89
+PlantTree 1 2
+RateFruit 75 74
+PickFruit 32
+GetBestFruit 1 2
+GetBestFruit 4 2
+GetBestFruit 0 3
+PickFruit 62
+GetBestFruit 4 1
+RateFruit 66 52
+GetAllFruitsByRate 4 1
+RateFruit 46 16
+RateFruit 92 59
+GetAllFruitsByRate 3 1
+GetAllFruitsByRate 4 0
+PickFruit 44
+PickFruit 93
+GetBestFruit 3 0
+PlantTree 1 3
+GetBestFruit 4 2
+GetAllFruitsByRate 1 1
+PickFruit 87
+PickFruit -3
+RateFruit 91 77
+PlantTree 3 1
+GetBestFruit 4 3
+AddFruit 2 4 27 58
+GetAllFruitsByRate 2 4
+GetBestFruit 4 2
+AddFruit 3 3 90 90
+AddFruit 3 0 70 43
+PickFruit 67
+PlantTree 3 0
+AddFruit 3 1 45 25
+AddFruit 2 0 52 69
+PickFruit 23
+RateFruit 94 45
+AddFruit 1 4 78 54
+GetAllFruitsByRate 1 1
+GetBestFruit 1 1
+AddFruit 2 2 43 64
+GetAllFruitsByRate 4 0
+PickFruit 35
+PickFruit 59
+PlantTree 0 2
+RateFruit 36 3
+AddFruit 4 2 30 63
+RateFruit 91 58
+AddFruit 0 0 83 85
+GetBestFruit 2 1
+GetAllFruitsByRate 4 4
+AddFruit 2 1 90 11
+RateFruit 52 92
+GetBestFruit 0 4
+RateFruit 32 41
+GetAllFruitsByRate 4 1
+GetAllFruitsByRate 2 0
+RateFruit 35 35
+GetAllFruitsByRate 0 2
+RateFruit 16 27
+PickFruit 75
+GetBestFruit 0 3
+UpdateRottenFruits 9 6
+RateFruit 69 12
+PlantTree 1 4
+GetBestFruit 2 4
+AddFruit 4 1 81 90
+GetAllFruitsByRate 0 4
+GetAllFruitsByRate 2 4
+PlantTree 2 4
+AddFruit 2 0 22 7
+PlantTree 0 2
+PickFruit 93
+RateFruit 43 18
+AddFruit 2 4 35 59
+RateFruit 63 75
+RateFruit 34 82
+RateFruit 76 52
+AddFruit 2 2 86 25
+GetAllFruitsByRate 1 3
+GetBestFruit 2 3
+RateFruit 25 64
+AddFruit 3 3 83 40
+PickFruit 85
+GetBestFruit 0 3
+GetAllFruitsByRate 4 3
+AddFruit 1 4 81 33
+GetBestFruit 3 4
+AddFruit 4 0 -3 8
+GetAllFruitsByRate 2 2
+AddFruit 2 4 -2 75
+GetAllFruitsByRate 1 2
+RateFruit 43 -2
+PlantTree 3 3
+PickFruit 9
+RateFruit 74 89
+PlantTree 3 1
+AddFruit 3 3 14 23
+AddFruit 1 0 13 72
+GetAllFruitsByRate 4 3
+PickFruit 19
+AddFruit 2 2 18 94
+GetBestFruit 4 2
+GetAllFruitsByRate 2 0
+AddFruit 0 1 41 -1
+PickFruit -2
+PickFruit 62
+PlantTree 3 0
+GetBestFruit 0 4
+RateFruit 86 82
+AddFruit 4 1 18 27
+PickFruit 51
+PlantTree 4 4
+PickFruit 27
+RateFruit 21 73
+GetAllFruitsByRate 2 1
+PickFruit 69
+GetAllFruitsByRate 1 2
+PlantTree 0 0
+AddFruit 2 4 34 37
+RateFruit 37 81
+RateFruit 14 26
+AddFruit 1 4 34 35
+GetAllFruitsByRate 2 1
+GetBestFruit 0 3
+PlantTree 2 4
+AddFruit 3 3 14 86
+PickFruit 85
+PickFruit 49
+RateFruit -1 0
+AddFruit 1 3 22 15
+GetAllFruitsByRate 2 0
+PickFruit 39
+AddFruit 0 3 63 -1
+AddFruit 3 3 46 81
+AddFruit 3 0 84 52
+RateFruit 79 22
+AddFruit 3 3 24 94
+GetAllFruitsByRate 2 3
+AddFruit 3 2 14 35
+PickFruit 78
+RateFruit 49 31
+RateFruit 45 77
+PickFruit 75
+GetBestFruit 2 1
+PickFruit 38
+PlantTree 1 2
+PickFruit 38
+RateFruit 76 28
+GetAllFruitsByRate 3 1
+PickFruit 28
+PickFruit 45
+GetBestFruit 2 4
+PickFruit 74
+AddFruit 3 3 14 74
+PlantTree 4 2
+PlantTree 0 0
+AddFruit 2 0 51 72
+RateFruit -1 2
+PickFruit -2
+GetBestFruit 3 2
+GetBestFruit 2 2
+RateFruit 43 26
+PickFruit 59
+PickFruit 28
+PlantTree 3 0
+RateFruit 77 56
+PickFruit 20
+RateFruit 0 52
+PickFruit 92
+RateFruit 44 77
+AddFruit 4 0 58 63
+GetBestFruit 1 2
+RateFruit 1 21
+PlantTree 2 3
+PlantTree 2 2
+RateFruit 71 68
+PickFruit 16
+GetBestFruit 2 0
+AddFruit 0 3 4 44
+AddFruit 2 1 22 23
+PickFruit 18
+PickFruit 92
+AddFruit 0 4 53 95
+GetAllFruitsByRate 1 2
+PlantTree 2 2
+AddFruit 4 3 42 67
+RateFruit 95 9
+AddFruit 4 2 56 93
+RateFruit 94 32
+AddFruit 2 4 74 16
+GetAllFruitsByRate 2 1
+PlantTree 2 0
+GetAllFruitsByRate 4 4
+PickFruit 25
+AddFruit 3 4 21 88
+PlantTree 3 2
+GetBestFruit 0 4
+RateFruit 95 -2
+GetAllFruitsByRate 2 4
+AddFruit 2 2 7 17
+AddFruit 3 0 35 49
+AddFruit 0 0 52 85
+GetAllFruitsByRate 4 4
+AddFruit 4 2 44 96
+AddFruit 1 2 6 30
+GetBestFruit 1 1
+RateFruit 61 31
+AddFruit 0 2 33 15
+RateFruit 28 50
+AddFruit 4 4 33 13
+PickFruit 94
+PlantTree 0 4
+GetAllFruitsByRate 3 0
+PickFruit 24
+RateFruit 8 10
+GetAllFruitsByRate 3 1
+PickFruit 39
+PickFruit 68
+AddFruit 1 4 45 9
+PickFruit 93
+AddFruit 4 4 65 40
+AddFruit 0 3 22 33
+AddFruit 4 4 44 28
+PickFruit 29
+PlantTree 4 0
+AddFruit 4 0 -1 63
+AddFruit 0 1 49 68
+PlantTree 2 0
+GetBestFruit 4 0
+AddFruit 3 0 24 35
+AddFruit 4 1 54 44
+AddFruit 2 0 61 71
+PickFruit 14
+PlantTree 1 0
+GetBestFruit 4 3
+PickFruit 55
+GetAllFruitsByRate 3 4
+AddFruit 3 0 -1 25
+PickFruit 47
+PickFruit 36
+GetAllFruitsByRate 3 0
+PlantTree 1 0
+AddFruit 4 1 26 51
+RateFruit 70 81
+RateFruit 30 -3
+AddFruit 1 0 50 30
+PickFruit 20
+GetBestFruit 4 4
+GetBestFruit 0 0
+AddFruit 2 0 85 62
+GetBestFruit 3 2
+GetBestFruit 3 4
+AddFruit 3 2 37 44
+GetAllFruitsByRate 1 2
+AddFruit 3 0 96 66
+PickFruit 36
+GetAllFruitsByRate 1 4
+AddFruit 4 1 75 3
+AddFruit 4 1 34 85
+GetBestFruit 2 1
+PlantTree 2 2
+AddFruit 1 1 30 90
+AddFruit 4 4 81 64
+PickFruit 53
+AddFruit 1 4 69 2
+RateFruit 37 83
+GetAllFruitsByRate 0 0
+RateFruit 4 84
+PlantTree 3 4
+PlantTree 2 1
+PlantTree 1 2
+GetBestFruit 4 4
+GetAllFruitsByRate 4 4
+GetBestFruit 4 4
+AddFruit 3 0 70 24
+GetBestFruit 0 3
+GetAllFruitsByRate 2 4
+PlantTree 0 0
+PickFruit 24
+PlantTree 4 2
+GetBestFruit 2 4
+AddFruit 1 2 24 96
+AddFruit 4 1 68 20
+GetAllFruitsByRate 4 2
+AddFruit 3 4 79 18
+AddFruit 0 2 45 23
+PlantTree 4 4
+UpdateRottenFruits 13 8
+RateFruit 43 20
+GetAllFruitsByRate 3 2
+AddFruit 4 4 46 18
+GetBestFruit 1 2
+PlantTree 0 2
+GetBestFruit 4 0
+RateFruit 96 55
+AddFruit 2 2 47 77
+GetBestFruit 0 0
+RateFruit 13 59
+GetBestFruit 3 2
+GetAllFruitsByRate 1 1
+PickFruit 94
+PlantTree 2 1
+GetAllFruitsByRate 0 4
+GetBestFruit 0 2
+GetAllFruitsByRate 4 1
+AddFruit 2 4 2 39
+GetBestFruit 3 4
+GetAllFruitsByRate 4 1
+RateFruit 90 36
+AddFruit 1 3 32 20
+GetBestFruit 3 3
+RateFruit 51 90
+GetAllFruitsByRate 2 3
+GetAllFruitsByRate 2 3
+GetAllFruitsByRate 3 2
+AddFruit 2 4 68 19
+UpdateRottenFruits 15 9
+AddFruit 2 1 15 26
+GetBestFruit 3 1
+GetAllFruitsByRate 0 1
+RateFruit 96 79
+PickFruit 42
+RateFruit 3 39
+PlantTree 1 1
+GetAllFruitsByRate 0 2
+AddFruit 3 2 38 74
+PickFruit 13
+AddFruit 3 2 47 57
+RateFruit 95 0
+PlantTree 3 3
+AddFruit 1 2 63 58
+RateFruit 79 1
+RateFruit 3 49
+PlantTree 3 1
+RateFruit 81 12
+RateFruit 50 34
+AddFruit 2 4 25 62
+GetAllFruitsByRate 1 1
+GetBestFruit 0 0
+AddFruit 4 4 57 51
+GetBestFruit 0 4
+RateFruit 28 64
+PlantTree 2 3
+GetBestFruit 0 1
+UpdateRottenFruits -3 8
+PlantTree 3 3
+AddFruit 4 0 64 31
+PickFruit 90
+RateFruit 8 94
+AddFruit 2 4 43 66
+RateFruit 64 16
+GetAllFruitsByRate 2 4
+AddFruit 1 3 39 77
+GetBestFruit 0 0
+AddFruit 4 0 10 -1
+RateFruit 83 59
+PlantTree 4 1
+PickFruit 45
+PickFruit 37
+PlantTree 0 2
+AddFruit 2 2 32 8
+AddFruit 2 2 6 33
+RateFruit 35 17
+AddFruit 1 3 94 94
+PickFruit 76
+PickFruit 10
+RateFruit 35 28
+RateFruit 69 46
+GetBestFruit 3 0
+GetBestFruit 2 3
+RateFruit 22 88
+GetBestFruit 2 4
+RateFruit 47 23
+GetAllFruitsByRate 4 2
+AddFruit 1 0 18 69
+RateFruit 38 16
+GetBestFruit 2 1
+GetBestFruit 2 2
+AddFruit 0 3 96 43
+GetBestFruit 3 3
+AddFruit 4 1 2 80
+RateFruit 2 83
+GetAllFruitsByRate 1 1
+AddFruit 1 0 60 23
+RateFruit 22 33
+AddFruit 0 3 74 88
+AddFruit 4 3 59 51
+GetAllFruitsByRate 0 3
+GetAllFruitsByRate 2 4
+AddFruit 0 4 64 48
+PickFruit 24
+AddFruit 2 2 53 19
+GetAllFruitsByRate 2 3
+AddFruit 4 2 63 62
+RateFruit 11 4
+GetAllFruitsByRate 2 4
+AddFruit 0 1 66 -3
+AddFruit 2 0 75 91
+GetBestFruit 4 3
+AddFruit 4 3 28 21
+GetAllFruitsByRate 0 2
+PlantTree 2 2
+AddFruit 0 4 47 83
+GetBestFruit 1 3
+RateFruit 48 82
+PlantTree 3 1
+PickFruit 15
+PickFruit 48
+RateFruit 49 36
+AddFruit 0 1 6 20
+AddFruit 4 0 15 -1
+GetAllFruitsByRate 4 4
+PickFruit 43
+GetAllFruitsByRate 4 2
+AddFruit 4 1 52 26
+PickFruit 91
+PickFruit 54
+GetBestFruit 2 3
+RateFruit 37 36
+RateFruit 61 12
+RateFruit 53 35
+GetBestFruit 2 1
+PlantTree 1 0
+GetBestFruit 3 3
+GetAllFruitsByRate 4 4
+PickFruit 79
+GetBestFruit 4 1
+GetAllFruitsByRate 0 2
+RateFruit 73 3
+AddFruit 2 4 8 11
+RateFruit 36 39
+AddFruit 4 2 93 56
+GetAllFruitsByRate 3 2
+RateFruit 61 14
+RateFruit 27 68
+PickFruit 47
+AddFruit 1 3 62 82
+PickFruit 76
+AddFruit 3 3 88 94
+AddFruit 0 4 14 4
+AddFruit 2 2 92 79
+AddFruit 0 0 17 32
+PickFruit 72
+AddFruit 0 3 64 63
+AddFruit 2 2 25 0
+RateFruit 24 77
+GetAllFruitsByRate 0 0
+GetAllFruitsByRate 0 2
+AddFruit 4 2 39 85
+GetAllFruitsByRate 3 0
+AddFruit 1 3 37 26
+GetBestFruit 2 4
+PickFruit 82
+AddFruit 0 0 30 43
+PlantTree 1 0
+GetBestFruit 4 1
+AddFruit 0 0 16 81
+GetAllFruitsByRate 0 1
+AddFruit 3 0 90 84
+PlantTree 3 3
+RateFruit 83 16
+RateFruit 63 12
+GetAllFruitsByRate 0 3
+GetAllFruitsByRate 3 3
+GetBestFruit 2 4
+AddFruit 4 1 14 21
+GetAllFruitsByRate 0 4
+AddFruit 2 0 -3 24
+GetBestFruit 1 3
+AddFruit 1 4 2 68
+GetBestFruit 2 2
+GetBestFruit 4 3
+GetBestFruit 3 0
+PickFruit 92
+RateFruit 78 69
+PickFruit 56
+GetAllFruitsByRate 3 2
+GetBestFruit 2 2
+PlantTree 4 3
+AddFruit 3 4 24 45
+GetBestFruit 3 0
+RateFruit 19 3
+RateFruit 34 3
+PickFruit 75
+PlantTree 1 1
+PickFruit 78
+PickFruit 49
+AddFruit 0 4 17 9
+GetAllFruitsByRate 4 3
+PickFruit 70
+PlantTree 3 3
+AddFruit 2 0 38 55
+PickFruit 89
+RateFruit 74 55
+AddFruit 0 4 6 80
+AddFruit 4 4 32 44
+RateFruit 95 62
+GetBestFruit 2 0
+AddFruit 1 1 60 55
+AddFruit 1 0 40 76
+AddFruit 0 4 54 94
+AddFruit 1 2 51 92
+AddFruit 0 1 90 47
+AddFruit 3 3 23 61
+PlantTree 0 3
+PickFruit 1
+PickFruit 95
+PlantTree 0 0
+AddFruit 1 4 6 30
+PickFruit 76
+AddFruit 2 4 36 83
+AddFruit 1 0 74 72
+AddFruit 2 3 26 42
+AddFruit 1 3 40 -2
+GetBestFruit 3 4
+GetAllFruitsByRate 1 1
+RateFruit 42 10
+PickFruit 26
+AddFruit 0 2 31 76
+GetAllFruitsByRate 2 1
+PlantTree 1 3
+PlantTree 2 0
+RateFruit 39 59
+RateFruit 8 95
+PickFruit 28
+RateFruit 42 92
+RateFruit 76 17
+GetBestFruit 3 3
+GetBestFruit 4 4
+AddFruit 1 2 89 46
+GetBestFruit 3 0
+PickFruit 72
+GetBestFruit 4 1
+PlantTree 4 1
+RateFruit 61 33
+PickFruit 44
+GetBestFruit 3 0
+PlantTree 4 0
+PlantTree 4 2
+AddFruit 4 2 11 20
+GetAllFruitsByRate 1 1
+RateFruit 73 31
+GetAllFruitsByRate 0 2
+PlantTree 2 2
+GetAllFruitsByRate 1 4
+AddFruit 1 2 2 19
+PlantTree 1 1
+UpdateRottenFruits 14 6
+GetBestFruit 1 1
+AddFruit 1 3 23 8
+PlantTree 4 1
+AddFruit 3 2 66 52
+RateFruit 90 64
+GetBestFruit 3 0
+RateFruit 10 53
+RateFruit 56 37
+AddFruit 4 1 25 86
+PickFruit 26
+GetBestFruit 3 0
+AddFruit 4 2 48 35
+RateFruit 2 65
+AddFruit 0 2 45 30
+PlantTree 0 2
+PickFruit 44
+AddFruit 0 1 0 64
+AddFruit 4 0 21 59
+GetAllFruitsByRate 0 3
+PlantTree 2 4
+AddFruit 0 3 79 21
+PlantTree 2 3
+RateFruit 10 28
+GetAllFruitsByRate 4 0
+RateFruit 0 9
+GetBestFruit 3 3
+PickFruit 87
+GetAllFruitsByRate 2 0
+PlantTree 1 0
+PlantTree 1 1
+GetAllFruitsByRate 1 1
+AddFruit 3 2 23 5
+PlantTree 3 4
+GetAllFruitsByRate 2 3
+RateFruit 54 -1
+PickFruit 12
+GetAllFruitsByRate 0 1
+GetBestFruit 0 3
+RateFruit 7 63
+PickFruit 76
+PickFruit 90
+AddFruit 4 4 1 32
+GetBestFruit 0 0
+GetAllFruitsByRate 1 3
+GetAllFruitsByRate 0 3
+PickFruit 39
+GetAllFruitsByRate 3 4
+PickFruit 69
+AddFruit 1 2 47 56
+AddFruit 1 1 7 16
+AddFruit 1 3 59 96
+AddFruit 3 4 83 61
+GetBestFruit 2 3
+GetAllFruitsByRate 1 4
+AddFruit 4 3 41 50
+RateFruit 69 31
+GetBestFruit 0 1
+AddFruit 2 0 62 15
+PickFruit 57
+PickFruit 54
+GetBestFruit 4 2
+RateFruit 41 93
+RateFruit 7 26
+AddFruit 4 3 5 34
+RateFruit 72 32
+RateFruit 87 92
+GetAllFruitsByRate 3 2
+GetAllFruitsByRate 3 3
+AddFruit 4 4 79 77
+GetAllFruitsByRate 1 4
+AddFruit 0 2 50 36
+PickFruit 65
+AddFruit 4 0 51 26
+GetBestFruit 3 1
+AddFruit 3 4 -3 40
+RateFruit 55 69
+GetBestFruit 2 0
+GetBestFruit 4 1
+AddFruit 2 3 13 1
+GetAllFruitsByRate 3 3
+GetAllFruitsByRate 3 2
+RateFruit 2 91
+GetBestFruit 0 1
+GetAllFruitsByRate 2 3
+AddFruit 4 4 95 65
+RateFruit 64 89
+GetAllFruitsByRate 0 3
+AddFruit 4 4 26 95
+AddFruit 1 4 19 76
+AddFruit 1 0 91 90
+AddFruit 1 3 26 51
+RateFruit 64 71
+RateFruit 49 16
+GetBestFruit 0 1
+AddFruit 4 0 63 73
+GetBestFruit 0 4
+PickFruit 12
+AddFruit 4 2 7 53
+GetAllFruitsByRate 2 1
+AddFruit 4 4 80 19
+PickFruit 65
+PlantTree 2 1
+GetAllFruitsByRate 4 0
+RateFruit 42 5
+RateFruit 28 41
+RateFruit 39 93
+AddFruit 4 4 84 82
+GetBestFruit 3 3
+GetAllFruitsByRate 1 2
+PlantTree 1 4
+PlantTree 4 3
+GetAllFruitsByRate 1 1
+AddFruit 4 1 17 48
+PickFruit 52
+RateFruit 0 13
+AddFruit 3 2 61 87
+PlantTree 4 3
+PlantTree 2 0
+AddFruit 4 4 15 80
+PlantTree 4 2
+PickFruit 88
+AddFruit 3 4 66 93
+RateFruit 46 84
+PlantTree 1 2
+GetBestFruit 3 0
+AddFruit 3 2 72 -2
+PlantTree 1 2
+RateFruit 80 -3
+GetBestFruit 2 0
+AddFruit 4 2 12 33
+AddFruit 0 4 85 92
+RateFruit 49 65
+AddFruit 3 2 96 90
+PlantTree 3 3
+PlantTree 3 2
+PlantTree 0 3
+PlantTree 3 2
+PickFruit 95
+AddFruit 4 2 13 96
+PlantTree 0 4
+PickFruit -2
+PickFruit 3
+RateFruit 73 69
+GetBestFruit 0 2
+PlantTree 0 2
+AddFruit 2 1 30 54
+GetBestFruit 3 3
+GetBestFruit 2 4
+AddFruit 2 1 27 55
+PlantTree 2 1
+PickFruit 86
+AddFruit 4 1 85 41
+AddFruit 3 1 28 54
+AddFruit 0 1 71 90
+PickFruit 14
+GetBestFruit 0 2
+PickFruit 33
+RateFruit 15 31
+GetBestFruit 4 1
+AddFruit 4 0 94 41
+AddFruit 1 2 6 30
+AddFruit 0 2 1 66
+GetAllFruitsByRate 4 4
+GetBestFruit 4 3
+PickFruit 16
+PlantTree 4 0
+AddFruit 0 4 22 28
+GetAllFruitsByRate 4 3
+PickFruit 18
+PickFruit 60
+RateFruit 65 30
+GetBestFruit 3 2
+AddFruit 1 1 44 55
+GetBestFruit 1 4
+PickFruit 46
+GetAllFruitsByRate 3 0
+PlantTree 4 2
+GetBestFruit 4 3
+GetAllFruitsByRate 4 1
+PickFruit 44
+RateFruit 16 29
+PickFruit 6
+GetAllFruitsByRate 3 4
+PickFruit 61
+PickFruit 26
+AddFruit 0 1 21 71
+AddFruit 3 1 64 45
+GetAllFruitsByRate 3 2
+PlantTree 0 3
+RateFruit 7 89
+PlantTree 1 3
+PlantTree 1 0
+PlantTree 0 3
+GetAllFruitsByRate 3 0
+AddFruit 3 3 77 51
+AddFruit 4 3 3 53
+PickFruit 35
+GetAllFruitsByRate 1 2
+PlantTree 0 1
+RateFruit 70 31
+GetBestFruit 3 1
+PlantTree 4 4
+AddFruit 1 2 9 -3
+GetAllFruitsByRate 3 4
+GetAllFruitsByRate 1 1
+AddFruit 2 1 96 3
+RateFruit 34 47
+PlantTree 0 2
+AddFruit 1 4 88 55
+AddFruit 0 2 11 66
+GetBestFruit 1 2
+AddFruit 4 0 17 14
+GetBestFruit 2 1
+AddFruit 1 3 8 84
+PickFruit 95
+AddFruit 4 0 55 68
+AddFruit 0 2 58 84
+PickFruit 52
+GetBestFruit 2 1
+RateFruit 92 14
+GetAllFruitsByRate 1 0
+GetBestFruit 1 3
+GetBestFruit 2 0
+RateFruit 53 68
+PickFruit 8
+GetBestFruit 3 4
+RateFruit 52 24
+AddFruit 2 1 71 59
+AddFruit 1 1 39 33
+RateFruit 61 94
+PlantTree 2 0
+PlantTree 1 4
+AddFruit 3 3 49 41
+PlantTree 2 3
+PickFruit 74
+RateFruit 27 24
+AddFruit 0 1 29 34
+AddFruit 3 4 12 31
+AddFruit 0 0 46 79
+GetBestFruit 4 1
+RateFruit 3 53
+RateFruit 57 78
+AddFruit 1 4 48 11
+AddFruit 0 2 78 92
+AddFruit 1 2 75 15
+GetAllFruitsByRate 4 3
+GetAllFruitsByRate 2 1
+RateFruit 80 96
+PickFruit 84
+AddFruit 1 2 33 7
+GetAllFruitsByRate 4 2
+RateFruit 78 50
+RateFruit 50 56
+AddFruit 0 2 63 50
+GetAllFruitsByRate 4 3
+AddFruit 0 3 77 -3
+AddFruit 0 2 18 59
+AddFruit 1 2 42 47
+PlantTree 2 3
+AddFruit 2 0 56 70
+AddFruit 0 3 80 96
+GetBestFruit 0 0
+GetBestFruit 1 3
+GetBestFruit 4 1
+PlantTree 2 1
+RateFruit 41 70
+GetAllFruitsByRate 1 4
+GetBestFruit 2 3
+GetBestFruit 3 4
+GetAllFruitsByRate 0 0
+RateFruit 34 20
+RateFruit 49 0
+GetAllFruitsByRate 3 4
+GetBestFruit 3 1
+GetAllFruitsByRate 0 1
+AddFruit 4 1 85 82
+GetBestFruit 2 0
+PlantTree 1 4
+GetAllFruitsByRate 4 2
+RateFruit 12 1
+AddFruit 0 1 88 88
+GetBestFruit 2 2
+PlantTree 3 2
+PickFruit 19
+PickFruit 73
+AddFruit 2 2 17 29
+PickFruit 19
+AddFruit 4 2 5 43
+AddFruit 2 0 25 92
+AddFruit 4 0 66 -2
+PlantTree 2 0
+PlantTree 0 1
+GetBestFruit 3 1
+AddFruit 3 2 31 75
+GetAllFruitsByRate 4 0
+PlantTree 3 2
+RateFruit 89 52
+RateFruit 81 86
+AddFruit 4 0 26 46
+GetAllFruitsByRate 1 1
+AddFruit 2 1 40 67
+GetBestFruit 4 4
+RateFruit 21 88
+GetAllFruitsByRate 3 1
+AddFruit 4 2 67 22
+GetAllFruitsByRate 2 3
+GetBestFruit 4 3
+PlantTree 4 1
+RateFruit 7 83
+AddFruit 0 1 9 22
+RateFruit 73 79
+GetAllFruitsByRate 1 1
+GetAllFruitsByRate 2 4
+RateFruit 27 40
+PickFruit 15
+AddFruit 0 4 84 14
+AddFruit 4 1 45 28
+RateFruit 11 69
+AddFruit 4 3 6 23
+RateFruit 46 54
+GetAllFruitsByRate 4 1
+RateFruit 51 76
+PickFruit 47
+GetAllFruitsByRate 2 3
+PickFruit 37
+PlantTree 0 1
+AddFruit 0 2 20 2
+RateFruit 52 58
+PickFruit 29
+PlantTree 0 0
+PickFruit 21
+PlantTree 1 3
+AddFruit 2 4 21 9
+RateFruit 60 54
+PlantTree 4 3
+GetBestFruit 1 2
+AddFruit 1 3 64 67
+PickFruit 71
+GetBestFruit 1 4
+GetBestFruit 0 0
+PlantTree 0 0
+AddFruit 0 3 92 85
+PickFruit 60
+AddFruit 2 4 23 1
+PlantTree 4 3
+GetAllFruitsByRate 4 1
+RateFruit 84 71
+GetBestFruit 1 0
+GetAllFruitsByRate 1 0
+PickFruit 30
+GetAllFruitsByRate 2 0
+GetBestFruit 1 3
+PlantTree 1 2
+GetAllFruitsByRate 2 1
+PlantTree 4 0
+AddFruit 0 0 44 54
+PickFruit 10
+PlantTree 0 4
+PlantTree 0 3
+PlantTree 1 4
+AddFruit 0 2 69 11
+GetBestFruit 1 1
+PlantTree 3 2
+PickFruit 35
+AddFruit 0 0 62 -1
+AddFruit 0 1 30 16
+RateFruit 43 34
+AddFruit 4 4 89 91
+GetBestFruit 4 2
+RateFruit 7 35
+GetBestFruit 3 4
+PlantTree 1 1
+GetBestFruit 1 1
+GetBestFruit 1 1
+AddFruit 2 1 51 16
+PickFruit 5
+PickFruit 77
+GetAllFruitsByRate 2 0
+PlantTree 0 0
+RateFruit 90 38
+PlantTree 1 1
+AddFruit 3 3 82 14
+GetBestFruit 2 1
+AddFruit 4 2 23 7
+AddFruit 2 1 53 28
+AddFruit 2 2 94 7
+RateFruit 78 13
+PickFruit 63
+AddFruit 3 2 29 89
+PlantTree 1 1
+AddFruit 4 4 80 89
+AddFruit 4 1 34 44
+AddFruit 4 1 81 78
+AddFruit 2 2 62 30
+PickFruit 74
+RateFruit 25 87
+GetBestFruit 1 1
+AddFruit 1 1 8 75
+GetBestFruit 2 1
+PickFruit 23
+AddFruit 2 4 15 78
+AddFruit 2 2 93 51
+PickFruit 83
+GetBestFruit 4 2
+AddFruit 1 4 35 60
+GetAllFruitsByRate 3 2
+PickFruit 63
+PickFruit 86
+GetAllFruitsByRate 4 4
+RateFruit 17 37
+GetAllFruitsByRate 4 1
+GetAllFruitsByRate 4 4
+RateFruit 76 17
+GetBestFruit 0 1
+GetBestFruit 0 0
+AddFruit 3 2 35 41
+GetBestFruit 3 0
+AddFruit 4 3 72 0
+PickFruit 64
+AddFruit 1 3 9 15
+AddFruit 3 2 30 14
+AddFruit 2 0 30 29
+AddFruit 1 0 66 91
+AddFruit 1 2 19 88
+PickFruit 74
+PickFruit 18
+PlantTree 3 4
+RateFruit 66 71
+RateFruit 43 5
+PlantTree 3 3
+PlantTree 1 3
+GetBestFruit 1 1
+AddFruit 2 0 40 24
+PlantTree 1 4
+AddFruit 2 4 91 60
+PlantTree 3 4
+AddFruit 0 2 18 57
+RateFruit 79 23
+PickFruit 52
+GetBestFruit 3 1
+PlantTree 0 2
+GetAllFruitsByRate 1 0
+PickFruit 1
+RateFruit 36 34
+GetAllFruitsByRate 1 1
+GetBestFruit 1 2
+GetBestFruit 4 2
+PlantTree 0 4
+AddFruit 1 4 32 80
+PickFruit 21
+GetAllFruitsByRate 0 2
+AddFruit 3 1 0 43
+PlantTree 4 0
+GetAllFruitsByRate 3 3
+AddFruit 1 1 69 19
+AddFruit 2 1 32 16
+AddFruit 1 3 17 55
+GetAllFruitsByRate 2 1
+AddFruit 4 3 82 36
+PlantTree 2 1
+RateFruit 80 51
+GetAllFruitsByRate 2 2
+AddFruit 4 4 44 12
+GetAllFruitsByRate 2 2
+AddFruit 0 1 94 95
+GetBestFruit 3 1
+GetAllFruitsByRate 2 4
+PlantTree 0 3
+AddFruit 1 0 69 50
+PickFruit 66
+GetBestFruit 3 2
+AddFruit 3 3 39 51
+GetBestFruit 2 3
+GetAllFruitsByRate 2 1
+RateFruit 44 0
+AddFruit 0 4 33 82
+RateFruit 14 55
+GetBestFruit 4 1
+RateFruit 44 93
+AddFruit 0 3 15 94
+RateFruit 64 56
+RateFruit 59 16
+AddFruit 3 0 10 64
+PickFruit 35
+GetAllFruitsByRate 2 4
+PickFruit 41
+AddFruit 4 4 55 29
+GetAllFruitsByRate 2 3
+GetBestFruit 2 2
+AddFruit 3 4 39 41
+AddFruit 2 0 14 89
+GetAllFruitsByRate 1 2
+GetAllFruitsByRate 1 4
+AddFruit 0 0 58 32
+PickFruit 80
+GetBestFruit 3 1
+GetAllFruitsByRate 0 2
+RateFruit 13 48
+PlantTree 3 0
+PlantTree 2 3
+GetBestFruit 4 4
+GetAllFruitsByRate 3 3
+GetBestFruit 3 0
+AddFruit 3 0 90 78
+PlantTree 0 0
+GetAllFruitsByRate 3 2
+GetAllFruitsByRate 2 4
+RateFruit 85 92
+AddFruit 1 2 17 88
+PickFruit 52
+AddFruit 0 4 30 49
+AddFruit 4 0 65 26
+RateFruit 67 45
+AddFruit 1 2 28 38
+AddFruit 1 4 12 -3
+GetAllFruitsByRate 4 1
+AddFruit 4 0 65 52
+AddFruit 4 2 62 71
+AddFruit 2 2 94 89
+GetAllFruitsByRate 0 1
+AddFruit 4 3 15 5
+PlantTree 4 2
+AddFruit 4 1 4 91
+AddFruit 2 2 72 84
+GetAllFruitsByRate 1 2
+AddFruit 1 0 71 81
+GetBestFruit 2 3
+PickFruit 81
+GetBestFruit 2 4
+PickFruit 32
+PlantTree 4 2
+AddFruit 1 1 96 67
+AddFruit 1 0 22 20
+GetAllFruitsByRate 0 4
+AddFruit 0 2 66 46
+AddFruit 3 4 52 75
+RateFruit 34 96
+GetBestFruit 0 3
+RateFruit 57 77
+PickFruit 75
+AddFruit 0 2 38 71
+GetBestFruit 3 2
+GetAllFruitsByRate 2 4
+GetAllFruitsByRate 0 0
+PlantTree 3 1
+PickFruit 1
+PlantTree 3 2
+AddFruit 3 3 74 71
+PlantTree 4 4
+AddFruit 3 4 50 69
+PlantTree 4 3
+PickFruit 63
+PlantTree 4 4
+GetBestFruit 4 3
+GetAllFruitsByRate 2 0
+GetAllFruitsByRate 2 2
+AddFruit 1 2 41 45
+PickFruit 70
+GetBestFruit 2 0
+PlantTree 3 4
+GetBestFruit 3 4
+RateFruit 19 5
+RateFruit 3 56
+AddFruit 1 0 37 51
+GetBestFruit 0 3
+AddFruit 2 1 17 6
+PlantTree 1 2
+PlantTree 4 2
+GetAllFruitsByRate 2 4
+AddFruit 0 0 92 28
+PickFruit 3
+PlantTree 1 2
+GetAllFruitsByRate 4 0
+AddFruit 0 0 3 92
+RateFruit 41 66
+PlantTree 0 3
+AddFruit 1 1 31 46
+RateFruit 38 61
+AddFruit 4 3 92 81
+GetAllFruitsByRate 2 1
+PlantTree 3 4
+AddFruit 1 4 16 52
+AddFruit 0 0 45 89
+PlantTree 1 2
+AddFruit 3 3 40 47
+PlantTree 0 0
+AddFruit 4 3 31 -3
+RateFruit 4 -1
+PickFruit 78
+GetBestFruit 3 3
+AddFruit 4 1 60 89
+PickFruit 85
+AddFruit 2 0 54 58
+RateFruit 73 1
+GetBestFruit 2 1
+AddFruit 2 4 50 64
+GetBestFruit 1 1
+AddFruit 1 1 49 53
+RateFruit 67 43
+RateFruit 37 25
+GetAllFruitsByRate 2 3
+GetBestFruit 2 4
+AddFruit 2 2 29 14
+GetAllFruitsByRate 3 2
+PickFruit 26
+GetBestFruit 4 0
+PlantTree 2 1
+AddFruit 4 4 37 67
+GetAllFruitsByRate 2 2
+GetAllFruitsByRate 3 3
+RateFruit 83 -2
+AddFruit 2 0 29 53
+AddFruit 4 4 32 83
+PickFruit 60
+PlantTree 0 1
+PickFruit 16
+PlantTree 2 3
+AddFruit 1 2 37 18
+GetBestFruit 1 1
+PickFruit 9
+AddFruit 4 1 29 22
+AddFruit 0 3 29 33
+GetBestFruit 2 3
+GetAllFruitsByRate 1 3
+AddFruit 0 3 35 72
+AddFruit 2 2 43 18
+PickFruit 15
+AddFruit 0 4 55 86
+GetBestFruit 0 0
+RateFruit 83 2
+PickFruit 20
+GetBestFruit 1 0
+AddFruit 2 4 84 63
+AddFruit 3 3 48 20
+AddFruit 4 1 46 55
+PickFruit 89
+RateFruit 70 15
+RateFruit 93 5
+AddFruit 4 4 9 88
+GetBestFruit 3 3
+AddFruit 3 3 51 65
+GetAllFruitsByRate 4 2
+PickFruit 65
+AddFruit 1 2 79 78
+GetBestFruit 3 4
+PickFruit 26
+RateFruit 10 56
+PickFruit 55
+PlantTree 3 4
+PickFruit 34
+AddFruit 1 0 45 15
+AddFruit 4 4 60 64
+AddFruit 3 1 39 57
+GetBestFruit 0 2
+RateFruit 46 24
+GetBestFruit 0 4
+GetAllFruitsByRate 1 4
+GetBestFruit 2 4
+RateFruit 61 62
+AddFruit 3 3 57 93
+GetBestFruit 4 1
+RateFruit 86 43
+GetBestFruit 2 3
+GetBestFruit 2 3
+PickFruit 19
+GetBestFruit 4 0
+AddFruit 0 0 67 80
+RateFruit 83 31
+PickFruit 29
+GetBestFruit 4 3
+AddFruit 1 1 91 87
+GetAllFruitsByRate 2 3
+PickFruit 37
+PlantTree 4 1
+PickFruit 18
+AddFruit 1 0 64 25
+RateFruit 33 55
+RateFruit 13 35
+GetBestFruit 2 4
+AddFruit 4 1 12 67
+GetAllFruitsByRate 3 2
+PlantTree 3 2
+AddFruit 0 0 0 34
+PlantTree 3 0
+GetAllFruitsByRate 0 4
+RateFruit 77 26
+GetAllFruitsByRate 1 2
+RateFruit 21 30
+PlantTree 3 4
+GetBestFruit 2 4
+GetAllFruitsByRate 4 4
+AddFruit 0 0 74 72
+GetBestFruit 0 2
+RateFruit 50 57
+GetBestFruit 2 1
+RateFruit 34 20
+AddFruit 0 1 32 91
+GetAllFruitsByRate 4 0
+PickFruit 13
+AddFruit 4 0 80 0
+AddFruit 0 2 16 86
+AddFruit 0 0 27 23
+AddFruit 4 0 95 24
+AddFruit 1 3 89 42
+AddFruit 2 2 82 53
+GetAllFruitsByRate 0 3
+PickFruit 5
+GetAllFruitsByRate 2 1
+GetBestFruit 4 2
+AddFruit 3 4 53 34
+PickFruit 72
+PickFruit 15
+PickFruit 59
+PickFruit 33
+RateFruit 38 44
+AddFruit 3 0 36 58
+RateFruit 77 71
+AddFruit 4 4 38 11
+RateFruit 18 69
+GetBestFruit 1 0
+PickFruit 65
+PlantTree 1 1
+AddFruit 1 0 78 37
+GetAllFruitsByRate 1 1
+RateFruit 5 74
+RateFruit 22 90
+PlantTree 1 4
+AddFruit 2 3 65 17
+GetBestFruit 2 2
+AddFruit 0 1 72 38
+GetAllFruitsByRate 0 4
+GetAllFruitsByRate 4 1
+PickFruit 92
+GetBestFruit 0 4
+GetAllFruitsByRate 3 2
+RateFruit 31 66
+AddFruit 3 2 -3 21
+AddFruit 2 0 22 33
+RateFruit 87 70
+AddFruit 3 2 65 43
+AddFruit 3 4 61 -2
+GetBestFruit 0 1
+GetBestFruit 3 1
+PlantTree 2 4
+GetBestFruit 0 3
+AddFruit 0 1 -2 17
+AddFruit 0 2 81 18
+PickFruit 86
+PickFruit 1
+GetBestFruit 1 1
+AddFruit 2 0 1 21
+RateFruit 96 26
+RateFruit -3 85
+AddFruit 4 4 64 55
+RateFruit 36 22
+AddFruit 4 4 63 49
+GetAllFruitsByRate 0 4
+PlantTree 1 0
+GetAllFruitsByRate 4 3
+PlantTree 0 1
+PickFruit 90
+GetAllFruitsByRate 0 1
+PlantTree 1 1
+GetBestFruit 4 1
+AddFruit 4 3 57 44
+RateFruit 42 60
+PickFruit 23
+PickFruit 96
+AddFruit 0 0 31 84
+PickFruit 17
+GetBestFruit 0 0
+RateFruit 6 83
+GetAllFruitsByRate 2 1
+GetAllFruitsByRate 3 0
+RateFruit 94 3
+RateFruit 83 70
+AddFruit 3 4 84 5
+GetBestFruit 2 1
+PickFruit 36
+PlantTree 0 2
+RateFruit 8 18
+AddFruit 3 0 23 92
+PlantTree 1 3
+GetAllFruitsByRate 0 4
+PlantTree 0 1
+AddFruit 4 1 59 37
+AddFruit 0 0 -2 28
+GetAllFruitsByRate 0 2
+AddFruit 3 2 89 82
+RateFruit 19 92
+PickFruit 74
+GetAllFruitsByRate 2 3
+GetBestFruit 0 0
+AddFruit 2 2 32 4
+AddFruit 3 0 15 55
+PlantTree 4 1
+RateFruit 8 96
+GetBestFruit 1 3
+GetAllFruitsByRate 1 2
+AddFruit 3 2 29 6
+RateFruit 21 59
+RateFruit 88 36
+GetAllFruitsByRate 2 0
+PlantTree 0 4
+PlantTree 2 0
+GetBestFruit 0 3
+AddFruit 0 0 70 7
+RateFruit 27 57
+PickFruit 13
+AddFruit 0 2 29 86
+GetAllFruitsByRate 1 4
+PickFruit 57
+RateFruit 66 29
+AddFruit 2 1 76 7
+PlantTree 3 4
+PlantTree 1 4
+GetBestFruit 0 1
+AddFruit 0 4 67 32
+AddFruit 0 1 75 43
+PickFruit 69
+AddFruit 0 3 34 70
+AddFruit 4 3 93 47
+AddFruit 0 0 28 74
+PickFruit 76
+PickFruit 78
+RateFruit 14 25
+GetBestFruit 1 0
+PlantTree 0 4
+RateFruit 10 13
+AddFruit 2 2 55 43
+AddFruit 3 4 64 72
+GetAllFruitsByRate 3 4
+PlantTree 1 0
+PlantTree 2 4
+AddFruit 0 4 50 10
+PickFruit 68
+PickFruit 38
+RateFruit 12 33
+RateFruit 42 77
+AddFruit 1 3 80 93
+AddFruit 0 1 42 41
+AddFruit 0 1 76 20
+GetBestFruit 4 4
+GetBestFruit 3 4
+AddFruit 3 4 70 46
+GetBestFruit 4 4
+AddFruit 2 0 67 87
+RateFruit 80 46
+AddFruit 4 2 49 64
+AddFruit 0 1 55 71
+AddFruit 2 3 44 56
+GetBestFruit 1 1
+GetAllFruitsByRate 3 2
+PlantTree 0 3
+RateFruit 34 1
+RateFruit 66 27
+GetBestFruit 1 0
+GetBestFruit 4 0
+PickFruit 92
+GetBestFruit 0 0
+GetBestFruit 0 0
+RateFruit 17 22
+PlantTree 0 2
+AddFruit 2 2 9 82
+PlantTree 3 1
+AddFruit 4 1 88 23
+PickFruit 9
+RateFruit -3 41
+RateFruit 25 10
+AddFruit 1 1 38 23
+PlantTree 3 1
+GetAllFruitsByRate 1 0
+GetAllFruitsByRate 1 0
+PickFruit 44
+AddFruit 3 0 72 26
+RateFruit 68 74
+PlantTree 2 2
+PickFruit 16
+PlantTree 2 3
+GetAllFruitsByRate 0 4
+GetAllFruitsByRate 4 3
+PickFruit 6
+AddFruit 4 0 20 50
+AddFruit 2 3 49 29
+AddFruit 2 0 26 29
+PickFruit 42
+PickFruit 82
+AddFruit 0 3 31 33
+AddFruit 0 4 28 45
+RateFruit 42 55
+GetBestFruit 4 0
+PickFruit 43
+PickFruit 15
+AddFruit 2 2 0 48
+PickFruit 16
+PlantTree 2 0
+PlantTree 0 2
+AddFruit 1 2 64 44
+PickFruit 77
+PickFruit 84
+GetBestFruit 4 3
+AddFruit 2 0 85 3
+PickFruit 23
+AddFruit 1 0 68 68
+AddFruit 4 2 10 -2
+AddFruit 0 2 54 9
+PickFruit 19
+GetAllFruitsByRate 0 4
+RateFruit 96 39
+PlantTree 3 0
+PickFruit 85
+AddFruit 0 2 62 57
+PickFruit 78
+GetBestFruit 4 1
+GetBestFruit 3 2
+GetAllFruitsByRate 2 2
+AddFruit 3 0 15 24
+GetBestFruit 3 3
+AddFruit 3 0 14 22
+GetAllFruitsByRate 1 0
+AddFruit 1 1 13 3
+PlantTree 1 3
+AddFruit 2 2 85 95
+AddFruit 3 4 49 10
+AddFruit 1 4 61 71
+PickFruit 0
+AddFruit 1 4 27 61
+RateFruit 15 91
+AddFruit 3 0 11 31
+PickFruit 92
+GetBestFruit 1 2
+GetAllFruitsByRate 0 1
+GetBestFruit 0 0
+AddFruit 4 3 44 63
+AddFruit 3 0 74 58
+AddFruit 1 1 24 93
+GetAllFruitsByRate 3 1
+GetAllFruitsByRate 4 4
+AddFruit 2 4 2 75
+RateFruit 57 93
+RateFruit 70 80
+GetAllFruitsByRate 4 0
+PlantTree 0 4
+PlantTree 3 3
+PickFruit 71
+GetBestFruit 1 1
+AddFruit 2 2 35 68
+PlantTree 4 2
+PickFruit 46
+RateFruit 50 78
+PlantTree 4 1
+RateFruit 28 16
+AddFruit 0 1 39 85
+AddFruit 2 1 58 80
+AddFruit 0 0 1 78
+PlantTree 2 4
+GetAllFruitsByRate 1 2
+GetAllFruitsByRate 2 1
+AddFruit 3 1 71 47
+PickFruit 43
+GetBestFruit 2 2
+GetAllFruitsByRate 0 4
+RateFruit 49 40
+GetAllFruitsByRate 1 0
+PickFruit 60
+RateFruit -2 86
+RateFruit 2 39
+GetAllFruitsByRate 2 3
+GetAllFruitsByRate 2 3
+RateFruit 11 32
+AddFruit 0 1 87 77
+PlantTree 3 4
+GetAllFruitsByRate 3 3
+GetAllFruitsByRate 0 3
+GetBestFruit 3 2
+PickFruit 58
+RateFruit 61 29
+AddFruit 2 3 29 62
+GetBestFruit 4 0
+AddFruit 1 0 80 57
+RateFruit -2 76
+RateFruit 13 -3
+GetAllFruitsByRate 4 2
+RateFruit -2 36
+AddFruit 1 3 9 66
+PickFruit 55
+PlantTree 2 4
+PlantTree 0 1
+AddFruit 4 3 29 80
+PlantTree 4 1
+GetAllFruitsByRate 0 4
+PickFruit 69
+PlantTree 3 3
+RateFruit 75 93
+GetBestFruit 2 1
+PickFruit 15
+GetAllFruitsByRate 1 4
+RateFruit 91 45
+PickFruit 15
+GetBestFruit 2 4
+RateFruit 10 4
+AddFruit 3 3 37 19
+RateFruit 82 66
+PickFruit 79
+AddFruit 1 1 23 75
+AddFruit 4 0 79 13
+AddFruit 3 4 45 62
+RateFruit 47 -2
+GetAllFruitsByRate 3 2
+GetAllFruitsByRate 3 1
+AddFruit 2 4 35 50
+GetBestFruit 4 4
+RateFruit 42 40
+AddFruit 0 1 52 58
+GetAllFruitsByRate 2 1
+PlantTree 2 1
+AddFruit 1 4 32 14
+PickFruit 0
+GetAllFruitsByRate 2 0
+RateFruit 85 95
+AddFruit 0 3 24 58
+GetBestFruit 1 0
+PlantTree 4 0
+AddFruit 0 3 91 62
+AddFruit 3 4 45 0
+GetBestFruit 3 0
+GetAllFruitsByRate 0 3
+GetBestFruit 0 0
+GetBestFruit 4 2
+AddFruit 0 1 22 68
+RateFruit 31 25
+RateFruit 35 51
+GetBestFruit 0 0
+GetBestFruit 0 3
+AddFruit 2 0 6 70
+AddFruit 1 2 59 60
+AddFruit 0 3 94 66
+PlantTree 4 4
+PickFruit 57
+RateFruit 83 -2
+GetBestFruit 0 3
+PickFruit 14
+RateFruit 79 61
+GetBestFruit 1 0
+RateFruit 93 87
+PlantTree 2 3
+AddFruit 0 2 71 90
+RateFruit 26 52
+RateFruit 32 8
+GetBestFruit 4 0
+RateFruit 78 73
+AddFruit 0 4 5 96
+AddFruit 4 3 50 34
+GetAllFruitsByRate 2 1
+RateFruit 93 24
+RateFruit 27 10
+AddFruit 1 3 28 26
+AddFruit 4 4 31 18
+PlantTree 2 2
+RateFruit 58 51
+GetAllFruitsByRate 1 3
+PickFruit 57
+RateFruit 80 3
+AddFruit 0 4 27 3
+PlantTree 3 1
+GetAllFruitsByRate 1 2
+GetAllFruitsByRate 2 2
+GetBestFruit 2 4
+RateFruit 92 91
+GetAllFruitsByRate 4 2
+PlantTree 2 4
+GetBestFruit 1 0
+PickFruit 56
+AddFruit 4 4 57 96
+AddFruit 3 0 50 95
+AddFruit 2 2 3 87
+AddFruit 2 1 82 84
+AddFruit 2 3 23 71
+GetAllFruitsByRate 1 4
+PickFruit 81
+AddFruit 1 0 48 29
+PickFruit 78
+PlantTree 4 3
+AddFruit 4 4 57 17
+AddFruit 4 1 33 7
+GetBestFruit 0 2
+PickFruit 2
+PickFruit 34
+AddFruit 3 3 68 94
+GetBestFruit 3 2
+RateFruit 66 58
+PickFruit 33
+PickFruit 25
+GetBestFruit 0 3
+GetBestFruit 0 3
+AddFruit 3 4 50 25
+RateFruit 6 80
+PlantTree 4 2
+RateFruit 7 27
+AddFruit 0 3 36 79
+GetBestFruit 1 1
+GetAllFruitsByRate 1 0
+RateFruit 73 55
+AddFruit 3 0 76 30
+RateFruit 46 95
+GetBestFruit 4 1
+RateFruit 30 31
+GetAllFruitsByRate 1 2
+RateFruit 3 10
+GetAllFruitsByRate 2 0
+GetAllFruitsByRate 2 0
+AddFruit 1 2 49 53
+RateFruit 85 4
+GetBestFruit 4 4
+AddFruit 4 4 16 95
+AddFruit 2 4 91 34
+PlantTree 4 2
+UpdateRottenFruits 15 16
+AddFruit 3 4 7 69
+AddFruit 2 4 50 17
+AddFruit 3 4 46 58
+GetAllFruitsByRate 0 1
+RateFruit 96 -1
+GetAllFruitsByRate 1 0
+AddFruit 4 1 59 35
+AddFruit 0 2 53 43
+PlantTree 3 4
+PickFruit 69
+PickFruit 32
+GetAllFruitsByRate 0 3
+AddFruit 4 4 60 2
+RateFruit 96 43
+PlantTree 0 0
+RateFruit 52 -1
+RateFruit 73 0
+AddFruit 1 0 87 81
+PickFruit 86
+PlantTree 3 1
+AddFruit 1 1 2 25
+PickFruit 56
+PlantTree 2 1
+GetBestFruit 0 0
+GetBestFruit 2 0
+GetAllFruitsByRate 3 4
+RateFruit 70 20
+PlantTree 0 4
+PickFruit 35
+GetBestFruit 1 0
+AddFruit 0 0 26 11
+AddFruit 1 3 91 88
+PickFruit 46
+RateFruit 76 90
+AddFruit 0 0 24 86
+PlantTree 4 3
+AddFruit 0 2 52 83
+AddFruit 0 4 0 86
+AddFruit 3 0 90 41
+AddFruit 4 0 92 69
+PlantTree 1 2
+AddFruit 0 4 52 87
+PlantTree 1 1
+PlantTree 3 0
+GetAllFruitsByRate 1 1
+GetAllFruitsByRate 4 2
+AddFruit 3 0 15 24
+RateFruit 59 8
+GetAllFruitsByRate 3 0
+AddFruit 0 4 24 93
+AddFruit 4 4 61 2
+GetBestFruit 4 3
+PlantTree 2 2
+AddFruit 3 1 40 61
+PickFruit 25
+GetBestFruit 2 0
+AddFruit 0 2 45 48
+GetBestFruit 1 0
+PlantTree 2 1
+RateFruit 63 9
+PlantTree 4 4
+RateFruit 22 77
+GetBestFruit 1 1
+GetAllFruitsByRate 4 0
+AddFruit 1 0 27 0
+RateFruit 57 12
+GetAllFruitsByRate 0 0
+GetBestFruit 4 2
+GetAllFruitsByRate 3 3
+AddFruit 4 0 89 22
+GetAllFruitsByRate 2 4
+GetBestFruit 4 2
+PlantTree 2 3
+PickFruit 20
+RateFruit 7 4
+UpdateRottenFruits 6 2
+RateFruit 69 61
+AddFruit 4 1 89 50
+GetAllFruitsByRate 4 2
+PickFruit 35
+AddFruit 3 4 29 86
+GetAllFruitsByRate 2 0
+GetAllFruitsByRate 2 3
+RateFruit 94 32
+GetBestFruit 1 1
+GetAllFruitsByRate 1 1
+RateFruit 96 26
+AddFruit 0 3 56 5
+PickFruit 95
+AddFruit 2 0 68 30
+PlantTree 0 2
+RateFruit 89 7
+PickFruit 32
+PlantTree 4 4
+GetBestFruit 1 1
+GetAllFruitsByRate 3 0
+GetBestFruit 3 4
+RateFruit 83 80
+PickFruit 20
+AddFruit 2 1 57 89
+GetBestFruit 1 3
+AddFruit 0 0 22 91
+PickFruit 63
+PickFruit 69
+RateFruit 96 77
+GetAllFruitsByRate 2 3
+GetBestFruit 4 4
+AddFruit 0 1 1 7
+PickFruit 24
+PickFruit 44
+AddFruit 3 0 83 62
+AddFruit 4 4 73 78
+AddFruit 4 0 -2 17
+RateFruit 75 39
+GetAllFruitsByRate 3 2
+AddFruit 3 2 40 89
+PlantTree 0 2
+PlantTree 2 0
+GetAllFruitsByRate 3 4
+GetAllFruitsByRate 2 1
+AddFruit 2 0 45 61
+AddFruit 2 3 60 19
+PlantTree 4 0
+GetAllFruitsByRate 0 3
+AddFruit 3 3 88 94
+AddFruit 1 4 77 52
+AddFruit 3 1 79 11
+PlantTree 0 1
+AddFruit 1 2 59 9
+AddFruit 2 0 78 0
+RateFruit 52 -3
+GetBestFruit 0 1
+GetBestFruit 4 1
+AddFruit 2 4 73 21
+RateFruit 54 82
+PlantTree 1 4
+AddFruit 0 2 71 88
+PickFruit 73
+RateFruit 48 95
+RateFruit 32 9
+GetBestFruit 4 2
+PlantTree 2 0
+RateFruit 53 31
+GetBestFruit 2 1
+AddFruit 4 2 12 37
+GetAllFruitsByRate 1 4
+GetBestFruit 4 0
+AddFruit 1 2 13 43
+AddFruit 3 3 48 75
+AddFruit 0 3 72 49
+GetBestFruit 2 1
+AddFruit 0 0 49 62
+AddFruit 3 3 9 79
+PlantTree 4 4
+GetBestFruit 2 1
+PickFruit 16
+GetAllFruitsByRate 1 2
+AddFruit 2 3 64 93
+GetAllFruitsByRate 0 3
+GetBestFruit 4 2
+GetBestFruit 1 3
+AddFruit 1 3 41 30
+GetBestFruit 4 2
+AddFruit 3 2 4 61
+PlantTree 0 0
+GetAllFruitsByRate 0 4
+GetAllFruitsByRate 3 3
+AddFruit 2 2 88 13
+GetBestFruit 4 3
+AddFruit 1 4 94 39
+GetAllFruitsByRate 1 4
+RateFruit 3 65
+PickFruit 56
+AddFruit 4 2 37 71
+AddFruit 1 2 84 62
+AddFruit 2 1 -2 49
+RateFruit 45 29
+GetBestFruit 2 0
+PickFruit 34
+AddFruit 3 2 1 24
+AddFruit 2 3 2 77
+PlantTree 4 0
+GetAllFruitsByRate 0 2
+AddFruit 0 2 64 64
+AddFruit 0 1 44 71
+RateFruit 21 83
+AddFruit 0 3 59 10
+PickFruit 32
+PickFruit 81
+AddFruit 0 0 28 38
+PlantTree 4 0
+PlantTree 4 1
+GetBestFruit 4 0
+PlantTree 3 4
+AddFruit 2 0 12 47
+AddFruit 1 4 37 -2
+AddFruit 4 3 28 84
+GetAllFruitsByRate 4 0
+AddFruit 3 3 53 65
+PickFruit 2
+AddFruit 3 0 73 11
+GetBestFruit 1 2
+PlantTree 0 1
+AddFruit 1 4 13 52
+AddFruit 0 4 11 17
+PlantTree 0 4
+AddFruit 1 2 15 42
+GetAllFruitsByRate 3 4
+GetAllFruitsByRate 4 0
+GetAllFruitsByRate 1 3
+GetAllFruitsByRate 0 1
+GetBestFruit 3 2
+AddFruit 4 0 7 -3
+RateFruit 53 70
+RateFruit 8 68
+RateFruit 85 18
+GetBestFruit 4 2
+GetBestFruit 0 3
+AddFruit 2 2 72 1
+RateFruit 15 80
+GetBestFruit 4 2
+RateFruit 35 62
+GetAllFruitsByRate 1 2
+GetBestFruit 1 1
+RateFruit 28 82
+GetBestFruit 4 0
+AddFruit 2 2 33 66
+GetAllFruitsByRate 0 3
+AddFruit 0 3 53 42
+PickFruit 34
+PlantTree 0 0
+RateFruit 67 71
+RateFruit 66 31
+AddFruit 1 2 87 1
+AddFruit 4 0 12 43
+PlantTree 4 4
+PickFruit 66
+GetBestFruit 0 4
+AddFruit 2 0 71 94
+RateFruit 64 16
+AddFruit 3 3 0 29
+AddFruit 4 3 92 50
+GetAllFruitsByRate 3 3
+AddFruit 0 1 21 53
+GetAllFruitsByRate 0 0
+AddFruit 1 4 80 32
+PlantTree 1 4
+GetAllFruitsByRate 4 4
+AddFruit 1 2 20 36
+RateFruit 37 17
+RateFruit 76 19
+RateFruit 30 47
+GetBestFruit 2 0
+GetAllFruitsByRate 2 3
+GetAllFruitsByRate 4 0
+PlantTree 3 0
+PlantTree 2 3
+RateFruit 48 14
+AddFruit 1 1 78 21
+AddFruit 3 1 34 54
+PickFruit 9
+PlantTree 2 2
+RateFruit 94 94
+PlantTree 3 3
+PickFruit 24
+GetBestFruit 2 2
+AddFruit 0 3 52 61
+PlantTree 4 3
+PlantTree 2 2
+GetAllFruitsByRate 2 0
+AddFruit 2 0 71 31
+PickFruit 80
+AddFruit 0 3 78 42
+PlantTree 2 2
+PickFruit 9
+PlantTree 1 1
+GetBestFruit 3 4
+PlantTree 2 4
+AddFruit 3 3 41 56
+AddFruit 3 3 78 76
+AddFruit 3 0 35 43
+GetBestFruit 0 2
+PickFruit 48
+GetBestFruit 0 3
+GetAllFruitsByRate 4 2
+RateFruit 16 10
+AddFruit 2 2 91 0
+PickFruit 6
+GetAllFruitsByRate 0 0
+GetAllFruitsByRate 1 3
+AddFruit 0 1 4 52
+RateFruit 23 63
+RateFruit 56 65
+AddFruit 1 4 19 2
+GetBestFruit 1 4
+GetBestFruit 3 2
+AddFruit 2 2 71 62
+AddFruit 3 2 94 67
+GetAllFruitsByRate 1 3
+RateFruit 64 26
+GetBestFruit 1 2
+GetBestFruit 2 0
+GetAllFruitsByRate 4 0
+AddFruit 3 2 65 40
+RateFruit 61 59
+AddFruit 0 4 10 54
+GetAllFruitsByRate 2 0
+PickFruit 40
+AddFruit 1 0 41 8
+PlantTree 2 3
+PlantTree 1 3
+PickFruit 80
+GetAllFruitsByRate 1 0
+PickFruit 72
+AddFruit 0 2 33 29
+RateFruit 39 51
+GetAllFruitsByRate 4 1
+GetAllFruitsByRate 4 2
+GetAllFruitsByRate 0 3
+AddFruit 2 0 89 93
+GetBestFruit 4 1
+GetBestFruit 0 1
+PickFruit -3
+PickFruit 84
+GetAllFruitsByRate 1 1
+GetAllFruitsByRate 2 4
+GetAllFruitsByRate 1 2
+AddFruit 1 1 9 20
+GetBestFruit 3 3
+GetBestFruit 4 2
+GetBestFruit 2 2
+PickFruit 63
+GetAllFruitsByRate 2 0
+PickFruit 76
+AddFruit 1 0 35 51
+AddFruit 0 0 61 45
+PlantTree 0 1
+AddFruit 4 4 71 64
+PlantTree 3 1
+GetAllFruitsByRate 3 2
+AddFruit 1 3 61 21
+RateFruit 13 9
+AddFruit 3 3 31 51
+GetAllFruitsByRate 0 2
+RateFruit 92 58
+PlantTree 0 2
+AddFruit 0 0 41 27
+AddFruit 4 2 29 13
+PlantTree 0 3
+AddFruit 0 3 41 76
+PickFruit 22
+AddFruit 2 3 23 4
+AddFruit 1 1 95 8
+AddFruit 1 4 88 81
+RateFruit 92 87
+RateFruit 57 -3
+GetBestFruit 3 0
+RateFruit 33 75
+GetAllFruitsByRate 1 2
+AddFruit 3 4 76 8
+GetAllFruitsByRate 0 0
+GetBestFruit 4 0
+AddFruit 0 0 96 11
+RateFruit 14 10
+RateFruit -3 6
+GetBestFruit 4 2
+RateFruit 87 -3
+GetAllFruitsByRate 4 1
+PlantTree 1 4
+GetBestFruit 3 4
+AddFruit 1 3 59 90
+RateFruit 67 35
+PlantTree 2 2
+AddFruit 1 0 8 34
+PlantTree 2 3
+GetBestFruit 0 3
+PickFruit 49
+GetAllFruitsByRate 3 3
+PlantTree 1 2
+AddFruit 2 2 55 76
+AddFruit 0 2 1 62
+RateFruit 47 25
+PickFruit 74
+GetBestFruit 4 4
+PlantTree 0 2
+AddFruit 4 3 30 71
+RateFruit 38 51
+GetBestFruit 0 1
+AddFruit 4 2 66 90
+PlantTree 2 4
+AddFruit 4 1 4 88
+GetAllFruitsByRate 2 3
+RateFruit 32 58
+AddFruit 0 1 25 58
+PlantTree 3 2
+GetAllFruitsByRate 4 1
+PlantTree 2 2
+GetBestFruit 2 2
+GetAllFruitsByRate 4 2
+PickFruit 42
+AddFruit 4 4 32 52
+RateFruit 61 70
+GetAllFruitsByRate 3 2
+AddFruit 1 4 25 50
+GetBestFruit 2 3
+PickFruit 55
+PickFruit 76
+AddFruit 4 3 33 62
+RateFruit 11 88
+GetBestFruit 4 1
+AddFruit 4 4 81 21
+GetBestFruit 4 1
+GetBestFruit 2 0
+GetBestFruit 2 0
+GetAllFruitsByRate 4 2
+AddFruit 3 4 42 37
+RateFruit 66 90
+AddFruit 4 4 88 73
+AddFruit 0 4 54 10
+AddFruit 3 0 94 0
+PlantTree 1 1
+GetBestFruit 0 0
+GetBestFruit 3 1
+GetAllFruitsByRate 2 4
+AddFruit 0 3 44 57
+AddFruit 2 1 29 2
+AddFruit 1 0 1 7
+GetAllFruitsByRate 2 0
+GetBestFruit 1 0
+AddFruit 4 4 8 42
+RateFruit 62 68
+GetAllFruitsByRate 0 1
+PlantTree 1 1
+PickFruit 30
+GetAllFruitsByRate 4 2
+GetBestFruit 4 2
+GetAllFruitsByRate 2 1
+RateFruit 26 60
+AddFruit 2 2 60 85
+RateFruit 25 38
+GetBestFruit 2 3
+GetBestFruit 0 0
+RateFruit 63 34
+RateFruit 81 65
+PlantTree 3 2
+GetAllFruitsByRate 1 2
+GetBestFruit 4 4
+GetAllFruitsByRate 4 4
+GetAllFruitsByRate 1 3
+GetBestFruit 0 0
+PlantTree 3 4
+PickFruit 80
+AddFruit 4 2 85 32
+PickFruit 64
+AddFruit 4 2 57 40
+RateFruit 80 61
+GetBestFruit 0 2
+AddFruit 4 0 85 87
+AddFruit 0 1 8 78
+PickFruit 7
+AddFruit 1 2 96 11
+PickFruit 82
+AddFruit 3 0 29 67
+GetAllFruitsByRate 3 4
+PlantTree 1 3
+AddFruit 4 4 53 15
+PickFruit 24
+AddFruit 1 0 73 4
+PlantTree 0 1
+GetAllFruitsByRate 2 3
+RateFruit 33 10
+AddFruit 1 3 17 25
+PlantTree 4 1
+AddFruit 1 0 21 41
+PickFruit 12
+GetAllFruitsByRate 1 0
+PickFruit 40
+GetAllFruitsByRate 1 1
+PlantTree 4 0
+RateFruit 73 3
+GetAllFruitsByRate 2 2
+AddFruit 4 4 16 65
+AddFruit 3 3 20 43
+RateFruit 59 96
+AddFruit 2 3 5 39
+AddFruit 3 4 28 32
+PickFruit -1
+RateFruit 56 4
+AddFruit 2 2 13 33
+RateFruit 39 13
+AddFruit 1 0 13 95
+RateFruit 68 7
+AddFruit 3 0 22 76
+AddFruit 0 0 25 8
+PickFruit 56
+AddFruit 3 1 19 85
+GetBestFruit 4 4
+PickFruit 59
+GetAllFruitsByRate 4 2
+GetBestFruit 4 0
+GetAllFruitsByRate 3 0
+RateFruit 13 71
+AddFruit 3 4 28 32
+GetBestFruit 2 2
+GetBestFruit 1 3
+PlantTree 4 0
+PlantTree 3 2
+GetAllFruitsByRate 1 4
+GetBestFruit 4 4
+GetAllFruitsByRate 4 0
+GetBestFruit 1 2
+RateFruit 53 48
+AddFruit 1 4 12 69
+AddFruit 3 2 51 78
+RateFruit 12 69
+RateFruit 12 73
+GetBestFruit 0 4
+RateFruit 88 55
+RateFruit 78 62
+PickFruit 60
+AddFruit 3 4 22 86
+AddFruit 4 2 4 23
+AddFruit 3 3 6 32
+AddFruit 0 4 40 30
+GetAllFruitsByRate 4 1
+AddFruit 2 3 29 93
+PickFruit 12
+PlantTree 2 0
+AddFruit 4 1 35 55
+AddFruit 3 0 96 65
+PlantTree 0 0
+PickFruit 11
+GetBestFruit 0 2
+GetAllFruitsByRate 0 4
+AddFruit 0 1 83 58
+RateFruit 82 50
+GetBestFruit 2 2
+AddFruit 2 2 0 62
+AddFruit 1 2 68 82
+RateFruit 15 52
+RateFruit 59 8
+AddFruit 2 2 56 6
+PickFruit 35
+AddFruit 3 2 27 49
+AddFruit 2 2 44 8
+GetAllFruitsByRate 0 3
+GetAllFruitsByRate 0 2
+GetAllFruitsByRate 3 1
+AddFruit 0 2 57 0
+GetAllFruitsByRate 0 0
+PickFruit 82
+PickFruit 45
+PlantTree 2 1
+AddFruit 3 1 46 49
+AddFruit 3 4 95 50
+GetBestFruit 1 4
+GetAllFruitsByRate 0 1
+RateFruit 16 76
+AddFruit 2 0 25 90
+AddFruit 4 4 82 39
+RateFruit 7 70
+GetBestFruit 0 3
+GetBestFruit 1 0
+RateFruit 14 17
+GetBestFruit 0 0
+PlantTree 0 1
+AddFruit 3 0 9 94
+PlantTree 3 3
+RateFruit -1 31
+AddFruit 1 3 58 8
+GetAllFruitsByRate 4 0
+GetAllFruitsByRate 4 1
+RateFruit 50 28
+PlantTree 2 3
+AddFruit 4 3 50 24
+RateFruit 69 5
+AddFruit 2 2 76 67
+PlantTree 3 4
+PlantTree 0 3
+AddFruit 4 2 11 58
+AddFruit 3 4 15 90
+PlantTree 4 1
+GetAllFruitsByRate 3 0
+GetBestFruit 0 0
+PlantTree 0 2
+RateFruit 93 30
+GetBestFruit 0 1
+PlantTree 1 1
+AddFruit 0 0 44 15
+PickFruit 32
+PickFruit 20
+GetBestFruit 2 0
+PickFruit 1
+PickFruit 66
+AddFruit 1 1 57 71
+AddFruit 0 0 69 79
+AddFruit 0 2 3 16
+AddFruit 1 3 86 89
+GetAllFruitsByRate 0 3
+AddFruit 2 2 52 69
+AddFruit 3 4 65 74
+GetBestFruit 0 2
+GetBestFruit 4 4
+GetBestFruit 4 4
+AddFruit 2 4 5 79
+GetBestFruit 2 3
+PickFruit 91
+AddFruit 3 4 68 25
+AddFruit 0 3 14 -2
+AddFruit 3 2 37 18
+GetBestFruit 1 4
+AddFruit 1 4 59 88
+AddFruit 3 3 80 38
+GetAllFruitsByRate 1 2
+GetBestFruit 2 3
+GetAllFruitsByRate 2 1
+PickFruit 96
+AddFruit 3 3 54 14
+AddFruit 2 3 8 58
+GetAllFruitsByRate 4 2
+PlantTree 3 4
+PickFruit 84
+AddFruit 2 3 68 39
+AddFruit 1 2 -2 83
+AddFruit 2 1 67 16
+GetBestFruit 4 4
+AddFruit 1 4 64 75
+AddFruit 2 2 69 54
+GetAllFruitsByRate 1 2
+AddFruit 1 0 58 20
+RateFruit 63 1
+PlantTree 3 3
+AddFruit 1 1 44 84
+AddFruit 1 0 7 68
+RateFruit 68 92
+AddFruit 1 3 43 58
+AddFruit 1 2 9 73
+AddFruit 0 2 -2 55
+GetBestFruit 0 1
+AddFruit 1 0 53 18
+RateFruit 16 96
+GetAllFruitsByRate 1 4
+PickFruit 1
+GetAllFruitsByRate 2 1
+GetBestFruit 4 4
+AddFruit 0 2 84 73
+RateFruit 57 7
+GetAllFruitsByRate 2 0
+AddFruit 2 0 13 75
+GetBestFruit 0 3
+AddFruit 1 0 12 40
+GetAllFruitsByRate 4 4
+GetBestFruit 0 0
+RateFruit 88 25
+PickFruit 39
+GetBestFruit 2 1
+GetAllFruitsByRate 2 3
+PlantTree 4 0
+RateFruit 5 82
+RateFruit -3 57
+GetAllFruitsByRate 0 1
+AddFruit 3 3 74 81
+PickFruit 26
+AddFruit 4 1 29 87
+PickFruit 48
+RateFruit 75 12
+AddFruit 3 3 70 52
+AddFruit 4 0 11 11
+RateFruit 47 93
+RateFruit 78 41
+PickFruit 33
+PlantTree 3 3
+RateFruit 31 9
+RateFruit 79 52
+RateFruit 20 24
+RateFruit 11 31
+RateFruit 15 92
+RateFruit 17 36
+GetAllFruitsByRate 0 3
+PlantTree 2 2
+AddFruit 1 4 45 11
+AddFruit 4 0 31 74
+RateFruit 68 57
+AddFruit 4 0 73 53
+RateFruit 53 14
+PlantTree 0 0
+GetBestFruit 3 1
+GetAllFruitsByRate 2 0
+PlantTree 3 3
+GetAllFruitsByRate 1 1
+GetAllFruitsByRate 2 2
+GetAllFruitsByRate 4 2
+AddFruit 2 1 41 3
+GetBestFruit 0 4
+GetAllFruitsByRate 0 4
+PickFruit 1
+AddFruit 3 1 10 70
+PlantTree 4 3
+PlantTree 4 4
+AddFruit 3 1 2 10
+AddFruit 0 1 54 11
+GetBestFruit 0 2
+PlantTree 0 0
+GetAllFruitsByRate 1 2
+RateFruit 65 47
+AddFruit 4 0 87 53
+AddFruit 0 2 18 69
+GetBestFruit 4 4
+RateFruit 58 59
+AddFruit 4 4 86 -1
+AddFruit 2 2 47 68
+GetBestFruit 3 2
+PickFruit -3
+PickFruit 9
+RateFruit 91 46
+PickFruit 77
+GetBestFruit 4 2
+GetBestFruit 0 3
+GetBestFruit 4 1
+AddFruit 3 0 74 66
+PlantTree 3 2
+GetBestFruit 1 4
+PlantTree 1 4
+AddFruit 4 3 15 93
+RateFruit 38 95
+AddFruit 1 0 55 75
+GetAllFruitsByRate 1 2
+PickFruit 67
+PlantTree 4 3
+AddFruit 3 1 81 62
+AddFruit 2 4 62 84
+PickFruit 15
+GetAllFruitsByRate 4 1
+RateFruit 71 92
+PlantTree 3 3
+RateFruit 1 9
+PickFruit 11
+GetAllFruitsByRate 4 1
+RateFruit 94 72
+PlantTree 2 2
+PlantTree 0 0
+PlantTree 3 2
+RateFruit 52 6
+AddFruit 3 4 48 34
+RateFruit 30 11
+GetAllFruitsByRate 0 2
+GetAllFruitsByRate 2 2
+PickFruit -3
+PlantTree 4 3
+GetAllFruitsByRate 0 0
+AddFruit 1 4 80 49
+GetAllFruitsByRate 1 2
+RateFruit 62 -2
+AddFruit 0 2 76 67
+AddFruit 1 1 62 40
+AddFruit 0 2 59 75
+GetAllFruitsByRate 2 4
+GetBestFruit 1 2
+GetAllFruitsByRate 4 4
+PlantTree 4 0
+GetBestFruit 2 4
+GetAllFruitsByRate 3 1
+AddFruit 1 4 63 56
+AddFruit 3 0 47 44
+AddFruit 4 1 82 45
+AddFruit 1 4 29 75
+AddFruit 3 1 -3 69
+AddFruit 4 0 88 23
+GetBestFruit 2 4
+AddFruit 4 0 26 8
+PickFruit -2
+AddFruit 3 2 17 -2
+RateFruit 37 77
+GetAllFruitsByRate 1 1
+PickFruit 34
+RateFruit 91 41
+RateFruit 48 96
+PickFruit 90
+AddFruit 4 1 73 85
+PickFruit 67
+PlantTree 0 3
+AddFruit 3 3 52 12
+AddFruit 3 0 64 56
+PickFruit 85
+RateFruit 83 31
+AddFruit 2 4 42 92
+GetBestFruit 0 3
+PickFruit 72
+RateFruit 56 37
+RateFruit 85 71
+PickFruit 94
+GetAllFruitsByRate 2 2
+AddFruit 2 0 45 57
+GetAllFruitsByRate 1 3
+RateFruit 47 40
+PlantTree 0 0
+RateFruit 30 28
+GetAllFruitsByRate 4 1
+AddFruit 0 2 51 50
+PlantTree 4 0
+PlantTree 0 2
+GetAllFruitsByRate 1 2
+PickFruit 79
+AddFruit 4 1 8 31
+PickFruit 65
+AddFruit 1 2 56 65
+RateFruit 70 60
+AddFruit 4 4 42 50
+PlantTree 1 1
+PickFruit 64
+AddFruit 0 4 46 82
+GetBestFruit 2 4
+AddFruit 1 0 22 36
+RateFruit 75 50
+AddFruit 0 2 77 58
+PickFruit 28
+RateFruit 47 86
+GetBestFruit 1 3
+RateFruit 95 40
+GetBestFruit 2 1
+GetAllFruitsByRate 0 1
+UpdateRottenFruits 9 14
+AddFruit 1 1 48 42
+AddFruit 1 0 12 1
+PlantTree 0 0
+GetBestFruit 4 1
+RateFruit 43 80
+AddFruit 0 2 44 13
+AddFruit 3 0 15 46
+GetBestFruit 4 3
+AddFruit 2 3 40 36
+GetAllFruitsByRate 2 1
+AddFruit 0 1 44 22
+GetAllFruitsByRate 0 4
+AddFruit 0 3 95 86
+RateFruit 1 12
+AddFruit 4 4 61 11
+GetAllFruitsByRate 2 2
+AddFruit 0 2 40 17
+UpdateRottenFruits 3 4
+PickFruit 27
+PickFruit 10
+PlantTree 3 1
+PlantTree 0 1
+AddFruit 3 1 11 59
+RateFruit 9 14
+RateFruit -2 23
+AddFruit 0 3 5 15
+GetAllFruitsByRate 1 1
+GetBestFruit 0 2
+AddFruit 4 0 78 50
+PickFruit 58
+GetAllFruitsByRate 1 4
+PlantTree 2 1
+GetBestFruit 3 3
+AddFruit 0 2 7 16
+AddFruit 4 4 40 55
+PlantTree 4 2
+PickFruit 50
+AddFruit 4 1 84 13
+AddFruit 1 1 8 45
+GetAllFruitsByRate 4 0
+RateFruit 55 19
+AddFruit 0 1 -3 84
+AddFruit 0 3 75 5
+PlantTree 1 2
+AddFruit 1 0 88 24
+RateFruit 88 25
+PlantTree 2 2
+GetBestFruit 3 2
+PickFruit 71
+PickFruit 54
+GetAllFruitsByRate 4 2
+AddFruit 4 2 16 93
+AddFruit 1 1 43 76
+GetAllFruitsByRate 0 0
+GetAllFruitsByRate 3 0
+AddFruit 3 1 70 10
+AddFruit 1 0 39 50
+PlantTree 4 1
+GetAllFruitsByRate 4 0
+AddFruit 4 3 25 42
+PickFruit 36
+AddFruit 3 3 46 24
+GetAllFruitsByRate 4 2
+PlantTree 4 2
+GetBestFruit 2 2
+GetAllFruitsByRate 2 4
+PickFruit -2
+PickFruit 28
+PickFruit 33
+GetBestFruit 3 1
+GetBestFruit 2 1
+PlantTree 3 0
+AddFruit 2 3 86 27
+AddFruit 2 0 41 40
+GetBestFruit 4 3
+GetAllFruitsByRate 4 0
+PlantTree 3 4
+AddFruit 0 4 59 40
+AddFruit 2 2 89 -1
+AddFruit 2 3 14 26
+AddFruit 2 3 28 58
+PickFruit 80
+RateFruit 61 30
+GetBestFruit 3 1
+PickFruit 7
+RateFruit 82 31
+GetAllFruitsByRate 3 2
+RateFruit 18 53
+PickFruit 78
+PlantTree 3 4
+AddFruit 0 4 95 86
+PickFruit -3
+PlantTree 1 4
+PickFruit 86
+AddFruit 0 3 95 24
+RateFruit 82 92
+AddFruit 2 4 -3 9
+PickFruit 66
+GetBestFruit 1 1
+AddFruit 0 3 52 51
+AddFruit 1 0 58 81
+PlantTree 3 1
+GetAllFruitsByRate 1 2
+GetBestFruit 3 2
+PickFruit 56
+GetAllFruitsByRate 3 2
+GetAllFruitsByRate 1 1
+RateFruit 11 96
+GetBestFruit 2 0
+PlantTree 1 2
+PlantTree 0 0
+RateFruit 4 36
+PlantTree 3 1
+GetBestFruit 4 0
+RateFruit 22 50
+AddFruit 3 4 85 75
+RateFruit 55 47
+PlantTree 1 3
+PlantTree 4 2
+PickFruit 76
+AddFruit 3 4 7 72
+RateFruit 84 32
+RateFruit 25 46
+PlantTree 0 3
+PlantTree 1 0
+RateFruit 1 -2
+PickFruit 41
+PlantTree 2 3
+GetAllFruitsByRate 0 2
+PickFruit 25
+RateFruit 87 42
+RateFruit 31 41
+PickFruit -2
+AddFruit 2 4 81 50
+PickFruit 4
+GetBestFruit 2 1
+AddFruit 1 0 89 2
+GetBestFruit 2 2
+AddFruit 1 4 84 24
+GetBestFruit 4 3
+RateFruit 95 44
+AddFruit 0 1 89 71
+PickFruit 88
+GetAllFruitsByRate 0 1
+AddFruit 0 1 19 49
+AddFruit 2 0 68 70
+PickFruit 56
+PickFruit 87
+PickFruit 89
+AddFruit 2 4 46 70
+PickFruit 4
+GetAllFruitsByRate 3 2
+PlantTree 4 1
+RateFruit 67 65
+AddFruit 3 4 76 96
+GetBestFruit 1 1
+GetAllFruitsByRate 3 2
+AddFruit 4 3 73 -1
+AddFruit 1 0 52 73
+PlantTree 4 3
+PlantTree 0 1
+AddFruit 1 1 4 40
+RateFruit 56 92
+GetBestFruit 1 1
+AddFruit 1 1 26 63
+PickFruit 80
+AddFruit 4 0 77 50
+PickFruit 2
+PlantTree 0 2
+RateFruit 70 17
+RateFruit 56 49
+PlantTree 2 3
+UpdateRottenFruits -1 14
+AddFruit 4 4 8 90
+GetAllFruitsByRate 4 4
+PlantTree 4 2
+GetAllFruitsByRate 0 4
+GetAllFruitsByRate 4 1
+AddFruit 2 3 68 95
+AddFruit 3 0 38 44
+PlantTree 2 1
+PickFruit 33
+GetAllFruitsByRate 4 0
+GetAllFruitsByRate 3 3
+PickFruit -3
+RateFruit 32 20
+RateFruit 2 69
+RateFruit 53 46
+GetAllFruitsByRate 2 2
+AddFruit 3 4 84 69
+RateFruit 80 74
+PlantTree 2 0
+GetAllFruitsByRate 3 4
+GetBestFruit 2 4
+PlantTree 4 4
+PlantTree 0 0
+GetAllFruitsByRate 0 2
+RateFruit 86 1
+RateFruit 54 95
+AddFruit 4 4 33 50
+PickFruit -2
+AddFruit 2 0 64 30
+GetAllFruitsByRate 1 0
+GetBestFruit 3 3
+PlantTree 1 2
+AddFruit 4 4 54 -3
+GetAllFruitsByRate 2 2
+AddFruit 0 2 38 4
+AddFruit 0 2 77 84
+AddFruit 1 3 62 5
+PickFruit 89
+PlantTree 3 1
+AddFruit 1 0 38 18
+AddFruit 2 3 48 29
+PlantTree 0 0
+GetBestFruit 0 0
+GetAllFruitsByRate 2 4
+AddFruit 2 4 21 87
+PickFruit 93
+AddFruit 4 4 72 -1
+GetAllFruitsByRate 2 2
+AddFruit 2 3 80 63
+AddFruit 0 2 6 67
+PickFruit 31
+RateFruit 36 1
+PickFruit 72
+AddFruit 2 0 69 56
+RateFruit 34 24
+AddFruit 4 1 4 68
+AddFruit 0 0 0 19
+PlantTree 3 1
+RateFruit 34 78
+GetAllFruitsByRate 2 1
+AddFruit 0 1 66 24
+RateFruit 20 52
+RateFruit 91 20
+AddFruit 4 3 92 23
+RateFruit 70 3
+PickFruit 33
+GetBestFruit 3 1
+GetAllFruitsByRate 4 0
+AddFruit 0 1 50 78
+PickFruit 28
+AddFruit 3 1 91 3
+AddFruit 2 0 36 65
+GetAllFruitsByRate 4 3
+GetBestFruit 4 0
+RateFruit 64 32
+GetBestFruit 3 2
+AddFruit 4 1 20 37
+AddFruit 3 1 45 51
+GetBestFruit 0 1
+PlantTree 1 3
+RateFruit 22 -1
+PlantTree 3 0
+AddFruit 0 1 48 18
+PlantTree 3 2
+PickFruit 59
+PickFruit 86
+RateFruit 8 81
+GetAllFruitsByRate 1 3
+RateFruit 56 68
+GetAllFruitsByRate 3 2
+PlantTree 1 0
+AddFruit 4 0 86 10
+GetAllFruitsByRate 2 2
+AddFruit 1 3 67 53
+PickFruit 48
+GetBestFruit 0 2
+GetAllFruitsByRate 3 4
+RateFruit 82 55
+RateFruit 61 17
+PickFruit 79
+RateFruit 26 31
+PickFruit 93
+GetBestFruit 4 4
+AddFruit 3 2 79 53
+GetBestFruit 2 4
+PlantTree 1 2
+GetBestFruit 2 0
+PickFruit 72
+GetAllFruitsByRate 4 4
+AddFruit 3 2 14 7
+RateFruit 41 32
+GetAllFruitsByRate 1 1
+PlantTree 4 1
+PickFruit 55
+GetAllFruitsByRate 4 1
+GetBestFruit 1 3
+PickFruit 57
+PickFruit 34
+AddFruit 1 2 -2 91
+PlantTree 4 1
+AddFruit 1 2 41 68
+PlantTree 1 3
+PlantTree 4 3
+RateFruit 75 57
+RateFruit 64 48
+AddFruit 3 3 96 25
+PickFruit 48
+GetAllFruitsByRate 3 4
+PlantTree 2 4
+PickFruit 96
+PlantTree 2 1
+GetBestFruit 4 0
+AddFruit 4 0 95 11
+GetAllFruitsByRate 2 3
+PlantTree 4 1
+AddFruit 1 2 29 69
+GetBestFruit 1 3
+GetAllFruitsByRate 3 4
+PickFruit 60
+GetBestFruit 4 2
+AddFruit 1 0 53 0
+AddFruit 1 3 3 25
+PlantTree 1 2
+GetAllFruitsByRate 1 1
+GetAllFruitsByRate 1 0
+GetBestFruit 1 4
+AddFruit 1 1 80 34
+PickFruit 52
+PickFruit 8
+GetAllFruitsByRate 0 2
+GetBestFruit 4 3
+AddFruit 1 3 73 53
+GetBestFruit 3 0
+PickFruit 82
+AddFruit 1 1 78 12
+GetBestFruit 1 1
+PlantTree 0 2
+RateFruit 34 61
+GetBestFruit 4 0
+AddFruit 1 3 66 23
+GetAllFruitsByRate 2 2
+GetAllFruitsByRate 1 0
+GetAllFruitsByRate 4 0
+GetAllFruitsByRate 2 2
+AddFruit 4 3 55 87
+GetBestFruit 1 2
+PlantTree 2 0
+PickFruit 34
+AddFruit 2 0 31 63
+PlantTree 2 1
+GetBestFruit 3 2
+PickFruit 26
+AddFruit 2 1 67 7
+GetAllFruitsByRate 4 1
+PickFruit 22
+GetAllFruitsByRate 3 3
+AddFruit 1 2 69 44
+PlantTree 2 0
+PickFruit 30
+RateFruit 41 62
+AddFruit 2 2 20 70
+PickFruit 83
+GetAllFruitsByRate 1 3
+AddFruit 0 3 53 19
+PickFruit 80
+AddFruit 4 0 89 66
+PlantTree 0 1
+RateFruit 79 29
+AddFruit 2 3 17 54
+RateFruit 46 72
+GetAllFruitsByRate 2 0
+GetBestFruit 1 0
+PlantTree 1 2
+PickFruit 78
+PickFruit 34
+AddFruit 3 2 92 17
+PlantTree 4 2
+RateFruit 81 24
+GetAllFruitsByRate 4 2
+PlantTree 3 4
+GetBestFruit 1 3
+AddFruit 4 0 64 87
+PlantTree 3 0
+RateFruit 51 76
+AddFruit 2 3 33 6
+AddFruit 2 0 1 53
+PlantTree 3 1
+GetBestFruit 1 1
+AddFruit 1 2 1 93
+PlantTree 2 1
+GetAllFruitsByRate 2 2
+GetAllFruitsByRate 0 4
+GetBestFruit 1 0
+GetBestFruit 2 4
+AddFruit 2 0 18 37
+GetAllFruitsByRate 0 4
+PickFruit 29
+AddFruit 2 2 41 70
+GetBestFruit 0 4
+RateFruit 67 21
+AddFruit 4 4 91 87
+AddFruit 1 0 2 24
+PickFruit 87
+PlantTree 4 0
+GetBestFruit 0 0
+AddFruit 1 4 17 65
+PlantTree 1 3
+GetAllFruitsByRate 3 2
+RateFruit 65 72
+PlantTree 2 2
+RateFruit 7 12
+GetBestFruit 4 4
+PickFruit 34
+GetAllFruitsByRate 4 0
+GetAllFruitsByRate 0 0
+GetBestFruit 1 1
+AddFruit 3 2 47 45
+GetAllFruitsByRate 1 1
+AddFruit 3 1 86 66
+PickFruit 71
+AddFruit 1 0 25 50
+PickFruit 38
+GetBestFruit 1 0
+GetAllFruitsByRate 2 1
+GetBestFruit 4 0
+GetAllFruitsByRate 4 2
+GetAllFruitsByRate 2 1
+AddFruit 2 0 95 85
+GetAllFruitsByRate 3 2
+RateFruit 91 52
+RateFruit 58 80
+PlantTree 1 3
+AddFruit 2 4 42 45
+GetBestFruit 0 2
+PickFruit 3
+PlantTree 0 4
+PickFruit 69
+GetAllFruitsByRate 3 3
+PickFruit 10
+GetAllFruitsByRate 1 0
+AddFruit 3 0 50 42
+PlantTree 4 0
+PickFruit 62
+PickFruit 96
+GetAllFruitsByRate 3 2
+PlantTree 4 4
+RateFruit 40 64
+AddFruit 4 4 3 47
+AddFruit 1 3 27 2
+AddFruit 2 3 8 62
+GetAllFruitsByRate 1 3
+AddFruit 0 2 48 32
+PickFruit 29
+AddFruit 2 2 68 83
+PickFruit 65
+GetAllFruitsByRate 3 3
+PickFruit 67
+AddFruit 1 1 78 2
+PlantTree 3 1
+GetBestFruit 3 3
+PickFruit 46
+GetAllFruitsByRate 1 2
+GetBestFruit 3 0
+AddFruit 1 2 88 9
+PlantTree 0 3
+GetAllFruitsByRate 3 2
+GetBestFruit 1 1
+PlantTree 3 1
+GetAllFruitsByRate 4 3
+GetBestFruit 0 1
+GetAllFruitsByRate 0 2
+AddFruit 2 3 37 40
+RateFruit 53 23
+GetAllFruitsByRate 1 1
+PickFruit 77
+PickFruit 89
+RateFruit 79 20
+GetAllFruitsByRate 2 2
+PickFruit 84
+GetAllFruitsByRate 1 2
+GetBestFruit 1 0
+PickFruit 46
+PickFruit 18
+PickFruit 28
+GetAllFruitsByRate 2 2
+PickFruit 72
+RateFruit -1 77
+AddFruit 2 4 11 94
+AddFruit 4 2 81 77
+AddFruit 2 4 71 16
+PickFruit 21
+GetBestFruit 3 0
+RateFruit 9 91
+PickFruit 38
+GetAllFruitsByRate 3 3
+PickFruit 89
+PickFruit 56
+PickFruit 92
+AddFruit 4 0 83 47
+AddFruit 1 2 38 90
+AddFruit 0 1 1 43
+AddFruit 1 1 10 45
+AddFruit 3 0 9 54
+AddFruit 0 0 92 39
+GetAllFruitsByRate 4 1
+PlantTree 3 1
+RateFruit 4 76
+PickFruit 27
+GetAllFruitsByRate 0 3
+RateFruit 48 68
+GetBestFruit 1 4
+RateFruit 51 54
+AddFruit 4 4 82 39
+RateFruit 1 67
+AddFruit 2 4 10 56
+PickFruit 64
+PlantTree 3 1
+GetBestFruit 1 2
+GetAllFruitsByRate 1 4
+AddFruit 0 4 89 81
+AddFruit 0 3 33 80
+GetBestFruit 4 3
+RateFruit 76 -1
+AddFruit 1 3 0 71
+RateFruit 74 68
+GetBestFruit 1 3
+AddFruit 2 1 37 61
+PickFruit 34
+GetAllFruitsByRate 0 3
+GetBestFruit 4 2
+AddFruit 3 3 24 60
+PlantTree 1 1
+PlantTree 4 0
+AddFruit 3 1 22 40
+GetBestFruit 0 1
+GetAllFruitsByRate 4 1
+PickFruit 77
+GetAllFruitsByRate 4 1
+AddFruit 0 0 33 73
+AddFruit 0 0 51 87
+GetAllFruitsByRate 2 0
+PlantTree 4 3
+GetAllFruitsByRate 1 3
+PickFruit 68
+PickFruit -1
+GetBestFruit 4 0
+AddFruit 2 4 8 20
+PlantTree 3 0
+PickFruit 75
+RateFruit 24 40
+GetBestFruit 4 4
+PickFruit 30
+PickFruit 40
+GetAllFruitsByRate 2 0
+GetBestFruit 2 1
+AddFruit 0 0 51 62
+AddFruit 0 1 3 23
+AddFruit 4 4 28 93
+RateFruit 74 90
+PickFruit 88
+AddFruit 0 3 93 40
+PlantTree 0 1
+RateFruit 34 47
+PlantTree 3 2
+GetBestFruit 2 4
+PickFruit 20
+PickFruit 88
+GetAllFruitsByRate 2 1
+GetAllFruitsByRate 1 4
+AddFruit 0 2 12 94
+PlantTree 2 3
+PlantTree 2 4
+AddFruit 3 2 7 33
+GetAllFruitsByRate 3 0
+PickFruit 88
+AddFruit 1 1 22 -3
+RateFruit 91 54
+PlantTree 1 4
+RateFruit 25 22
+AddFruit 1 1 65 11
+GetBestFruit 4 2
+RateFruit 32 42
+PlantTree 0 4
+GetBestFruit 1 0
+PlantTree 1 1
+RateFruit 62 82
+RateFruit 15 26
+PlantTree 3 1
+PlantTree 2 2
+GetBestFruit 0 3
+GetBestFruit 1 0
+AddFruit 0 1 31 33
+AddFruit 3 2 84 25
+PickFruit 10
+PlantTree 1 0
+PickFruit 83
+PlantTree 4 0
+GetAllFruitsByRate 1 4
+AddFruit 0 0 63 90
+PlantTree 2 1
+AddFruit 2 2 28 13
+GetBestFruit 4 2
+AddFruit 4 4 0 91
+PickFruit 62
+PickFruit 28
+PickFruit 72
+GetAllFruitsByRate 3 2
+AddFruit 1 1 16 25
+GetBestFruit 2 3
+PlantTree 2 0
+GetBestFruit 2 3
+GetAllFruitsByRate 2 4
+GetBestFruit 4 2
+PickFruit 27
+GetAllFruitsByRate 2 2
+PickFruit 16
+AddFruit 1 3 16 94
+AddFruit 2 1 45 93
+GetBestFruit 3 4
+GetBestFruit 0 1
+AddFruit 3 2 84 4
+PickFruit 41
+PlantTree 3 0
+GetBestFruit 4 2
+RateFruit 41 90
+RateFruit 74 2
+PlantTree 1 1
+AddFruit 4 2 87 72
+AddFruit 0 0 85 94
+PlantTree 0 0
+PickFruit 50
+AddFruit 0 2 1 17
+AddFruit 1 4 68 24
+AddFruit 0 1 44 27
+AddFruit 1 0 46 61
+RateFruit 80 49
+AddFruit 2 3 52 53
+RateFruit 80 90
+PlantTree 0 3
+AddFruit 3 1 76 44
+PlantTree 4 1
+AddFruit 0 2 62 25
+AddFruit 0 4 44 19
+AddFruit 0 4 59 79
+AddFruit 0 0 71 44
+GetAllFruitsByRate 1 4
+AddFruit 3 0 27 25
+GetBestFruit 1 4
+GetBestFruit 0 3
+GetAllFruitsByRate 0 1
+PickFruit -1
+AddFruit 0 3 80 61
+AddFruit 0 2 25 72
+AddFruit 3 4 78 60
+PlantTree 3 1
+RateFruit 42 65
+GetAllFruitsByRate 3 4
+RateFruit 36 67
+AddFruit 0 3 92 23
+PlantTree 1 3
+RateFruit -1 -3
+PickFruit 69
+AddFruit 0 2 42 72
+AddFruit 1 2 85 55
+RateFruit 84 80
+PickFruit 28
+AddFruit 3 1 36 60
+GetAllFruitsByRate 3 2
+AddFruit 4 0 84 75
+AddFruit 2 2 81 67
+PlantTree 0 3
+PlantTree 2 3
+AddFruit 3 1 94 26
+AddFruit 2 1 49 42
+GetBestFruit 0 0
+PickFruit 88
+RateFruit 67 28
+AddFruit 0 3 72 5
+GetAllFruitsByRate 0 1
+AddFruit 2 2 96 4
+RateFruit 73 59
+RateFruit 89 95
+GetAllFruitsByRate 4 1
+RateFruit 49 55
+AddFruit 3 0 79 49
+GetAllFruitsByRate 3 2
+AddFruit 3 4 1 80
+GetAllFruitsByRate 3 1
+AddFruit 1 4 46 90
+RateFruit 39 39
+AddFruit 3 1 18 93
+AddFruit 1 4 92 86
+GetAllFruitsByRate 2 1
+PickFruit 53
+RateFruit 37 89
+PickFruit 57
+PlantTree 4 3
+RateFruit 57 70
+GetAllFruitsByRate 4 4
+AddFruit 2 1 86 41
+GetBestFruit 4 0
+PlantTree 2 3
+AddFruit 1 0 15 78
+PickFruit 93
+GetBestFruit 2 4
+PlantTree 0 4
+PickFruit 38
+GetAllFruitsByRate 1 1
+RateFruit 90 31
+AddFruit 3 0 26 88
+GetAllFruitsByRate 0 1
+PlantTree 1 4
+RateFruit 78 50
+PlantTree 2 1
+PickFruit 74
+AddFruit 4 1 12 1
+GetBestFruit 3 2
+AddFruit 3 2 69 26
+PlantTree 1 0
+AddFruit 4 1 67 40
+GetBestFruit 4 3
+AddFruit 2 3 60 55
+GetAllFruitsByRate 3 0
+GetBestFruit 4 1
+GetAllFruitsByRate 2 2
+AddFruit 1 2 28 73
+AddFruit 1 4 72 17
+GetBestFruit 0 1
+PickFruit 34
+GetAllFruitsByRate 2 0
+GetBestFruit 3 0
+AddFruit 0 3 40 46
+GetAllFruitsByRate 4 1
+AddFruit 2 1 95 18
+PlantTree 1 2
+AddFruit 2 3 38 88
+PlantTree 3 4
+GetAllFruitsByRate 3 1
+AddFruit 1 2 -2 59
+RateFruit 76 31
+AddFruit 2 2 68 36
+AddFruit 2 4 93 81
+PlantTree 3 3
+AddFruit 2 4 44 85
+RateFruit 31 18
+AddFruit 2 0 15 45
+GetAllFruitsByRate 4 1
+GetAllFruitsByRate 3 4
+RateFruit 71 41
+PlantTree 1 1
+GetBestFruit 3 1
+PickFruit 80
+PlantTree 3 1
+AddFruit 1 1 30 44
+PlantTree 4 2
+GetAllFruitsByRate 1 4
+PlantTree 1 3
+PlantTree 3 0
+PlantTree 2 3
+GetBestFruit 0 2
+PlantTree 2 2
+RateFruit 19 67
+RateFruit 32 -3
+PickFruit 42
+AddFruit 3 0 76 61
+RateFruit 21 87
+GetAllFruitsByRate 3 2
+AddFruit 2 1 28 70
+GetBestFruit 1 0
+AddFruit 0 2 26 43
+AddFruit 1 3 24 29
+PlantTree 3 2
+GetAllFruitsByRate 0 2
+AddFruit 4 3 30 88
+RateFruit 81 81
+PickFruit 27
+AddFruit 1 2 65 53
+PlantTree 2 4
+GetAllFruitsByRate 4 0
+RateFruit 2 37
+GetAllFruitsByRate 3 4
+RateFruit 63 20
+GetAllFruitsByRate 2 0
+PickFruit 1
+GetBestFruit 3 0
+GetAllFruitsByRate 0 2
+PickFruit 54
+AddFruit 4 4 79 23
+GetAllFruitsByRate 1 4
+GetBestFruit 0 0
+PickFruit 90
+PlantTree 3 1
+GetBestFruit 3 4
+GetAllFruitsByRate 1 2
+AddFruit 2 3 7 -2
+GetBestFruit 1 0
+GetBestFruit 0 2
+AddFruit 3 1 53 8
+GetAllFruitsByRate 0 0
+AddFruit 3 2 81 76
+AddFruit 3 2 24 44
+GetBestFruit 4 2
+AddFruit 1 4 91 68
+GetBestFruit 3 4
+GetAllFruitsByRate 2 2
+GetBestFruit 3 4
+RateFruit 37 66
+AddFruit 4 2 33 81
+GetBestFruit 0 1
+RateFruit 39 53
+GetBestFruit 3 0
+PlantTree 2 0
+GetAllFruitsByRate 3 3
+PlantTree 2 2
+GetBestFruit 3 1
+GetBestFruit 2 0
+PlantTree 3 1
+GetAllFruitsByRate 2 2
+AddFruit 2 0 23 21
+AddFruit 3 4 36 76
+AddFruit 4 0 14 59
+AddFruit 2 4 93 60
+RateFruit 87 23
+RateFruit 29 66
+AddFruit 1 2 85 68
+RateFruit 76 44
+GetAllFruitsByRate 2 1
+GetBestFruit 2 4
+PickFruit 86
+AddFruit 1 0 40 3
+PlantTree 0 0
+GetBestFruit 2 4
+GetAllFruitsByRate 1 1
+AddFruit 1 2 8 -3
+PlantTree 3 4
+GetBestFruit 3 0
+AddFruit 3 2 36 22
+AddFruit 0 2 64 6
+AddFruit 3 1 9 48
+AddFruit 2 0 83 8
+PlantTree 2 2
+GetAllFruitsByRate 3 2
+AddFruit 2 3 91 70
+RateFruit 95 50
+AddFruit 3 3 91 84
+GetBestFruit 1 4
+RateFruit 92 75
+AddFruit 0 1 6 36
+GetBestFruit 1 2
+RateFruit 70 21
+RateFruit 4 80
+RateFruit 24 15
+AddFruit 1 0 87 61
+PlantTree 3 3
+GetAllFruitsByRate 2 4
+AddFruit 0 1 57 85
+RateFruit 49 25
+GetAllFruitsByRate 0 2
+AddFruit 3 1 45 74
+PickFruit 26
+RateFruit 23 32
+AddFruit 4 4 42 0
+RateFruit 91 64
+AddFruit 0 0 53 19
+PlantTree 1 3
+RateFruit 69 52
+PlantTree 3 0
+AddFruit 0 0 67 6
+AddFruit 2 1 77 96
+GetAllFruitsByRate 3 1
+AddFruit 2 3 24 -3
+GetAllFruitsByRate 4 4
+AddFruit 2 0 93 72
+GetAllFruitsByRate 2 3
+AddFruit 2 1 84 52
+AddFruit 3 4 45 41
+AddFruit 1 2 78 67
+RateFruit 67 -3
+AddFruit 1 2 77 79
+GetBestFruit 4 2
+AddFruit 2 2 71 44
+PlantTree 4 0
+GetAllFruitsByRate 2 4
+GetBestFruit 0 1
+AddFruit 2 3 55 60
+AddFruit 4 0 21 71
+GetBestFruit 4 0
+GetBestFruit 4 1
+AddFruit 0 4 52 88
+AddFruit 2 0 54 24
+GetAllFruitsByRate 0 1
+PlantTree 1 2
+GetAllFruitsByRate 4 1
+AddFruit 1 2 47 95
+GetAllFruitsByRate 0 1
+GetAllFruitsByRate 3 4
+GetBestFruit 3 4
+AddFruit 2 4 25 95
+AddFruit 1 1 3 12
+GetAllFruitsByRate 3 0
+GetBestFruit 4 4
+RateFruit 14 69
+GetBestFruit 4 2
+PlantTree 0 3
+AddFruit 0 0 8 66
+RateFruit -1 81
+AddFruit 3 0 52 86
+AddFruit 3 4 89 56
+RateFruit 87 24
+AddFruit 1 3 24 7
+AddFruit 2 1 91 61
+PlantTree 2 3
+AddFruit 4 1 59 40
+AddFruit 1 0 61 74
+AddFruit 0 4 38 47
+AddFruit 4 1 23 81
+GetAllFruitsByRate 3 1
+RateFruit 23 11
+PlantTree 3 1
+PickFruit 24
+AddFruit 2 4 17 42
+PlantTree 4 4
+AddFruit 4 0 74 41
+AddFruit 0 0 89 42
+GetBestFruit 1 0
+AddFruit 1 2 -1 0
+AddFruit 2 2 75 65
+PickFruit 7
+GetBestFruit 1 2
+PlantTree 0 1
+AddFruit 3 4 76 78
+AddFruit 1 0 58 96
+RateFruit 76 47
+PickFruit 96
+PickFruit 80
+GetBestFruit 0 0
+AddFruit 4 4 7 86
+RateFruit 3 40
+RateFruit 62 73
+PlantTree 1 2
+AddFruit 0 4 91 64
+PickFruit 6
+AddFruit 4 1 35 7
+RateFruit 60 2
+AddFruit 2 3 11 60
+AddFruit 1 0 64 -1
+GetBestFruit 1 0
+GetAllFruitsByRate 1 1
+GetBestFruit 0 3
+AddFruit 3 0 76 75
+UpdateRottenFruits 2 16
+RateFruit 30 53
+PickFruit 38
+GetBestFruit 2 2
+PlantTree 2 3
+RateFruit 55 48
+RateFruit 7 1
+RateFruit 79 68
+RateFruit 50 63
+PlantTree 1 0
+GetBestFruit 0 2
+GetBestFruit 4 0
+AddFruit 1 2 -2 61
+PickFruit 51
+AddFruit 0 3 93 94
+GetBestFruit 2 4
+PlantTree 3 2
+AddFruit 0 2 62 5
+GetAllFruitsByRate 1 1
+AddFruit 4 1 60 45
+AddFruit 0 0 31 56
+RateFruit 4 82
+AddFruit 2 3 8 71
+AddFruit 3 2 25 80
+PlantTree 3 2
+AddFruit 3 2 45 85
+AddFruit 1 0 66 87
+RateFruit 82 39
+AddFruit 1 1 83 13
+PickFruit 76
+PlantTree 2 0
+RateFruit 88 -1
+AddFruit 3 1 1 83
+PlantTree 2 0
+GetAllFruitsByRate 1 3
+AddFruit 0 0 69 15
+GetAllFruitsByRate 3 4
+PlantTree 2 3
+RateFruit 45 90
+PickFruit 61
+GetBestFruit 3 1
+AddFruit 4 3 27 52
+GetBestFruit 3 2
+AddFruit 3 3 8 34
+PickFruit 53
+AddFruit 0 3 50 21
+AddFruit 0 0 95 88
+AddFruit 0 1 15 47
+PlantTree 3 4
+GetAllFruitsByRate 1 3
+AddFruit 0 0 52 54
+RateFruit 48 58
+GetBestFruit 2 4
+PlantTree 0 3
+AddFruit 1 4 11 29
+GetAllFruitsByRate 2 1
+PlantTree 2 3
+GetAllFruitsByRate 0 1
+PlantTree 2 3
+PickFruit 56
+PickFruit 37
+RateFruit 89 0
+AddFruit 4 2 47 90
+AddFruit 0 2 1 80
+AddFruit 0 2 92 5
+GetBestFruit 0 3
+RateFruit 20 12
+AddFruit 4 3 3 30
+AddFruit 1 3 90 53
+GetAllFruitsByRate 2 0
+AddFruit 1 1 74 17
+AddFruit 3 2 -3 42
+GetAllFruitsByRate 1 1
+AddFruit 0 4 85 0
+GetBestFruit 0 2
+AddFruit 1 2 70 4
+AddFruit 3 4 -2 45
+PlantTree 0 1
+GetAllFruitsByRate 2 1
+AddFruit 3 4 46 17
+GetAllFruitsByRate 3 4
+PickFruit 45
+AddFruit 2 0 53 87
+RateFruit 83 78
+RateFruit 24 -2
+AddFruit 3 0 11 27
+RateFruit 64 43
+GetAllFruitsByRate 1 2
+PlantTree 3 4
+GetAllFruitsByRate 3 2
+GetAllFruitsByRate 0 2
+GetBestFruit 1 2
+GetAllFruitsByRate 1 3
+PickFruit 21
+AddFruit 3 0 94 31
+AddFruit 0 1 67 44
+AddFruit 2 3 39 -2
+PlantTree 3 2
+GetBestFruit 3 1
+RateFruit 66 5
+PlantTree 4 1
+GetAllFruitsByRate 4 0
+PlantTree 1 0
+GetAllFruitsByRate 4 0
+RateFruit -2 56
+PickFruit 92
+GetBestFruit 0 2
+GetBestFruit 3 2
+RateFruit 43 60
+PlantTree 4 0
+PickFruit 74
+AddFruit 1 4 17 7
+AddFruit 2 0 81 77
+PickFruit 41
+PlantTree 3 4
+GetAllFruitsByRate 1 4
+PlantTree 3 2
+GetBestFruit 1 3
+AddFruit 4 1 67 7
+AddFruit 4 1 25 61
+AddFruit 0 1 29 49
+AddFruit 2 1 12 48
+GetBestFruit 4 2
+AddFruit 4 4 41 4
+AddFruit 3 0 45 31
+PickFruit 64
+GetBestFruit 3 4
+PlantTree 2 0
+AddFruit 0 0 51 41
+AddFruit 4 3 60 54
+AddFruit 2 1 52 26
+AddFruit 0 3 76 21
+AddFruit 0 3 76 79
+PlantTree 1 1
+GetBestFruit 3 3
+AddFruit 1 1 95 57
+PickFruit 10
+PickFruit 20
+PickFruit 69
+GetBestFruit 4 1
+PickFruit 9
+PickFruit 12
+PlantTree 0 3
+AddFruit 1 0 77 36
+AddFruit 0 2 36 24
+GetAllFruitsByRate 1 1
+PlantTree 4 3
+PickFruit 93
+PickFruit 50
+PickFruit 27
+PlantTree 2 4
+RateFruit 86 78
+PlantTree 4 1
+PlantTree 1 2
+PlantTree 3 0
+RateFruit 1 64
+PickFruit 35
+AddFruit 4 3 22 22
+GetAllFruitsByRate 1 0
+RateFruit 67 15
+PlantTree 3 3
+PickFruit 47
+AddFruit 0 1 21 87
+GetBestFruit 2 2
+GetBestFruit 1 3
+PlantTree 2 0
+GetBestFruit 3 0
+PlantTree 4 2
+AddFruit 4 3 64 24
+GetBestFruit 1 4
+GetAllFruitsByRate 1 0
+AddFruit 2 2 95 1
+GetBestFruit 3 3
+GetAllFruitsByRate 0 4
+GetBestFruit 4 1
+GetAllFruitsByRate 1 2
+PlantTree 1 3
+PlantTree 0 0
+AddFruit 3 4 40 67
+GetBestFruit 2 1
+AddFruit 0 4 91 4
+AddFruit 1 1 76 90
+PlantTree 4 2
+PlantTree 1 1
+UpdateRottenFruits 11 6
+GetBestFruit 0 2
+AddFruit 3 0 6 6
+AddFruit 1 3 44 66
+GetBestFruit 4 3
+PickFruit 49
+PlantTree 1 1
+GetAllFruitsByRate 4 1
+AddFruit 4 3 73 3
+GetAllFruitsByRate 2 3
+AddFruit 2 4 11 35
+AddFruit 2 4 -2 11
+RateFruit -1 64
+RateFruit 40 94
+PickFruit 92
+AddFruit 2 1 61 11
+PickFruit 12
+AddFruit 4 2 80 43
+AddFruit 0 3 38 65
+GetBestFruit 0 0
+PickFruit 78
+RateFruit 50 78
+AddFruit 2 0 85 24
+PlantTree 1 4
+PlantTree 1 1
+GetAllFruitsByRate 4 4
+GetBestFruit 3 3
+RateFruit 44 61
+PickFruit 89
+AddFruit 1 3 43 11
+GetBestFruit 3 0
+RateFruit 56 -3
+AddFruit 1 3 11 -2
+RateFruit 80 80
+PickFruit 28
+AddFruit 1 1 54 92
+AddFruit 4 1 56 21
+GetAllFruitsByRate 1 4
+PlantTree 1 1
+AddFruit 2 3 83 39
+AddFruit 1 2 17 48
+AddFruit 2 1 37 36
+PlantTree 2 4
+GetAllFruitsByRate 2 4
+AddFruit 1 1 79 96
+RateFruit 89 50
+RateFruit 93 89
+PickFruit 16
+AddFruit 0 3 23 18
+GetBestFruit 0 0
+AddFruit 2 4 -3 87
+RateFruit 43 5
+PickFruit 73
+PickFruit 83
+PickFruit 24
+GetAllFruitsByRate 4 2
+GetAllFruitsByRate 4 4
+PickFruit 9
+GetBestFruit 2 3
+AddFruit 1 2 83 94
+GetAllFruitsByRate 0 3
+RateFruit 15 23
+RateFruit 70 95
+AddFruit 2 2 16 15
+GetAllFruitsByRate 2 4
+RateFruit 54 37
+AddFruit 2 3 57 -3
+AddFruit 0 3 44 95
+AddFruit 1 3 6 55
+AddFruit 2 2 85 62
+RateFruit 39 4
+RateFruit 16 30
+AddFruit 2 0 37 72
+AddFruit 2 3 23 56
+RateFruit 0 5
+AddFruit 2 4 53 81
+GetBestFruit 1 4
+AddFruit 0 0 51 48
+AddFruit 4 0 16 20
+RateFruit 7 62
+AddFruit 3 4 39 57
+RateFruit 92 17
+AddFruit 0 4 15 90
+AddFruit 4 2 25 89
+AddFruit 3 0 96 50
+GetBestFruit 1 4
+GetBestFruit 3 2
+PlantTree 3 3
+AddFruit 4 1 27 29
+AddFruit 0 1 0 26
+AddFruit 0 3 82 51
+RateFruit 18 91
+GetAllFruitsByRate 1 3
+GetBestFruit 4 1
+AddFruit 0 2 4 55
+GetBestFruit 3 0
+PickFruit 60
+PlantTree 1 1
+AddFruit 4 2 27 19
+GetAllFruitsByRate 1 3
+AddFruit 0 1 34 11
+GetAllFruitsByRate 2 3
+AddFruit 2 1 59 43
+PlantTree 2 3
+AddFruit 1 1 72 24
+AddFruit 4 0 12 46
+AddFruit 0 4 53 -2
+GetBestFruit 1 3
+AddFruit 4 0 9 80
+GetBestFruit 3 2
+AddFruit 1 0 44 12
+PlantTree 0 2
+PickFruit 92
+GetAllFruitsByRate 0 4
+AddFruit 2 4 50 19
+PlantTree 0 1
+GetAllFruitsByRate 4 0
+PickFruit 25
+GetBestFruit 2 3
+PlantTree 2 3
+PickFruit 50
+RateFruit 60 91
+AddFruit 4 3 48 76
+GetBestFruit 4 0
+PickFruit 18
+AddFruit 3 3 83 0
+GetBestFruit 3 0
+GetAllFruitsByRate 4 1
+AddFruit 2 1 3 26
+AddFruit 4 0 29 73
+PickFruit 21
+PickFruit 6
+RateFruit 60 79
+PickFruit 68
+GetBestFruit 4 2
+GetBestFruit 2 4
+AddFruit 1 4 7 41
+RateFruit 47 51
+RateFruit 91 60
+AddFruit 2 1 42 45
+AddFruit 3 1 15 62
+PlantTree 0 2
+PlantTree 3 4
+PickFruit 1
+AddFruit 4 1 63 53
+AddFruit 3 2 90 60
+PickFruit 31
+PickFruit 46
+GetBestFruit 3 4
+RateFruit 64 25
+GetBestFruit 0 1
+PlantTree 3 1
+AddFruit 4 0 91 87
+PickFruit 47
+PickFruit 0
+GetAllFruitsByRate 1 1
+GetBestFruit 0 0
+AddFruit 3 1 54 51
+AddFruit 4 4 56 6
+AddFruit 2 3 95 17
+AddFruit 2 0 48 92
+GetBestFruit 0 0
+GetAllFruitsByRate 4 0
+AddFruit 1 0 56 93
+AddFruit 3 0 30 82
+AddFruit 3 3 69 23
+AddFruit 0 4 46 21
+AddFruit 0 4 38 4
+GetBestFruit 1 2
+AddFruit 4 2 74 4
+PlantTree 4 4
+AddFruit 2 2 17 50
+PlantTree 4 1
+GetBestFruit 4 0
+PlantTree 0 0
+RateFruit 52 34
+AddFruit 4 0 75 10
+GetAllFruitsByRate 1 4
+AddFruit 0 0 96 32
+AddFruit 2 4 27 34
+PlantTree 4 4
+GetAllFruitsByRate 0 1
+AddFruit 1 0 49 73
+PlantTree 3 4
+AddFruit 1 2 86 37
+GetBestFruit 3 3
+AddFruit 1 1 29 64
+PickFruit 0
+GetAllFruitsByRate 1 2
+GetBestFruit 3 4
+GetBestFruit 1 4
+GetAllFruitsByRate 0 4
+AddFruit 3 0 -3 88
+PlantTree 4 1
+AddFruit 4 1 72 78
+AddFruit 3 2 88 38
+RateFruit 73 26
+AddFruit 4 1 26 19
+RateFruit 22 82
+GetBestFruit 3 4
+AddFruit 1 4 55 56
+PickFruit 70
+GetBestFruit 3 2
+PlantTree 4 2
+RateFruit 44 22
+RateFruit 42 34
+AddFruit 2 3 54 72
+GetAllFruitsByRate 2 2
+GetBestFruit 2 2
+GetAllFruitsByRate 1 0
+RateFruit 22 2
+PickFruit 4
+PlantTree 1 1
+AddFruit 1 2 65 61
+PlantTree 0 2
+PickFruit 46
+AddFruit 0 3 93 63
+GetAllFruitsByRate 2 1
+PickFruit 66
+AddFruit 0 4 88 53
+GetAllFruitsByRate 4 4
+GetAllFruitsByRate 4 1
+AddFruit 4 3 54 70
+AddFruit 1 1 83 65
+AddFruit 3 4 57 76
+GetBestFruit 1 4
+GetBestFruit 0 1
+PickFruit 92
+PickFruit 8
+AddFruit 4 2 38 79
+PickFruit 39
+AddFruit 0 2 60 91
+RateFruit 40 92
+GetBestFruit 4 1
+PickFruit 50
+RateFruit 41 31
+GetBestFruit 4 0
+RateFruit 89 3
+PlantTree 3 1
+RateFruit 6 3
+RateFruit 46 -2
+GetBestFruit 4 2
+AddFruit 0 1 30 74
+RateFruit 25 -1
+AddFruit 2 0 49 76
+RateFruit 96 39
+AddFruit 1 2 15 51
+RateFruit 37 67
+PlantTree 1 3
+PlantTree 4 1
+PickFruit 43
+GetAllFruitsByRate 4 3
+GetAllFruitsByRate 2 2
+GetBestFruit 0 1
+PlantTree 3 4
+GetAllFruitsByRate 0 3
+AddFruit 3 0 56 77
+RateFruit 64 93
+GetBestFruit 3 4
+GetBestFruit 2 3
+GetBestFruit 3 2
+PickFruit 10
+AddFruit 2 1 13 70
+AddFruit 1 3 42 9
+PickFruit 30
+PickFruit 54
+PickFruit 84
+GetAllFruitsByRate 2 0
+PlantTree 2 2
+PlantTree 4 4
+PlantTree 2 0
+PickFruit 58
+GetAllFruitsByRate 0 3
+GetBestFruit 2 4
+PickFruit 36
+GetBestFruit 3 4
+GetBestFruit 3 2
+AddFruit 2 2 27 82
+RateFruit 24 92
+GetAllFruitsByRate 1 0
+PlantTree 1 2
+GetBestFruit 2 4
+PlantTree 3 3
+AddFruit 4 1 96 69
+AddFruit 2 3 64 3
+GetAllFruitsByRate 4 2
+AddFruit 4 3 0 74
+AddFruit 1 2 19 33
+GetAllFruitsByRate 1 0
+PickFruit 28
+RateFruit 43 7
+PlantTree 0 4
+AddFruit 3 2 63 3
+GetAllFruitsByRate 4 3
+PickFruit 46
+AddFruit 1 4 52 71
+RateFruit 19 77
+PlantTree 4 1
+AddFruit 3 2 49 35
+PickFruit 69
+AddFruit 3 0 22 -1
+RateFruit 0 70
+GetBestFruit 3 1
+GetBestFruit 2 2
+GetBestFruit 3 2
+GetBestFruit 0 1
+RateFruit 28 2
+PickFruit 89
+RateFruit 11 49
+AddFruit 0 3 71 88
+RateFruit 59 81
+PickFruit 0
+AddFruit 0 2 11 52
+RateFruit 1 14
+AddFruit 0 3 19 69
+PickFruit 94
+AddFruit 2 3 11 -3
+RateFruit -2 71
+RateFruit 46 47
+GetBestFruit 3 2
+GetAllFruitsByRate 1 1
+AddFruit 4 1 40 73
+PickFruit 43
+PickFruit 39
+RateFruit 29 93
+PlantTree 0 0
+AddFruit 2 0 70 1
+AddFruit 4 4 85 60
+AddFruit 1 2 58 73
+AddFruit 1 0 32 21
+GetBestFruit 0 2
+PlantTree 4 4
+AddFruit 0 4 1 60
+PlantTree 1 3
+GetAllFruitsByRate 4 4
+PlantTree 1 4
+AddFruit 2 0 29 63
+RateFruit 25 56
+PickFruit 90
+PlantTree 1 0
+RateFruit 0 91
+PlantTree 4 2
+RateFruit -1 35
+AddFruit 4 4 40 60
+AddFruit 1 0 4 73
+PickFruit 28
+GetBestFruit 4 0
+AddFruit 1 4 57 73
+GetAllFruitsByRate 3 3
+PickFruit 52
+RateFruit 20 -3
+AddFruit 2 0 70 75
+PickFruit 52
+PlantTree 4 3
+UpdateRottenFruits 15 12
+PlantTree 2 2
+RateFruit 89 18
+PickFruit 36
+PlantTree 0 4
+GetAllFruitsByRate 0 1
+GetBestFruit 1 2
+PickFruit 87
+PlantTree 0 4
+AddFruit 0 2 45 96
+PickFruit 90
+PickFruit 70
+GetBestFruit 2 3
+GetBestFruit 0 0
+AddFruit 4 2 86 54
+PlantTree 2 3
+PickFruit 28
+GetAllFruitsByRate 2 3
+PlantTree 0 3
+PlantTree 3 4
+PlantTree 1 3
+PlantTree 3 1
+AddFruit 2 2 70 79
+PickFruit 67
+RateFruit 96 36
+PickFruit 9
+RateFruit 12 94
+GetAllFruitsByRate 1 3
+PickFruit 47
+PickFruit 1
+GetBestFruit 4 1
+GetAllFruitsByRate 2 0
+PickFruit 26
+PlantTree 1 4
+AddFruit 0 2 72 73
+AddFruit 4 4 26 81
+RateFruit 72 62
+AddFruit 0 2 41 24
+AddFruit 1 1 10 36
+AddFruit 4 0 43 10
+PickFruit 79
+PickFruit 79
+GetBestFruit 0 1
+AddFruit 1 4 28 54
+AddFruit 0 1 67 43
+PlantTree 2 2
+PlantTree 2 2
+AddFruit 4 4 14 77
+GetAllFruitsByRate 4 0
+AddFruit 0 1 25 65
+GetBestFruit 1 1
+AddFruit 3 1 27 75
+GetAllFruitsByRate 1 4
+AddFruit 3 2 40 36
+AddFruit 1 2 34 80
+RateFruit 66 68
+PickFruit 2
+RateFruit 89 81
+PickFruit 85
+GetAllFruitsByRate 2 3
+GetBestFruit 0 0
+PickFruit 72
+GetAllFruitsByRate 4 4
+PlantTree 3 0
+PickFruit 61
+AddFruit 4 4 33 5
+GetAllFruitsByRate 1 2
+GetAllFruitsByRate 0 2
+AddFruit 0 4 27 69
+AddFruit 4 4 36 76
+GetAllFruitsByRate 1 2
+GetBestFruit 0 1
+PlantTree 3 0
+RateFruit 16 74
+PickFruit 55
+AddFruit 1 3 5 5
+AddFruit 2 1 4 26
+AddFruit 4 1 9 65
+PlantTree 0 3
+RateFruit 42 82
+PlantTree 0 2
+PlantTree 2 1
+GetBestFruit 4 3
+AddFruit 1 4 75 48
+RateFruit 10 24
+PickFruit 17
+RateFruit 21 95
+PickFruit 47
+PickFruit 69
+RateFruit 22 5
+GetAllFruitsByRate 3 0
+PickFruit 23
+RateFruit 43 47
+PickFruit 7
+RateFruit 66 48
+GetBestFruit 3 0
+PickFruit 96
+RateFruit 50 63
+AddFruit 4 1 55 83
+PickFruit 85
+RateFruit 38 70
+AddFruit 2 1 74 32
+AddFruit 2 3 65 47
+AddFruit 0 3 26 19
+PickFruit 82
+GetAllFruitsByRate 1 4
+AddFruit 0 0 65 -3
+PlantTree 3 2
+AddFruit 4 0 21 21
+PickFruit 62
+AddFruit 2 4 47 2
+GetAllFruitsByRate 4 2
+AddFruit 2 3 87 92
+PickFruit 95
+AddFruit 1 3 83 94
+PickFruit 63
+GetBestFruit 0 2
+PickFruit 19
+AddFruit 1 2 40 18
+PlantTree 2 1
+RateFruit 47 75
+AddFruit 4 2 46 20
+AddFruit 0 3 39 12
+RateFruit 46 39
+PlantTree 2 1
+GetBestFruit 0 4
+AddFruit 3 0 21 55
+GetBestFruit 4 3
+AddFruit 0 0 24 27
+PlantTree 0 2
+RateFruit 19 28
+GetBestFruit 2 3
+PlantTree 2 4
+PlantTree 2 1
+GetBestFruit 0 2
+AddFruit 1 2 88 55
+GetAllFruitsByRate 2 1
+GetBestFruit 4 2
+PickFruit 73
+AddFruit 3 0 16 48
+PickFruit 14
+RateFruit 92 81
+PickFruit 17
+GetBestFruit 2 1
+RateFruit 66 59
+RateFruit 41 90
+RateFruit -3 78
+PlantTree 2 2
+AddFruit 4 1 17 87
+PickFruit 56
+RateFruit 20 -3
+GetBestFruit 2 1
+AddFruit 1 4 55 52
+PlantTree 4 1
+AddFruit 3 1 39 56
+PickFruit 20
+GetAllFruitsByRate 2 4
+RateFruit 54 54
+GetBestFruit 4 1
+RateFruit 73 91
+AddFruit 4 0 5 43
+RateFruit 39 20
+GetBestFruit 3 4
+AddFruit 4 2 7 69
+PlantTree 3 3
+AddFruit 4 2 25 4
+GetAllFruitsByRate 4 2
+GetBestFruit 3 4
+GetBestFruit 0 3
+GetBestFruit 4 3
+AddFruit 4 4 17 67
+GetBestFruit 4 3
+PickFruit 18
+AddFruit 4 2 27 91
+AddFruit 1 4 83 64
+AddFruit 4 0 17 22
+GetAllFruitsByRate 0 0
+PlantTree 2 2
+AddFruit 4 0 95 92
+PickFruit 50
+RateFruit 45 6
+GetAllFruitsByRate 1 3
+PlantTree 0 4
+RateFruit 63 70
+AddFruit 1 1 91 44
+AddFruit 1 2 50 65
+GetAllFruitsByRate 2 4
+PickFruit 93
+AddFruit 0 0 96 70
+PickFruit 21
+RateFruit 61 47
+GetAllFruitsByRate 1 2
+RateFruit 84 -3
+RateFruit 67 87
+PickFruit 74
+PickFruit -3
+PickFruit 77
+PlantTree 2 0
+AddFruit 0 3 58 49
+AddFruit 1 0 32 81
+GetBestFruit 2 2
+RateFruit 34 38
+GetAllFruitsByRate 1 2
+PlantTree 1 4
+GetBestFruit 3 2
+PickFruit -3
+GetAllFruitsByRate 1 0
+PickFruit 32
+PlantTree 2 4
+RateFruit 73 1
+PlantTree 0 4
+PlantTree 2 0
+GetAllFruitsByRate 2 3
+AddFruit 1 4 10 93
+RateFruit 96 13
+RateFruit 31 28
+AddFruit 2 1 28 95
+AddFruit 2 3 31 41
+PickFruit 65
+AddFruit 1 2 45 -1
+RateFruit 30 22
+AddFruit 0 2 89 26
+RateFruit 58 62
+PlantTree 4 3
+GetAllFruitsByRate 0 4
+PickFruit 4
+RateFruit 40 77
+GetBestFruit 3 0
+GetBestFruit 3 4
+GetAllFruitsByRate 3 2
+PlantTree 2 2
+PlantTree 3 3
+PlantTree 2 3
+GetBestFruit 2 4
+GetAllFruitsByRate 1 4
+PlantTree 2 4
+GetBestFruit 1 0
+PlantTree 1 1
+AddFruit 2 1 -2 82
+AddFruit 0 1 81 95
+GetAllFruitsByRate 1 0
+AddFruit 4 2 44 12
+RateFruit 44 67
+AddFruit 0 0 57 96
+PickFruit 76
+PickFruit 72
+GetAllFruitsByRate 2 3
+AddFruit 1 1 20 60
+PickFruit 56
+PickFruit 11
+AddFruit 1 4 80 50
+PickFruit 75
+PlantTree 1 3
+GetAllFruitsByRate 3 1
+PlantTree 0 0
+AddFruit 0 3 36 45
+PlantTree 1 1
+PickFruit 44
+PlantTree 3 2
+GetBestFruit 0 4
+PickFruit 30
+AddFruit 0 0 63 96
+PlantTree 1 1
+AddFruit 3 0 0 13
+AddFruit 3 0 61 49
+GetAllFruitsByRate 0 0
+PlantTree 1 2
+GetAllFruitsByRate 2 0
+RateFruit 68 61
+GetAllFruitsByRate 2 1
+RateFruit 42 41
+PickFruit 84
+GetBestFruit 1 0
+PickFruit 66
+AddFruit 2 1 -3 56
+AddFruit 2 2 95 43
+PickFruit 48
+PlantTree 0 4
+AddFruit 2 3 70 38
+PickFruit 50
+AddFruit 3 2 78 29
+AddFruit 2 2 46 53
+RateFruit 55 25
+AddFruit 0 4 16 35
+AddFruit 1 1 75 3
+AddFruit 3 3 4 18
+AddFruit 2 0 63 34
+GetAllFruitsByRate 1 0
+AddFruit 2 3 39 63
+AddFruit 1 0 65 77
+PlantTree 3 4
+PickFruit 81
+PickFruit 67
+GetAllFruitsByRate 4 0
+GetAllFruitsByRate 3 1
+AddFruit 0 0 79 58
+PlantTree 4 2
+GetAllFruitsByRate 0 1
+AddFruit 1 3 96 75
+AddFruit 0 1 32 8
+AddFruit 1 1 5 34
+AddFruit 2 0 87 16
+AddFruit 4 0 21 29
+PlantTree 0 0
+PlantTree 1 2
+AddFruit 1 0 68 54
+RateFruit 39 80
+AddFruit 1 3 34 14
+AddFruit 2 3 -1 32
+AddFruit 1 2 63 18
+GetAllFruitsByRate 0 2
+AddFruit 0 1 16 39
+PlantTree 4 2
+GetAllFruitsByRate 1 2
+AddFruit 0 3 22 38
+GetAllFruitsByRate 0 1
+PickFruit 96
+RateFruit 19 48
+PlantTree 1 0
+AddFruit 4 0 83 74
+AddFruit 4 4 12 41
+RateFruit 26 93
+GetBestFruit 0 1
+RateFruit 83 0
+GetAllFruitsByRate 0 0
+GetBestFruit 1 0
+PlantTree 2 1
+AddFruit 4 0 12 19
+RateFruit 27 96
+GetBestFruit 2 0
+AddFruit 1 0 9 75
+AddFruit 1 1 31 52
+PickFruit 51
+AddFruit 0 3 14 81
+PlantTree 2 3
+PlantTree 2 3
+PickFruit 18
+RateFruit 92 85
+AddFruit 1 2 91 52
+PickFruit 93
+AddFruit 1 1 79 49
+GetBestFruit 4 2
+PlantTree 4 0
+RateFruit 6 59
+RateFruit 74 70
+PickFruit 53
+RateFruit 79 20
+GetBestFruit 4 0
+AddFruit 2 4 44 49
+RateFruit 79 26
+AddFruit 2 3 31 -3
+RateFruit 75 10
+AddFruit 4 2 42 54
+PlantTree 0 4
+GetBestFruit 2 0
+PickFruit 23
+AddFruit 4 2 57 15
+PlantTree 2 3
+GetAllFruitsByRate 2 1
+PlantTree 4 2
+GetAllFruitsByRate 4 2
+RateFruit 36 52
+GetBestFruit 1 2
+GetBestFruit 2 3
+PickFruit 51
+GetAllFruitsByRate 0 3
+RateFruit -1 11
+RateFruit 64 46
+AddFruit 0 0 42 88
+AddFruit 0 1 30 37
+GetBestFruit 2 2
+RateFruit 20 1
+PickFruit 22
+AddFruit 1 2 78 12
+GetAllFruitsByRate 2 4
+PickFruit 38
+AddFruit 4 0 72 84
+PlantTree 2 4
+GetBestFruit 2 4
+RateFruit -3 43
+AddFruit 4 2 58 10
+GetBestFruit 0 1
+PlantTree 2 4
+RateFruit 43 75
+GetAllFruitsByRate 0 0
+AddFruit 0 4 36 18
+GetBestFruit 2 4
+AddFruit 1 3 43 54
+RateFruit 0 77
+PlantTree 2 4
+GetAllFruitsByRate 4 1
+GetAllFruitsByRate 0 1
+RateFruit 41 90
+RateFruit 85 92
+PlantTree 4 3
+GetAllFruitsByRate 2 1
+PickFruit 54
+GetBestFruit 1 0
+GetBestFruit 0 1
+PlantTree 4 4
+PickFruit 94
+PlantTree 3 0
+PlantTree 4 1
+GetAllFruitsByRate 1 1
+PickFruit 46
+PickFruit 91
+PickFruit 5
+GetBestFruit 0 3
+PickFruit 33
+RateFruit 63 77
+AddFruit 1 1 61 54
+PickFruit 56
+AddFruit 1 3 15 5
+GetBestFruit 1 1
+AddFruit 1 4 47 30
+PickFruit 85
+UpdateRottenFruits 16 -1
+AddFruit 4 0 4 39
+GetBestFruit 2 4
+GetAllFruitsByRate 0 1
+AddFruit 0 4 30 78
+PickFruit 62
+RateFruit -2 49
+RateFruit 19 43
+GetAllFruitsByRate 4 2
+AddFruit 4 1 51 94
+AddFruit 1 0 60 76
+GetAllFruitsByRate 4 2
+AddFruit 3 1 40 4
+RateFruit 9 20
+RateFruit 84 82
+PickFruit -3
+PlantTree 1 1
+AddFruit 0 1 59 85
+PlantTree 1 2
+GetAllFruitsByRate 4 0
+GetBestFruit 4 3
+RateFruit 43 -2
+RateFruit 77 11
+PlantTree 3 2
+PlantTree 3 3
+GetAllFruitsByRate 3 0
+PickFruit 86
+AddFruit 2 2 34 69
+AddFruit 0 1 51 92
+RateFruit 0 46
+PickFruit 43
+AddFruit 0 4 90 7
+GetBestFruit 4 3
+PickFruit 0
+GetAllFruitsByRate 2 1
+GetAllFruitsByRate 3 0
+PlantTree 3 2
+RateFruit 96 66
+PlantTree 2 1
+PickFruit 33
+GetAllFruitsByRate 4 2
+AddFruit 2 0 44 45
+AddFruit 2 4 31 74
+PlantTree 2 3
+GetAllFruitsByRate 4 3
+RateFruit 57 57
+AddFruit 3 0 43 53
+PlantTree 3 3
+AddFruit 1 0 -1 30
+PlantTree 0 3
+PlantTree 0 4
+GetAllFruitsByRate 3 3
+PlantTree 0 2
+RateFruit 47 74
+RateFruit 8 53
+PlantTree 2 2
+PickFruit -2
+AddFruit 1 2 3 88
+PlantTree 0 4
+PickFruit 65
+PickFruit 93
+RateFruit 59 92
+GetAllFruitsByRate 1 2
+RateFruit 0 14
+GetAllFruitsByRate 1 0
+GetAllFruitsByRate 4 0
+AddFruit 3 1 45 93
+AddFruit 2 3 16 26
+GetBestFruit 3 2
+AddFruit 0 0 58 16
+AddFruit 3 1 75 96
+PickFruit 26
+PlantTree 0 3
+PlantTree 2 2
+RateFruit 57 50
+GetBestFruit 4 1
+GetAllFruitsByRate 2 3
+PickFruit 85
+AddFruit 1 2 33 31
+GetAllFruitsByRate 3 0
+PickFruit 38
+PlantTree 0 3
+PickFruit 31
+RateFruit 50 48
+AddFruit 3 2 15 84
+PlantTree 4 3
+AddFruit 1 0 46 89
+GetBestFruit 4 3
+AddFruit 0 3 70 83
+GetBestFruit 3 3
+PlantTree 4 0
+AddFruit 3 2 23 13
+GetAllFruitsByRate 0 0
+PlantTree 0 3
+GetAllFruitsByRate 0 2
+AddFruit 4 1 62 68
+PlantTree 0 3
+GetBestFruit 4 0
+RateFruit 35 62
+GetBestFruit 3 0
+PlantTree 1 1
+PickFruit 51
+AddFruit 1 2 93 75
+GetBestFruit 1 0
+PlantTree 1 4
+GetAllFruitsByRate 0 0
+GetAllFruitsByRate 1 1
+RateFruit 44 69
+PlantTree 0 4
+AddFruit 3 1 74 88
+PlantTree 2 4
+PlantTree 3 2
+PickFruit -1
+PlantTree 2 0
+AddFruit 3 1 85 96
+RateFruit 63 80
+GetBestFruit 0 2
+PickFruit 44
+AddFruit 4 2 86 93
+RateFruit 74 46
+AddFruit 0 1 52 33
+PickFruit 61
+AddFruit 4 4 18 39
+PickFruit 67
+AddFruit 0 2 78 14
+AddFruit 3 0 19 31
+GetAllFruitsByRate 4 4
+PickFruit 13
+RateFruit 90 85
+PlantTree 0 1
+AddFruit 3 1 64 92
+PickFruit 45
+AddFruit 4 4 64 7
+PlantTree 2 1
+PickFruit 79
+GetAllFruitsByRate 3 1
+GetAllFruitsByRate 3 4
+PickFruit 17
+PlantTree 2 4
+AddFruit 1 3 11 72
+RateFruit 58 4
+GetBestFruit 1 4
+PlantTree 0 1
+PlantTree 1 4
+AddFruit 3 0 13 47
+AddFruit 2 2 60 21
+AddFruit 3 0 16 15
+AddFruit 4 4 47 13
+GetBestFruit 0 3
+AddFruit 3 4 95 74
+RateFruit 26 70
+PlantTree 1 4
+GetBestFruit 2 2
+RateFruit 65 77
+GetAllFruitsByRate 4 4
+PickFruit 59
+GetAllFruitsByRate 4 3
+AddFruit 4 3 55 93
+Quit

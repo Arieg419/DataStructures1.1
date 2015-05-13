@@ -8,6 +8,7 @@
 #include "../Objects/Orchard.h"
 #include "../Exceptions/OrchardExceptions.h"
 #include "../Exceptions/AVLExceptions.h"
+#include "../Objects/Plant.h"
 
 Orchard::Orchard() {
 	maxSize = 0;
@@ -48,19 +49,23 @@ void Orchard::AddFruit(int i, int j, Fruit* fruit) {
 		throw InvalidInput();
 	}
 	//we need to add to both DS's
-	if (DoesExist(fruit->getID())) {
+	if (!DoesExist(i, j))
+		throw PlantDoesNotExist();
+	if (DoesExist(fruit->getID()))
 		throw FruitAlreadyExist();
-	} else {
-		fruit->setLocation(PairID(i, j));
-		Plant* temp = GetPlant(i, j);
-		temp->AddFruit(fruit);
-		Fruits.Insert(fruit->getID(), fruit);
-	}
+
+	fruit->setLocation(PairID(i, j));
+	Plant* temp = GetPlant(i, j);
+	temp->AddFruit(fruit);
+	Fruits.Insert(fruit->getID(), fruit);
 }
 
 Plant* Orchard::GetPlant(int i, int j) {
 	if (!legalInput(i, j)) {
 		throw InvalidInput();
+	}
+	if (!DoesExist(i, j)) {
+		throw PlantDoesNotExist();
 	}
 	return Plants.getByKey(PairID(i, j));
 }
@@ -90,6 +95,7 @@ void* Orchard::GetAllFruitsByRate(int i, int j, int **fruits,
 void Orchard::AttackedBy(Insect insect) {
 	//take care of this last
 	Plant** plantsArray = Plants.getSortedArray();
+
 	for (int i = 0; i < Plants.GetSize(); i++)
 		plantsArray[i]->attackedBy(insect);
 
@@ -99,7 +105,7 @@ void Orchard::AttackedBy(Insect insect) {
 
 //TODO this function should return an int(flag), otherwise how will we know if there was a FAILURE
 void Orchard::RateFruit(int id, int ripeness) {
-	if (id < 0 || ripeness < 0) {
+	if (id < 0 || ripeness <= 0) {
 		throw InvalidInput();
 	}
 	//we need to add to both DS's
@@ -107,11 +113,16 @@ void Orchard::RateFruit(int id, int ripeness) {
 		Fruit* fruit = GetFruit(id);
 		Plant* plant = GetPlant(fruit->getLocation().msi,
 				fruit->getLocation().lsi);
-		Fruit* tmp = new Fruit(*fruit);
-		tmp->setRipeRate(ripeness);
+		Fruit* copy = new Fruit(*fruit);
+		copy->setRipeRate(ripeness);
+
 		plant->RemoveFruit(id);
-		plant->AddFruit(tmp);
-	} catch (KeyAlreadyExist& e) {
+		plant->AddFruit(copy);
+
+		Fruits.Remove(id);
+		Fruits.Insert(id, copy);
+
+	} catch (KeyDoesNotExist& e) {
 		throw Failure();
 	}
 }
@@ -131,7 +142,7 @@ void Orchard::RateFruit(int id, int ripeness) {
 
 void Orchard::RemoveFruit(int fruitID) {
 	if (!legalFruitID(fruitID)) {
-		return;
+		throw InvalidInput();
 	}
 	//we need to remove from both DS's
 	try {
@@ -139,24 +150,24 @@ void Orchard::RemoveFruit(int fruitID) {
 		Plant* plant = GetPlant(fruit->getLocation().msi,
 				fruit->getLocation().lsi);
 
-		plant->RemoveFruit(fruitID);
+		plant->RemoveFruit(fruitID); // deleting the fruit
 		Fruits.Remove(fruitID);
-		delete fruit;
-	} catch (KeyAlreadyExist& e) {
+		//delete fruit;
+	} catch (KeyDoesNotExist& e) {
 		throw Failure();
 	}
 }
 
 bool Orchard::legalInput(int i, int j) {
 	int fieldSize = getMaxSize();
-	if (i < 0 || j < 0 || i > fieldSize || j > fieldSize) {
+	if (i < 0 || j < 0 || i >= fieldSize || j >= fieldSize) {
 		return false;
 	}
 	return true;
 }
 
 bool Orchard::legalFruitID(int fruitID) {
-	if (fruitID < 0) {
+	if (fruitID <= 0) {
 		return false;
 		//we should throw some type of error or flag here.
 	}

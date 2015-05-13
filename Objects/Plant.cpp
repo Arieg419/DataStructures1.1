@@ -54,6 +54,9 @@ void Plant::RemoveFruit(int id) {
 }
 
 Fruit* Plant::GetBestFruit() {
+	if (rateSortedTree.GetSize()<1){
+		return NULL;
+	}
 	try {
 		return rateSortedTree.getSmallest();
 	} catch (KeyDoesNotExist& err) {
@@ -75,6 +78,7 @@ bool Plant::DoesExist(int fruitID){
 }
 
 void Plant::attackedBy(Insect& insect) {
+	//if()
 	int length = this->rateSortedTree.GetSize();
 	if (length==0) return;
 	Fruit** fruits = this->rateSortedTree.getSortedArray();

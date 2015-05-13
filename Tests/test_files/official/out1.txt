@@ -1,0 +1,40 @@
+Init done.
+PlantTree: SUCCESS
+AddFruit: SUCCESS
+PlantTree: SUCCESS
+AddFruit: SUCCESS
+AddFruit: FAILURE
+Best fruit is: 42
+AddFruit: SUCCESS
+Best fruit is: 30
+RateFruit: SUCCESS
+Best fruit is: 42
+Rank	||	Fruit
+1	||	42
+2	||	30
+and that's all!
+Rank	||	Fruit
+1	||	18
+and that's all!
+PickFruit: SUCCESS
+and that's all!
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+Rank	||	Fruit
+1	||	42
+2	||	25
+3	||	30
+and that's all!
+Rank	||	Fruit
+1	||	21
+and that's all!
+UpdateRottenFruits: SUCCESS
+Rank	||	Fruit
+1	||	25
+2	||	42
+3	||	30
+and that's all!
+Rank	||	Fruit
+1	||	21
+and that's all!
+Quit done.

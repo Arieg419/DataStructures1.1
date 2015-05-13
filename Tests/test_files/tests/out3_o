@@ -1,0 +1,2991 @@
+Init done.
+PlantTree: SUCCESS
+GetBestFruit: FAILURE
+GetBestFruit: FAILURE
+AddFruit: FAILURE
+GetBestFruit: FAILURE
+PickFruit: FAILURE
+PlantTree: SUCCESS
+GetAllFruitsByRate: FAILURE
+RateFruit: FAILURE
+AddFruit: FAILURE
+GetBestFruit: FAILURE
+AddFruit: INVALID_INPUT
+AddFruit: FAILURE
+GetAllFruitsByRate: FAILURE
+AddFruit: FAILURE
+PickFruit: FAILURE
+PlantTree: SUCCESS
+AddFruit: FAILURE
+PickFruit: FAILURE
+RateFruit: INVALID_INPUT
+RateFruit: FAILURE
+and that's all!
+GetAllFruitsByRate: FAILURE
+GetAllFruitsByRate: FAILURE
+AddFruit: INVALID_INPUT
+PickFruit: FAILURE
+RateFruit: FAILURE
+GetBestFruit: FAILURE
+AddFruit: FAILURE
+PickFruit: FAILURE
+PlantTree: INVALID_INPUT
+AddFruit: FAILURE
+PickFruit: INVALID_INPUT
+AddFruit: FAILURE
+AddFruit: FAILURE
+PlantTree: SUCCESS
+PickFruit: FAILURE
+RateFruit: FAILURE
+GetAllFruitsByRate: FAILURE
+PickFruit: FAILURE
+RateFruit: FAILURE
+AddFruit: INVALID_INPUT
+and that's all!
+GetAllFruitsByRate: FAILURE
+PickFruit: FAILURE
+AddFruit: FAILURE
+AddFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+PickFruit: FAILURE
+GetAllFruitsByRate: FAILURE
+GetAllFruitsByRate: FAILURE
+AddFruit: FAILURE
+GetBestFruit: FAILURE
+AddFruit: FAILURE
+GetAllFruitsByRate: FAILURE
+GetAllFruitsByRate: FAILURE
+PlantTree: SUCCESS
+AddFruit: SUCCESS
+PlantTree: INVALID_INPUT
+RateFruit: FAILURE
+PickFruit: FAILURE
+PickFruit: FAILURE
+and that's all!
+AddFruit: SUCCESS
+GetAllFruitsByRate: FAILURE
+PlantTree: FAILURE
+GetAllFruitsByRate: FAILURE
+PickFruit: FAILURE
+GetBestFruit: FAILURE
+AddFruit: FAILURE
+PickFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+AddFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: INVALID_INPUT
+UpdateRottenFruits: INVALID_INPUT
+PlantTree: INVALID_INPUT
+PlantTree: FAILURE
+GetAllFruitsByRate: FAILURE
+GetAllFruitsByRate: FAILURE
+PickFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+GetAllFruitsByRate: FAILURE
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
+PickFruit: FAILURE
+PlantTree: INVALID_INPUT
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
+AddFruit: FAILURE
+RateFruit: FAILURE
+AddFruit: SUCCESS
+AddFruit: FAILURE
+PlantTree: FAILURE
+PlantTree: FAILURE
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+PlantTree: INVALID_INPUT
+AddFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: SUCCESS
+RateFruit: FAILURE
+PlantTree: INVALID_INPUT
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+PickFruit: FAILURE
+GetAllFruitsByRate: FAILURE
+RateFruit: FAILURE
+RateFruit: FAILURE
+AddFruit: SUCCESS
+PickFruit: FAILURE
+GetBestFruit: FAILURE
+AddFruit: SUCCESS
+GetBestFruit: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+PickFruit: FAILURE
+GetBestFruit: FAILURE
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+RateFruit: FAILURE
+AddFruit: FAILURE
+GetBestFruit: FAILURE
+GetBestFruit: FAILURE
+GetAllFruitsByRate: FAILURE
+GetAllFruitsByRate: FAILURE
+PickFruit: SUCCESS
+PickFruit: FAILURE
+PickFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+PlantTree: SUCCESS
+GetAllFruitsByRate: FAILURE
+GetBestFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+AddFruit: FAILURE
+PickFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+PickFruit: FAILURE
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+Best fruit is: 7
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+AddFruit: INVALID_INPUT
+GetBestFruit: FAILURE
+PlantTree: INVALID_INPUT
+RateFruit: FAILURE
+RateFruit: INVALID_INPUT
+PlantTree: SUCCESS
+AddFruit: SUCCESS
+PickFruit: FAILURE
+RateFruit: FAILURE
+PlantTree: FAILURE
+PickFruit: SUCCESS
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+RateFruit: FAILURE
+PlantTree: SUCCESS
+PlantTree: INVALID_INPUT
+Best fruit is: 36
+Best fruit is: -1
+PlantTree: INVALID_INPUT
+PlantTree: SUCCESS
+GetAllFruitsByRate: FAILURE
+PickFruit: FAILURE
+AddFruit: SUCCESS
+RateFruit: FAILURE
+PickFruit: FAILURE
+RateFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: FAILURE
+RateFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+Best fruit is: 36
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: INVALID_INPUT
+GetAllFruitsByRate: FAILURE
+AddFruit: SUCCESS
+PickFruit: SUCCESS
+PickFruit: FAILURE
+AddFruit: SUCCESS
+PlantTree: SUCCESS
+Rank	||	Fruit
+1	||	7
+and that's all!
+GetAllFruitsByRate: FAILURE
+PickFruit: FAILURE
+AddFruit: FAILURE
+AddFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+PickFruit: FAILURE
+RateFruit: FAILURE
+AddFruit: FAILURE
+PlantTree: FAILURE
+GetBestFruit: INVALID_INPUT
+PickFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+PlantTree: FAILURE
+PickFruit: FAILURE
+AddFruit: FAILURE
+RateFruit: FAILURE
+Best fruit is: 19
+PickFruit: INVALID_INPUT
+GetAllFruitsByRate: FAILURE
+PickFruit: FAILURE
+RateFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+PickFruit: FAILURE
+RateFruit: FAILURE
+RateFruit: FAILURE
+RateFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: INVALID_INPUT
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: SUCCESS
+and that's all!
+PlantTree: FAILURE
+PlantTree: SUCCESS
+PlantTree: INVALID_INPUT
+PickFruit: FAILURE
+RateFruit: FAILURE
+Rank	||	Fruit
+1	||	36
+2	||	5
+and that's all!
+PlantTree: FAILURE
+RateFruit: FAILURE
+PickFruit: SUCCESS
+PlantTree: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: SUCCESS
+and that's all!
+AddFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	7
+and that's all!
+PlantTree: FAILURE
+and that's all!
+RateFruit: FAILURE
+AddFruit: FAILURE
+RateFruit: SUCCESS
+PlantTree: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: FAILURE
+AddFruit: SUCCESS
+Rank	||	Fruit
+1	||	19
+and that's all!
+PlantTree: INVALID_INPUT
+AddFruit: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: SUCCESS
+PlantTree: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+RateFruit: FAILURE
+AddFruit: INVALID_INPUT
+PickFruit: FAILURE
+RateFruit: SUCCESS
+PlantTree: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+Rank	||	Fruit
+1	||	28
+and that's all!
+PickFruit: FAILURE
+PlantTree: SUCCESS
+RateFruit: SUCCESS
+AddFruit: FAILURE
+RateFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: FAILURE
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+PlantTree: INVALID_INPUT
+PlantTree: SUCCESS
+PlantTree: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: SUCCESS
+PlantTree: INVALID_INPUT
+PickFruit: FAILURE
+PickFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+Best fruit is: 78
+AddFruit: FAILURE
+PlantTree: INVALID_INPUT
+and that's all!
+AddFruit: SUCCESS
+PlantTree: SUCCESS
+Best fruit is: 30
+AddFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+Best fruit is: 19
+AddFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+Rank	||	Fruit
+1	||	36
+2	||	5
+and that's all!
+PlantTree: FAILURE
+PlantTree: FAILURE
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	30
+and that's all!
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+Best fruit is: -1
+GetBestFruit: INVALID_INPUT
+PickFruit: FAILURE
+PlantTree: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+AddFruit: SUCCESS
+PickFruit: FAILURE
+PlantTree: FAILURE
+RateFruit: FAILURE
+AddFruit: SUCCESS
+PlantTree: INVALID_INPUT
+AddFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+RateFruit: SUCCESS
+PickFruit: FAILURE
+PickFruit: FAILURE
+PickFruit: FAILURE
+AddFruit: SUCCESS
+AddFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: SUCCESS
+PickFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	70
+and that's all!
+AddFruit: SUCCESS
+RateFruit: FAILURE
+AddFruit: FAILURE
+AddFruit: SUCCESS
+Rank	||	Fruit
+1	||	30
+and that's all!
+Best fruit is: 28
+PlantTree: INVALID_INPUT
+RateFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+PickFruit: FAILURE
+PickFruit: INVALID_INPUT
+PickFruit: SUCCESS
+RateFruit: FAILURE
+AddFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+RateFruit: FAILURE
+AddFruit: FAILURE
+AddFruit: SUCCESS
+Rank	||	Fruit
+1	||	36
+2	||	5
+and that's all!
+AddFruit: SUCCESS
+PickFruit: FAILURE
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
+UpdateRottenFruits: INVALID_INPUT
+AddFruit: SUCCESS
+Rank	||	Fruit
+1	||	28
+and that's all!
+Rank	||	Fruit
+1	||	76
+2	||	75
+and that's all!
+PlantTree: INVALID_INPUT
+AddFruit: FAILURE
+PlantTree: INVALID_INPUT
+RateFruit: SUCCESS
+Best fruit is: -1
+AddFruit: INVALID_INPUT
+Best fruit is: 48
+PlantTree: INVALID_INPUT
+RateFruit: FAILURE
+AddFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+PickFruit: FAILURE
+Rank	||	Fruit
+1	||	76
+2	||	75
+and that's all!
+Rank	||	Fruit
+1	||	78
+2	||	22
+3	||	57
+4	||	61
+5	||	56
+and that's all!
+Best fruit is: 14
+PlantTree: FAILURE
+PlantTree: INVALID_INPUT
+PickFruit: SUCCESS
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: FAILURE
+Best fruit is: -1
+Best fruit is: 14
+AddFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+RateFruit: SUCCESS
+RateFruit: FAILURE
+PickFruit: INVALID_INPUT
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+PlantTree: FAILURE
+Best fruit is: 65
+GetBestFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+Best fruit is: 76
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+Rank	||	Fruit
+1	||	14
+and that's all!
+PlantTree: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+PlantTree: FAILURE
+PlantTree: INVALID_INPUT
+PlantTree: FAILURE
+PlantTree: FAILURE
+PlantTree: FAILURE
+GetBestFruit: INVALID_INPUT
+AddFruit: FAILURE
+Rank	||	Fruit
+1	||	7
+and that's all!
+PlantTree: FAILURE
+PickFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+Best fruit is: 30
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	30
+and that's all!
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	91
+2	||	48
+and that's all!
+GetAllFruitsByRate: INVALID_INPUT
+PickFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+Best fruit is: 93
+Best fruit is: 90
+Best fruit is: 65
+PlantTree: FAILURE
+PickFruit: FAILURE
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+Best fruit is: 52
+RateFruit: SUCCESS
+PickFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+PickFruit: FAILURE
+PickFruit: SUCCESS
+PickFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+PlantTree: FAILURE
+Best fruit is: -1
+PlantTree: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+PickFruit: FAILURE
+RateFruit: FAILURE
+AddFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: SUCCESS
+PickFruit: FAILURE
+AddFruit: FAILURE
+PlantTree: FAILURE
+RateFruit: FAILURE
+Rank	||	Fruit
+1	||	30
+and that's all!
+PlantTree: INVALID_INPUT
+RateFruit: INVALID_INPUT
+PickFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: FAILURE
+Best fruit is: 14
+GetAllFruitsByRate: INVALID_INPUT
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PickFruit: FAILURE
+RateFruit: FAILURE
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+AddFruit: FAILURE
+Rank	||	Fruit
+1	||	65
+and that's all!
+PlantTree: INVALID_INPUT
+Best fruit is: 72
+Best fruit is: 14
+PickFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	78
+2	||	57
+3	||	43
+4	||	6
+5	||	61
+6	||	56
+and that's all!
+AddFruit: INVALID_INPUT
+Best fruit is: -1
+PickFruit: SUCCESS
+Best fruit is: 8
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	52
+and that's all!
+AddFruit: FAILURE
+PlantTree: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+PickFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+PickFruit: FAILURE
+RateFruit: FAILURE
+PickFruit: FAILURE
+RateFruit: SUCCESS
+RateFruit: FAILURE
+AddFruit: INVALID_INPUT
+Best fruit is: 35
+RateFruit: SUCCESS
+and that's all!
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+RateFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
+Best fruit is: 91
+AddFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+Rank	||	Fruit
+1	||	8
+2	||	70
+3	||	13
+4	||	66
+and that's all!
+PickFruit: FAILURE
+and that's all!
+RateFruit: INVALID_INPUT
+Best fruit is: 30
+Rank	||	Fruit
+1	||	93
+2	||	20
+3	||	94
+and that's all!
+Best fruit is: 35
+AddFruit: FAILURE
+AddFruit: SUCCESS
+PlantTree: FAILURE
+RateFruit: FAILURE
+PickFruit: FAILURE
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+RateFruit: FAILURE
+Rank	||	Fruit
+1	||	52
+and that's all!
+RateFruit: FAILURE
+PlantTree: FAILURE
+Best fruit is: 35
+PickFruit: FAILURE
+RateFruit: FAILURE
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+RateFruit: FAILURE
+RateFruit: FAILURE
+PickFruit: FAILURE
+RateFruit: SUCCESS
+RateFruit: SUCCESS
+PickFruit: SUCCESS
+GetBestFruit: INVALID_INPUT
+RateFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: INVALID_INPUT
+AddFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	30
+and that's all!
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+RateFruit: FAILURE
+RateFruit: SUCCESS
+RateFruit: FAILURE
+Best fruit is: 17
+AddFruit: INVALID_INPUT
+PickFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+AddFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+AddFruit: SUCCESS
+PickFruit: FAILURE
+RateFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PickFruit: INVALID_INPUT
+RateFruit: FAILURE
+AddFruit: INVALID_INPUT
+RateFruit: SUCCESS
+GetBestFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	52
+and that's all!
+RateFruit: FAILURE
+AddFruit: FAILURE
+PickFruit: FAILURE
+RateFruit: SUCCESS
+AddFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	33
+2	||	63
+3	||	91
+4	||	48
+and that's all!
+RateFruit: FAILURE
+AddFruit: SUCCESS
+PickFruit: SUCCESS
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	14
+2	||	25
+and that's all!
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: INVALID_INPUT
+Best fruit is: -1
+PickFruit: SUCCESS
+Best fruit is: 78
+Best fruit is: -1
+Best fruit is: 33
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+RateFruit: FAILURE
+RateFruit: SUCCESS
+Rank	||	Fruit
+1	||	93
+2	||	94
+3	||	20
+and that's all!
+PickFruit: FAILURE
+PickFruit: FAILURE
+AddFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: SUCCESS
+Best fruit is: -1
+PickFruit: FAILURE
+Rank	||	Fruit
+1	||	93
+2	||	94
+3	||	20
+and that's all!
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+GetBestFruit: INVALID_INPUT
+AddFruit: SUCCESS
+PickFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+PickFruit: FAILURE
+PickFruit: SUCCESS
+AddFruit: INVALID_INPUT
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+Rank	||	Fruit
+1	||	93
+2	||	94
+3	||	20
+and that's all!
+Best fruit is: -1
+AddFruit: FAILURE
+AddFruit: SUCCESS
+RateFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: SUCCESS
+Best fruit is: -1
+and that's all!
+Rank	||	Fruit
+1	||	8
+2	||	70
+3	||	80
+4	||	13
+5	||	66
+and that's all!
+AddFruit: FAILURE
+RateFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PickFruit: FAILURE
+PickFruit: FAILURE
+PickFruit: SUCCESS
+AddFruit: SUCCESS
+PlantTree: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: SUCCESS
+Best fruit is: 17
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	30
+and that's all!
+PlantTree: INVALID_INPUT
+RateFruit: SUCCESS
+AddFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	51
+2	||	7
+3	||	2
+4	||	73
+and that's all!
+PlantTree: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
+AddFruit: FAILURE
+RateFruit: SUCCESS
+Rank	||	Fruit
+1	||	65
+and that's all!
+AddFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+Rank	||	Fruit
+1	||	58
+2	||	72
+and that's all!
+AddFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	36
+2	||	31
+3	||	40
+4	||	5
+5	||	74
+and that's all!
+RateFruit: INVALID_INPUT
+Best fruit is: 58
+AddFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+PickFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PlantTree: FAILURE
+PickFruit: SUCCESS
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+RateFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+PickFruit: SUCCESS
+PlantTree: FAILURE
+PlantTree: FAILURE
+Best fruit is: -1
+PickFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+AddFruit: FAILURE
+AddFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: FAILURE
+AddFruit: FAILURE
+PickFruit: SUCCESS
+Best fruit is: 65
+RateFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
+and that's all!
+Rank	||	Fruit
+1	||	93
+2	||	68
+3	||	94
+4	||	20
+and that's all!
+AddFruit: SUCCESS
+RateFruit: FAILURE
+AddFruit: SUCCESS
+PlantTree: INVALID_INPUT
+Rank	||	Fruit
+1	||	51
+2	||	7
+3	||	2
+4	||	73
+and that's all!
+Rank	||	Fruit
+1	||	14
+and that's all!
+RateFruit: FAILURE
+Best fruit is: 26
+RateFruit: FAILURE
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+Rank	||	Fruit
+1	||	17
+2	||	76
+3	||	62
+4	||	75
+and that's all!
+GetBestFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	70
+2	||	80
+3	||	8
+4	||	13
+and that's all!
+PlantTree: FAILURE
+PickFruit: SUCCESS
+PlantTree: INVALID_INPUT
+RateFruit: FAILURE
+PlantTree: INVALID_INPUT
+RateFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PickFruit: FAILURE
+PickFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
+AddFruit: FAILURE
+PlantTree: INVALID_INPUT
+AddFruit: INVALID_INPUT
+PickFruit: SUCCESS
+PlantTree: FAILURE
+PlantTree: FAILURE
+GetBestFruit: INVALID_INPUT
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+Best fruit is: 52
+AddFruit: SUCCESS
+Rank	||	Fruit
+1	||	12
+and that's all!
+PickFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+PickFruit: INVALID_INPUT
+RateFruit: FAILURE
+RateFruit: FAILURE
+Best fruit is: 95
+AddFruit: SUCCESS
+AddFruit: FAILURE
+AddFruit: FAILURE
+RateFruit: SUCCESS
+Best fruit is: 95
+AddFruit: FAILURE
+AddFruit: SUCCESS
+PickFruit: SUCCESS
+PlantTree: FAILURE
+GetBestFruit: INVALID_INPUT
+AddFruit: FAILURE
+PickFruit: FAILURE
+RateFruit: FAILURE
+Rank	||	Fruit
+1	||	52
+2	||	26
+3	||	6
+4	||	57
+5	||	78
+6	||	56
+and that's all!
+AddFruit: INVALID_INPUT
+AddFruit: FAILURE
+Rank	||	Fruit
+1	||	95
+2	||	37
+and that's all!
+PlantTree: FAILURE
+PlantTree: FAILURE
+RateFruit: FAILURE
+PlantTree: INVALID_INPUT
+RateFruit: INVALID_INPUT
+PickFruit: FAILURE
+Best fruit is: 58
+PlantTree: FAILURE
+AddFruit: SUCCESS
+PickFruit: SUCCESS
+PickFruit: SUCCESS
+PickFruit: FAILURE
+Rank	||	Fruit
+1	||	19
+and that's all!
+PlantTree: INVALID_INPUT
+AddFruit: SUCCESS
+Best fruit is: 93
+Best fruit is: -1
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+AddFruit: FAILURE
+Best fruit is: 14
+Best fruit is: 95
+PlantTree: INVALID_INPUT
+PickFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+AddFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+PlantTree: FAILURE
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	70
+2	||	80
+3	||	90
+4	||	61
+and that's all!
+Best fruit is: 63
+AddFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+PickFruit: INVALID_INPUT
+AddFruit: SUCCESS
+PickFruit: SUCCESS
+AddFruit: FAILURE
+RateFruit: FAILURE
+AddFruit: FAILURE
+PickFruit: FAILURE
+AddFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+PlantTree: INVALID_INPUT
+PlantTree: FAILURE
+RateFruit: FAILURE
+PlantTree: FAILURE
+GetBestFruit: INVALID_INPUT
+PickFruit: SUCCESS
+Rank	||	Fruit
+1	||	95
+2	||	37
+and that's all!
+RateFruit: SUCCESS
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+PickFruit: FAILURE
+PickFruit: SUCCESS
+PickFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: INVALID_INPUT
+AddFruit: FAILURE
+AddFruit: SUCCESS
+PickFruit: SUCCESS
+Best fruit is: 19
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+Best fruit is: 63
+PickFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+AddFruit: SUCCESS
+Rank	||	Fruit
+1	||	19
+2	||	87
+and that's all!
+Rank	||	Fruit
+1	||	93
+2	||	68
+3	||	94
+4	||	20
+5	||	34
+and that's all!
+AddFruit: FAILURE
+PickFruit: FAILURE
+PlantTree: FAILURE
+PlantTree: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+Rank	||	Fruit
+1	||	24
+2	||	36
+3	||	31
+4	||	74
+5	||	40
+6	||	88
+7	||	5
+and that's all!
+GetBestFruit: INVALID_INPUT
+PlantTree: FAILURE
+PlantTree: INVALID_INPUT
+RateFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: FAILURE
+AddFruit: SUCCESS
+PlantTree: FAILURE
+RateFruit: FAILURE
+RateFruit: FAILURE
+Best fruit is: 76
+PickFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+PickFruit: FAILURE
+RateFruit: SUCCESS
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+PickFruit: SUCCESS
+RateFruit: FAILURE
+RateFruit: FAILURE
+AddFruit: SUCCESS
+PickFruit: SUCCESS
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+GetBestFruit: INVALID_INPUT
+RateFruit: SUCCESS
+PickFruit: SUCCESS
+Best fruit is: 63
+PlantTree: FAILURE
+Best fruit is: 70
+PickFruit: SUCCESS
+PickFruit: SUCCESS
+Best fruit is: 51
+GetBestFruit: INVALID_INPUT
+AddFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PickFruit: SUCCESS
+AddFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	82
+2	||	9
+and that's all!
+Best fruit is: 82
+RateFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+PlantTree: FAILURE
+RateFruit: SUCCESS
+PlantTree: INVALID_INPUT
+PickFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+PickFruit: SUCCESS
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	51
+2	||	7
+3	||	2
+4	||	77
+and that's all!
+RateFruit: SUCCESS
+AddFruit: INVALID_INPUT
+Best fruit is: 95
+PickFruit: FAILURE
+PlantTree: FAILURE
+PlantTree: INVALID_INPUT
+AddFruit: FAILURE
+Rank	||	Fruit
+1	||	68
+2	||	94
+3	||	20
+4	||	71
+5	||	34
+and that's all!
+AddFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: SUCCESS
+PlantTree: INVALID_INPUT
+RateFruit: SUCCESS
+Best fruit is: 12
+GetBestFruit: INVALID_INPUT
+AddFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+PickFruit: FAILURE
+RateFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: FAILURE
+Best fruit is: 10
+AddFruit: FAILURE
+Rank	||	Fruit
+1	||	76
+2	||	81
+3	||	62
+4	||	75
+and that's all!
+GetAllFruitsByRate: INVALID_INPUT
+RateFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: FAILURE
+Rank	||	Fruit
+1	||	82
+2	||	9
+and that's all!
+PlantTree: FAILURE
+PickFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: INVALID_INPUT
+PickFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+RateFruit: SUCCESS
+RateFruit: FAILURE
+PickFruit: SUCCESS
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+AddFruit: FAILURE
+Rank	||	Fruit
+1	||	10
+and that's all!
+GetBestFruit: INVALID_INPUT
+AddFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+AddFruit: SUCCESS
+AddFruit: FAILURE
+Rank	||	Fruit
+1	||	30
+and that's all!
+PlantTree: FAILURE
+AddFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+RateFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+Best fruit is: 10
+Best fruit is: 10
+AddFruit: SUCCESS
+PickFruit: SUCCESS
+AddFruit: SUCCESS
+PlantTree: INVALID_INPUT
+AddFruit: INVALID_INPUT
+PickFruit: SUCCESS
+Best fruit is: 12
+AddFruit: INVALID_INPUT
+RateFruit: INVALID_INPUT
+PlantTree: FAILURE
+PickFruit: FAILURE
+RateFruit: SUCCESS
+AddFruit: FAILURE
+RateFruit: FAILURE
+AddFruit: SUCCESS
+GetBestFruit: INVALID_INPUT
+RateFruit: FAILURE
+AddFruit: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+Rank	||	Fruit
+1	||	76
+2	||	81
+3	||	62
+4	||	75
+and that's all!
+PickFruit: SUCCESS
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: SUCCESS
+RateFruit: FAILURE
+RateFruit: FAILURE
+AddFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PickFruit: FAILURE
+RateFruit: SUCCESS
+PickFruit: FAILURE
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
+AddFruit: FAILURE
+PlantTree: FAILURE
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	40
+2	||	3
+3	||	72
+and that's all!
+PickFruit: INVALID_INPUT
+AddFruit: SUCCESS
+PickFruit: SUCCESS
+PickFruit: INVALID_INPUT
+RateFruit: SUCCESS
+AddFruit: FAILURE
+RateFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+RateFruit: FAILURE
+Best fruit is: 63
+PlantTree: FAILURE
+PickFruit: FAILURE
+Best fruit is: 10
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
+and that's all!
+Best fruit is: 82
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+RateFruit: FAILURE
+Rank	||	Fruit
+1	||	82
+2	||	49
+and that's all!
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+RateFruit: FAILURE
+PickFruit: SUCCESS
+Best fruit is: -1
+PlantTree: FAILURE
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+RateFruit: SUCCESS
+Rank	||	Fruit
+1	||	70
+2	||	15
+3	||	80
+4	||	69
+5	||	61
+6	||	90
+and that's all!
+PickFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	70
+2	||	15
+3	||	80
+4	||	69
+5	||	61
+6	||	90
+and that's all!
+PlantTree: FAILURE
+RateFruit: FAILURE
+RateFruit: FAILURE
+PickFruit: FAILURE
+PlantTree: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	35
+2	||	19
+3	||	87
+and that's all!
+AddFruit: INVALID_INPUT
+PickFruit: SUCCESS
+Best fruit is: 35
+PickFruit: SUCCESS
+AddFruit: FAILURE
+AddFruit: FAILURE
+RateFruit: FAILURE
+PickFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	76
+2	||	81
+3	||	62
+4	||	75
+and that's all!
+GetAllFruitsByRate: INVALID_INPUT
+RateFruit: FAILURE
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
+RateFruit: SUCCESS
+Rank	||	Fruit
+1	||	35
+2	||	19
+3	||	87
+and that's all!
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	24
+2	||	1
+3	||	79
+4	||	88
+5	||	36
+6	||	5
+and that's all!
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+PlantTree: FAILURE
+PlantTree: FAILURE
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+AddFruit: FAILURE
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
+RateFruit: INVALID_INPUT
+PlantTree: FAILURE
+RateFruit: FAILURE
+PlantTree: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+PickFruit: SUCCESS
+Rank	||	Fruit
+1	||	51
+2	||	7
+3	||	2
+4	||	77
+and that's all!
+AddFruit: FAILURE
+PickFruit: FAILURE
+AddFruit: FAILURE
+PlantTree: FAILURE
+PlantTree: FAILURE
+PickFruit: SUCCESS
+AddFruit: INVALID_INPUT
+and that's all!
+AddFruit: FAILURE
+AddFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+RateFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+and that's all!
+Rank	||	Fruit
+1	||	40
+2	||	3
+3	||	72
+and that's all!
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+and that's all!
+RateFruit: FAILURE
+PickFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: FAILURE
+Best fruit is: 95
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+PlantTree: INVALID_INPUT
+PlantTree: FAILURE
+RateFruit: SUCCESS
+PickFruit: SUCCESS
+PlantTree: INVALID_INPUT
+AddFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+PickFruit: FAILURE
+PickFruit: FAILURE
+PlantTree: INVALID_INPUT
+RateFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+Best fruit is: 57
+AddFruit: INVALID_INPUT
+Best fruit is: 51
+AddFruit: INVALID_INPUT
+RateFruit: SUCCESS
+Best fruit is: 57
+RateFruit: SUCCESS
+Best fruit is: -1
+AddFruit: FAILURE
+Rank	||	Fruit
+1	||	26
+2	||	22
+3	||	56
+and that's all!
+GetBestFruit: INVALID_INPUT
+AddFruit: FAILURE
+PickFruit: SUCCESS
+Rank	||	Fruit
+1	||	76
+2	||	81
+3	||	62
+4	||	75
+and that's all!
+RateFruit: FAILURE
+AddFruit: SUCCESS
+PickFruit: SUCCESS
+AddFruit: FAILURE
+PlantTree: FAILURE
+GetBestFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+Rank	||	Fruit
+1	||	68
+2	||	71
+3	||	94
+4	||	34
+and that's all!
+AddFruit: FAILURE
+AddFruit: FAILURE
+Rank	||	Fruit
+1	||	63
+2	||	53
+3	||	48
+and that's all!
+RateFruit: FAILURE
+PlantTree: FAILURE
+RateFruit: SUCCESS
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	51
+2	||	2
+3	||	77
+and that's all!
+PickFruit: SUCCESS
+PlantTree: INVALID_INPUT
+PlantTree: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+RateFruit: FAILURE
+AddFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	46
+and that's all!
+PickFruit: SUCCESS
+Rank	||	Fruit
+1	||	51
+2	||	2
+3	||	77
+and that's all!
+PlantTree: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	51
+2	||	2
+3	||	77
+and that's all!
+Best fruit is: 68
+AddFruit: SUCCESS
+Rank	||	Fruit
+1	||	35
+2	||	19
+3	||	87
+and that's all!
+AddFruit: SUCCESS
+PlantTree: INVALID_INPUT
+RateFruit: FAILURE
+AddFruit: INVALID_INPUT
+Best fruit is: 70
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+Best fruit is: 14
+PlantTree: FAILURE
+PickFruit: SUCCESS
+AddFruit: SUCCESS
+PickFruit: SUCCESS
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+PickFruit: FAILURE
+AddFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+PickFruit: FAILURE
+Best fruit is: 68
+Best fruit is: 3
+RateFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: FAILURE
+Rank	||	Fruit
+1	||	14
+2	||	45
+3	||	33
+and that's all!
+AddFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+RateFruit: FAILURE
+AddFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	12
+and that's all!
+AddFruit: INVALID_INPUT
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	10
+and that's all!
+AddFruit: FAILURE
+Best fruit is: 10
+Best fruit is: 14
+PickFruit: SUCCESS
+PlantTree: FAILURE
+RateFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+Best fruit is: 3
+AddFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: FAILURE
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
+PickFruit: SUCCESS
+PickFruit: SUCCESS
+AddFruit: FAILURE
+PlantTree: INVALID_INPUT
+AddFruit: SUCCESS
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+PickFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	63
+2	||	53
+3	||	48
+and that's all!
+Best fruit is: 76
+AddFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: FAILURE
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+PickFruit: SUCCESS
+Best fruit is: 51
+RateFruit: SUCCESS
+PlantTree: INVALID_INPUT
+Best fruit is: 12
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: SUCCESS
+PlantTree: FAILURE
+PickFruit: SUCCESS
+Best fruit is: 14
+AddFruit: FAILURE
+PlantTree: INVALID_INPUT
+Best fruit is: 70
+PickFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+Rank	||	Fruit
+1	||	86
+and that's all!
+AddFruit: INVALID_INPUT
+AddFruit: FAILURE
+Rank	||	Fruit
+1	||	35
+2	||	19
+3	||	52
+4	||	54
+and that's all!
+AddFruit: SUCCESS
+PlantTree: FAILURE
+PickFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: INVALID_INPUT
+AddFruit: SUCCESS
+PlantTree: INVALID_INPUT
+RateFruit: FAILURE
+PlantTree: INVALID_INPUT
+PickFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+Best fruit is: 63
+AddFruit: FAILURE
+Rank	||	Fruit
+1	||	10
+and that's all!
+RateFruit: FAILURE
+AddFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	63
+2	||	53
+3	||	48
+and that's all!
+RateFruit: FAILURE
+AddFruit: FAILURE
+RateFruit: FAILURE
+RateFruit: SUCCESS
+GetBestFruit: INVALID_INPUT
+Best fruit is: 57
+RateFruit: FAILURE
+AddFruit: SUCCESS
+GetBestFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	14
+2	||	45
+3	||	33
+and that's all!
+AddFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	86
+and that's all!
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+RateFruit: FAILURE
+RateFruit: SUCCESS
+RateFruit: SUCCESS
+RateFruit: FAILURE
+Best fruit is: 57
+Best fruit is: 1
+Best fruit is: 10
+AddFruit: FAILURE
+RateFruit: SUCCESS
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+RateFruit: FAILURE
+Rank	||	Fruit
+1	||	76
+2	||	50
+3	||	75
+and that's all!
+Rank	||	Fruit
+1	||	35
+2	||	19
+3	||	52
+4	||	54
+and that's all!
+GetBestFruit: INVALID_INPUT
+RateFruit: SUCCESS
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
+AddFruit: FAILURE
+Best fruit is: 10
+RateFruit: SUCCESS
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+Best fruit is: 79
+AddFruit: INVALID_INPUT
+RateFruit: SUCCESS
+RateFruit: FAILURE
+Best fruit is: 79
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+AddFruit: SUCCESS
+AddFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	3
+2	||	40
+3	||	72
+4	||	39
+and that's all!
+Best fruit is: 22
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+PlantTree: FAILURE
+GetBestFruit: INVALID_INPUT
+Best fruit is: 35
+RateFruit: SUCCESS
+Rank	||	Fruit
+1	||	36
+2	||	18
+3	||	83
+and that's all!
+Best fruit is: 57
+AddFruit: SUCCESS
+PickFruit: FAILURE
+RateFruit: SUCCESS
+Best fruit is: 35
+PickFruit: SUCCESS
+Best fruit is: 2
+GetBestFruit: INVALID_INPUT
+RateFruit: FAILURE
+AddFruit: SUCCESS
+PlantTree: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+PickFruit: SUCCESS
+AddFruit: FAILURE
+PlantTree: FAILURE
+RateFruit: SUCCESS
+AddFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	10
+2	||	91
+and that's all!
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: FAILURE
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+AddFruit: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+Rank	||	Fruit
+1	||	40
+2	||	72
+3	||	39
+and that's all!
+PlantTree: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: INVALID_INPUT
+PickFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+PlantTree: FAILURE
+PlantTree: INVALID_INPUT
+AddFruit: FAILURE
+PickFruit: SUCCESS
+AddFruit: SUCCESS
+RateFruit: FAILURE
+AddFruit: FAILURE
+RateFruit: SUCCESS
+Rank	||	Fruit
+1	||	62
+2	||	22
+3	||	60
+4	||	56
+and that's all!
+RateFruit: SUCCESS
+RateFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	62
+2	||	22
+3	||	60
+4	||	56
+and that's all!
+RateFruit: SUCCESS
+Best fruit is: 62
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+PlantTree: FAILURE
+GetBestFruit: INVALID_INPUT
+AddFruit: SUCCESS
+GetBestFruit: INVALID_INPUT
+AddFruit: FAILURE
+RateFruit: SUCCESS
+GetBestFruit: INVALID_INPUT
+RateFruit: FAILURE
+AddFruit: SUCCESS
+PickFruit: SUCCESS
+Rank	||	Fruit
+1	||	72
+2	||	39
+and that's all!
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	70
+2	||	15
+3	||	69
+4	||	90
+and that's all!
+PlantTree: INVALID_INPUT
+Best fruit is: 45
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+RateFruit: FAILURE
+Best fruit is: 9
+PlantTree: INVALID_INPUT
+AddFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+RateFruit: FAILURE
+PickFruit: FAILURE
+Best fruit is: 76
+Best fruit is: 79
+Best fruit is: 76
+Best fruit is: 64
+RateFruit: SUCCESS
+Rank	||	Fruit
+1	||	2
+2	||	77
+3	||	85
+4	||	11
+5	||	61
+6	||	51
+and that's all!
+RateFruit: SUCCESS
+RateFruit: SUCCESS
+AddFruit: FAILURE
+PickFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: SUCCESS
+PlantTree: FAILURE
+PlantTree: INVALID_INPUT
+RateFruit: FAILURE
+PickFruit: SUCCESS
+RateFruit: FAILURE
+AddFruit: FAILURE
+AddFruit: SUCCESS
+Best fruit is: 63
+GetBestFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+PlantTree: FAILURE
+PlantTree: INVALID_INPUT
+Rank	||	Fruit
+1	||	79
+2	||	24
+3	||	1
+4	||	5
+and that's all!
+PlantTree: INVALID_INPUT
+AddFruit: FAILURE
+PickFruit: SUCCESS
+RateFruit: SUCCESS
+PickFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+PickFruit: FAILURE
+PlantTree: FAILURE
+GetBestFruit: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+PlantTree: FAILURE
+RateFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+RateFruit: INVALID_INPUT
+PickFruit: SUCCESS
+RateFruit: SUCCESS
+Best fruit is: 57
+AddFruit: SUCCESS
+Rank	||	Fruit
+1	||	64
+2	||	46
+and that's all!
+PickFruit: FAILURE
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+Rank	||	Fruit
+1	||	35
+2	||	19
+3	||	54
+and that's all!
+PlantTree: FAILURE
+PlantTree: FAILURE
+AddFruit: FAILURE
+AddFruit: SUCCESS
+AddFruit: INVALID_INPUT
+RateFruit: SUCCESS
+Rank	||	Fruit
+1	||	72
+2	||	39
+and that's all!
+RateFruit: SUCCESS
+RateFruit: SUCCESS
+PickFruit: SUCCESS
+Rank	||	Fruit
+1	||	79
+2	||	24
+3	||	1
+and that's all!
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: FAILURE
+AddFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: SUCCESS
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	63
+2	||	81
+3	||	48
+4	||	67
+5	||	53
+and that's all!
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+RateFruit: SUCCESS
+AddFruit: FAILURE
+RateFruit: INVALID_INPUT
+AddFruit: SUCCESS
+PickFruit: SUCCESS
+AddFruit: SUCCESS
+PickFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+Best fruit is: 68
+Rank	||	Fruit
+1	||	8
+2	||	66
+3	||	86
+4	||	88
+and that's all!
+Best fruit is: 40
+RateFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+AddFruit: SUCCESS
+AddFruit: FAILURE
+AddFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: SUCCESS
+PlantTree: INVALID_INPUT
+Rank	||	Fruit
+1	||	63
+2	||	81
+3	||	67
+4	||	53
+and that's all!
+RateFruit: FAILURE
+Best fruit is: 76
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
+PickFruit: SUCCESS
+Rank	||	Fruit
+1	||	2
+2	||	77
+3	||	85
+4	||	84
+5	||	20
+6	||	17
+7	||	61
+8	||	51
+and that's all!
+AddFruit: FAILURE
+Best fruit is: 63
+Best fruit is: 70
+PlantTree: FAILURE
+RateFruit: SUCCESS
+Best fruit is: 93
+PlantTree: INVALID_INPUT
+Best fruit is: 93
+Rank	||	Fruit
+1	||	16
+2	||	38
+3	||	45
+and that's all!
+GetAllFruitsByRate: INVALID_INPUT
+PickFruit: SUCCESS
+Rank	||	Fruit
+1	||	10
+2	||	91
+and that's all!
+RateFruit: FAILURE
+RateFruit: SUCCESS
+GetBestFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+RateFruit: SUCCESS
+RateFruit: SUCCESS
+PickFruit: SUCCESS
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+Rank	||	Fruit
+1	||	63
+2	||	81
+3	||	67
+4	||	53
+and that's all!
+AddFruit: FAILURE
+AddFruit: FAILURE
+RateFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+Rank	||	Fruit
+1	||	29
+2	||	72
+3	||	39
+and that's all!
+PlantTree: FAILURE
+PickFruit: SUCCESS
+PickFruit: SUCCESS
+AddFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+PickFruit: SUCCESS
+AddFruit: SUCCESS
+PickFruit: SUCCESS
+RateFruit: INVALID_INPUT
+PickFruit: FAILURE
+PlantTree: FAILURE
+PickFruit: SUCCESS
+Best fruit is: 71
+Rank	||	Fruit
+1	||	8
+2	||	66
+3	||	88
+4	||	86
+and that's all!
+PickFruit: SUCCESS
+PlantTree: INVALID_INPUT
+PickFruit: SUCCESS
+PlantTree: INVALID_INPUT
+PickFruit: SUCCESS
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+PickFruit: FAILURE
+RateFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+PlantTree: FAILURE
+PickFruit: FAILURE
+Best fruit is: 29
+AddFruit: SUCCESS
+Best fruit is: 2
+Rank	||	Fruit
+1	||	29
+2	||	72
+3	||	39
+and that's all!
+PlantTree: FAILURE
+RateFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PickFruit: SUCCESS
+PickFruit: FAILURE
+PickFruit: FAILURE
+RateFruit: FAILURE
+Best fruit is: 57
+PickFruit: FAILURE
+AddFruit: SUCCESS
+PickFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+AddFruit: FAILURE
+PlantTree: FAILURE
+PlantTree: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+Best fruit is: 63
+GetBestFruit: INVALID_INPUT
+RateFruit: SUCCESS
+RateFruit: FAILURE
+PickFruit: FAILURE
+Rank	||	Fruit
+1	||	50
+2	||	76
+and that's all!
+PickFruit: SUCCESS
+AddFruit: INVALID_INPUT
+Best fruit is: 70
+AddFruit: FAILURE
+PlantTree: FAILURE
+GetBestFruit: INVALID_INPUT
+RateFruit: FAILURE
+PickFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PickFruit: SUCCESS
+PlantTree: FAILURE
+PickFruit: SUCCESS
+PlantTree: INVALID_INPUT
+Rank	||	Fruit
+1	||	16
+2	||	38
+3	||	44
+4	||	59
+5	||	45
+and that's all!
+Rank	||	Fruit
+1	||	71
+2	||	94
+3	||	21
+4	||	28
+5	||	34
+and that's all!
+RateFruit: FAILURE
+PickFruit: SUCCESS
+RateFruit: SUCCESS
+PlantTree: FAILURE
+Best fruit is: 48
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+Best fruit is: 48
+PickFruit: SUCCESS
+RateFruit: FAILURE
+RateFruit: SUCCESS
+PickFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: SUCCESS
+PickFruit: FAILURE
+PickFruit: FAILURE
+Rank	||	Fruit
+1	||	71
+2	||	94
+3	||	21
+4	||	28
+5	||	34
+and that's all!
+AddFruit: SUCCESS
+Best fruit is: 12
+PickFruit: SUCCESS
+Rank	||	Fruit
+1	||	50
+2	||	89
+3	||	76
+and that's all!
+PlantTree: FAILURE
+RateFruit: SUCCESS
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
+PickFruit: FAILURE
+RateFruit: INVALID_INPUT
+Best fruit is: 88
+Rank	||	Fruit
+1	||	5
+2	||	27
+3	||	83
+and that's all!
+Best fruit is: 48
+RateFruit: SUCCESS
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+PickFruit: FAILURE
+RateFruit: SUCCESS
+GetBestFruit: INVALID_INPUT
+PlantTree: FAILURE
+RateFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: SUCCESS
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+RateFruit: FAILURE
+PlantTree: FAILURE
+Best fruit is: 2
+PickFruit: SUCCESS
+GetBestFruit: INVALID_INPUT
+PlantTree: FAILURE
+Best fruit is: 35
+PlantTree: INVALID_INPUT
+AddFruit: SUCCESS
+AddFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+PlantTree: FAILURE
+GetBestFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+Best fruit is: 50
+PickFruit: FAILURE
+PlantTree: INVALID_INPUT
+AddFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: SUCCESS
+PlantTree: INVALID_INPUT
+AddFruit: FAILURE
+PlantTree: INVALID_INPUT
+PlantTree: FAILURE
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+Rank	||	Fruit
+1	||	50
+2	||	89
+3	||	76
+and that's all!
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	82
+2	||	71
+3	||	21
+4	||	94
+5	||	28
+6	||	34
+and that's all!
+RateFruit: SUCCESS
+RateFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+RateFruit: SUCCESS
+RateFruit: FAILURE
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+AddFruit: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+PlantTree: FAILURE
+PlantTree: FAILURE
+RateFruit: FAILURE
+Rank	||	Fruit
+1	||	82
+2	||	71
+3	||	21
+4	||	94
+5	||	28
+6	||	34
+and that's all!
+PickFruit: SUCCESS
+RateFruit: FAILURE
+PickFruit: FAILURE
+PickFruit: SUCCESS
+Best fruit is: 12
+PickFruit: SUCCESS
+AddFruit: SUCCESS
+PlantTree: INVALID_INPUT
+Best fruit is: 55
+AddFruit: FAILURE
+Best fruit is: 51
+PlantTree: INVALID_INPUT
+Rank	||	Fruit
+1	||	50
+2	||	89
+3	||	76
+and that's all!
+GetBestFruit: INVALID_INPUT
+RateFruit: FAILURE
+PlantTree: FAILURE
+Best fruit is: 32
+Best fruit is: 82
+GetBestFruit: INVALID_INPUT
+RateFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+Rank	||	Fruit
+1	||	29
+and that's all!
+PickFruit: FAILURE
+AddFruit: SUCCESS
+PickFruit: FAILURE
+Best fruit is: 81
+Rank	||	Fruit
+1	||	38
+2	||	44
+3	||	45
+4	||	16
+and that's all!
+PickFruit: SUCCESS
+Best fruit is: 81
+GetBestFruit: INVALID_INPUT
+Best fruit is: 38
+Best fruit is: 29
+PickFruit: FAILURE
+PickFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PickFruit: SUCCESS
+Rank	||	Fruit
+1	||	51
+2	||	2
+3	||	84
+4	||	77
+5	||	85
+6	||	20
+7	||	61
+and that's all!
+PlantTree: INVALID_INPUT
+RateFruit: FAILURE
+PickFruit: SUCCESS
+Best fruit is: 82
+RateFruit: FAILURE
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+AddFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+Rank	||	Fruit
+1	||	15
+and that's all!
+AddFruit: INVALID_INPUT
+RateFruit: SUCCESS
+Rank	||	Fruit
+1	||	38
+2	||	44
+3	||	45
+4	||	16
+and that's all!
+PlantTree: FAILURE
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+PlantTree: INVALID_INPUT
+PickFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+PlantTree: FAILURE
+AddFruit: FAILURE
+Rank	||	Fruit
+1	||	81
+2	||	88
+3	||	86
+4	||	66
+5	||	52
+and that's all!
+Best fruit is: 50
+GetBestFruit: INVALID_INPUT
+RateFruit: SUCCESS
+PlantTree: FAILURE
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+Best fruit is: 32
+Best fruit is: 50
+PickFruit: FAILURE
+PlantTree: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+AddFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+RateFruit: FAILURE
+Best fruit is: 50
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+PickFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	81
+2	||	88
+3	||	86
+4	||	66
+5	||	52
+and that's all!
+AddFruit: FAILURE
+PickFruit: SUCCESS
+RateFruit: FAILURE
+RateFruit: SUCCESS
+RateFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: FAILURE
+RateFruit: SUCCESS
+AddFruit: INVALID_INPUT
+RateFruit: SUCCESS
+GetBestFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	29
+and that's all!
+AddFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+PickFruit: SUCCESS
+AddFruit: FAILURE
+AddFruit: FAILURE
+AddFruit: SUCCESS
+AddFruit: FAILURE
+PlantTree: INVALID_INPUT
+Rank	||	Fruit
+1	||	68
+2	||	60
+3	||	41
+4	||	56
+and that's all!
+Rank	||	Fruit
+1	||	51
+2	||	2
+3	||	84
+4	||	77
+5	||	85
+6	||	20
+7	||	61
+and that's all!
+RateFruit: SUCCESS
+PlantTree: FAILURE
+PlantTree: FAILURE
+Best fruit is: 19
+Best fruit is: 29
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+PickFruit: FAILURE
+RateFruit: FAILURE
+Rank	||	Fruit
+1	||	38
+2	||	55
+3	||	45
+4	||	16
+and that's all!
+AddFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	53
+and that's all!
+GetAllFruitsByRate: INVALID_INPUT
+RateFruit: SUCCESS
+AddFruit: INVALID_INPUT
+Best fruit is: 15
+Best fruit is: 81
+PickFruit: FAILURE
+Rank	||	Fruit
+1	||	19
+2	||	54
+and that's all!
+GetBestFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+PlantTree: INVALID_INPUT
+PickFruit: SUCCESS
+RateFruit: SUCCESS
+Best fruit is: 5
+AddFruit: SUCCESS
+PickFruit: SUCCESS
+Rank	||	Fruit
+1	||	68
+2	||	60
+3	||	41
+4	||	56
+and that's all!
+PickFruit: SUCCESS
+PickFruit: SUCCESS
+AddFruit: FAILURE
+PickFruit: FAILURE
+RateFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: SUCCESS
+AddFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+AddFruit: SUCCESS
+PickFruit: SUCCESS
+PickFruit: SUCCESS
+Rank	||	Fruit
+1	||	51
+2	||	84
+3	||	77
+4	||	85
+5	||	20
+6	||	61
+and that's all!
+RateFruit: SUCCESS
+Rank	||	Fruit
+1	||	29
+and that's all!
+AddFruit: INVALID_INPUT
+AddFruit: FAILURE
+AddFruit: SUCCESS
+PlantTree: FAILURE
+PickFruit: FAILURE
+PlantTree: INVALID_INPUT
+PlantTree: FAILURE
+RateFruit: SUCCESS
+AddFruit: FAILURE
+PickFruit: SUCCESS
+RateFruit: SUCCESS
+RateFruit: SUCCESS
+RateFruit: FAILURE
+PickFruit: SUCCESS
+Rank	||	Fruit
+1	||	19
+2	||	54
+and that's all!
+RateFruit: SUCCESS
+RateFruit: FAILURE
+Rank	||	Fruit
+1	||	46
+2	||	64
+3	||	48
+4	||	87
+and that's all!
+RateFruit: FAILURE
+Best fruit is: 81
+AddFruit: SUCCESS
+AddFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	15
+and that's all!
+PickFruit: SUCCESS
+Rank	||	Fruit
+1	||	19
+2	||	54
+and that's all!
+GetAllFruitsByRate: INVALID_INPUT
+RateFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+RateFruit: FAILURE
+Best fruit is: 19
+Rank	||	Fruit
+1	||	51
+2	||	7
+3	||	77
+4	||	85
+5	||	20
+6	||	84
+7	||	61
+and that's all!
+RateFruit: FAILURE
+AddFruit: FAILURE
+RateFruit: FAILURE
+RateFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PlantTree: FAILURE
+Best fruit is: 81
+RateFruit: SUCCESS
+GetBestFruit: INVALID_INPUT
+PlantTree: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: INVALID_INPUT
+AddFruit: INVALID_INPUT
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	81
+2	||	88
+3	||	66
+4	||	86
+5	||	52
+and that's all!
+PlantTree: FAILURE
+PlantTree: INVALID_INPUT
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+PlantTree: FAILURE
+PickFruit: FAILURE
+PlantTree: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+PlantTree: FAILURE
+PickFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+AddFruit: FAILURE
+Best fruit is: 46
+Best fruit is: 68
+AddFruit: SUCCESS
+AddFruit: FAILURE
+Rank	||	Fruit
+1	||	82
+2	||	94
+3	||	21
+4	||	28
+5	||	17
+6	||	34
+and that's all!
+AddFruit: INVALID_INPUT
+PickFruit: SUCCESS
+PlantTree: FAILURE
+RateFruit: FAILURE
+Best fruit is: 81
+AddFruit: FAILURE
+PickFruit: SUCCESS
+GetBestFruit: INVALID_INPUT
+AddFruit: SUCCESS
+Rank	||	Fruit
+1	||	82
+2	||	94
+3	||	21
+4	||	28
+5	||	17
+6	||	34
+and that's all!
+GetAllFruitsByRate: INVALID_INPUT
+Best fruit is: -1
+AddFruit: INVALID_INPUT
+RateFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	68
+2	||	60
+3	||	41
+4	||	70
+5	||	56
+and that's all!
+AddFruit: INVALID_INPUT
+AddFruit: FAILURE
+RateFruit: SUCCESS
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+PickFruit: SUCCESS
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+PickFruit: FAILURE
+PickFruit: SUCCESS
+GetBestFruit: INVALID_INPUT
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
+PickFruit: SUCCESS
+PlantTree: FAILURE
+Best fruit is: 82
+PickFruit: FAILURE
+AddFruit: SUCCESS
+PickFruit: FAILURE
+Best fruit is: 55
+RateFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: FAILURE
+GetBestFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+PlantTree: FAILURE
+PlantTree: INVALID_INPUT
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
+Best fruit is: 89
+PlantTree: FAILURE
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PlantTree: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+PickFruit: SUCCESS
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	88
+2	||	86
+3	||	52
+and that's all!
+AddFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+RateFruit: SUCCESS
+PickFruit: SUCCESS
+Best fruit is: 88
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: FAILURE
+PickFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: FAILURE
+Best fruit is: 88
+Rank	||	Fruit
+1	||	53
+and that's all!
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+RateFruit: INVALID_INPUT
+RateFruit: SUCCESS
+RateFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: SUCCESS
+GetBestFruit: INVALID_INPUT
+AddFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+AddFruit: FAILURE
+PickFruit: SUCCESS
+Best fruit is: 83
+GetBestFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+AddFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: FAILURE
+Rank	||	Fruit
+1	||	46
+2	||	48
+3	||	87
+and that's all!
+Rank	||	Fruit
+1	||	82
+2	||	21
+3	||	17
+4	||	34
+5	||	28
+and that's all!
+PickFruit: INVALID_INPUT
+PlantTree: FAILURE
+PickFruit: SUCCESS
+RateFruit: FAILURE
+AddFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+PickFruit: SUCCESS
+AddFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+PickFruit: SUCCESS
+AddFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+Rank	||	Fruit
+1	||	15
+2	||	7
+3	||	67
+and that's all!
+AddFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+RateFruit: FAILURE
+Best fruit is: 29
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+Best fruit is: 24
+PickFruit: SUCCESS
+PickFruit: SUCCESS
+AddFruit: FAILURE
+AddFruit: SUCCESS
+PickFruit: FAILURE
+Rank	||	Fruit
+1	||	12
+and that's all!
+GetBestFruit: INVALID_INPUT
+AddFruit: SUCCESS
+Best fruit is: 51
+PickFruit: SUCCESS
+AddFruit: FAILURE
+and that's all!
+GetBestFruit: INVALID_INPUT
+AddFruit: FAILURE
+PlantTree: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+RateFruit: FAILURE
+PickFruit: FAILURE
+PlantTree: FAILURE
+PlantTree: FAILURE
+RateFruit: FAILURE
+AddFruit: INVALID_INPUT
+PickFruit: SUCCESS
+RateFruit: FAILURE
+RateFruit: SUCCESS
+RateFruit: FAILURE
+PickFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: INVALID_INPUT
+RateFruit: SUCCESS
+PickFruit: SUCCESS
+AddFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	92
+and that's all!
+GetAllFruitsByRate: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+PickFruit: SUCCESS
+AddFruit: FAILURE
+AddFruit: SUCCESS
+AddFruit: FAILURE
+Rank	||	Fruit
+1	||	55
+and that's all!
+AddFruit: INVALID_INPUT
+Best fruit is: 29
+PlantTree: FAILURE
+Best fruit is: 24
+Rank	||	Fruit
+1	||	68
+2	||	63
+3	||	41
+4	||	60
+and that's all!
+AddFruit: FAILURE
+AddFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PickFruit: SUCCESS
+RateFruit: SUCCESS
+RateFruit: FAILURE
+PickFruit: FAILURE
+PickFruit: FAILURE
+Best fruit is: 53
+PickFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: FAILURE
+PlantTree: FAILURE
+RateFruit: FAILURE
+RateFruit: SUCCESS
+AddFruit: FAILURE
+PlantTree: FAILURE
+RateFruit: SUCCESS
+PlantTree: FAILURE
+RateFruit: INVALID_INPUT
+RateFruit: FAILURE
+PlantTree: FAILURE
+PlantTree: FAILURE
+PickFruit: FAILURE
+PickFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	19
+2	||	18
+3	||	47
+4	||	54
+and that's all!
+Best fruit is: 77
+GetBestFruit: INVALID_INPUT
+Best fruit is: 82
+AddFruit: SUCCESS
+Rank	||	Fruit
+1	||	77
+2	||	20
+3	||	51
+4	||	96
+5	||	84
+6	||	95
+and that's all!
+Rank	||	Fruit
+1	||	53
+and that's all!
+GetAllFruitsByRate: INVALID_INPUT
+Best fruit is: 19
+PickFruit: SUCCESS
+GetBestFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+PlantTree: FAILURE
+PlantTree: FAILURE
+PickFruit: FAILURE
+PickFruit: SUCCESS
+AddFruit: FAILURE
+PickFruit: FAILURE
+RateFruit: FAILURE
+AddFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+PickFruit: SUCCESS
+RateFruit: FAILURE
+RateFruit: FAILURE
+RateFruit: SUCCESS
+Rank	||	Fruit
+1	||	89
+2	||	50
+3	||	73
+and that's all!
+RateFruit: SUCCESS
+PlantTree: INVALID_INPUT
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+Rank	||	Fruit
+1	||	68
+2	||	63
+3	||	41
+4	||	60
+and that's all!
+Best fruit is: 68
+AddFruit: SUCCESS
+Rank	||	Fruit
+1	||	92
+and that's all!
+PickFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+RateFruit: SUCCESS
+Best fruit is: -1
+PickFruit: SUCCESS
+PickFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: FAILURE
+Best fruit is: -1
+AddFruit: INVALID_INPUT
+Best fruit is: 74
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+RateFruit: SUCCESS
+PickFruit: FAILURE
+RateFruit: SUCCESS
+Best fruit is: 33
+PickFruit: SUCCESS
+Best fruit is: 82
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: FAILURE
+Rank	||	Fruit
+1	||	53
+and that's all!
+Rank	||	Fruit
+1	||	77
+2	||	20
+3	||	51
+4	||	95
+5	||	96
+and that's all!
+AddFruit: FAILURE
+PickFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+PlantTree: FAILURE
+PlantTree: INVALID_INPUT
+RateFruit: FAILURE
+AddFruit: SUCCESS
+AddFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+PickFruit: SUCCESS
+RateFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+and that's all!
+PlantTree: INVALID_INPUT
+Rank	||	Fruit
+1	||	2
+2	||	7
+3	||	67
+and that's all!
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: SUCCESS
+PlantTree: FAILURE
+PlantTree: FAILURE
+AddFruit: FAILURE
+Rank	||	Fruit
+1	||	68
+2	||	63
+3	||	41
+4	||	60
+and that's all!
+Rank	||	Fruit
+1	||	68
+2	||	63
+3	||	41
+4	||	60
+and that's all!
+Best fruit is: 47
+AddFruit: INVALID_INPUT
+PlantTree: FAILURE
+RateFruit: INVALID_INPUT
+Best fruit is: -1
+and that's all!
+AddFruit: SUCCESS
+RateFruit: FAILURE
+PlantTree: FAILURE
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+RateFruit: SUCCESS
+Best fruit is: 26
+RateFruit: FAILURE
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: FAILURE
+Best fruit is: 49
+AddFruit: SUCCESS
+GetBestFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	46
+and that's all!
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: INVALID_INPUT
+PickFruit: SUCCESS
+PlantTree: INVALID_INPUT
+RateFruit: SUCCESS
+Best fruit is: 59
+Rank	||	Fruit
+1	||	68
+2	||	63
+3	||	41
+4	||	60
+and that's all!
+PlantTree: FAILURE
+PickFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
