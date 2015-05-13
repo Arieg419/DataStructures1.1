@@ -1338,3 +1338,10 @@ AddFruit: INVALID_INPUT
 AddFruit: INVALID_INPUT
 RateFruit: SUCCESS
 GetBestFruit: INVALID_INPUT
+UpdateRottenFruits: SUCCESS
+AddFruit: FAILURE
+RateFruit: FAILURE
+Best fruit is: 7
+RateFruit: SUCCESS
+PickFruit: SUCCESS
+RateFruit: SUCCESS

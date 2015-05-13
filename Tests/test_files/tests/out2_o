@@ -263,6 +263,7 @@ Rank	||	Fruit
 4	||	33
 and that's all!
 Best fruit is: -1
+E=MC^2
 Rank	||	Fruit
 1	||	90
 and that's all!
@@ -345,6 +346,7 @@ AddFruit: SUCCESS
 AddFruit: INVALID_INPUT
 GetBestFruit: INVALID_INPUT
 PickFruit: SUCCESS
+E=MC^2
 Rank	||	Fruit
 1	||	90
 and that's all!
@@ -746,6 +748,7 @@ and that's all!
 PlantTree: FAILURE
 Best fruit is: 56
 RateFruit: FAILURE
+E=MC^2
 Rank	||	Fruit
 1	||	90
 and that's all!
@@ -871,6 +874,7 @@ RateFruit: SUCCESS
 AddFruit: INVALID_INPUT
 PlantTree: INVALID_INPUT
 Best fruit is: 56
+E=MC^2
 Rank	||	Fruit
 1	||	90
 and that's all!
@@ -966,6 +970,7 @@ GetAllFruitsByRate: INVALID_INPUT
 AddFruit: SUCCESS
 AddFruit: INVALID_INPUT
 AddFruit: SUCCESS
+E=MC^2
 Rank	||	Fruit
 1	||	90
 and that's all!
@@ -1201,3 +1206,78 @@ Rank	||	Fruit
 3	||	36
 and that's all!
 AddFruit: SUCCESS
+UpdateRottenFruits: SUCCESS
+GetBestFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: SUCCESS
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
+Best fruit is: 84
+Best fruit is: 74
+RateFruit: SUCCESS
+AddFruit: INVALID_INPUT
+Best fruit is: 82
+AddFruit: INVALID_INPUT
+PickFruit: SUCCESS
+RateFruit: FAILURE
+Best fruit is: 81
+PickFruit: FAILURE
+Rank	||	Fruit
+1	||	67
+and that's all!
+AddFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+PlantTree: FAILURE
+Rank	||	Fruit
+1	||	76
+2	||	11
+3	||	15
+and that's all!
+RateFruit: FAILURE
+RateFruit: FAILURE
+AddFruit: INVALID_INPUT
+Best fruit is: 67
+Best fruit is: 37
+GetAllFruitsByRate: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+AddFruit: INVALID_INPUT
+Rank	||	Fruit
+1	||	67
+and that's all!
+AddFruit: SUCCESS
+GetBestFruit: INVALID_INPUT
+PickFruit: SUCCESS
+AddFruit: SUCCESS
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+RateFruit: SUCCESS
+Rank	||	Fruit
+1	||	62
+2	||	2
+3	||	36
+and that's all!
+PlantTree: FAILURE
+AddFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+PlantTree: FAILURE
+RateFruit: INVALID_INPUT
+PickFruit: SUCCESS
+Rank	||	Fruit
+1	||	49
+2	||	76
+3	||	11
+4	||	15
+5	||	92
+and that's all!
+PlantTree: FAILURE

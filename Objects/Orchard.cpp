@@ -15,7 +15,15 @@ Orchard::Orchard() {
 }
 
 Orchard::~Orchard() {
-	// TODO Auto-generated destructor stub
+		// releasing the memory of the fruits.
+		Plant** plants = Plants.getSortedArray(); // O(k)
+		int length = Plants.GetSize();
+
+		for (int i = 0; i < length; i++)
+			delete(plants[i]);
+
+		delete[](plants);
+		// automatically call the AVLTrees DTOR, which release the pointers.
 }
 
 void Orchard::setMaxSize(int N) {
@@ -84,9 +92,10 @@ Fruit* Orchard::GetBestFruit(int i, int j, int *fruitID) {
 		throw InvalidInput();
 	}
 	return GetPlant(i, j)->GetBestFruit();
-//TODO
+
 }
 
+// TODO: delete
 void* Orchard::GetAllFruitsByRate(int i, int j, int **fruits,
 		int *numOfFruits) {
 	return GetPlant(i, j)->GetAllFruitsByRate();
@@ -99,11 +108,10 @@ void Orchard::AttackedBy(Insect insect) {
 	for (int i = 0; i < Plants.GetSize(); i++)
 		plantsArray[i]->attackedBy(insect);
 
-	delete plantsArray;
+	delete[](plantsArray);
 	return;
 }
 
-//TODO this function should return an int(flag), otherwise how will we know if there was a FAILURE
 void Orchard::RateFruit(int id, int ripeness) {
 	if (id < 0 || ripeness <= 0) {
 		throw InvalidInput();

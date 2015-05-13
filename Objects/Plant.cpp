@@ -20,8 +20,9 @@ Plant::~Plant() {
 	int length = idSortedTree.GetSize();
 
 	for (int i = 0; i < length; i++)
-		free(fruits[i]);
+		delete (fruits[i]);
 
+	delete[] (fruits);
 	// automatically call the AVLTrees DTOR, which release the pointers.
 }
 
@@ -29,8 +30,7 @@ void Plant::AddFruit(Fruit* fruit) {
 	if (DoesExist(fruit->getID()))
 		throw Failure();
 	idSortedTree.Insert(fruit->getID(), fruit);
-	PairID pid(fruit->getRipeRate(), fruit->getID());
-	rateSortedTree.Insert(pid, fruit);
+	rateSortedTree.Insert(PairID(fruit->getRipeRate(), fruit->getID()), fruit);
 }
 
 Fruit* Plant::GetFruit(int id) {
@@ -54,7 +54,7 @@ void Plant::RemoveFruit(int id) {
 }
 
 Fruit* Plant::GetBestFruit() {
-	if (rateSortedTree.GetSize()<1){
+	if (rateSortedTree.GetSize() < 1) {
 		return NULL;
 	}
 	try {
@@ -73,14 +73,15 @@ int Plant::GetSize() {
 	return rateSortedTree.GetSize();
 }
 
-bool Plant::DoesExist(int fruitID){
+bool Plant::DoesExist(int fruitID) {
 	return idSortedTree.DoesExist(fruitID);
 }
 
 void Plant::attackedBy(Insect& insect) {
-	//if()
+
 	int length = this->rateSortedTree.GetSize();
-	if (length==0) return;
+	if (length == 0)
+		return;
 	Fruit** fruits = this->rateSortedTree.getSortedArray();
 
 	// results arrays
@@ -89,12 +90,13 @@ void Plant::attackedBy(Insect& insect) {
 
 	// fill updated fruits using 2 pointers of fruits, and update fruits.
 	int p1 = 0, p2 = 0, p3 = 0; // p1: fruit attack, p2: dont attack, p3: new array
-	while (!insect.ShouldAttack(fruits[p1]))
+	while (p1 < length && !insect.ShouldAttack(fruits[p1]))
 		p1++; // set to first attack
-	while (insect.ShouldAttack(fruits[p2]))
+	while (p2 < length && insect.ShouldAttack(fruits[p2]))
 		p2++; // set to first safe
 
-	insect.Attack(fruits[p1]);
+	if (p1 < length)
+		insect.Attack(fruits[p1]);
 
 	// every iteration moving one fruit
 	while (p3 < length) {
@@ -124,12 +126,18 @@ void Plant::attackedBy(Insect& insect) {
 		}
 	}
 
-	delete (fruits);
+	delete[] (fruits);
 	this->rateSortedTree.Reset();
 
 	// converting array to a tree
-	for (int i=0; i<length; i++)
+	for (int i = 0; i < length; i++)
 		updatedKeys[i] = updatedFruits[i]->getPairID();
 
-	this->rateSortedTree.LoadSortedArray(updatedKeys,updatedFruits,length);
+	this->rateSortedTree.LoadSortedArray(updatedKeys, updatedFruits, length);
+
+	//TODO delete after debugging
+	Fruit** tmppp = this->rateSortedTree.getSortedArray();
+	for (int i = 0; i < length; i++)
+		if (tmppp[i] == NULL)
+			cout << "#1" << endl;
 }

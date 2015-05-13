@@ -33,10 +33,11 @@ StatusType Statistics::PlantTree(int i, int j) {
 	} catch (Failure& e) {
 		delete plant;
 		return FAILURE;
-	}
-		catch (PlantAlreadyExist& e) {
-				delete plant;
-				return FAILURE;
+	} catch (PlantAlreadyExist& e) {
+		delete plant;
+		return FAILURE;
+	} catch (std::bad_alloc& err){
+		return ALLOCATION_ERROR;
 	}
 	return SUCCESS;
 }
@@ -58,11 +59,10 @@ StatusType Statistics::AddFruit(int i, int j, int fruitID, int ripeRate) {
 	} catch (FruitAlreadyExist& e) {
 		delete fruit;
 		return FAILURE;
+	} catch (PlantDoesNotExist& e) {
+		delete fruit;
+		return FAILURE;
 	}
-	catch (PlantDoesNotExist& e) {
-			delete fruit;
-			return FAILURE;
-		}
 
 	return SUCCESS;
 }
@@ -76,13 +76,15 @@ StatusType Statistics::PickFruit(int fruitID) {
 		return ALLOCATION_ERROR;
 	} catch (Failure& e) {
 		return FAILURE;
+	} catch (std::bad_alloc& err){
+		return ALLOCATION_ERROR;
 	}
 	return SUCCESS;
 }
 
 StatusType Statistics::RateFruit(int fruitID, int ripeRate) {
 	try {
-		orchard.RateFruit(fruitID,ripeRate);
+		orchard.RateFruit(fruitID, ripeRate);
 	} catch (InvalidInput& e) {
 		return INVALID_INPUT;
 	} catch (OutOfMemory& e) {
@@ -91,13 +93,15 @@ StatusType Statistics::RateFruit(int fruitID, int ripeRate) {
 		return FAILURE;
 	} catch (FruitDoesNotExist& e) {
 		return FAILURE;
+	} catch (std::bad_alloc& err){
+		return ALLOCATION_ERROR;
 	}
 	return SUCCESS;
 }
 
 StatusType Statistics::GetBestFruit(int i, int j, int *fruitID) {
 	try {
-		Fruit* fruit = orchard.GetBestFruit(i,j,fruitID);
+		Fruit* fruit = orchard.GetBestFruit(i, j, fruitID);
 		if (fruit)
 			*fruitID = fruit->getID();
 		else
@@ -108,35 +112,40 @@ StatusType Statistics::GetBestFruit(int i, int j, int *fruitID) {
 		return ALLOCATION_ERROR;
 	} catch (Failure& e) {
 		return FAILURE;
+	} catch (PlantDoesNotExist& e) {
+		return FAILURE;
+	} catch (std::bad_alloc& err){
+		return ALLOCATION_ERROR;
 	}
-	catch (PlantDoesNotExist& e) {
-				return FAILURE;
-			}
 	return SUCCESS;
 }
 
 StatusType Statistics::GetAllFruitsByRate(int i, int j, int **fruits,
 		int *numOfFruits) {
 	try {
-		*numOfFruits = orchard.GetPlant(i, j)->GetSize();
-		int size = *numOfFruits;
-		*fruits = (int*) malloc(sizeof(int) * (size)); //TODO nasty casting. this should be done automatically
-		Fruit** temp = orchard.GetPlant(i, j)->GetAllFruitsByRate();
+		if (i==3 && j==3) // TODO: debugging
+				cout << "E=MC^2" << endl;
+
+		Plant* plant = orchard.GetPlant(i, j);
+		int size = plant->GetSize();
+		*numOfFruits = size;
+		*fruits = (int*) malloc(sizeof(int) * (size));
+		Fruit** temp = plant->GetAllFruitsByRate();
 		for (int i = 0; i < size; i++) {
-			//(*fruits)[i] = temp[i]->getID();
 			(*fruits)[i] = temp[i]->getID();
 		}
-		delete temp;
+		delete[](temp);
 	} catch (InvalidInput& e) {
 		return INVALID_INPUT;
 	} catch (OutOfMemory& e) {
 		return ALLOCATION_ERROR;
 	} catch (Failure& e) {
 		return FAILURE;
+	} catch (PlantDoesNotExist& e) {
+		return FAILURE;
+	} catch (std::bad_alloc& err){
+		return ALLOCATION_ERROR;
 	}
-	catch (PlantDoesNotExist& e) {
-			return FAILURE;
-		}
 	return SUCCESS;
 }
 
@@ -149,6 +158,8 @@ StatusType Statistics::UpdateRottenFruits(int rottenBase, int rottenFactor) {
 		return ALLOCATION_ERROR;
 	} catch (Failure& e) {
 		return FAILURE;
+	} catch (std::bad_alloc& err){
+		return ALLOCATION_ERROR;
 	}
 	return SUCCESS;
 }

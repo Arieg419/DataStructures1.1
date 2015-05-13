@@ -95,6 +95,7 @@ AVLTree<K, T>::~AVLTree() {
 template<class K, class T>
 void AVLTree<K, T>::Reset() {
 	destroy2(root); // release allocated memory
+	this->size=0;
 	root = NULL;
 	return;
 }
@@ -109,6 +110,7 @@ void AVLTree<K, T>::LoadSortedArray(K* sortedKeysArray, T* sortedDataArray,
 	Reset();
 	root = LoadSortedArray2(sortedKeysArray, sortedDataArray, length);
 	updateSmallest();
+	this->size = length;
 	return;
 }
 
@@ -134,12 +136,12 @@ void AVLTree<K, T>::Insert(K key, T data) {
 	new_node->key = key;
 	new_node->data = data;
 
-	this->size++;
 
 	// choose where to add the node and add it.
 	if (root == NULL) { // tree is empty
 		root = new_node;
 		smallest = new_node;
+		this->size++;
 		return;
 	} else { // tree is not empty.
 		Node* current = root;
@@ -162,27 +164,12 @@ void AVLTree<K, T>::Insert(K key, T data) {
 				parent->right = new_node;
 			new_node->parent = parent;
 		/////////////////////////////////////////////////////
-		/*while (new_node->parent == NULL) { // while wasn't placed yet
-			if (key == current->key) {
-				throw KeyAlreadyExist();
-			} else if (key < current->key) { // left subtree
-				if (current->left == NULL) {
-					current->left = new_node;
-					new_node->parent = current;
-				} else {
-					current = current->left;
-				}
-			} else { // right subtree
-				if (current->right == NULL) {
-					current->right = new_node;
-					new_node->parent = current;
-				} else {
-					current = current->right;
-				}
-			}
-		}*/
+
 		updateHeights(new_node);
 		this->balance(new_node);
+
+		this->size++;
+
 		return;
 	}
 }
@@ -245,8 +232,8 @@ void AVLTree<K, T>::RemoveNode(Node* node) {
 			updateHeights(node->parent);
 			this->balance(node->parent);
 		}
-		delete node;
 		this->size--;
+		delete node;
 		return;
 	}
 	// if only right child
@@ -511,7 +498,6 @@ typename AVLTree<K, T>::Node* AVLTree<K, T>::LoadSortedArray2(
 						node->left->height : node->right->height; // both children exist
 
 	return node;
-// TODO: write
 }
 
 #endif /* AVLTREE_H_ */

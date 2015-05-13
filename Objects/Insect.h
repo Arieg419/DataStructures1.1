@@ -19,6 +19,7 @@ public:
 	virtual ~Insect();
 	bool ShouldAttack(Fruit* fruit);
 	void Attack(Fruit* fruit);
+	bool operator==(const Insect& other);
 };
 
 #endif /* OBJECTS_INSECT_H_ */

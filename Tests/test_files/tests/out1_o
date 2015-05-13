@@ -371,6 +371,7 @@ AddFruit: INVALID_INPUT
 GetAllFruitsByRate: INVALID_INPUT
 GetAllFruitsByRate: INVALID_INPUT
 GetAllFruitsByRate: INVALID_INPUT
+E=MC^2
 Rank	||	Fruit
 1	||	58
 2	||	23
@@ -851,6 +852,7 @@ AddFruit: INVALID_INPUT
 PlantTree: INVALID_INPUT
 AddFruit: SUCCESS
 GetAllFruitsByRate: INVALID_INPUT
+E=MC^2
 Rank	||	Fruit
 1	||	90
 2	||	18
@@ -934,6 +936,7 @@ AddFruit: SUCCESS
 Best fruit is: 29
 PlantTree: FAILURE
 RateFruit: SUCCESS
+E=MC^2
 Rank	||	Fruit
 1	||	90
 2	||	18
@@ -1670,3 +1673,11 @@ AddFruit: INVALID_INPUT
 AddFruit: INVALID_INPUT
 RateFruit: SUCCESS
 GetBestFruit: INVALID_INPUT
+UpdateRottenFruits: SUCCESS
+AddFruit: FAILURE
+RateFruit: FAILURE
+Best fruit is: 7
+RateFruit: SUCCESS
+PickFruit: SUCCESS
+RateFruit: SUCCESS
+E=MC^2

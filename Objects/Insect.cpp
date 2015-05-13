@@ -29,3 +29,9 @@ void Insect::Attack(Fruit* fruit){
 		fruit->setRipeRate(fruit->getRipeRate()*rottenFactor);
 
 }
+
+bool Insect::operator==(const Insect& other){
+	if (this->rottenBase==other.rottenBase && this->rottenFactor==other.rottenFactor)
+		return true;
+	return false;
+}
