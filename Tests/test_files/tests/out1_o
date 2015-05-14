@@ -2578,7 +2578,7 @@ PlantTree: FAILURE
 AddFruit: INVALID_INPUT
 AddFruit: INVALID_INPUT
 GetBestFruit: INVALID_INPUT
-Best fruit is: 32347584
+Best fruit is: 95
 PickFruit: FAILURE
 Best fruit is: 4
 GetAllFruitsByRate: INVALID_INPUT
@@ -2882,7 +2882,7 @@ Rank	||	Fruit
 and that's all!
 AddFruit: INVALID_INPUT
 GetBestFruit: INVALID_INPUT
-Best fruit is: 35
+Best fruit is: 22
 PlantTree: INVALID_INPUT
 RateFruit: FAILURE
 PickFruit: SUCCESS
@@ -4075,7 +4075,7 @@ Rank	||	Fruit
 2	||	96
 and that's all!
 AddFruit: SUCCESS
-Best fruit is: 86
+Best fruit is: 67
 AddFruit: INVALID_INPUT
 AddFruit: INVALID_INPUT
 RateFruit: INVALID_INPUT
@@ -9805,8 +9805,8 @@ Best fruit is: 29
 RateFruit: SUCCESS
 PickFruit: FAILURE
 PickFruit: SUCCESS
-Best fruit is: 32343776
-Best fruit is: 32343776
+Best fruit is: 35
+Best fruit is: 35
 AddFruit: INVALID_INPUT
 RateFruit: SUCCESS
 PlantTree: INVALID_INPUT
@@ -13456,7 +13456,7 @@ PlantTree: FAILURE
 GetBestFruit: INVALID_INPUT
 GetAllFruitsByRate: INVALID_INPUT
 PlantTree: INVALID_INPUT
-Best fruit is: 40
+Best fruit is: 49
 PlantTree: FAILURE
 AddFruit: INVALID_INPUT
 AddFruit: FAILURE
@@ -13517,7 +13517,7 @@ Rank	||	Fruit
 and that's all!
 RateFruit: SUCCESS
 PickFruit: FAILURE
-Best fruit is: 40
+Best fruit is: 49
 PickFruit: FAILURE
 AddFruit: INVALID_INPUT
 AddFruit: SUCCESS

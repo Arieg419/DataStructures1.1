@@ -59,7 +59,8 @@ private:
 	void print2(Node* nodeToPrint, int level);
 	T* getSortedArray2(T* array, Node* node);
 	void destroy2(Node* node);
-	Node* LoadSortedArray2(K* sortedKeysArray, T* sortedArray, int length, Node* parent);
+	Node* LoadSortedArray2(K* sortedKeysArray, T* sortedArray, int length,
+			Node* parent);
 
 public:
 	AVLTree();
@@ -95,7 +96,7 @@ AVLTree<K, T>::~AVLTree() {
 template<class K, class T>
 void AVLTree<K, T>::Reset() {
 	destroy2(root); // release allocated memory
-	this->size=0;
+	this->size = 0;
 	root = NULL;
 	return;
 }
@@ -136,7 +137,6 @@ void AVLTree<K, T>::Insert(K key, T data) {
 	new_node->key = key;
 	new_node->data = data;
 
-
 	// choose where to add the node and add it.
 	if (root == NULL) { // tree is empty
 		root = new_node;
@@ -148,21 +148,21 @@ void AVLTree<K, T>::Insert(K key, T data) {
 		Node* parent = NULL;
 		// TODO: rewrite loop to be similar to getByKey ?
 		//////////////////////////////////////////////////////
-			while ((current != NULL) && (current->key != key)) {
-				parent=current;
-				if (key < current->key) { // left subtree
-					current = current->left;
-				} else { // right subtree
-					current = current->right;
-				}
+		while ((current != NULL) && (current->key != key)) {
+			parent = current;
+			if (key < current->key) { // left subtree
+				current = current->left;
+			} else { // right subtree
+				current = current->right;
 			}
+		}
 
-			// add to tree
-			if (key < parent->key)
-				parent->left = new_node;
-			else
-				parent->right = new_node;
-			new_node->parent = parent;
+		// add to tree
+		if (key < parent->key)
+			parent->left = new_node;
+		else
+			parent->right = new_node;
+		new_node->parent = parent;
 		/////////////////////////////////////////////////////
 
 		updateHeights(new_node);
@@ -231,6 +231,8 @@ void AVLTree<K, T>::RemoveNode(Node* node) {
 		if (node->parent) {
 			updateHeights(node->parent);
 			this->balance(node->parent);
+		} else {
+			this->smallest = NULL;
 		}
 		this->size--;
 		delete node;
@@ -244,6 +246,8 @@ void AVLTree<K, T>::RemoveNode(Node* node) {
 		if (node->parent) {
 			updateHeights(node->parent);
 			this->balance(node->parent);
+		} else {
+			updateSmallest();
 		}
 		delete node;
 		this->size--;
@@ -258,6 +262,8 @@ void AVLTree<K, T>::RemoveNode(Node* node) {
 		if (node->parent) {
 			updateHeights(node->parent);
 			this->balance(node->parent);
+		} else {
+			updateSmallest();
 		}
 		delete node;
 		this->size--;
@@ -307,8 +313,10 @@ template<class K, class T>
 
 void AVLTree<K, T>::updateSmallest() {
 	Node* current = root;
-	if (!current)
+	if (!current) {
+		this->smallest = NULL;
 		return; // empty tree
+	}
 	while (current->left != NULL) {
 		current = current->left;
 	}
@@ -358,7 +366,7 @@ void AVLTree<K, T>::llRotation(Node* node) {
 	// restore lost chain
 	node->left = lrChild;
 	if (lrChild)
-		lrChild->parent=node;
+		lrChild->parent = node;
 
 	updateHeights(node);
 }
@@ -380,7 +388,7 @@ void AVLTree<K, T>::rrRotation(Node* node) {
 	// restore lost chain
 	node->right = rlChild;
 	if (rlChild)
-	rlChild->parent=node;
+		rlChild->parent = node;
 
 	updateHeights(node);
 }

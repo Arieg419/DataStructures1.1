@@ -91,7 +91,8 @@ Fruit* Orchard::GetBestFruit(int i, int j, int *fruitID) {
 	if (!legalInput(i, j)) {
 		throw InvalidInput();
 	}
-	return GetPlant(i, j)->GetBestFruit();
+	Plant* plant = GetPlant(i, j);
+	return plant->GetBestFruit();
 
 }
 

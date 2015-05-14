@@ -124,8 +124,6 @@ StatusType Statistics::GetBestFruit(int i, int j, int *fruitID) {
 StatusType Statistics::GetAllFruitsByRate(int i, int j, int **fruits,
 		int *numOfFruits) {
 	try {
-//		if (i==3 && j==3) // TODO: debugging
-//				cout << "E=MC^2" << endl;
 
 		Plant* plant = orchard.GetPlant(i, j);
 		int size = plant->GetSize();

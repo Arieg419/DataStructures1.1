@@ -1,1347 +1,811 @@
 Init done.
+PlantTree: SUCCESS
+GetBestFruit: FAILURE
+GetBestFruit: FAILURE
+AddFruit: FAILURE
+GetBestFruit: FAILURE
 PickFruit: FAILURE
-RateFruit: FAILURE
+PlantTree: SUCCESS
+GetAllFruitsByRate: FAILURE
 RateFruit: FAILURE
 AddFruit: FAILURE
+GetBestFruit: FAILURE
+AddFruit: INVALID_INPUT
+AddFruit: FAILURE
+GetAllFruitsByRate: FAILURE
+AddFruit: FAILURE
+PickFruit: FAILURE
+PlantTree: SUCCESS
+AddFruit: FAILURE
+PickFruit: FAILURE
+RateFruit: INVALID_INPUT
+RateFruit: FAILURE
+and that's all!
+GetAllFruitsByRate: FAILURE
+GetAllFruitsByRate: FAILURE
+AddFruit: INVALID_INPUT
+PickFruit: FAILURE
+RateFruit: FAILURE
+GetBestFruit: FAILURE
+AddFruit: FAILURE
+PickFruit: FAILURE
+PlantTree: INVALID_INPUT
+AddFruit: FAILURE
+PickFruit: INVALID_INPUT
+AddFruit: FAILURE
+AddFruit: FAILURE
+PlantTree: SUCCESS
+PickFruit: FAILURE
 RateFruit: FAILURE
 GetAllFruitsByRate: FAILURE
 PickFruit: FAILURE
-GetBestFruit: FAILURE
+RateFruit: FAILURE
 AddFruit: INVALID_INPUT
+and that's all!
+GetAllFruitsByRate: FAILURE
+PickFruit: FAILURE
+AddFruit: FAILURE
+AddFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+PickFruit: FAILURE
+GetAllFruitsByRate: FAILURE
+GetAllFruitsByRate: FAILURE
+AddFruit: FAILURE
 GetBestFruit: FAILURE
-AddFruit: INVALID_INPUT
+AddFruit: FAILURE
+GetAllFruitsByRate: FAILURE
+GetAllFruitsByRate: FAILURE
 PlantTree: SUCCESS
+AddFruit: SUCCESS
+PlantTree: INVALID_INPUT
+RateFruit: FAILURE
+PickFruit: FAILURE
+PickFruit: FAILURE
+and that's all!
+AddFruit: SUCCESS
+GetAllFruitsByRate: FAILURE
+PlantTree: FAILURE
+GetAllFruitsByRate: FAILURE
+PickFruit: FAILURE
+GetBestFruit: FAILURE
+AddFruit: FAILURE
+PickFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+AddFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: INVALID_INPUT
+UpdateRottenFruits: INVALID_INPUT
+PlantTree: INVALID_INPUT
+PlantTree: FAILURE
+GetAllFruitsByRate: FAILURE
+GetAllFruitsByRate: FAILURE
+PickFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+GetAllFruitsByRate: FAILURE
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
+PickFruit: FAILURE
+PlantTree: INVALID_INPUT
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
+AddFruit: FAILURE
 RateFruit: FAILURE
 AddFruit: SUCCESS
 AddFruit: FAILURE
-PickFruit: FAILURE
-RateFruit: FAILURE
+PlantTree: FAILURE
+PlantTree: FAILURE
 AddFruit: FAILURE
-AddFruit: FAILURE
-PickFruit: FAILURE
-GetAllFruitsByRate: FAILURE
-RateFruit: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
-GetBestFruit: INVALID_INPUT
-RateFruit: FAILURE
-AddFruit: FAILURE
-PickFruit: FAILURE
-PlantTree: SUCCESS
-GetAllFruitsByRate: FAILURE
-RateFruit: FAILURE
-AddFruit: FAILURE
-PickFruit: FAILURE
-GetBestFruit: INVALID_INPUT
-GetAllFruitsByRate: INVALID_INPUT
-RateFruit: FAILURE
-PickFruit: FAILURE
-AddFruit: FAILURE
-AddFruit: FAILURE
-PickFruit: FAILURE
 AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+PlantTree: INVALID_INPUT
+AddFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: SUCCESS
+RateFruit: FAILURE
+PlantTree: INVALID_INPUT
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+PickFruit: FAILURE
 GetAllFruitsByRate: FAILURE
 RateFruit: FAILURE
-GetBestFruit: FAILURE
-AddFruit: FAILURE
 RateFruit: FAILURE
-AddFruit: FAILURE
-PlantTree: SUCCESS
+AddFruit: SUCCESS
+PickFruit: FAILURE
+GetBestFruit: FAILURE
+AddFruit: SUCCESS
 GetBestFruit: INVALID_INPUT
 GetAllFruitsByRate: INVALID_INPUT
 PlantTree: SUCCESS
-AddFruit: FAILURE
 GetAllFruitsByRate: INVALID_INPUT
+PickFruit: FAILURE
+GetBestFruit: FAILURE
+AddFruit: INVALID_INPUT
 RateFruit: FAILURE
 RateFruit: FAILURE
+AddFruit: FAILURE
+GetBestFruit: FAILURE
+GetBestFruit: FAILURE
+GetAllFruitsByRate: FAILURE
+GetAllFruitsByRate: FAILURE
+PickFruit: SUCCESS
+PickFruit: FAILURE
+PickFruit: SUCCESS
 AddFruit: INVALID_INPUT
 PlantTree: INVALID_INPUT
 PlantTree: SUCCESS
-AddFruit: INVALID_INPUT
-AddFruit: FAILURE
-and that's all!
-RateFruit: FAILURE
-AddFruit: FAILURE
+GetAllFruitsByRate: FAILURE
 GetBestFruit: FAILURE
-AddFruit: SUCCESS
-AddFruit: FAILURE
-RateFruit: FAILURE
-AddFruit: SUCCESS
+PlantTree: FAILURE
 AddFruit: INVALID_INPUT
-RateFruit: FAILURE
-AddFruit: INVALID_INPUT
-AddFruit: FAILURE
 AddFruit: FAILURE
 PickFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+PickFruit: FAILURE
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+Best fruit is: 7
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+AddFruit: INVALID_INPUT
+GetBestFruit: FAILURE
+PlantTree: INVALID_INPUT
+RateFruit: FAILURE
+RateFruit: INVALID_INPUT
+PlantTree: SUCCESS
+AddFruit: SUCCESS
+PickFruit: FAILURE
+RateFruit: FAILURE
+PlantTree: FAILURE
+PickFruit: SUCCESS
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+RateFruit: FAILURE
+PlantTree: SUCCESS
+PlantTree: INVALID_INPUT
+Best fruit is: 36
+Best fruit is: -1
+PlantTree: INVALID_INPUT
+PlantTree: SUCCESS
+GetAllFruitsByRate: FAILURE
+PickFruit: FAILURE
+AddFruit: SUCCESS
+RateFruit: FAILURE
+PickFruit: FAILURE
+RateFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: FAILURE
+RateFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+Best fruit is: 36
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: INVALID_INPUT
+GetAllFruitsByRate: FAILURE
+AddFruit: SUCCESS
+PickFruit: SUCCESS
+PickFruit: FAILURE
+AddFruit: SUCCESS
+PlantTree: SUCCESS
 and that's all!
+GetAllFruitsByRate: FAILURE
+PickFruit: FAILURE
+AddFruit: FAILURE
+AddFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+PickFruit: FAILURE
+RateFruit: FAILURE
+AddFruit: FAILURE
+PlantTree: FAILURE
+GetBestFruit: INVALID_INPUT
+PickFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+PlantTree: FAILURE
+PickFruit: FAILURE
+AddFruit: FAILURE
+RateFruit: FAILURE
+Best fruit is: 19
+PickFruit: INVALID_INPUT
+GetAllFruitsByRate: FAILURE
+PickFruit: FAILURE
+RateFruit: FAILURE
 GetAllFruitsByRate: INVALID_INPUT
 PickFruit: FAILURE
+RateFruit: FAILURE
+RateFruit: FAILURE
+RateFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: INVALID_INPUT
+AddFruit: INVALID_INPUT
 AddFruit: SUCCESS
-PickFruit: FAILURE
-Best fruit is: 15
-GetBestFruit: FAILURE
-PickFruit: FAILURE
-GetBestFruit: FAILURE
-PickFruit: FAILURE
-GetBestFruit: FAILURE
-AddFruit: FAILURE
-GetBestFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: SUCCESS
+and that's all!
+PlantTree: FAILURE
 PlantTree: SUCCESS
+PlantTree: INVALID_INPUT
 PickFruit: FAILURE
 RateFruit: FAILURE
+and that's all!
+PlantTree: FAILURE
 RateFruit: FAILURE
+PickFruit: SUCCESS
+PlantTree: INVALID_INPUT
 PickFruit: FAILURE
-RateFruit: INVALID_INPUT
-RateFruit: INVALID_INPUT
-PickFruit: FAILURE
-PickFruit: FAILURE
+AddFruit: SUCCESS
+and that's all!
+AddFruit: INVALID_INPUT
+and that's all!
+PlantTree: FAILURE
+and that's all!
 RateFruit: FAILURE
+AddFruit: FAILURE
+RateFruit: SUCCESS
+PlantTree: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: FAILURE
+AddFruit: SUCCESS
+and that's all!
+PlantTree: INVALID_INPUT
+AddFruit: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: SUCCESS
+PlantTree: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+RateFruit: FAILURE
+AddFruit: INVALID_INPUT
+PickFruit: FAILURE
+RateFruit: SUCCESS
+PlantTree: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+and that's all!
+PickFruit: FAILURE
+PlantTree: SUCCESS
+RateFruit: SUCCESS
+AddFruit: FAILURE
+RateFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: FAILURE
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+PlantTree: INVALID_INPUT
+PlantTree: SUCCESS
+PlantTree: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: SUCCESS
+PlantTree: INVALID_INPUT
+PickFruit: FAILURE
+PickFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+Best fruit is: 78
+AddFruit: FAILURE
+PlantTree: INVALID_INPUT
+and that's all!
+AddFruit: SUCCESS
+PlantTree: SUCCESS
+Best fruit is: 30
+AddFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+Best fruit is: 19
+AddFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+and that's all!
+PlantTree: FAILURE
+PlantTree: FAILURE
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+and that's all!
+GetAllFruitsByRate: INVALID_INPUT
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+Best fruit is: -1
+GetBestFruit: INVALID_INPUT
+PickFruit: FAILURE
+PlantTree: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+AddFruit: SUCCESS
+PickFruit: FAILURE
+PlantTree: FAILURE
+RateFruit: FAILURE
+AddFruit: SUCCESS
+PlantTree: INVALID_INPUT
+AddFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+RateFruit: SUCCESS
+PickFruit: FAILURE
+PickFruit: FAILURE
+PickFruit: FAILURE
+AddFruit: SUCCESS
+AddFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: SUCCESS
+PickFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+and that's all!
+AddFruit: SUCCESS
+RateFruit: FAILURE
+AddFruit: FAILURE
+AddFruit: SUCCESS
+and that's all!
+Best fruit is: 28
+PlantTree: INVALID_INPUT
+RateFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+PickFruit: FAILURE
+PickFruit: INVALID_INPUT
+PickFruit: SUCCESS
+RateFruit: FAILURE
+AddFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+RateFruit: FAILURE
+AddFruit: FAILURE
+AddFruit: SUCCESS
+and that's all!
+AddFruit: SUCCESS
+PickFruit: FAILURE
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
+UpdateRottenFruits: INVALID_INPUT
 AddFruit: SUCCESS
 and that's all!
 and that's all!
-GetBestFruit: FAILURE
-AddFruit: SUCCESS
-GetAllFruitsByRate: FAILURE
+PlantTree: INVALID_INPUT
+AddFruit: FAILURE
+PlantTree: INVALID_INPUT
+RateFruit: SUCCESS
+Best fruit is: -1
 AddFruit: INVALID_INPUT
+Best fruit is: 48
+PlantTree: INVALID_INPUT
 RateFruit: FAILURE
-AddFruit: FAILURE
 AddFruit: INVALID_INPUT
-AddFruit: FAILURE
+PlantTree: INVALID_INPUT
+PickFruit: FAILURE
+and that's all!
+and that's all!
+Best fruit is: 14
+PlantTree: FAILURE
+PlantTree: INVALID_INPUT
+PickFruit: SUCCESS
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: FAILURE
+Best fruit is: -1
+Best fruit is: 14
+AddFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+RateFruit: SUCCESS
 RateFruit: FAILURE
 PickFruit: INVALID_INPUT
-Best fruit is: 32
-AddFruit: FAILURE
-Best fruit is: -1
-AddFruit: FAILURE
-GetAllFruitsByRate: FAILURE
-RateFruit: FAILURE
-AddFruit: FAILURE
-AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+AddFruit: SUCCESS
 PlantTree: FAILURE
-GetAllFruitsByRate: FAILURE
+Best fruit is: 65
+GetBestFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+Best fruit is: 76
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+and that's all!
+PlantTree: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
 RateFruit: FAILURE
 GetBestFruit: INVALID_INPUT
+PlantTree: FAILURE
+PlantTree: INVALID_INPUT
+PlantTree: FAILURE
+PlantTree: FAILURE
+PlantTree: FAILURE
 GetBestFruit: INVALID_INPUT
 AddFruit: FAILURE
-RateFruit: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
-PlantTree: INVALID_INPUT
-AddFruit: INVALID_INPUT
-RateFruit: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
-PlantTree: SUCCESS
-GetAllFruitsByRate: FAILURE
-RateFruit: FAILURE
-PickFruit: FAILURE
-RateFruit: SUCCESS
-GetBestFruit: FAILURE
-AddFruit: INVALID_INPUT
-PickFruit: FAILURE
-PickFruit: FAILURE
+and that's all!
 PlantTree: FAILURE
-AddFruit: SUCCESS
-Best fruit is: 43
-AddFruit: SUCCESS
-PlantTree: SUCCESS
 PickFruit: FAILURE
-AddFruit: SUCCESS
-PickFruit: FAILURE
-PlantTree: SUCCESS
-RateFruit: FAILURE
-PlantTree: INVALID_INPUT
-GetAllFruitsByRate: INVALID_INPUT
-Best fruit is: -1
-GetAllFruitsByRate: INVALID_INPUT
-PickFruit: FAILURE
-PickFruit: FAILURE
-PlantTree: FAILURE
-GetBestFruit: FAILURE
-PlantTree: INVALID_INPUT
-PlantTree: FAILURE
-AddFruit: INVALID_INPUT
-AddFruit: SUCCESS
-RateFruit: FAILURE
 GetBestFruit: INVALID_INPUT
 PickFruit: FAILURE
-PickFruit: FAILURE
 AddFruit: INVALID_INPUT
-PlantTree: FAILURE
-AddFruit: SUCCESS
-AddFruit: SUCCESS
-PlantTree: FAILURE
-AddFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-PlantTree: FAILURE
-Best fruit is: 93
-RateFruit: FAILURE
-and that's all!
-RateFruit: FAILURE
-GetBestFruit: INVALID_INPUT
-PickFruit: FAILURE
-GetBestFruit: INVALID_INPUT
-PickFruit: SUCCESS
-AddFruit: SUCCESS
-RateFruit: FAILURE
-GetAllFruitsByRate: FAILURE
-PickFruit: FAILURE
-AddFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-AddFruit: FAILURE
-AddFruit: FAILURE
 PlantTree: INVALID_INPUT
-AddFruit: SUCCESS
-PlantTree: SUCCESS
-AddFruit: INVALID_INPUT
-PickFruit: FAILURE
-and that's all!
-AddFruit: FAILURE
-RateFruit: FAILURE
-PickFruit: FAILURE
-and that's all!
-and that's all!
-PlantTree: SUCCESS
-RateFruit: FAILURE
-PlantTree: FAILURE
-GetBestFruit: FAILURE
-RateFruit: FAILURE
-PlantTree: INVALID_INPUT
-GetBestFruit: INVALID_INPUT
-PlantTree: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
-PlantTree: INVALID_INPUT
-AddFruit: SUCCESS
-AddFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-PickFruit: FAILURE
-RateFruit: FAILURE
-PickFruit: FAILURE
-RateFruit: FAILURE
-PickFruit: FAILURE
-AddFruit: FAILURE
-Best fruit is: 62
-PlantTree: INVALID_INPUT
-PlantTree: FAILURE
-PickFruit: FAILURE
-PlantTree: FAILURE
-RateFruit: FAILURE
-AddFruit: FAILURE
-RateFruit: FAILURE
-GetBestFruit: FAILURE
-and that's all!
-PickFruit: FAILURE
-AddFruit: SUCCESS
-PlantTree: FAILURE
-PlantTree: INVALID_INPUT
-PlantTree: INVALID_INPUT
-PickFruit: SUCCESS
-PickFruit: FAILURE
-AddFruit: INVALID_INPUT
-AddFruit: FAILURE
-AddFruit: FAILURE
-RateFruit: FAILURE
-AddFruit: INVALID_INPUT
-AddFruit: SUCCESS
-GetBestFruit: INVALID_INPUT
-RateFruit: SUCCESS
-Best fruit is: 89
-PlantTree: INVALID_INPUT
-AddFruit: INVALID_INPUT
-AddFruit: SUCCESS
-RateFruit: FAILURE
-AddFruit: SUCCESS
-AddFruit: SUCCESS
-GetAllFruitsByRate: INVALID_INPUT
-Best fruit is: 62
-PlantTree: INVALID_INPUT
-RateFruit: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
-RateFruit: FAILURE
-RateFruit: FAILURE
-PlantTree: SUCCESS
-Best fruit is: -1
-RateFruit: FAILURE
-and that's all!
-Best fruit is: 66
-PickFruit: FAILURE
-AddFruit: SUCCESS
-AddFruit: FAILURE
-PlantTree: FAILURE
-and that's all!
-and that's all!
-AddFruit: FAILURE
-PickFruit: FAILURE
-GetBestFruit: INVALID_INPUT
-AddFruit: SUCCESS
-PickFruit: SUCCESS
-PlantTree: FAILURE
-AddFruit: SUCCESS
-and that's all!
-AddFruit: SUCCESS
 Best fruit is: 30
+PlantTree: FAILURE
 and that's all!
-RateFruit: FAILURE
-AddFruit: FAILURE
 AddFruit: INVALID_INPUT
 AddFruit: INVALID_INPUT
-GetAllFruitsByRate: FAILURE
-AddFruit: SUCCESS
-PlantTree: SUCCESS
+GetBestFruit: INVALID_INPUT
+and that's all!
+GetAllFruitsByRate: INVALID_INPUT
 PickFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+Best fruit is: 93
+Best fruit is: 90
+Best fruit is: 65
+PlantTree: FAILURE
+PickFruit: FAILURE
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+Best fruit is: 52
+RateFruit: SUCCESS
+PickFruit: SUCCESS
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+PickFruit: FAILURE
+PickFruit: SUCCESS
+PickFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+PlantTree: FAILURE
+Best fruit is: -1
+PlantTree: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+PickFruit: FAILURE
+RateFruit: FAILURE
+AddFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+GetAllFruitsByRate: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: SUCCESS
+PickFruit: FAILURE
+AddFruit: FAILURE
+PlantTree: FAILURE
+RateFruit: FAILURE
+and that's all!
 PlantTree: INVALID_INPUT
 RateFruit: INVALID_INPUT
-PickFruit: FAILURE
-PlantTree: FAILURE
-AddFruit: SUCCESS
-Best fruit is: 11
-RateFruit: FAILURE
-AddFruit: INVALID_INPUT
-Best fruit is: 93
-RateFruit: FAILURE
+PickFruit: INVALID_INPUT
 PlantTree: INVALID_INPUT
-PlantTree: FAILURE
-AddFruit: SUCCESS
-PickFruit: SUCCESS
-AddFruit: SUCCESS
-GetBestFruit: FAILURE
-PlantTree: FAILURE
-PickFruit: SUCCESS
-GetBestFruit: FAILURE
-RateFruit: FAILURE
-GetBestFruit: INVALID_INPUT
-RateFruit: FAILURE
-AddFruit: INVALID_INPUT
 PickFruit: FAILURE
-Best fruit is: 58
-RateFruit: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
-AddFruit: SUCCESS
-PlantTree: FAILURE
-PickFruit: FAILURE
-Best fruit is: 10
-PlantTree: SUCCESS
-RateFruit: FAILURE
-AddFruit: INVALID_INPUT
-PlantTree: INVALID_INPUT
-RateFruit: FAILURE
-RateFruit: SUCCESS
-AddFruit: SUCCESS
-RateFruit: FAILURE
 AddFruit: FAILURE
+Best fruit is: 14
+GetAllFruitsByRate: INVALID_INPUT
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+AddFruit: INVALID_INPUT
 PickFruit: FAILURE
 RateFruit: FAILURE
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+AddFruit: FAILURE
+and that's all!
 PlantTree: INVALID_INPUT
-RateFruit: SUCCESS
-PlantTree: SUCCESS
+Best fruit is: 72
+Best fruit is: 14
+PickFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PlantTree: FAILURE
 and that's all!
 AddFruit: INVALID_INPUT
+Best fruit is: -1
+PickFruit: SUCCESS
+Best fruit is: 8
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+and that's all!
+AddFruit: FAILURE
+PlantTree: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+PickFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+PickFruit: FAILURE
+RateFruit: FAILURE
+PickFruit: FAILURE
+RateFruit: SUCCESS
+RateFruit: FAILURE
 AddFruit: INVALID_INPUT
 Best fruit is: 35
+RateFruit: SUCCESS
+and that's all!
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+RateFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
+Best fruit is: 91
+AddFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+and that's all!
+PickFruit: FAILURE
+and that's all!
 RateFruit: INVALID_INPUT
-PlantTree: FAILURE
-and that's all!
-PickFruit: SUCCESS
-AddFruit: INVALID_INPUT
-GetAllFruitsByRate: INVALID_INPUT
-GetAllFruitsByRate: INVALID_INPUT
-GetAllFruitsByRate: INVALID_INPUT
-and that's all!
-AddFruit: INVALID_INPUT
-RateFruit: FAILURE
-and that's all!
-PlantTree: FAILURE
-AddFruit: FAILURE
-PlantTree: INVALID_INPUT
-GetAllFruitsByRate: INVALID_INPUT
-PickFruit: FAILURE
-AddFruit: SUCCESS
-PlantTree: FAILURE
-GetBestFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-AddFruit: SUCCESS
-AddFruit: SUCCESS
-PickFruit: FAILURE
-AddFruit: INVALID_INPUT
-PlantTree: FAILURE
-PlantTree: FAILURE
-PickFruit: FAILURE
-AddFruit: INVALID_INPUT
-PickFruit: SUCCESS
-AddFruit: FAILURE
-UpdateRottenFruits: INVALID_INPUT
-PlantTree: FAILURE
-RateFruit: FAILURE
-RateFruit: FAILURE
-PickFruit: SUCCESS
-AddFruit: SUCCESS
-AddFruit: SUCCESS
-GetAllFruitsByRate: INVALID_INPUT
-GetAllFruitsByRate: INVALID_INPUT
-AddFruit: INVALID_INPUT
-and that's all!
-and that's all!
-PickFruit: FAILURE
-and that's all!
-RateFruit: SUCCESS
-AddFruit: INVALID_INPUT
-GetBestFruit: FAILURE
-and that's all!
-AddFruit: INVALID_INPUT
-RateFruit: SUCCESS
-PlantTree: FAILURE
-RateFruit: SUCCESS
-Best fruit is: 22
-RateFruit: SUCCESS
-PickFruit: FAILURE
-Best fruit is: 22
-PlantTree: FAILURE
-PlantTree: INVALID_INPUT
-AddFruit: SUCCESS
-PlantTree: FAILURE
 Best fruit is: 30
+and that's all!
+Best fruit is: 35
+AddFruit: FAILURE
+AddFruit: SUCCESS
 PlantTree: FAILURE
-PlantTree: FAILURE
-PickFruit: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
-Best fruit is: 58
 RateFruit: FAILURE
-AddFruit: SUCCESS
-GetAllFruitsByRate: FAILURE
-PickFruit: SUCCESS
-AddFruit: SUCCESS
-AddFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
 PickFruit: FAILURE
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+RateFruit: FAILURE
 and that's all!
 RateFruit: FAILURE
+PlantTree: FAILURE
+Best fruit is: 35
+PickFruit: FAILURE
+RateFruit: FAILURE
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+RateFruit: FAILURE
+RateFruit: FAILURE
+PickFruit: FAILURE
+RateFruit: SUCCESS
+RateFruit: SUCCESS
+PickFruit: SUCCESS
+GetBestFruit: INVALID_INPUT
+RateFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: INVALID_INPUT
+AddFruit: INVALID_INPUT
+and that's all!
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+RateFruit: FAILURE
+RateFruit: SUCCESS
+RateFruit: FAILURE
+Best fruit is: 17
+AddFruit: INVALID_INPUT
+PickFruit: FAILURE
+GetBestFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+AddFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+RateFruit: FAILURE
+AddFruit: SUCCESS
+PickFruit: FAILURE
+RateFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PickFruit: INVALID_INPUT
+RateFruit: FAILURE
+AddFruit: INVALID_INPUT
+RateFruit: SUCCESS
+GetBestFruit: INVALID_INPUT
+and that's all!
+RateFruit: FAILURE
+AddFruit: FAILURE
+PickFruit: FAILURE
+RateFruit: SUCCESS
+AddFruit: INVALID_INPUT
+and that's all!
+RateFruit: FAILURE
+AddFruit: SUCCESS
+PickFruit: SUCCESS
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
+and that's all!
 GetAllFruitsByRate: INVALID_INPUT
 AddFruit: INVALID_INPUT
-Best fruit is: 62
-Best fruit is: 62
-Best fruit is: 11
 Best fruit is: -1
-PlantTree: INVALID_INPUT
-AddFruit: FAILURE
+PickFruit: SUCCESS
+Best fruit is: 78
+Best fruit is: -1
 Best fruit is: 33
-PickFruit: FAILURE
 AddFruit: FAILURE
-AddFruit: FAILURE
-PlantTree: INVALID_INPUT
-PickFruit: FAILURE
-RateFruit: INVALID_INPUT
-PickFruit: SUCCESS
 AddFruit: INVALID_INPUT
-PickFruit: FAILURE
-Best fruit is: 74
-RateFruit: FAILURE
+GetBestFruit: INVALID_INPUT
 GetAllFruitsByRate: INVALID_INPUT
+RateFruit: FAILURE
+RateFruit: SUCCESS
+and that's all!
 PickFruit: FAILURE
+PickFruit: FAILURE
+AddFruit: SUCCESS
 PlantTree: FAILURE
 AddFruit: SUCCESS
 Best fruit is: -1
-AddFruit: INVALID_INPUT
-AddFruit: SUCCESS
-AddFruit: SUCCESS
-PickFruit: SUCCESS
-and that's all!
-AddFruit: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
-AddFruit: FAILURE
-RateFruit: FAILURE
-PickFruit: SUCCESS
-RateFruit: FAILURE
-AddFruit: SUCCESS
-PlantTree: FAILURE
 PickFruit: FAILURE
-Best fruit is: 74
-and that's all!
-PickFruit: FAILURE
-AddFruit: SUCCESS
-and that's all!
-RateFruit: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
-PlantTree: INVALID_INPUT
-AddFruit: SUCCESS
-PlantTree: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
-AddFruit: SUCCESS
-AddFruit: SUCCESS
-PlantTree: FAILURE
-AddFruit: INVALID_INPUT
-AddFruit: FAILURE
-PlantTree: INVALID_INPUT
-PickFruit: SUCCESS
 and that's all!
 AddFruit: INVALID_INPUT
-PlantTree: FAILURE
-GetBestFruit: FAILURE
-PlantTree: INVALID_INPUT
-AddFruit: SUCCESS
-AddFruit: INVALID_INPUT
-PlantTree: INVALID_INPUT
-AddFruit: SUCCESS
-PlantTree: FAILURE
-AddFruit: INVALID_INPUT
-AddFruit: SUCCESS
-and that's all!
-PlantTree: FAILURE
-and that's all!
-AddFruit: INVALID_INPUT
-PickFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-RateFruit: SUCCESS
-GetAllFruitsByRate: FAILURE
-PlantTree: FAILURE
-Best fruit is: 49
-and that's all!
-PlantTree: INVALID_INPUT
-RateFruit: SUCCESS
-PlantTree: INVALID_INPUT
-PickFruit: FAILURE
-PickFruit: FAILURE
-AddFruit: SUCCESS
-Best fruit is: 90
-AddFruit: SUCCESS
-AddFruit: INVALID_INPUT
-PickFruit: FAILURE
-AddFruit: SUCCESS
-AddFruit: INVALID_INPUT
-RateFruit: SUCCESS
-RateFruit: FAILURE
-PlantTree: FAILURE
-AddFruit: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
-GetAllFruitsByRate: INVALID_INPUT
-PickFruit: INVALID_INPUT
 AddFruit: SUCCESS
 GetBestFruit: INVALID_INPUT
-GetAllFruitsByRate: INVALID_INPUT
-and that's all!
-AddFruit: INVALID_INPUT
 AddFruit: SUCCESS
-RateFruit: FAILURE
-AddFruit: FAILURE
+PickFruit: FAILURE
 GetBestFruit: INVALID_INPUT
+PickFruit: FAILURE
+PickFruit: SUCCESS
 AddFruit: INVALID_INPUT
-Best fruit is: 49
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
 GetBestFruit: INVALID_INPUT
-and that's all!
-AddFruit: INVALID_INPUT
-GetAllFruitsByRate: INVALID_INPUT
-AddFruit: SUCCESS
-RateFruit: SUCCESS
-AddFruit: INVALID_INPUT
-AddFruit: FAILURE
-AddFruit: FAILURE
-GetAllFruitsByRate: FAILURE
-AddFruit: INVALID_INPUT
-RateFruit: SUCCESS
 PlantTree: INVALID_INPUT
-GetBestFruit: FAILURE
-PickFruit: SUCCESS
-RateFruit: SUCCESS
-RateFruit: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
-PickFruit: FAILURE
-RateFruit: SUCCESS
-PickFruit: FAILURE
-PickFruit: FAILURE
-PickFruit: SUCCESS
-PickFruit: FAILURE
-AddFruit: INVALID_INPUT
-RateFruit: FAILURE
-AddFruit: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
-GetBestFruit: INVALID_INPUT
-GetAllFruitsByRate: INVALID_INPUT
-RateFruit: SUCCESS
-RateFruit: FAILURE
-RateFruit: FAILURE
-Best fruit is: 49
-AddFruit: INVALID_INPUT
-AddFruit: SUCCESS
-PlantTree: SUCCESS
-PlantTree: FAILURE
 and that's all!
-AddFruit: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
-PlantTree: FAILURE
-PickFruit: FAILURE
-PickFruit: INVALID_INPUT
-AddFruit: FAILURE
-and that's all!
-PickFruit: SUCCESS
-AddFruit: SUCCESS
-Best fruit is: 20
-PlantTree: FAILURE
-and that's all!
-AddFruit: FAILURE
-PlantTree: INVALID_INPUT
-GetBestFruit: INVALID_INPUT
-RateFruit: FAILURE
-Best fruit is: 19
-AddFruit: SUCCESS
-RateFruit: FAILURE
-RateFruit: SUCCESS
-GetAllFruitsByRate: INVALID_INPUT
-GetAllFruitsByRate: INVALID_INPUT
-GetBestFruit: INVALID_INPUT
-PickFruit: SUCCESS
-RateFruit: INVALID_INPUT
-and that's all!
-GetAllFruitsByRate: INVALID_INPUT
-PlantTree: INVALID_INPUT
-RateFruit: FAILURE
-AddFruit: INVALID_INPUT
-AddFruit: SUCCESS
-PickFruit: FAILURE
-RateFruit: FAILURE
-Best fruit is: -1
-RateFruit: SUCCESS
-GetAllFruitsByRate: INVALID_INPUT
-AddFruit: INVALID_INPUT
-PickFruit: SUCCESS
-AddFruit: FAILURE
-PickFruit: SUCCESS
-PickFruit: FAILURE
-and that's all!
-AddFruit: FAILURE
-PlantTree: FAILURE
-AddFruit: SUCCESS
-AddFruit: SUCCESS
-and that's all!
-Best fruit is: 90
-RateFruit: SUCCESS
-PlantTree: FAILURE
-and that's all!
-RateFruit: SUCCESS
-PlantTree: FAILURE
-AddFruit: INVALID_INPUT
-GetAllFruitsByRate: INVALID_INPUT
-GetAllFruitsByRate: INVALID_INPUT
-AddFruit: FAILURE
-PickFruit: INVALID_INPUT
-AddFruit: SUCCESS
-PickFruit: SUCCESS
-Best fruit is: 90
-AddFruit: FAILURE
-RateFruit: FAILURE
-PlantTree: FAILURE
-PickFruit: FAILURE
-AddFruit: FAILURE
-AddFruit: INVALID_INPUT
 Best fruit is: -1
 AddFruit: FAILURE
-PickFruit: SUCCESS
-PickFruit: FAILURE
-AddFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
 AddFruit: SUCCESS
-AddFruit: INVALID_INPUT
-PickFruit: FAILURE
 RateFruit: FAILURE
-GetBestFruit: INVALID_INPUT
-and that's all!
-Best fruit is: 90
-AddFruit: FAILURE
-RateFruit: INVALID_INPUT
-RateFruit: FAILURE
-PlantTree: FAILURE
-AddFruit: INVALID_INPUT
-AddFruit: FAILURE
-AddFruit: SUCCESS
-PlantTree: FAILURE
-and that's all!
-PickFruit: SUCCESS
-GetBestFruit: INVALID_INPUT
-and that's all!
-AddFruit: SUCCESS
 GetAllFruitsByRate: INVALID_INPUT
 PickFruit: FAILURE
-AddFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-AddFruit: FAILURE
-Best fruit is: 49
-PickFruit: SUCCESS
-Best fruit is: 20
-Best fruit is: 74
 AddFruit: SUCCESS
-PlantTree: FAILURE
-AddFruit: FAILURE
-AddFruit: INVALID_INPUT
-Best fruit is: 7
-GetAllFruitsByRate: INVALID_INPUT
-and that's all!
-AddFruit: FAILURE
-AddFruit: SUCCESS
-PlantTree: FAILURE
-PickFruit: SUCCESS
-GetBestFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-GetBestFruit: INVALID_INPUT
-RateFruit: FAILURE
-RateFruit: SUCCESS
-PlantTree: INVALID_INPUT
-AddFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-GetBestFruit: INVALID_INPUT
-PlantTree: INVALID_INPUT
-GetAllFruitsByRate: INVALID_INPUT
-and that's all!
-AddFruit: INVALID_INPUT
-AddFruit: SUCCESS
-RateFruit: FAILURE
-and that's all!
-RateFruit: SUCCESS
-AddFruit: SUCCESS
-and that's all!
-AddFruit: INVALID_INPUT
-GetAllFruitsByRate: INVALID_INPUT
-PickFruit: SUCCESS
-PickFruit: FAILURE
-AddFruit: INVALID_INPUT
-PlantTree: FAILURE
-and that's all!
-RateFruit: SUCCESS
-AddFruit: FAILURE
-Best fruit is: 7
-PickFruit: FAILURE
-and that's all!
-AddFruit: SUCCESS
-PlantTree: FAILURE
-AddFruit: SUCCESS
-PlantTree: FAILURE
-AddFruit: SUCCESS
-AddFruit: FAILURE
-Best fruit is: 74
-PickFruit: SUCCESS
-AddFruit: SUCCESS
-RateFruit: INVALID_INPUT
-GetAllFruitsByRate: INVALID_INPUT
-AddFruit: SUCCESS
-RateFruit: FAILURE
-RateFruit: SUCCESS
-GetAllFruitsByRate: INVALID_INPUT
-AddFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-PlantTree: INVALID_INPUT
-AddFruit: SUCCESS
-GetAllFruitsByRate: INVALID_INPUT
-and that's all!
-AddFruit: FAILURE
-and that's all!
-PlantTree: INVALID_INPUT
-AddFruit: SUCCESS
-AddFruit: INVALID_INPUT
-Best fruit is: 90
-AddFruit: INVALID_INPUT
-PickFruit: SUCCESS
-and that's all!
-PlantTree: FAILURE
-AddFruit: FAILURE
-and that's all!
-AddFruit: FAILURE
-RateFruit: SUCCESS
-RateFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-AddFruit: FAILURE
-GetBestFruit: INVALID_INPUT
-RateFruit: SUCCESS
-PlantTree: FAILURE
-RateFruit: SUCCESS
-Best fruit is: 35
-PlantTree: FAILURE
-RateFruit: FAILURE
-GetBestFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-PlantTree: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
-GetBestFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-AddFruit: SUCCESS
-PickFruit: FAILURE
-and that's all!
-PickFruit: SUCCESS
-Best fruit is: 54
-AddFruit: INVALID_INPUT
-PickFruit: SUCCESS
-AddFruit: FAILURE
-AddFruit: SUCCESS
-Best fruit is: 90
-RateFruit: FAILURE
-PickFruit: SUCCESS
-and that's all!
-AddFruit: SUCCESS
-Best fruit is: 43
-PlantTree: FAILURE
-AddFruit: SUCCESS
-Best fruit is: 29
-PlantTree: FAILURE
-RateFruit: SUCCESS
-and that's all!
-AddFruit: INVALID_INPUT
-PlantTree: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
-Best fruit is: 54
-GetAllFruitsByRate: INVALID_INPUT
-Best fruit is: 51
-PlantTree: INVALID_INPUT
-and that's all!
-RateFruit: FAILURE
-GetBestFruit: INVALID_INPUT
-PlantTree: FAILURE
-PickFruit: SUCCESS
-AddFruit: SUCCESS
-AddFruit: INVALID_INPUT
-AddFruit: FAILURE
-PickFruit: FAILURE
-and that's all!
-AddFruit: INVALID_INPUT
-AddFruit: SUCCESS
-and that's all!
-AddFruit: FAILURE
-AddFruit: SUCCESS
-AddFruit: SUCCESS
-PlantTree: INVALID_INPUT
-Best fruit is: 85
-AddFruit: INVALID_INPUT
-AddFruit: FAILURE
 Best fruit is: -1
+and that's all!
+and that's all!
 AddFruit: FAILURE
-AddFruit: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
-PlantTree: FAILURE
-AddFruit: INVALID_INPUT
-PickFruit: SUCCESS
-PlantTree: FAILURE
-AddFruit: INVALID_INPUT
-PlantTree: FAILURE
-AddFruit: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
-PlantTree: FAILURE
-AddFruit: INVALID_INPUT
 RateFruit: SUCCESS
-GetAllFruitsByRate: INVALID_INPUT
-RateFruit: FAILURE
-PlantTree: INVALID_INPUT
-PlantTree: FAILURE
-PickFruit: FAILURE
-PlantTree: FAILURE
-PickFruit: FAILURE
 AddFruit: INVALID_INPUT
-PlantTree: FAILURE
-PlantTree: INVALID_INPUT
-Best fruit is: 54
 PickFruit: FAILURE
 PickFruit: FAILURE
-AddFruit: FAILURE
+PickFruit: SUCCESS
 AddFruit: SUCCESS
+PlantTree: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: SUCCESS
+Best fruit is: 17
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+and that's all!
+PlantTree: INVALID_INPUT
+RateFruit: SUCCESS
+AddFruit: INVALID_INPUT
+and that's all!
+PlantTree: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
+AddFruit: FAILURE
+RateFruit: SUCCESS
+and that's all!
+AddFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
+and that's all!
+AddFruit: INVALID_INPUT
+and that's all!
+RateFruit: INVALID_INPUT
+Best fruit is: 58
+AddFruit: INVALID_INPUT
+GetBestFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+PickFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PlantTree: FAILURE
+PickFruit: SUCCESS
+AddFruit: INVALID_INPUT
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+RateFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
+PickFruit: FAILURE
+AddFruit: INVALID_INPUT
 RateFruit: FAILURE
 PickFruit: SUCCESS
 PlantTree: FAILURE
-Best fruit is: 85
-AddFruit: SUCCESS
-RateFruit: SUCCESS
-Best fruit is: 7
-RateFruit: SUCCESS
-PlantTree: INVALID_INPUT
 PlantTree: FAILURE
-RateFruit: SUCCESS
-PickFruit: SUCCESS
 Best fruit is: -1
 PickFruit: SUCCESS
-PickFruit: FAILURE
-Best fruit is: 7
 PlantTree: FAILURE
-PickFruit: FAILURE
-PickFruit: FAILURE
+AddFruit: FAILURE
 PlantTree: FAILURE
+AddFruit: SUCCESS
 PlantTree: FAILURE
+AddFruit: INVALID_INPUT
+AddFruit: FAILURE
+AddFruit: SUCCESS
+GetAllFruitsByRate: INVALID_INPUT
+PlantTree: FAILURE
+AddFruit: FAILURE
 PickFruit: SUCCESS
-GetBestFruit: INVALID_INPUT
-RateFruit: SUCCESS
-AddFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
+Best fruit is: 65
+RateFruit: FAILURE
+GetAllFruitsByRate: INVALID_INPUT
 GetAllFruitsByRate: INVALID_INPUT
 AddFruit: FAILURE
-AddFruit: FAILURE
-PickFruit: FAILURE
-Best fruit is: 64
-PickFruit: FAILURE
+AddFruit: INVALID_INPUT
+and that's all!
+and that's all!
+AddFruit: SUCCESS
+RateFruit: FAILURE
+AddFruit: SUCCESS
 PlantTree: INVALID_INPUT
+and that's all!
+and that's all!
+RateFruit: FAILURE
+Best fruit is: 26
+RateFruit: FAILURE
+AddFruit: SUCCESS
+RateFruit: SUCCESS
+AddFruit: SUCCESS
+and that's all!
+GetBestFruit: INVALID_INPUT
+AddFruit: INVALID_INPUT
+and that's all!
 PlantTree: FAILURE
+PickFruit: SUCCESS
+PlantTree: INVALID_INPUT
+RateFruit: FAILURE
+PlantTree: INVALID_INPUT
+RateFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PickFruit: FAILURE
+PickFruit: FAILURE
+PlantTree: FAILURE
+AddFruit: FAILURE
+AddFruit: INVALID_INPUT
+AddFruit: FAILURE
+PlantTree: INVALID_INPUT
+AddFruit: INVALID_INPUT
+PickFruit: SUCCESS
+PlantTree: FAILURE
+PlantTree: FAILURE
+GetBestFruit: INVALID_INPUT
+AddFruit: SUCCESS
+AddFruit: SUCCESS
+Best fruit is: 52
+AddFruit: SUCCESS
+and that's all!
+PickFruit: SUCCESS
+AddFruit: INVALID_INPUT
+PlantTree: INVALID_INPUT
 PickFruit: INVALID_INPUT
-AddFruit: FAILURE
+RateFruit: FAILURE
+RateFruit: FAILURE
+Best fruit is: 95
 AddFruit: SUCCESS
-GetBestFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-GetAllFruitsByRate: INVALID_INPUT
-PickFruit: FAILURE
-PickFruit: INVALID_INPUT
-PickFruit: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
+AddFruit: FAILURE
+AddFruit: FAILURE
 RateFruit: SUCCESS
-RateFruit: FAILURE
-PlantTree: FAILURE
-AddFruit: INVALID_INPUT
-and that's all!
+Best fruit is: 95
 AddFruit: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
 AddFruit: SUCCESS
-RateFruit: FAILURE
-RateFruit: FAILURE
-AddFruit: FAILURE
-GetBestFruit: INVALID_INPUT
 PickFruit: SUCCESS
-PickFruit: FAILURE
-AddFruit: FAILURE
-RateFruit: SUCCESS
-PlantTree: INVALID_INPUT
-AddFruit: FAILURE
-AddFruit: INVALID_INPUT
-PlantTree: FAILURE
-RateFruit: SUCCESS
-PlantTree: FAILURE
-AddFruit: INVALID_INPUT
-PickFruit: FAILURE
-AddFruit: INVALID_INPUT
-PlantTree: FAILURE
-AddFruit: SUCCESS
-PlantTree: INVALID_INPUT
-GetBestFruit: INVALID_INPUT
-AddFruit: SUCCESS
-PlantTree: FAILURE
-PickFruit: FAILURE
-Best fruit is: 20
-PickFruit: FAILURE
-PickFruit: INVALID_INPUT
-AddFruit: FAILURE
-RateFruit: FAILURE
-RateFruit: FAILURE
-PlantTree: INVALID_INPUT
-AddFruit: SUCCESS
-AddFruit: INVALID_INPUT
-AddFruit: SUCCESS
-AddFruit: INVALID_INPUT
-Best fruit is: 7
-AddFruit: INVALID_INPUT
-PlantTree: INVALID_INPUT
-PlantTree: INVALID_INPUT
-AddFruit: FAILURE
-AddFruit: FAILURE
-AddFruit: FAILURE
-PickFruit: FAILURE
-PlantTree: INVALID_INPUT
-Best fruit is: 19
-PlantTree: INVALID_INPUT
-PlantTree: INVALID_INPUT
-AddFruit: INVALID_INPUT
-RateFruit: SUCCESS
-AddFruit: FAILURE
-RateFruit: FAILURE
-AddFruit: SUCCESS
-AddFruit: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
-AddFruit: SUCCESS
-and that's all!
-AddFruit: INVALID_INPUT
-PickFruit: SUCCESS
-PickFruit: FAILURE
-GetBestFruit: INVALID_INPUT
-and that's all!
-AddFruit: FAILURE
-Best fruit is: 19
-and that's all!
-Best fruit is: 20
-PickFruit: SUCCESS
-PickFruit: SUCCESS
-AddFruit: INVALID_INPUT
-RateFruit: SUCCESS
-PickFruit: SUCCESS
-RateFruit: SUCCESS
-and that's all!
-GetBestFruit: INVALID_INPUT
-and that's all!
-RateFruit: SUCCESS
-PlantTree: FAILURE
-PlantTree: FAILURE
-RateFruit: SUCCESS
-Best fruit is: 50
-AddFruit: SUCCESS
-PlantTree: INVALID_INPUT
-GetBestFruit: INVALID_INPUT
-Best fruit is: 43
-AddFruit: INVALID_INPUT
-RateFruit: FAILURE
-AddFruit: SUCCESS
-AddFruit: INVALID_INPUT
-Best fruit is: 7
-PickFruit: FAILURE
-AddFruit: FAILURE
-AddFruit: FAILURE
-AddFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
 PlantTree: FAILURE
 GetBestFruit: INVALID_INPUT
+AddFruit: FAILURE
 PickFruit: FAILURE
+RateFruit: FAILURE
 and that's all!
-RateFruit: FAILURE
-RateFruit: FAILURE
-RateFruit: FAILURE
 AddFruit: INVALID_INPUT
-RateFruit: SUCCESS
 AddFruit: FAILURE
 and that's all!
-PickFruit: SUCCESS
-PickFruit: SUCCESS
-AddFruit: FAILURE
-RateFruit: SUCCESS
-PickFruit: SUCCESS
-PickFruit: INVALID_INPUT
-RateFruit: SUCCESS
-Best fruit is: 64
 PlantTree: FAILURE
 PlantTree: FAILURE
-GetBestFruit: INVALID_INPUT
-PickFruit: SUCCESS
-PickFruit: FAILURE
-PickFruit: FAILURE
-PickFruit: FAILURE
-Best fruit is: 91
-RateFruit: SUCCESS
-AddFruit: FAILURE
-AddFruit: INVALID_INPUT
-PickFruit: FAILURE
-AddFruit: INVALID_INPUT
-Best fruit is: 19
-AddFruit: INVALID_INPUT
-PickFruit: FAILURE
-RateFruit: SUCCESS
-GetBestFruit: INVALID_INPUT
-Best fruit is: 56
-PlantTree: FAILURE
-PickFruit: FAILURE
-and that's all!
-GetAllFruitsByRate: INVALID_INPUT
-and that's all!
-AddFruit: INVALID_INPUT
-GetAllFruitsByRate: INVALID_INPUT
+RateFruit: FAILURE
 PlantTree: INVALID_INPUT
-AddFruit: FAILURE
-PickFruit: SUCCESS
-RateFruit: FAILURE
-RateFruit: FAILURE
-RateFruit: FAILURE
-and that's all!
-AddFruit: INVALID_INPUT
-GetAllFruitsByRate: INVALID_INPUT
-PickFruit: FAILURE
-PickFruit: SUCCESS
-and that's all!
-PickFruit: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
-and that's all!
-AddFruit: INVALID_INPUT
-Best fruit is: 12
-RateFruit: SUCCESS
-PickFruit: FAILURE
-RateFruit: FAILURE
-PickFruit: FAILURE
-and that's all!
-PickFruit: FAILURE
-AddFruit: INVALID_INPUT
-PlantTree: INVALID_INPUT
-RateFruit: SUCCESS
-GetBestFruit: INVALID_INPUT
-GetBestFruit: INVALID_INPUT
-AddFruit: SUCCESS
-GetAllFruitsByRate: INVALID_INPUT
-GetBestFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-AddFruit: SUCCESS
-and that's all!
-GetBestFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-GetAllFruitsByRate: INVALID_INPUT
-and that's all!
-RateFruit: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
-and that's all!
-and that's all!
-AddFruit: FAILURE
-AddFruit: FAILURE
-PlantTree: FAILURE
-PlantTree: FAILURE
-AddFruit: INVALID_INPUT
-PlantTree: FAILURE
-AddFruit: FAILURE
-and that's all!
-PlantTree: FAILURE
-AddFruit: SUCCESS
-and that's all!
-PlantTree: FAILURE
-and that's all!
-GetAllFruitsByRate: INVALID_INPUT
-PickFruit: FAILURE
-RateFruit: FAILURE
-PlantTree: FAILURE
-AddFruit: FAILURE
-PickFruit: FAILURE
-AddFruit: INVALID_INPUT
-GetBestFruit: INVALID_INPUT
-PlantTree: INVALID_INPUT
-RateFruit: SUCCESS
-AddFruit: SUCCESS
-Best fruit is: 12
-RateFruit: SUCCESS
-and that's all!
 RateFruit: INVALID_INPUT
-Best fruit is: 30
-Best fruit is: 39
-AddFruit: SUCCESS
-AddFruit: FAILURE
-RateFruit: FAILURE
-AddFruit: SUCCESS
+PickFruit: FAILURE
+Best fruit is: 58
 PlantTree: FAILURE
-Best fruit is: 12
-PickFruit: SUCCESS
-AddFruit: INVALID_INPUT
-GetBestFruit: INVALID_INPUT
-GetBestFruit: INVALID_INPUT
-AddFruit: FAILURE
-Best fruit is: 77
-PickFruit: SUCCESS
-AddFruit: FAILURE
-Best fruit is: 30
-GetAllFruitsByRate: INVALID_INPUT
-PlantTree: INVALID_INPUT
-AddFruit: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
 AddFruit: SUCCESS
-AddFruit: INVALID_INPUT
-RateFruit: FAILURE
-and that's all!
-AddFruit: INVALID_INPUT
+PickFruit: SUCCESS
+PickFruit: SUCCESS
 PickFruit: FAILURE
 and that's all!
-GetAllFruitsByRate: INVALID_INPUT
-Best fruit is: 88
-GetBestFruit: INVALID_INPUT
-PickFruit: FAILURE
-PlantTree: INVALID_INPUT
 PlantTree: INVALID_INPUT
 AddFruit: SUCCESS
-PlantTree: INVALID_INPUT
-PlantTree: INVALID_INPUT
-AddFruit: INVALID_INPUT
-RateFruit: SUCCESS
-GetBestFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-PickFruit: SUCCESS
-AddFruit: FAILURE
-AddFruit: SUCCESS
-AddFruit: INVALID_INPUT
-RateFruit: SUCCESS
-PickFruit: FAILURE
-RateFruit: SUCCESS
-AddFruit: SUCCESS
-GetBestFruit: INVALID_INPUT
-and that's all!
-PickFruit: SUCCESS
-AddFruit: SUCCESS
-PickFruit: FAILURE
-AddFruit: INVALID_INPUT
-AddFruit: SUCCESS
-and that's all!
-AddFruit: FAILURE
-Best fruit is: 35
-Best fruit is: 39
-Best fruit is: 91
-RateFruit: SUCCESS
-and that's all!
-AddFruit: INVALID_INPUT
-PlantTree: FAILURE
-Best fruit is: -1
-AddFruit: INVALID_INPUT
-and that's all!
-Best fruit is: 81
-and that's all!
-and that's all!
-RateFruit: SUCCESS
-RateFruit: FAILURE
-RateFruit: SUCCESS
-AddFruit: INVALID_INPUT
-PickFruit: SUCCESS
-PickFruit: SUCCESS
-Best fruit is: 39
-Best fruit is: 39
-AddFruit: INVALID_INPUT
-GetAllFruitsByRate: INVALID_INPUT
-GetBestFruit: INVALID_INPUT
-AddFruit: FAILURE
-GetBestFruit: INVALID_INPUT
-PlantTree: FAILURE
-RateFruit: SUCCESS
-RateFruit: FAILURE
-and that's all!
-Best fruit is: 21
-Best fruit is: 77
-Best fruit is: 77
-AddFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-and that's all!
-PlantTree: INVALID_INPUT
-Best fruit is: 91
-and that's all!
-GetBestFruit: INVALID_INPUT
-RateFruit: FAILURE
-PickFruit: SUCCESS
-AddFruit: SUCCESS
-AddFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-GetBestFruit: INVALID_INPUT
-AddFruit: FAILURE
-PickFruit: SUCCESS
-PlantTree: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
-and that's all!
-AddFruit: INVALID_INPUT
-RateFruit: SUCCESS
-AddFruit: SUCCESS
-AddFruit: INVALID_INPUT
-AddFruit: SUCCESS
-PlantTree: FAILURE
-AddFruit: INVALID_INPUT
-and that's all!
-Best fruit is: 39
-PlantTree: FAILURE
-PlantTree: FAILURE
-RateFruit: FAILURE
-PickFruit: SUCCESS
-AddFruit: SUCCESS
-GetBestFruit: INVALID_INPUT
-AddFruit: FAILURE
-PlantTree: FAILURE
-PlantTree: FAILURE
-AddFruit: INVALID_INPUT
-Best fruit is: 9
-RateFruit: SUCCESS
-RateFruit: FAILURE
-PlantTree: FAILURE
-and that's all!
-PlantTree: FAILURE
-PlantTree: INVALID_INPUT
-AddFruit: SUCCESS
-GetAllFruitsByRate: INVALID_INPUT
-AddFruit: INVALID_INPUT
-PlantTree: FAILURE
-AddFruit: FAILURE
-and that's all!
-AddFruit: SUCCESS
-PlantTree: INVALID_INPUT
-PickFruit: FAILURE
-AddFruit: FAILURE
-and that's all!
-RateFruit: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
-PickFruit: FAILURE
-AddFruit: SUCCESS
-AddFruit: INVALID_INPUT
-AddFruit: FAILURE
-AddFruit: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
-and that's all!
-PickFruit: INVALID_INPUT
-AddFruit: FAILURE
-RateFruit: SUCCESS
-Best fruit is: 90
-AddFruit: INVALID_INPUT
-PlantTree: INVALID_INPUT
-GetAllFruitsByRate: INVALID_INPUT
-AddFruit: SUCCESS
-UpdateRottenFruits: INVALID_INPUT
-AddFruit: FAILURE
-PickFruit: SUCCESS
-GetAllFruitsByRate: INVALID_INPUT
-Best fruit is: 91
-GetBestFruit: INVALID_INPUT
-GetAllFruitsByRate: INVALID_INPUT
-Best fruit is: 67
-AddFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-and that's all!
-GetAllFruitsByRate: INVALID_INPUT
-GetBestFruit: INVALID_INPUT
-Best fruit is: 72
-AddFruit: INVALID_INPUT
-GetAllFruitsByRate: INVALID_INPUT
-RateFruit: SUCCESS
-GetAllFruitsByRate: INVALID_INPUT
-PickFruit: SUCCESS
-AddFruit: INVALID_INPUT
-and that's all!
-AddFruit: INVALID_INPUT
-AddFruit: SUCCESS
-and that's all!
-AddFruit: SUCCESS
-PlantTree: INVALID_INPUT
-RateFruit: FAILURE
-PickFruit: INVALID_INPUT
-PickFruit: FAILURE
-AddFruit: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
-PickFruit: FAILURE
-GetAllFruitsByRate: INVALID_INPUT
-RateFruit: FAILURE
-PickFruit: SUCCESS
-Best fruit is: 72
-Best fruit is: 62
-GetBestFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-GetBestFruit: INVALID_INPUT
-PlantTree: INVALID_INPUT
-AddFruit: FAILURE
-AddFruit: INVALID_INPUT
-GetBestFruit: INVALID_INPUT
-PickFruit: FAILURE
-PlantTree: FAILURE
-AddFruit: INVALID_INPUT
-RateFruit: SUCCESS
-AddFruit: FAILURE
-Best fruit is: 72
-GetBestFruit: INVALID_INPUT
-AddFruit: SUCCESS
-AddFruit: SUCCESS
-RateFruit: SUCCESS
-PlantTree: FAILURE
-and that's all!
-GetAllFruitsByRate: INVALID_INPUT
-AddFruit: SUCCESS
-GetBestFruit: INVALID_INPUT
-PlantTree: FAILURE
-GetBestFruit: INVALID_INPUT
-RateFruit: SUCCESS
-PlantTree: FAILURE
-PlantTree: INVALID_INPUT
-AddFruit: SUCCESS
-PickFruit: FAILURE
-PickFruit: FAILURE
-PickFruit: SUCCESS
-PlantTree: FAILURE
-RateFruit: FAILURE
-AddFruit: INVALID_INPUT
-AddFruit: INVALID_INPUT
-RateFruit: SUCCESS
-GetBestFruit: INVALID_INPUT
-UpdateRottenFruits: SUCCESS
-AddFruit: FAILURE
-RateFruit: FAILURE
-Best fruit is: 7
-RateFruit: SUCCESS
-PickFruit: SUCCESS
-RateFruit: SUCCESS
+Best fruit is: 93
